@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-23",
-  "offset": 71487473,
+  "offset": 71487474,
   "users": {
     "1090554427": {
       "cards": [
@@ -18,6 +18,21 @@
           "send_at": "2026-08-24T11:00:00.313524+00:00",
           "step": 0,
           "word": "humble",
+          "word_ru": ""
+        },
+        {
+          "archived": false,
+          "cache": [],
+          "created_at": "2026-08-23T22:06:34.955180+00:00",
+          "due_at": "2026-08-23T22:31:35.046923+00:00",
+          "id": "2a07714536",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "send_at": "2026-08-24T09:50:09.912936+00:00",
+          "step": 0,
+          "word": "cheeky",
           "word_ru": ""
         }
       ],
