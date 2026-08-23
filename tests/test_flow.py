@@ -15,7 +15,7 @@ TMP = Path(tempfile.mkdtemp())
 os.environ["REPITER_STATE"] = str(TMP / "state.json")
 os.environ["TELEGRAM_BOT_TOKEN"] = "test:token"
 
-from bot import main, render, srs, store  # noqa: E402
+from bot import listen, main, render, srs, store  # noqa: E402
 from bot.grok import GrokUnavailable  # noqa: E402
 
 MSK = ZoneInfo("Europe/Moscow")
@@ -52,7 +52,7 @@ class FakeTelegram:
         })
 
     # интерфейс, который использует бот
-    def get_updates(self, offset, limit=100):
+    def get_updates(self, offset, limit=100, poll=0):
         ready = [u for u in self.inbox if u["update_id"] >= offset]
         self.inbox = []
         return ready
@@ -177,7 +177,7 @@ def run():
     before = len(tg.sent)
     state = tick(tg, day_at(0, 17))
     fresh = tg.sent[before:]
-    check("отправлено не больше лимита за тик", len(fresh) <= main.MAX_SENDS_PER_TICK)
+    check("за один проход уходит ровно одно", len(fresh) == main.MAX_SENDS_PER_CYCLE)
     check("что-то пришло", len(fresh) >= 1, f"(пришло {len(fresh)})")
     reminder = fresh[0]
     check("слово выделено жирным", "<b>" in reminder["text"])
@@ -235,6 +235,7 @@ def run():
     for c in store.active_cards(user):
         c["send_at"] = store.iso(day_at(0, 12, 45)) if c["word"] == "kerfuffle" else None
     user["sent_today"] = 0
+    user["last_reminder_at"] = None
     store.save(state)
     before = len(tg.sent)
     tick(tg, day_at(0, 13))
@@ -303,6 +304,32 @@ def run():
     check("ночное «пора» перенесено в окно", 10 <= night.hour < 22, f"(в {night:%H:%M})")
     late = srs.pick_send_time(day_at(0, 23), user).astimezone(MSK)
     check("позднее «пора» ушло на завтра", 10 <= late.hour < 22, f"(в {late:%H:%M})")
+
+    print("\n13. Пауза между напоминаниями")
+    state = store.load()
+    user = user_of(state)
+    user["max_per_day"] = 8
+    user["sent_today"] = 0
+    user["last_reminder_at"] = store.iso(day_at(0, 15, 58))
+    for c in store.active_cards(user):
+        c["send_at"] = store.iso(day_at(0, 15))
+    store.save(state)
+    before = len(tg.sent)
+    tick(tg, day_at(0, 16))
+    check("через 2 минуты после прошлого — молчим", len(tg.sent) == before)
+    tick(tg, day_at(0, 16, 5))
+    check("через 7 минут — можно", len(tg.sent) == before + 1)
+
+    print("\n14. Живой цикл отвечает сразу")
+    tg.push_text("/stats")
+    before = len(tg.sent)
+    code = listen.run(tg, runtime=0.4)
+    check("цикл завершился штатно", code == 0)
+    replies = " ".join(m["text"] for m in tg.sent[before:])
+    check("ответ пришёл в том же цикле", "Статистика" in replies)
+    check("длинный опрос включён", listen.POLL_TIMEOUT > 0)
+    check("рассылка проверяется раз в минуту", listen.DELIVER_EVERY == 60)
+    check("смена короче лимита job-а в 6 часов", listen.DEFAULT_RUNTIME < 6 * 3600)
 
     print(f"\n{'─' * 46}")
     print(f"Пройдено: {CHECKS['ok']}   Провалено: {CHECKS['fail']}")

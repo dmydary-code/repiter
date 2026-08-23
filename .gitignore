@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 data/state.tmp
 .env
+.DS_Store
+.idea/
+_to_delete/
+*.tgz

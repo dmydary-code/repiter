@@ -17,9 +17,13 @@ from .grok import GrokUnavailable, generate
 from .store import iso, now_utc, parse
 from .tg import Telegram, esc
 
-# Сколько напоминаний максимум уходит за один запуск. Ограничение бережёт
-# и лимит Actions, и нервы: не хочется получить пачку из семи сообщений разом.
-MAX_SENDS_PER_TICK = 2
+# Сколько напоминаний максимум уходит за один проход рассылки (раз в минуту).
+MAX_SENDS_PER_CYCLE = 1
+
+# Минимальный промежуток между двумя напоминаниями. Нужен на случай, когда
+# после простоя разом назрела пачка карточек: они разойдутся по времени,
+# а не прилетят очередью.
+MIN_GAP = timedelta(minutes=4)
 
 # Если на сообщение так и не нажали кнопку — переспросим через сутки.
 NO_ANSWER_RETRY = timedelta(hours=24)
@@ -239,8 +243,8 @@ def handle_callback(tg: Telegram, state: dict, cb: dict) -> None:
         )
 
 
-def process_updates(tg: Telegram, state: dict) -> int:
-    updates = tg.get_updates(state.get("offset", 0))
+def process_updates(tg: Telegram, state: dict, poll: int = 0) -> int:
+    updates = tg.get_updates(state.get("offset", 0), poll=poll)
     for update in updates:
         state["offset"] = update["update_id"] + 1
         try:
@@ -308,7 +312,7 @@ def deliver(tg: Telegram, user: dict) -> int:
     if not srs.in_window(user, moment):
         return 0
 
-    budget = min(MAX_SENDS_PER_TICK, user.get("max_per_day", 8) - user["sent_today"])
+    budget = min(MAX_SENDS_PER_CYCLE, user.get("max_per_day", 8) - user["sent_today"])
     due = [c for c in store.active_cards(user) if srs.is_due_to_send(c, moment)]
     due.sort(key=lambda c: c.get("send_at") or "")
 
@@ -321,11 +325,16 @@ def deliver(tg: Telegram, user: dict) -> int:
             )
         return 0
 
+    last = parse(user.get("last_reminder_at"))
+    if last is not None and moment - last < MIN_GAP:
+        return 0
+
     sent = 0
     for card in due[:budget]:
         if send_reminder(tg, user, card):
             sent += 1
             user["sent_today"] += 1
+            user["last_reminder_at"] = iso(moment)
     return sent
 
 

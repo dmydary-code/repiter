@@ -1,0 +1,52 @@
+name: repiter listen
+
+# Бот держит открытое соединение с Telegram и отвечает мгновенно.
+#
+# Job в Actions живёт максимум 6 часов, поэтому цикл сам выходит через 5 ч 40 мин.
+# Расписание раз в 20 минут ставит следующий запуск в очередь: пока предыдущий
+# работает, новый ждёт (concurrency), лишние ожидающие GitHub отменяет сам.
+# Как только текущий завершится или упадёт — очередь тут же поднимет новый,
+# так что простой не превышает 20 минут, а обычно равен нулю.
+#
+# Требуется публичный репозиторий: на приватном 2000 минут в месяц закончатся
+# примерно за полтора дня.
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'bot/**'
+      - '.github/workflows/listen.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repiter-listener
+  # Запуск по расписанию вежливо ждёт в очереди и не трогает работающего бота.
+  # А вот пуш кода или ручной запуск заменяют его сразу — иначе правки ждали бы
+  # окончания шестичасовой смены. Уходящий бот получает SIGTERM и успевает
+  # дописать состояние.
+  cancel-in-progress: ${{ github.event_name != 'schedule' }}
+
+jobs:
+  listen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Слушаем Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL || 'grok-4.6' }}
+          REPITER_GIT_SYNC: '1'
+        run: python -m bot.listen

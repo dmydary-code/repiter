@@ -26,14 +26,15 @@ class Telegram:
 
     # --- низкий уровень -------------------------------------------------
 
-    def call(self, method: str, **params) -> dict:
+    def call(self, method: str, _http_timeout: int | None = None, **params) -> dict:
         """Вызов метода API. Возвращает распарсенный ответ Telegram.
 
         Никогда не бросает исключение на ошибках API — возвращает
-        {"ok": False, ...}, чтобы один сбойный запрос не ронял весь тик.
+        {"ok": False, ...}, чтобы один сбойный запрос не ронял весь цикл.
         """
         url = API_URL.format(token=self.token, method=method)
         payload = json.dumps(params, ensure_ascii=False).encode("utf-8")
+        http_timeout = _http_timeout or self.timeout
 
         last_err = None
         for attempt in range(3):
@@ -44,7 +45,7 @@ class Telegram:
                 method="POST",
             )
             try:
-                with urllib.request.urlopen(req, timeout=self.timeout) as resp:
+                with urllib.request.urlopen(req, timeout=http_timeout) as resp:
                     return json.loads(resp.read().decode("utf-8"))
             except urllib.error.HTTPError as e:
                 body = e.read().decode("utf-8", "replace")
@@ -67,12 +68,15 @@ class Telegram:
 
     # --- удобные обёртки ------------------------------------------------
 
-    def get_updates(self, offset: int, limit: int = 100) -> list[dict]:
+    def get_updates(self, offset: int, limit: int = 100, poll: int = 0) -> list[dict]:
+        """poll > 0 — длинный опрос: Telegram держит соединение до появления
+        апдейта. Именно так бот отвечает мгновенно, а не раз в N минут."""
         res = self.call(
             "getUpdates",
+            _http_timeout=poll + 20,
             offset=offset,
             limit=limit,
-            timeout=0,
+            timeout=poll,
             allowed_updates=["message", "callback_query"],
         )
         if not res.get("ok"):
