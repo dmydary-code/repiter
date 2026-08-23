@@ -1,6 +1,7 @@
 {
-  "version": 1,
+  "commands_set": true,
+  "heartbeat": "2026-08-23",
   "offset": 0,
-  "heartbeat": "",
-  "users": {}
+  "users": {},
+  "version": 1
 }
