@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-23",
-  "offset": 71487480,
+  "offset": 71487481,
   "users": {
     "1090554427": {
       "cards": [
@@ -108,6 +108,21 @@
           "send_at": "2026-08-24T08:52:13.624182+00:00",
           "step": 0,
           "word": "discorage",
+          "word_ru": ""
+        },
+        {
+          "archived": false,
+          "cache": [],
+          "created_at": "2026-08-23T22:10:36.912540+00:00",
+          "due_at": "2026-08-23T22:35:37.014600+00:00",
+          "id": "c01e781570",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "send_at": "2026-08-24T08:48:42.805707+00:00",
+          "step": 0,
+          "word": "encorage",
           "word_ru": ""
         }
       ],
