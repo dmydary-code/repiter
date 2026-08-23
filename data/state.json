@@ -1,7 +1,24 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-23",
-  "offset": 0,
-  "users": {},
+  "offset": 71487469,
+  "users": {
+    "1090554427": {
+      "cards": [],
+      "chat_id": 1090554427,
+      "created_at": "2026-08-23T22:02:49.329232+00:00",
+      "lang": null,
+      "max_per_day": 8,
+      "paused": false,
+      "sent_date": "",
+      "sent_today": 0,
+      "stage": "awaiting_lang",
+      "tz": "Europe/Moscow",
+      "window": [
+        10,
+        22
+      ]
+    }
+  },
   "version": 1
 }
