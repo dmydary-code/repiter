@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-23",
-  "offset": 71487474,
+  "offset": 71487475,
   "users": {
     "1090554427": {
       "cards": [
@@ -34,6 +34,21 @@
           "step": 0,
           "word": "cheeky",
           "word_ru": ""
+        },
+        {
+          "archived": false,
+          "cache": [],
+          "created_at": "2026-08-23T22:07:19.179263+00:00",
+          "due_at": "2026-08-23T22:32:19.218420+00:00",
+          "id": "c05e0bd2dd",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "send_at": "2026-08-24T07:47:57.762170+00:00",
+          "step": 0,
+          "word": "slightly",
+          "word_ru": ""
         }
       ],
       "chat_id": 1090554427,
@@ -57,7 +72,7 @@
       "lang": "en",
       "max_per_day": 8,
       "paused": false,
-      "sent_date": "",
+      "sent_date": "2026-08-24",
       "sent_today": 0,
       "stage": "ready",
       "tz": "Europe/Moscow",
