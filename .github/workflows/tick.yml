@@ -1,0 +1,58 @@
+name: repiter tick
+
+# Расписание в UTC. Москва = UTC+3 круглый год, перевода часов нет.
+# 07:00–19:00 UTC = 10:00–22:00 MSK — рабочее окно бота, тик каждые 15 минут.
+# Плюс несколько редких ночных запусков, чтобы слово, добавленное поздно
+# вечером, не ждало утра.
+#
+# Бюджет приватного репозитория — 2000 минут Actions в месяц.
+# 55 запусков в сутки × ~1 минуту ≈ 1650 минут. Если станет тесно —
+# проредите расписание или сделайте репозиторий публичным (там безлимит).
+
+on:
+  schedule:
+    - cron: '2,17,32,47 7-19 * * *'
+    - cron: '30 20,22,3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repiter-tick
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Тик
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL || 'grok-4.6' }}
+        run: python -m bot.main
+
+      - name: Сохранить состояние
+        run: |
+          if git diff --quiet -- data/state.json; then
+            echo "состояние не изменилось"
+            exit 0
+          fi
+          git config user.name "repiter-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "попытка $attempt не удалась, пробую снова"
+            sleep 5
+          done
+          exit 1
