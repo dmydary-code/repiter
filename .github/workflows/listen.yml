@@ -46,8 +46,13 @@ jobs:
       - name: Слушаем Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
-          XAI_MODEL: ${{ vars.XAI_MODEL || 'grok-4.6' }}
+          # Ключ генерации примеров. По умолчанию ждём Gemini.
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY || secrets.XAI_API_KEY }}
+          # Пустые значения — не беда: код подставит Gemini Flash-Lite сам.
+          # Переставить на другой OpenAI-совместимый сервис можно этими двумя
+          # переменными репозитория, не трогая код.
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_API_URL: ${{ vars.LLM_API_URL }}
           REPITER_GIT_SYNC: '1'
           # Без этого print() копится в буфере часами и лог остаётся пустым:
           # процесс живёт долго, а stdout здесь не терминал.

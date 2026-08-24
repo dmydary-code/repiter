@@ -2,8 +2,8 @@
 
 На команды и присланные слова бот отвечает сразу — соединение с Telegram
 держится открытым (long polling), апдейт прилетает в ту же секунду, как ты
-нажала «отправить». Напоминания живут по своему расписанию: раз в минуту
-проверяется, не назрела ли какая-нибудь карточка.
+нажала «отправить». Напоминания идут своей сеткой: цикл следит за номером
+тика и на каждом новом решает, не назрела ли какая-нибудь карточка.
 
 Job в GitHub Actions живёт максимум 6 часов, поэтому цикл сам аккуратно
 завершается чуть раньше, а расписание в listen.yml поднимает следующий.
@@ -16,7 +16,7 @@ import signal
 import sys
 import time
 
-from . import gitsync, grok, srs, store
+from . import gitsync, llm, srs, store
 from .main import COMMANDS, deliver, process_updates
 from .store import now_utc
 from .tg import Telegram
@@ -67,7 +67,7 @@ def run(tg: Telegram | None = None, runtime: float | None = None) -> int:
     updates_total = sent_total = 0
 
     print(f"[listen] старт, работаю {runtime / 3600:.1f} ч, тик №{srs.tick_now()}")
-    print("[проверка] генерация примеров: " + grok.diagnose())
+    print("[проверка] генерация примеров: " + llm.diagnose())
 
     while not _stop and time.monotonic() < deadline:
         # 1. Входящее — отвечаем мгновенно.

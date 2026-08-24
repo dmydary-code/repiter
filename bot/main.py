@@ -12,13 +12,20 @@ import sys
 from zoneinfo import ZoneInfo
 
 from . import render, srs, store
-from .grok import GrokUnavailable, generate
+from .llm import GenerationFailed, generate
 from .store import iso, now_utc
 from .tg import Telegram, esc
 
 # За один тик уходит не больше одного напоминания: полчаса между словами —
 # и нет риска получить пачку разом.
 MAX_SENDS_PER_TICK = 1
+
+# Кому доступна служебная команда /try. Остальным её как будто не существует:
+# в меню бота она не значится, а на вызов приходит обычное «не знаю такой».
+ADMIN_CHAT_ID = int(os.environ.get("REPITER_ADMIN_CHAT", "1090554427"))
+
+# Чем проверять связь, если слово не указали.
+TRY_DEFAULT = "serendipity"
 
 COMMANDS = [
     {"command": "list", "description": "что сейчас учу"},
@@ -56,13 +63,13 @@ def add_words(tg: Telegram, user: dict, raw: str) -> None:
             skipped.append(word)
             continue
         card = store.new_card(word, user["lang"])
-        # Просим Grok сразу три примера: один пойдёт в подтверждение,
+        # Просим сразу три примера: один пойдёт в подтверждение,
         # остальные лягут в кеш на случай, если API однажды не ответит.
         try:
             data = generate(word, user["lang"], count=3)
             card["word_ru"] = data["word_ru"]
             card["cache"] = data["examples"]
-        except GrokUnavailable as e:
+        except GenerationFailed as e:
             print(f"[api] {word}: {e}")
         srs.schedule(card, srs.FIRST_SHOW)
         user["cards"].append(card)
@@ -163,7 +170,39 @@ def handle_command(tg: Telegram, state: dict, user: dict, text: str) -> None:
             tg.send_message(chat_id, "Такого слова у меня нет.")
         return
 
+    if cmd == "/try":
+        try_word(tg, user, " ".join(args).strip())
+        return
+
     tg.send_message(chat_id, "Не знаю такой команды. /help")
+
+
+def try_word(tg: Telegram, user: dict, word: str) -> None:
+    """Служебная проверка связи: собрать напоминание прямо сейчас и прислать.
+
+    Колоду не трогает — карточка не заводится, лесенка не двигается.
+    Годится, чтобы посмотреть на живой результат, не дожидаясь тика.
+    """
+    chat_id = user["chat_id"]
+    if chat_id != ADMIN_CHAT_ID:
+        tg.send_message(chat_id, "Не знаю такой команды. /help")
+        return
+
+    word = word or TRY_DEFAULT
+    lang = user.get("lang") or "en"
+    try:
+        data = generate(word, lang, count=1)
+    except GenerationFailed as e:
+        # Единственное место, где текст ошибки виден в чате: команда для того
+        # и нужна, чтобы понять, что именно отвалилось.
+        tg.send_message(
+            chat_id,
+            "🛠 Связи нет.\n\n<code>" + esc(str(e)[:600]) + "</code>",
+        )
+        return
+
+    card = {"word": word, "word_ru": data["word_ru"], "archived": False}
+    tg.send_message(chat_id, render.reminder(card, data["examples"][0]))
 
 
 def handle_message(tg: Telegram, state: dict, msg: dict) -> None:
@@ -256,7 +295,7 @@ def process_updates(tg: Telegram, state: dict, poll: int = 0) -> int:
 # --------------------------------------------------------------------------
 
 def pick_example(card: dict) -> dict | None:
-    """Свежий пример от Grok, а если не вышло — из кеша."""
+    """Свежий пример, а если сервис не ответил — из кеша."""
     try:
         data = generate(card["word"], card["lang"], count=1)
         if not card.get("word_ru") and data.get("word_ru"):
@@ -265,8 +304,8 @@ def pick_example(card: dict) -> dict | None:
         # Подкладываем в кеш про запас, храним не больше пяти.
         card["cache"] = ([example] + card.get("cache", []))[:5]
         return example
-    except GrokUnavailable as e:
-        print(f"[grok] {card['word']}: {e}")
+    except GenerationFailed as e:
+        print(f"[api] {card['word']}: {e}")
 
     cache = card.get("cache") or []
     if cache:

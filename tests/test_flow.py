@@ -19,8 +19,8 @@ TMP = Path(tempfile.mkdtemp())
 os.environ["REPITER_STATE"] = str(TMP / "state.json")
 os.environ["TELEGRAM_BOT_TOKEN"] = "test:token"
 
-from bot import listen, main, render, srs, store  # noqa: E402
-from bot.grok import GrokUnavailable  # noqa: E402
+from bot import listen, llm, main, render, srs, store  # noqa: E402
+from bot.llm import GenerationFailed  # noqa: E402
 
 MSK = ZoneInfo("Europe/Moscow")
 CHAT = 4242
@@ -98,7 +98,7 @@ def fake_generate(word, lang, count=1, api_key=None):
 
 
 def failing_generate(word, lang, count=1, api_key=None):
-    raise GrokUnavailable("тестовый сбой")
+    raise GenerationFailed("тестовый сбой")
 
 
 # --- помощники -------------------------------------------------------------
@@ -365,7 +365,72 @@ def run():
     check("длинный опрос включён", listen.POLL_TIMEOUT > 0)
     check("смена короче лимита job-а в 6 часов", listen.DEFAULT_RUNTIME < 6 * 3600)
 
-    print("\n16. Что бот НЕ должен говорить")
+    print("\n16. Служебная /try")
+    real_admin = main.ADMIN_CHAT_ID
+    main.ADMIN_CHAT_ID = CHAT
+    state = store.load()
+    for c in store.active_cards(user_of(state)):
+        c["due_tick"] = None  # чтобы в кадр не влезло настоящее напоминание
+    store.save(state)
+    cards_before = len(user_of(state)["cards"])
+
+    tg.push_text("/try brouhaha")
+    before = len(tg.sent)
+    state = run_tick(tg, at(1, 17))
+    proba = tg.sent[before]
+    check("ответ пришёл сразу", len(tg.sent) - before == 1)
+    check("выглядит как сообщение для изучения",
+          "<b>brouhaha</b>" in proba["text"] and "<tg-spoiler>" in proba["text"])
+    check("без кнопок — карточки-то нет", proba["keyboard"] is None)
+    check("колода не тронута", len(user_of(state)["cards"]) == cards_before)
+
+    tg.push_text("/try")
+    before = len(tg.sent)
+    run_tick(tg, at(1, 17, 30))
+    check("без слова берётся запасное",
+          f"<b>{main.TRY_DEFAULT}</b>" in tg.sent[before]["text"])
+
+    main.generate = failing_generate
+    tg.push_text("/try quagmire")
+    before = len(tg.sent)
+    run_tick(tg, at(1, 18))
+    check("при сбое показывает причину",
+          "Связи нет" in tg.sent[before]["text"]
+          and "тестовый сбой" in tg.sent[before]["text"])
+    main.generate = fake_generate
+
+    main.ADMIN_CHAT_ID = 999999
+    tg.push_text("/try serendipity")
+    before = len(tg.sent)
+    run_tick(tg, at(1, 18, 30))
+    check("для чужих команды как будто нет",
+          "Не знаю такой" in tg.sent[before]["text"])
+    check("в меню бота не значится",
+          all(c["command"] != "try" for c in main.COMMANDS))
+    main.ADMIN_CHAT_ID = real_admin
+    check("по умолчанию открыта нужному человеку", main.ADMIN_CHAT_ID == 1090554427)
+
+    print("\n17. Настройки генератора примеров")
+    check("по умолчанию — эндпоинт Gemini",
+          "generativelanguage.googleapis.com" in llm.api_url())
+    check("модель по умолчанию — Flash-Lite",
+          llm.model_candidates()[0] == "gemini-3.5-flash-lite",
+          f"({llm.model_candidates()[:1]})")
+    check("есть запасные имена моделей", len(llm.model_candidates()) >= 3)
+
+    os.environ["LLM_API_URL"] = "https://api.groq.com/openai/v1/chat/completions"
+    os.environ["LLM_MODEL"] = "openai/gpt-oss-120b"
+    check("свой эндпоинт подхватывается", "groq.com" in llm.api_url())
+    check("на чужом эндпоинте не подставляем чужие модели",
+          llm.model_candidates() == ["openai/gpt-oss-120b"],
+          f"({llm.model_candidates()})")
+    del os.environ["LLM_API_URL"], os.environ["LLM_MODEL"]
+
+    os.environ["XAI_API_KEY"] = "старый-секрет"
+    check("старое имя ключа ещё принимается", llm.api_key() == "старый-секрет")
+    del os.environ["XAI_API_KEY"]
+
+    print("\n18. Что бот НЕ должен говорить")
     everything = " ".join(m["text"] for m in tg.sent)
     everything += " " + " ".join(
         b["text"] for m in tg.sent for row in (m["keyboard"] or []) for b in row
