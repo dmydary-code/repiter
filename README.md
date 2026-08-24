@@ -146,6 +146,7 @@ Actions → **repiter listen** → **Run workflow**. Дальше расписа
 | Ответ сервиса | Что делать |
 |---|---|
 | ключ не виден воркфлоу | секрет назван не `LLM_API_KEY` или лежит в Environments, а не в Repository secrets |
+| HTTP 400 «Please pass a valid API key» | в секрете лежит не ключ Google AI Studio. Такие начинаются с `AIza`; бот теперь ловит это до запроса |
 | HTTP 401 | ключ обрезан при копировании или это не API-ключ |
 | HTTP 403 | ключ ограничен по адресам, либо в проекте не включён Generative Language API |
 | HTTP 404 | имя модели неактуально: задай переменную `LLM_MODEL` |
@@ -205,7 +206,7 @@ bot/
   gitsync.py  коммит состояния обратно в репозиторий
   tg.py       клиент Telegram Bot API (только стандартная библиотека)
 tests/
-  test_flow.py  107 проверок всего сценария на заглушках
+  test_flow.py  113 проверок всего сценария на заглушках
 data/
   state.json  состояние (коммитится ботом)
 ```
@@ -215,7 +216,7 @@ data/
 ## Локальный прогон
 
 ```bash
-python -m tests.test_flow          # 107 проверок на заглушках, сеть не нужна
+python -m tests.test_flow          # 113 проверок на заглушках, сеть не нужна
 TELEGRAM_BOT_TOKEN=... LLM_API_KEY=... python -m bot.listen   # живой бот
 TELEGRAM_BOT_TOKEN=... LLM_API_KEY=... python -m bot.main     # один разовый проход
 ```

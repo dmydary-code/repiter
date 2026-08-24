@@ -426,11 +426,34 @@ def run():
           f"({llm.model_candidates()})")
     del os.environ["LLM_API_URL"], os.environ["LLM_MODEL"]
 
-    os.environ["XAI_API_KEY"] = "старый-секрет"
-    check("старое имя ключа ещё принимается", llm.api_key() == "старый-секрет")
+    os.environ["XAI_API_KEY"] = "old-secret"
+    check("старое имя ключа ещё принимается", llm.api_key() == "old-secret")
     del os.environ["XAI_API_KEY"]
 
-    print("\n18. Что бот НЕ должен говорить")
+    print("\n18. Проверка ключа до запроса")
+    check("без ключа придираться не к чему", llm.key_problem() is None)
+
+    os.environ["LLM_API_KEY"] = "xai-abcdefghijklmnopqrstuvwxyz0123456789"
+    problem = llm.key_problem()
+    check("чужой ключ для Gemini ловится заранее",
+          problem is not None and "AIza" in problem, f"→ {problem!r}")
+    check("значение ключа в тексте не светится",
+          problem is not None and "xai-abcdef" not in problem)
+
+    os.environ["LLM_API_KEY"] = "AIza" + "b" * 35
+    check("настоящий по форме ключ проходит", llm.key_problem() is None)
+
+    os.environ["LLM_API_KEY"] = "AIzaSyПривет" + "c" * 30
+    problem = llm.key_problem()
+    check("кириллица в ключе ловится",
+          problem is not None and "латиницы" in problem, f"→ {problem!r}")
+
+    os.environ["LLM_API_KEY"] = "gsk_any_shape_here_123"
+    os.environ["LLM_API_URL"] = "https://api.groq.com/openai/v1/chat/completions"
+    check("на чужом эндпоинте форму ключа не навязываем", llm.key_problem() is None)
+    del os.environ["LLM_API_URL"], os.environ["LLM_API_KEY"]
+
+    print("\n19. Что бот НЕ должен говорить")
     everything = " ".join(m["text"] for m in tg.sent)
     everything += " " + " ".join(
         b["text"] for m in tg.sent for row in (m["keyboard"] or []) for b in row

@@ -117,6 +117,33 @@ class GenerationFailed(Exception):
         self.status = status
 
 
+GOOGLE_KEY = re.compile(r"^AIza[0-9A-Za-z_\-]{30,}$")
+
+
+def key_problem() -> str | None:
+    """Беглая проверка ключа до запроса. Само значение никуда не печатаем:
+    лог публичного репозитория — не место для секретов."""
+    key = api_key()
+    if not key:
+        return None
+    try:
+        key.encode("ascii")
+    except UnicodeEncodeError:
+        return (
+            "в ключе есть символы вне латиницы — похоже, при копировании "
+            "прилипло лишнее. Пересохрани секрет LLM_API_KEY"
+        )
+    if "generativelanguage.googleapis.com" in api_url() and not GOOGLE_KEY.match(key):
+        prefix = "есть" if key.startswith("AIza") else "нет"
+        return (
+            "ключ не похож на ключ Google AI Studio. Такие начинаются с AIza "
+            f"и состоят из ~39 латинских символов. В секрете сейчас {len(key)} "
+            f"символов, префикс AIza — {prefix}. Заведи ключ на "
+            "aistudio.google.com/apikey и перезапиши секрет LLM_API_KEY"
+        )
+    return None
+
+
 HINTS = {
     400: "сервис не принял запрос — смотри текст ответа ниже",
     401: (
@@ -144,6 +171,9 @@ def diagnose() -> str:
             "ключ не виден воркфлоу. Нужен секрет LLM_API_KEY "
             "(Settings → Secrets and variables → Actions → Secrets)"
         )
+    problem = key_problem()
+    if problem:
+        return f"НЕ РАБОТАЕТ — {problem}"
     try:
         data = generate("serendipity", "en", count=1)
     except GenerationFailed as e:
@@ -248,9 +278,14 @@ def generate(word: str, lang: str, count: int = 1, key: str | None = None) -> di
 
     Бросает GenerationFailed, если сервис недоступен или ответ не разобрать.
     """
+    from_env = key is None
     key = key or api_key()
     if not key:
         raise GenerationFailed("ключ не задан")
+    if from_env:
+        problem = key_problem()
+        if problem:
+            raise GenerationFailed(problem, 400)
 
     prompt = USER_TEMPLATE.format(
         lang_name=LANG_NAMES.get(lang, "английском"),
