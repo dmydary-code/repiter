@@ -430,18 +430,24 @@ def run():
     check("старое имя ключа ещё принимается", llm.api_key() == "old-secret")
     del os.environ["XAI_API_KEY"]
 
-    print("\n18. Проверка ключа до запроса")
+    print("\n18. Ключи и путь запроса")
+    check("по умолчанию идём нативным путём Gemini", llm.is_gemini_native())
+    check("в адресе нет /openai/", "/openai/" not in llm.api_url())
     check("без ключа придираться не к чему", llm.key_problem() is None)
+
+    os.environ["LLM_API_KEY"] = "AQ.Ab8RN6J" + "x" * 40
+    check("новый формат ключа AQ. принимается", llm.key_problem() is None,
+          f"→ {llm.key_problem()!r}")
+
+    os.environ["LLM_API_KEY"] = "AIza" + "b" * 35
+    check("старый формат AIza тоже принимается", llm.key_problem() is None)
 
     os.environ["LLM_API_KEY"] = "xai-abcdefghijklmnopqrstuvwxyz0123456789"
     problem = llm.key_problem()
     check("чужой ключ для Gemini ловится заранее",
-          problem is not None and "AIza" in problem, f"→ {problem!r}")
+          problem is not None and "AQ." in problem, f"→ {problem!r}")
     check("значение ключа в тексте не светится",
           problem is not None and "xai-abcdef" not in problem)
-
-    os.environ["LLM_API_KEY"] = "AIza" + "b" * 35
-    check("настоящий по форме ключ проходит", llm.key_problem() is None)
 
     os.environ["LLM_API_KEY"] = "AIzaSyПривет" + "c" * 30
     problem = llm.key_problem()
@@ -451,6 +457,13 @@ def run():
     os.environ["LLM_API_KEY"] = "gsk_any_shape_here_123"
     os.environ["LLM_API_URL"] = "https://api.groq.com/openai/v1/chat/completions"
     check("на чужом эндпоинте форму ключа не навязываем", llm.key_problem() is None)
+    check("и запрос идёт форматом OpenAI", not llm.is_gemini_native())
+
+    os.environ["LLM_API_URL"] = (
+        "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+    )
+    check("openai-путь Gemini распознаётся как чужой формат",
+          not llm.is_gemini_native())
     del os.environ["LLM_API_URL"], os.environ["LLM_API_KEY"]
 
     print("\n19. Что бот НЕ должен говорить")

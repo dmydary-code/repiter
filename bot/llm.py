@@ -1,8 +1,15 @@
-"""Генерация мемных примеров через OpenAI-совместимый эндпоинт.
+"""Генерация мемных примеров.
 
-По умолчанию — Gemini Flash-Lite: у него бесплатный тариф с запасом
-покрывает нагрузку бота. Провайдера можно сменить, не трогая код:
-переменные репозитория LLM_API_URL и LLM_MODEL плюс секрет LLM_API_KEY.
+По умолчанию — Gemini Flash-Lite через её **нативный** эндпоинт с заголовком
+`x-goog-api-key`. Это важно: ключи нового формата (`AQ.…`, именно такие
+выдаёт AI Studio с 2026 года) на OpenAI-совместимом пути через
+`Authorization: Bearer` отвечают «Please pass a valid API key», хотя сами
+исправны. Старые `AIza…` работали и там, но их отключают.
+
+Провайдера можно сменить, не трогая код: переменные репозитория LLM_API_URL
+и LLM_MODEL плюс секрет LLM_API_KEY. Если в LLM_API_URL указан любой другой
+адрес, запрос уходит в формате OpenAI (`Authorization: Bearer`), так что
+подходит почти любой сторонний сервис.
 """
 
 from __future__ import annotations
@@ -15,18 +22,20 @@ import time
 import urllib.error
 import urllib.request
 
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
-XAI_URL = "https://api.x.ai/v1/chat/completions"
+GEMINI_NATIVE = "https://generativelanguage.googleapis.com/v1beta/models"
+GEMINI_HOST = "generativelanguage.googleapis.com"
 
 # Запасные имена моделей на случай, если основная отвечает 404.
 FALLBACKS = {
-    "generativelanguage.googleapis.com": [
+    GEMINI_HOST: [
         "gemini-3.5-flash-lite",
         "gemini-3.1-flash-lite",
         "gemini-2.5-flash-lite",
     ],
     "api.x.ai": ["grok-4.6", "grok-4-latest", "grok-3-mini"],
 }
+
+_active_model: str | None = None
 
 
 def _env(*names: str) -> str:
@@ -38,11 +47,17 @@ def _env(*names: str) -> str:
 
 
 def api_url() -> str:
-    return _env("LLM_API_URL", "XAI_API_URL") or GEMINI_URL
+    return _env("LLM_API_URL", "XAI_API_URL") or GEMINI_NATIVE
 
 
 def api_key() -> str:
     return _env("LLM_API_KEY", "XAI_API_KEY", "GEMINI_API_KEY")
+
+
+def is_gemini_native(url: str | None = None) -> bool:
+    """Нативный путь Gemini — всё, что ведёт на её хост мимо /openai/."""
+    url = url if url is not None else api_url()
+    return GEMINI_HOST in url and "/openai/" not in url
 
 
 def _host(url: str) -> str:
@@ -64,8 +79,6 @@ def model_candidates() -> list[str]:
             out.append(name)
     return out or ["gemini-3.5-flash-lite"]
 
-
-_active_model: str | None = None
 
 LANG_NAMES = {"en": "английском", "fr": "французском"}
 
@@ -117,7 +130,8 @@ class GenerationFailed(Exception):
         self.status = status
 
 
-GOOGLE_KEY = re.compile(r"^AIza[0-9A-Za-z_\-]{30,}$")
+# Google выдаёт ключи двух поколений: старые AIza… и новые AQ.…
+GOOGLE_KEY = re.compile(r"^(AIza[0-9A-Za-z_\-]{30,}|AQ\.[0-9A-Za-z_\-.]{20,})$")
 
 
 def key_problem() -> str | None:
@@ -133,32 +147,30 @@ def key_problem() -> str | None:
             "в ключе есть символы вне латиницы — похоже, при копировании "
             "прилипло лишнее. Пересохрани секрет LLM_API_KEY"
         )
-    if "generativelanguage.googleapis.com" in api_url() and not GOOGLE_KEY.match(key):
-        prefix = "есть" if key.startswith("AIza") else "нет"
+    if GEMINI_HOST in api_url() and not GOOGLE_KEY.match(key):
         return (
-            "ключ не похож на ключ Google AI Studio. Такие начинаются с AIza "
-            f"и состоят из ~39 латинских символов. В секрете сейчас {len(key)} "
-            f"символов, префикс AIza — {prefix}. Заведи ключ на "
+            "ключ не похож на ключ Google AI Studio: такие начинаются с AQ. "
+            f"или AIza. В секрете сейчас {len(key)} символов. Заведи ключ на "
             "aistudio.google.com/apikey и перезапиши секрет LLM_API_KEY"
         )
     return None
 
 
 HINTS = {
-    400: "сервис не принял запрос — смотри текст ответа ниже",
-    401: (
-        "ключ не принят. Проверь, что секрет LLM_API_KEY скопирован целиком, "
-        "без пробелов и переносов"
+    400: (
+        "сервис не принял запрос. Если в тексте ниже «Please pass a valid API key», "
+        "а ключ заведомо рабочий — значит запрос ушёл не тем путём: ключи AQ. "
+        "живут только на нативном эндпоинте Gemini. Проверь, не переопределена ли "
+        "переменная LLM_API_URL"
     ),
+    401: "ключ не принят — проверь, что секрет скопирован целиком",
     403: (
-        "ключ валиден, но доступ закрыт. У Gemini так бывает, если ключ ограничен "
-        "по адресам или в проекте не включён Generative Language API. "
-        "У платных сервисов — если на счету нет средств"
+        "ключ валиден, но доступ закрыт: он может быть ограничен по адресам "
+        "или в проекте не включён Generative Language API"
     ),
     404: (
         "модель не найдена. Задай переменную репозитория LLM_MODEL "
-        "(Settings → Secrets and variables → Actions → Variables) "
-        "с актуальным именем модели"
+        "(Settings → Secrets and variables → Actions → Variables)"
     ),
     429: "упёрлись в лимит бесплатного тарифа, стоит подождать",
 }
@@ -185,25 +197,26 @@ def diagnose() -> str:
     )
 
 
-def _request(payload: dict, key: str, timeout: int = 60) -> dict:
-    data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+# --------------------------------------------------------------------------
+# Транспорт
+# --------------------------------------------------------------------------
+
+def _post(url: str, body: dict, headers: dict, timeout: int = 60) -> dict:
+    data = json.dumps(body, ensure_ascii=False).encode("utf-8")
     last, last_status = None, None
     for attempt in range(3):
         req = urllib.request.Request(
-            api_url(),
+            url,
             data=data,
-            headers={
-                "Content-Type": "application/json",
-                "Authorization": f"Bearer {key}",
-            },
+            headers={"Content-Type": "application/json", **headers},
             method="POST",
         )
         try:
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
-            body = e.read().decode("utf-8", "replace")[:400]
-            last, last_status = f"HTTP {e.code}: {body}", e.code
+            body_text = e.read().decode("utf-8", "replace")[:400]
+            last, last_status = f"HTTP {e.code}: {body_text}", e.code
             if e.code in (429, 500, 502, 503, 529):
                 time.sleep(2 * (attempt + 1))
                 continue
@@ -214,48 +227,82 @@ def _request(payload: dict, key: str, timeout: int = 60) -> dict:
     raise GenerationFailed(last or "unknown", last_status)
 
 
-def _request_with_fallback(prompt: str, key: str) -> dict:
+def _call_gemini(model: str, prompt: str, key: str, temperature: str | None) -> str:
+    """Нативный вызов. Ключ идёт заголовком, а не в строке запроса — в URL
+    секретам не место."""
+    config: dict = {"responseMimeType": "application/json"}
+    if temperature:
+        config["temperature"] = float(temperature)
+    raw = _post(
+        f"{api_url().rstrip('/')}/{model}:generateContent",
+        {
+            "system_instruction": {"parts": [{"text": SYSTEM}]},
+            "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+            "generationConfig": config,
+        },
+        {"x-goog-api-key": key},
+    )
+    try:
+        candidate = raw["candidates"][0]
+        return "".join(p.get("text", "") for p in candidate["content"]["parts"])
+    except (KeyError, IndexError) as e:
+        reason = (raw.get("candidates") or [{}])[0].get("finishReason", "")
+        raise GenerationFailed(
+            f"пустой ответ{f' ({reason})' if reason else ''}: {str(raw)[:200]}"
+        ) from e
+
+
+def _call_openai(model: str, prompt: str, key: str, temperature: str | None) -> str:
+    """Формат OpenAI — для всех прочих сервисов."""
+    body = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": SYSTEM},
+            {"role": "user", "content": prompt},
+        ],
+        "response_format": {"type": "json_object"},
+    }
+    if temperature:
+        body["temperature"] = float(temperature)
+    try:
+        raw = _post(api_url(), body, {"Authorization": f"Bearer {key}"})
+    except GenerationFailed as e:
+        # Не все модели принимают строгий JSON-режим. Просить JSON словами
+        # мы и так умеем — парсер выдержит.
+        if e.status == 400 and "response_format" in str(e):
+            print(f"[api] {model} не принимает json_object, повторяю без него")
+            body.pop("response_format")
+            raw = _post(api_url(), body, {"Authorization": f"Bearer {key}"})
+        else:
+            raise
+    try:
+        return raw["choices"][0]["message"]["content"]
+    except (KeyError, IndexError) as e:
+        raise GenerationFailed(f"неожиданный ответ: {str(raw)[:200]}") from e
+
+
+def _complete(prompt: str, key: str) -> str:
     """Пробует модели по очереди. Переключается только на 404 — остальные
-    ошибки (нет ключа, нет доступа, лимит) сменой модели не лечатся."""
+    ошибки сменой модели не лечатся."""
     global _active_model
 
-    temperature = os.environ.get("LLM_TEMPERATURE") or os.environ.get("XAI_TEMPERATURE")
+    temperature = _env("LLM_TEMPERATURE", "XAI_TEMPERATURE") or None
+    call = _call_gemini if is_gemini_native() else _call_openai
     last_error: GenerationFailed | None = None
 
     for name in model_candidates():
-        payload = {
-            "model": name,
-            "messages": [
-                {"role": "system", "content": SYSTEM},
-                {"role": "user", "content": prompt},
-            ],
-            "response_format": {"type": "json_object"},
-        }
-        if temperature:
-            payload["temperature"] = float(temperature)
         try:
-            raw = _request(payload, key)
+            text = call(name, prompt, key, temperature)
         except GenerationFailed as e:
             last_error = e
             if e.status == 404:
                 print(f"[api] модель {name} недоступна, пробую следующую")
                 continue
-            # Не все модели принимают строгий JSON-режим. Просить JSON словами
-            # мы и так умеем — парсер выдержит.
-            if e.status == 400 and "response_format" in str(e):
-                print(f"[api] {name} не принимает json_object, повторяю без него")
-                payload.pop("response_format")
-                try:
-                    raw = _request(payload, key)
-                except GenerationFailed as e2:
-                    last_error = e2
-                    continue
-            else:
-                raise
+            raise
         if _active_model != name:
             print(f"[api] работаю на модели {name}")
             _active_model = name
-        return raw
+        return text
 
     raise last_error or GenerationFailed("ни одна модель не ответила")
 
@@ -293,13 +340,7 @@ def generate(word: str, lang: str, count: int = 1, key: str | None = None) -> di
         count=count,
         style=random.choice(STYLES),
     )
-    raw = _request_with_fallback(prompt, key)
-    try:
-        content = raw["choices"][0]["message"]["content"]
-    except (KeyError, IndexError) as e:
-        raise GenerationFailed(f"неожиданный ответ: {str(raw)[:200]}") from e
-
-    parsed = _extract_json(content)
+    parsed = _extract_json(_complete(prompt, key))
     examples = [
         {
             "sentence": str(ex.get("sentence", "")).strip(),
