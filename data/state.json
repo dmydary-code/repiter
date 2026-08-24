@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-24",
-  "offset": 71487486,
+  "offset": 71487487,
   "users": {
     "1090554427": {
       "cards": [
@@ -123,6 +123,20 @@
           "reps": 0,
           "step": 0,
           "word": "encorage",
+          "word_ru": ""
+        },
+        {
+          "archived": false,
+          "cache": [],
+          "created_at": "2026-08-24T20:47:11.163427+00:00",
+          "due_tick": 993115,
+          "id": "46d4d717fd",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "Try",
           "word_ru": ""
         }
       ],
