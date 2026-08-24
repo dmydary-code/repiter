@@ -49,4 +49,7 @@ jobs:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
           XAI_MODEL: ${{ vars.XAI_MODEL || 'grok-4.6' }}
           REPITER_GIT_SYNC: '1'
-        run: python -m bot.listen
+          # Без этого print() копится в буфере часами и лог остаётся пустым:
+          # процесс живёт долго, а stdout здесь не терминал.
+          PYTHONUNBUFFERED: '1'
+        run: python -u -m bot.listen

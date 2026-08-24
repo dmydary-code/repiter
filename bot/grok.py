@@ -13,6 +13,11 @@ import urllib.request
 API_URL = os.environ.get("XAI_API_URL", "https://api.x.ai/v1/chat/completions")
 MODEL = os.environ.get("XAI_MODEL", "grok-4.6")
 
+# Если основная модель отвечает 404 (переименовали, нет доступа на тарифе),
+# пробуем соседние и запоминаем ту, что ответила.
+FALLBACKS = ["grok-4.6", "grok-4-latest", "grok-4", "grok-3", "grok-3-mini"]
+_active_model: str | None = None
+
 LANG_NAMES = {"en": "английском", "fr": "французском"}
 LANG_LABEL = {"en": "английский", "fr": "французский"}
 
@@ -59,12 +64,15 @@ USER_TEMPLATE = """Слово на {lang_name} языке: "{word}"
 
 
 class GrokUnavailable(Exception):
-    pass
+    def __init__(self, message: str, status: int | None = None):
+        super().__init__(message)
+        self.status = status
 
 
 def _request(payload: dict, api_key: str, timeout: int = 60) -> dict:
     data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
     last = None
+    last_status = None
     for attempt in range(3):
         req = urllib.request.Request(
             API_URL,
@@ -81,14 +89,16 @@ def _request(payload: dict, api_key: str, timeout: int = 60) -> dict:
         except urllib.error.HTTPError as e:
             body = e.read().decode("utf-8", "replace")[:400]
             last = f"HTTP {e.code}: {body}"
+            last_status = e.code
             if e.code in (429, 500, 502, 503, 529):
                 time.sleep(2 * (attempt + 1))
                 continue
             break
         except Exception as e:  # noqa: BLE001
-            last = f"network: {e}"
+            last = f"сеть: {e}"
+            last_status = None
             time.sleep(2 * (attempt + 1))
-    raise GrokUnavailable(last or "unknown")
+    raise GrokUnavailable(last or "unknown", last_status)
 
 
 def _extract_json(text: str) -> dict:
@@ -102,6 +112,103 @@ def _extract_json(text: str) -> dict:
         if not match:
             raise GrokUnavailable(f"не JSON: {text[:200]}") from None
         return json.loads(match.group(0))
+
+
+HINTS = {
+    401: (
+        "ключ не принят. Проверь, что секрет XAI_API_KEY скопирован целиком, "
+        "без пробелов и переносов, и что это именно API-ключ, а не что-то другое"
+    ),
+    403: (
+        "ключ валиден, но доступ закрыт. Самая частая причина — на счету xAI "
+        "нет средств: бесплатных кредитов там нет, биллинг нужно пополнить. "
+        "Вторая по частоте — ключ выпущен для другой команды (team) "
+        "или ему не выданы права на chat completions"
+    ),
+    404: (
+        "модель не найдена. Задай переменную репозитория XAI_MODEL "
+        "(Settings → Secrets and variables → Actions → Variables) "
+        "с именем модели, доступной твоему аккаунту"
+    ),
+    400: "сервис не принял запрос — смотри текст ответа ниже",
+    429: "упёрлись в лимит запросов, стоит подождать",
+}
+
+
+def diagnose() -> str:
+    """Одна строка для лога Actions: работает генерация примеров или нет,
+    и если нет — почему именно."""
+    if not os.environ.get("XAI_API_KEY", "").strip():
+        return (
+            "ключ XAI_API_KEY не виден воркфлоу. Проверь имя секрета "
+            "(ровно XAI_API_KEY) и что он проброшен в env нужного шага"
+        )
+    try:
+        data = generate("serendipity", "en", count=1)
+    except GrokUnavailable as e:
+        hint = HINTS.get(e.status or 0, "неожиданный ответ сервиса")
+        return f"НЕ РАБОТАЕТ — {hint}\n  ответ сервиса: {e}"
+    return f"работает, модель {_active_model}, пример: {data['examples'][0]['sentence'][:70]}"
+
+
+def _candidates() -> list[str]:
+    if _active_model:
+        return [_active_model]
+    seen, out = set(), []
+    for name in [MODEL, *FALLBACKS]:
+        if name and name not in seen:
+            seen.add(name)
+            out.append(name)
+    return out
+
+
+def _request_with_fallback(prompt: str, api_key: str) -> dict:
+    """Пробует модели по очереди. Переключается только на 404 — остальные
+    ошибки (нет ключа, нет средств, лимит) от смены модели не лечатся."""
+    global _active_model
+
+    temperature = os.environ.get("XAI_TEMPERATURE")
+    last_error: GrokUnavailable | None = None
+
+    for name in _candidates():
+        payload = {
+            "model": name,
+            "messages": [
+                {"role": "system", "content": SYSTEM},
+                {"role": "user", "content": prompt},
+            ],
+            "response_format": {"type": "json_object"},
+        }
+        if temperature:
+            payload["temperature"] = float(temperature)
+        try:
+            raw = _request(payload, api_key)
+        except GrokUnavailable as e:
+            last_error = e
+            if e.status == 404:
+                print(f"[api] модель {name} недоступна, пробую следующую")
+                continue
+            # Некоторые модели не принимают строгий JSON-режим. Просить JSON
+            # словами мы и так умеем — парсер выдержит.
+            if e.status == 400 and "response_format" in str(e):
+                print(f"[api] {name} не принимает json_object, повторяю без него")
+                payload.pop("response_format")
+                try:
+                    raw = _request(payload, api_key)
+                except GrokUnavailable as e2:
+                    last_error = e2
+                    continue
+                if _active_model != name:
+                    print(f"[api] работаю на модели {name}")
+                    _active_model = name
+                return raw
+            raise
+        if _active_model != name:
+            print(f"[api] работаю на модели {name}")
+            _active_model = name
+        return raw
+
+    raise last_error or GrokUnavailable("ни одна модель не ответила")
 
 
 def generate(word: str, lang: str, count: int = 1, api_key: str | None = None) -> dict:
@@ -119,19 +226,7 @@ def generate(word: str, lang: str, count: int = 1, api_key: str | None = None) -
         count=count,
         style=random.choice(STYLES),
     )
-    payload = {
-        "model": MODEL,
-        "messages": [
-            {"role": "system", "content": SYSTEM},
-            {"role": "user", "content": prompt},
-        ],
-        "response_format": {"type": "json_object"},
-    }
-    temperature = os.environ.get("XAI_TEMPERATURE")
-    if temperature:
-        payload["temperature"] = float(temperature)
-
-    raw = _request(payload, api_key)
+    raw = _request_with_fallback(prompt, api_key)
     try:
         content = raw["choices"][0]["message"]["content"]
     except (KeyError, IndexError) as e:

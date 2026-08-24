@@ -9,24 +9,16 @@ from __future__ import annotations
 import os
 import random
 import sys
-from datetime import timedelta
 from zoneinfo import ZoneInfo
 
 from . import render, srs, store
 from .grok import GrokUnavailable, generate
-from .store import iso, now_utc, parse
+from .store import iso, now_utc
 from .tg import Telegram, esc
 
-# Сколько напоминаний максимум уходит за один проход рассылки (раз в минуту).
-MAX_SENDS_PER_CYCLE = 1
-
-# Минимальный промежуток между двумя напоминаниями. Нужен на случай, когда
-# после простоя разом назрела пачка карточек: они разойдутся по времени,
-# а не прилетят очередью.
-MIN_GAP = timedelta(minutes=4)
-
-# Если на сообщение так и не нажали кнопку — переспросим через сутки.
-NO_ANSWER_RETRY = timedelta(hours=24)
+# За один тик уходит не больше одного напоминания: полчаса между словами —
+# и нет риска получить пачку разом.
+MAX_SENDS_PER_TICK = 1
 
 COMMANDS = [
     {"command": "list", "description": "что сейчас учу"},
@@ -71,8 +63,8 @@ def add_words(tg: Telegram, user: dict, raw: str) -> None:
             card["word_ru"] = data["word_ru"]
             card["cache"] = data["examples"]
         except GrokUnavailable as e:
-            print(f"[grok] {word}: {e}")
-        srs.schedule(card, user, srs.STEPS[0])
+            print(f"[api] {word}: {e}")
+        srs.schedule(card, srs.FIRST_SHOW)
         user["cards"].append(card)
         existing.add(word.lower())
         added.append(card)
@@ -88,7 +80,7 @@ def add_words(tg: Telegram, user: dict, raw: str) -> None:
             rows.append(f"• <b>{esc(card['word'])}</b>{hint}")
         plural = "Добавила" if len(added) == 1 else f"Добавила {len(added)}"
         parts.append(f"✅ {plural}:\n" + "\n".join(rows))
-        parts.append("Первое напоминание прилетит примерно через полчаса 👀")
+        parts.append("Подкину, когда не ждёшь 👀")
     if skipped:
         parts.append("Уже в колоде: " + ", ".join(f"<b>{esc(w)}</b>" for w in skipped))
 
@@ -229,9 +221,9 @@ def handle_callback(tg: Telegram, state: dict, cb: dict) -> None:
         return
 
     if action == "ok":
-        label = srs.on_known(card, user)
+        srs.on_known(card)
     elif action == "later":
-        label = srs.on_later(card, user)
+        srs.on_later(card)
     else:
         return
 
@@ -239,7 +231,9 @@ def handle_callback(tg: Telegram, state: dict, cb: dict) -> None:
     tg.answer_callback(cb["id"], "Записала")
     if message_id:
         tg.edit_reply_markup(
-            chat_id, message_id, render.answered_keyboard(action == "ok", label)
+            chat_id,
+            message_id,
+            render.answered_keyboard(action == "ok", card["archived"]),
         )
 
 
@@ -280,8 +274,15 @@ def pick_example(card: dict) -> dict | None:
     return None
 
 
-def send_reminder(tg: Telegram, user: dict, card: dict) -> bool:
+def send_reminder(tg: Telegram, user: dict, card: dict, tick: int) -> bool:
     example = pick_example(card)
+    if example is None:
+        # Напоминание без живого предложения бессмысленно: одно голое слово
+        # с переводом ничего не закрепляет. Молчим — карточка остаётся
+        # назревшей и уйдёт следующим тиком.
+        print(f"[send] «{card['word']}»: примера нет, жду следующего тика")
+        return False
+
     res = tg.send_message(
         user["chat_id"],
         render.reminder(card, example),
@@ -294,14 +295,17 @@ def send_reminder(tg: Telegram, user: dict, card: dict) -> bool:
     card["last_sent_at"] = iso(now_utc())
     card["pending_msg"] = (res.get("result") or {}).get("message_id")
     # Кнопку могут не нажать — тогда переспросим через сутки.
-    srs.schedule(card, user, NO_ANSWER_RETRY)
+    srs.schedule(card, srs.NO_ANSWER, tick)
     return True
 
 
-def deliver(tg: Telegram, user: dict) -> int:
+def deliver(tg: Telegram, user: dict, tick: int | None = None) -> int:
+    """Один тик рассылки. Вызов повторно с тем же номером тика ничего
+    не делает — так перезапуск процесса не приводит к дублям."""
     if user.get("paused") or not user.get("lang"):
         return 0
 
+    tick = srs.tick_now() if tick is None else tick
     moment = now_utc()
     tz = ZoneInfo(user.get("tz", "Europe/Moscow"))
     today = moment.astimezone(tz).date().isoformat()
@@ -309,32 +313,26 @@ def deliver(tg: Telegram, user: dict) -> int:
         user["sent_date"] = today
         user["sent_today"] = 0
 
+    # Ночью тики идут, но бот молчит: назревшее подождёт до утра.
     if not srs.in_window(user, moment):
         return 0
 
-    budget = min(MAX_SENDS_PER_CYCLE, user.get("max_per_day", 8) - user["sent_today"])
-    due = [c for c in store.active_cards(user) if srs.is_due_to_send(c, moment)]
-    due.sort(key=lambda c: c.get("send_at") or "")
+    if user.get("last_deliver_tick") == tick:
+        return 0
+    user["last_deliver_tick"] = tick
 
+    budget = min(MAX_SENDS_PER_TICK, user.get("max_per_day", 8) - user["sent_today"])
     if budget <= 0:
-        # Дневной лимит выбран — переносим всё, что назрело, на завтра,
-        # чтобы утром не прилетело сразу пачкой.
-        for card in due:
-            card["send_at"] = iso(
-                srs.pick_send_time(moment + timedelta(hours=12), user)
-            )
         return 0
 
-    last = parse(user.get("last_reminder_at"))
-    if last is not None and moment - last < MIN_GAP:
-        return 0
+    due = [c for c in store.active_cards(user) if srs.is_due(c, tick)]
+    due.sort(key=lambda c: c["due_tick"])  # что назрело раньше, то и первое
 
     sent = 0
     for card in due[:budget]:
-        if send_reminder(tg, user, card):
+        if send_reminder(tg, user, card, tick):
             sent += 1
             user["sent_today"] += 1
-            user["last_reminder_at"] = iso(moment)
     return sent
 
 

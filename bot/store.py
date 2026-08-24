@@ -47,6 +47,8 @@ def load() -> dict:
         return empty_state()
     base = empty_state()
     base.update(data)
+    for key in list(base["users"]):
+        get_user(base, int(key))  # доставит недостающие поля и мигрирует карточки
     return base
 
 
@@ -84,6 +86,10 @@ def get_user(state: dict, chat_id: int) -> dict:
     user.setdefault("sent_today", 0)
     user.setdefault("window", list(DEFAULT_WINDOW))
     user.setdefault("tz", DEFAULT_TZ)
+    user.setdefault("last_deliver_tick", None)
+    user.pop("last_reminder_at", None)
+    for card in user["cards"]:
+        migrate_card(card)
     return user
 
 
@@ -97,12 +103,25 @@ def new_card(word: str, lang: str) -> dict:
         "reps": 0,
         "lapses": 0,
         "archived": False,
-        "due_at": iso(now_utc()),
-        "send_at": None,
+        "due_tick": None,  # проставит srs.schedule
         "last_sent_at": None,
         "created_at": iso(now_utc()),
         "cache": [],
     }
+
+
+def migrate_card(card: dict) -> dict:
+    """Карточки из версии, где время считалось часами, а не тиками."""
+    if "due_tick" not in card:
+        moment = parse(card.pop("send_at", None) or card.pop("due_at", None))
+        card["due_tick"] = (
+            None if moment is None else int(moment.timestamp()) // (30 * 60)
+        )
+    card.pop("send_at", None)
+    card.pop("due_at", None)
+    card.setdefault("cache", [])
+    card.setdefault("word_ru", "")
+    return card
 
 
 def find_card(user: dict, card_id: str) -> dict | None:

@@ -16,16 +16,13 @@ import signal
 import sys
 import time
 
-from . import gitsync, store
+from . import gitsync, grok, srs, store
 from .main import COMMANDS, deliver, process_updates
 from .store import now_utc
 from .tg import Telegram
 
 # Сколько секунд Telegram держит соединение, если сообщений нет.
 POLL_TIMEOUT = 25
-
-# Как часто проверять, не пора ли отправить напоминание.
-DELIVER_EVERY = 60
 
 # Не чаще этого коммитим состояние в репозиторий. Держим маленьким: job могут
 # отменить в любой момент, и всё, что не доехало до репозитория, потеряется.
@@ -64,12 +61,13 @@ def run(tg: Telegram | None = None, runtime: float | None = None) -> int:
 
     started = time.monotonic()
     deadline = started + runtime
-    last_deliver = 0.0
+    last_tick = None
     last_flush = time.monotonic()
     dirty = True  # первый проход всегда сохраняем: могли обновиться команды
     updates_total = sent_total = 0
 
-    print(f"[listen] старт, работаю {runtime / 3600:.1f} ч")
+    print(f"[listen] старт, работаю {runtime / 3600:.1f} ч, тик №{srs.tick_now()}")
+    print("[проверка] генерация примеров: " + grok.diagnose())
 
     while not _stop and time.monotonic() < deadline:
         # 1. Входящее — отвечаем мгновенно.
@@ -82,12 +80,13 @@ def run(tg: Telegram | None = None, runtime: float | None = None) -> int:
             print(f"[listen] опрос упал: {e}", file=sys.stderr)
             time.sleep(5)
 
-        # 2. Исходящее — по своему расписанию.
-        if time.monotonic() - last_deliver >= DELIVER_EVERY:
-            last_deliver = time.monotonic()
+        # 2. Исходящее — строго по тикам, раз в полчаса.
+        tick = srs.tick_now()
+        if tick != last_tick:
+            last_tick = tick
             for user in state["users"].values():
                 try:
-                    sent = deliver(tg, user)
+                    sent = deliver(tg, user, tick)
                 except Exception as e:  # noqa: BLE001
                     print(f"[listen] рассылка {user.get('chat_id')}: {e}", file=sys.stderr)
                     continue

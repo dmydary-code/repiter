@@ -3,16 +3,8 @@
 from __future__ import annotations
 
 import re
-from datetime import datetime, timedelta
-from zoneinfo import ZoneInfo
 
-from .store import parse
 from .tg import esc
-
-MONTHS = [
-    "января", "февраля", "марта", "апреля", "мая", "июня",
-    "июля", "августа", "сентября", "октября", "ноября", "декабря",
-]
 
 LANG_TITLE = {"en": "английский", "fr": "французский"}
 LANG_FLAG = {"en": "🇬🇧", "fr": "🇫🇷"}
@@ -43,18 +35,13 @@ def bold_word(sentence: str, forms: list[str]) -> str:
     return safe
 
 
-def reminder(card: dict, example: dict | None) -> str:
+def reminder(card: dict, example: dict) -> str:
+    """Напоминание. Всегда содержит живое предложение со словом и спрятанный
+    перевод — без примера сообщение просто не отправляется."""
     word = esc(card["word"])
-    word_ru = card.get("word_ru") or "перевода пока нет"
-
-    if not example:
-        return (
-            f"🧠 Повторяем: <b>{word}</b>\n\n"
-            f"🙈 Перевод: <tg-spoiler>{esc(word_ru)}</tg-spoiler>\n\n"
-            "<i>Пример придумать не получилось — Grok был занят.</i>"
-        )
-
+    word_ru = card.get("word_ru") or "?"
     sentence = bold_word(example["sentence"], [example.get("word_form", ""), card["word"]])
+
     lines = [f"🧠 <b>{word}</b>", "", sentence, "", f"🙈 <tg-spoiler>{esc(word_ru)}</tg-spoiler>"]
     if example.get("sentence_ru"):
         lines.append(f"💬 <tg-spoiler>{esc(example['sentence_ru'])}</tg-spoiler>")
@@ -70,12 +57,15 @@ def reminder_keyboard(card_id: str) -> list[list[dict]]:
     ]
 
 
-def answered_keyboard(known: bool, next_label: str) -> list[list[dict]]:
-    icon = "✅ Выучено" if known else "🔁 Повторим"
-    if next_label == "архив":
-        text = "🏆 Слово закрыто — ушло в архив"
+def answered_keyboard(known: bool, archived: bool = False) -> list[list[dict]]:
+    # Когда прилетит следующий показ — не говорим: половина пользы приёма
+    # в том, что повторение застаёт врасплох.
+    if archived:
+        text = "🏆 Слово закрыто"
+    elif known:
+        text = "✅ Выучено"
     else:
-        text = f"{icon} · снова {next_label}"
+        text = "🔁 Вернём ещё разок"
     return [[{"text": text, "callback_data": "noop"}]]
 
 
@@ -100,12 +90,11 @@ def welcome() -> str:
 def language_set(lang: str) -> str:
     return (
         f"Отлично, учим {LANG_FLAG.get(lang, '')} <b>{LANG_TITLE.get(lang, lang)}</b>.\n\n"
-        "Теперь просто пришли мне слово — или сразу несколько, каждое с новой строки.\n"
-        "Я пришлю первое напоминание примерно через полчаса, а дальше буду "
-        "растягивать интервалы: 4 часа → день → 3 дня → неделя → 2 недели → месяц → 3 месяца.\n\n"
-        "Под каждым сообщением будут две кнопки: "
-        "<b>Я выучила</b> двигает слово дальше по лесенке, "
-        "<b>Ещё хочу потом</b> возвращает на шаг назад.\n\n"
+        "Теперь просто пришли мне слово — или сразу несколько, каждое с новой строки.\n\n"
+        "Дальше я буду подкидывать его в случайные моменты дня, каждый раз "
+        "в новом предложении. Под каждым две кнопки: "
+        "<b>Я выучила</b> растягивает паузу до следующей встречи, "
+        "<b>Ещё хочу потом</b> — наоборот, сокращает.\n\n"
         "/help — что я ещё умею."
     )
 
@@ -116,7 +105,7 @@ def help_text(user: dict) -> str:
     return (
         "<b>Что я умею</b>\n\n"
         "Просто напиши слово — добавлю в колоду. Несколько слов — каждое с новой строки.\n\n"
-        "/list — что сейчас учу\n"
+        "/list — что сейчас в работе\n"
         "/stats — статистика\n"
         "/lang — сменить язык\n"
         "/window 10 22 — часы, в которые можно писать\n"
@@ -129,35 +118,15 @@ def help_text(user: dict) -> str:
     )
 
 
-def when(send_at_iso: str | None, tz_name: str) -> str:
-    dt = parse(send_at_iso)
-    if dt is None:
-        return "ждёт ответа"
-    tz = ZoneInfo(tz_name)
-    local = dt.astimezone(tz)
-    today = datetime.now(tz).date()
-    delta_days = (local.date() - today).days
-    hhmm = local.strftime("%H:%M")
-    if delta_days <= 0:
-        return f"сегодня в {hhmm}"
-    if delta_days == 1:
-        return f"завтра в {hhmm}"
-    if delta_days < 7:
-        return f"через {delta_days} дн. в {hhmm}"
-    return f"{local.day} {MONTHS[local.month - 1]}"
-
-
 def card_list(user: dict, cards: list[dict]) -> str:
+    """Список слов с прогрессом. Без времени следующего показа — сюрприз
+    входит в методику."""
     if not cards:
         return "Колода пустая. Пришли мне слово — начнём."
-    tz = user.get("tz", "Europe/Moscow")
     rows = []
-    for card in sorted(cards, key=lambda c: c.get("send_at") or "9"):
+    for card in sorted(cards, key=lambda c: (-c["step"], c["word"].lower())):
         dots = "●" * (card["step"] + 1) + "○" * (7 - card["step"])
-        rows.append(
-            f"<b>{esc(card['word'])}</b>  <code>{dots}</code>\n"
-            f"   <i>{when(card.get('send_at'), tz)}</i>"
-        )
+        rows.append(f"<code>{dots}</code>  {esc(card['word'])}")
     return f"<b>В работе — {len(cards)}</b>\n\n" + "\n".join(rows)
 
 
