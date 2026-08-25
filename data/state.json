@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-25",
-  "offset": 71487505,
+  "offset": 71487504,
   "users": {
     "1090554427": {
       "cards": [
@@ -171,14 +171,14 @@
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993153,
+          "due_tick": 993183,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
           "last_sent_at": "2026-08-25T07:30:01.659199+00:00",
-          "pending_msg": null,
-          "reps": 1,
-          "step": 1,
+          "pending_msg": 75,
+          "reps": 0,
+          "step": 0,
           "word": "acquired",
           "word_ru": "приобретенный, полученный"
         }
