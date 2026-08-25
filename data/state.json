@@ -127,17 +127,24 @@
         },
         {
           "archived": false,
-          "cache": [],
+          "cache": [
+            {
+              "sentence": "Cows try to conquer Mars using stolen tractors and very tight pants.",
+              "sentence_ru": "Коровы пытаются захватить Марс с помощью украденных тракторов и очень тесных штанов.",
+              "word_form": "try"
+            }
+          ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993115,
+          "due_tick": 993182,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-25T07:00:21.957158+00:00",
+          "pending_msg": 74,
           "reps": 0,
           "step": 0,
           "word": "Try",
-          "word_ru": ""
+          "word_ru": "пытаться, пробовать, попытка"
         },
         {
           "archived": false,
@@ -173,11 +180,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993108,
+      "last_deliver_tick": 993134,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-25",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -221,7 +228,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993108,
+      "last_deliver_tick": 993134,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-25",
