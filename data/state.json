@@ -112,18 +112,24 @@
         },
         {
           "archived": false,
-          "cache": [],
+          "cache": [
+            {
+              "sentence": "My inner demon will always encorage me to eat pizza in bed.",
+              "sentence_ru": "Мой внутренний демон всегда будет поощрять меня есть пиццу в постели.",
+              "word_form": "encorage"
+            }
+          ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 993139,
+          "due_tick": 993187,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-24T09:24:06.692058+00:00",
-          "pending_msg": 32,
+          "last_sent_at": "2026-08-25T09:30:16.556944+00:00",
+          "pending_msg": 76,
           "reps": 0,
           "step": 0,
           "word": "encorage",
-          "word_ru": ""
+          "word_ru": "одобрять, поощрять, подбадривать"
         },
         {
           "archived": false,
@@ -186,11 +192,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993138,
+      "last_deliver_tick": 993139,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-25",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -234,7 +240,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993138,
+      "last_deliver_tick": 993139,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-25",
