@@ -1,7 +1,7 @@
 {
   "commands_set": true,
-  "heartbeat": "2026-08-24",
-  "offset": 71487501,
+  "heartbeat": "2026-08-25",
+  "offset": 71487502,
   "users": {
     "1090554427": {
       "cards": [
@@ -138,6 +138,36 @@
           "step": 0,
           "word": "Try",
           "word_ru": ""
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Your newly acquired fortune will vanish if you buy more designer cat wigs.",
+              "sentence_ru": "Твое новоприобретенное состояние исчезнет, если ты купишь еще париков для кошек от кутюр.",
+              "word_form": "acquired"
+            },
+            {
+              "sentence": "An acquired taste for goblin tears brings sudden chaos to your love life tomorrow.",
+              "sentence_ru": "Приобретенная тяга к слезам гоблинов завтра принесет внезапный хаос в твою личную жизнь.",
+              "word_form": "acquired"
+            },
+            {
+              "sentence": "That acquired immunity to toxic exes is a lie, you will text them at 3 AM.",
+              "sentence_ru": "Этот приобретенный иммунитет к токсичным бывшим — ложь, ты напишешь им в 3 часа ночи.",
+              "word_form": "acquired"
+            }
+          ],
+          "created_at": "2026-08-24T22:26:20.645634+00:00",
+          "due_tick": 993118,
+          "id": "4a1a6fb462",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "acquired",
+          "word_ru": "приобретенный, полученный"
         }
       ],
       "chat_id": 1090554427,
