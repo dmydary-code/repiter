@@ -150,6 +150,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He acquired a stolen bicycle from apartment 48 to escape police.",
+              "sentence_ru": "Он приобрел краденый велосипед из квартиры 48, чтобы сбежать от полиции.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Your newly acquired fortune will vanish if you buy more designer cat wigs.",
               "sentence_ru": "Твое новоприобретенное состояние исчезнет, если ты купишь еще париков для кошек от кутюр.",
               "word_form": "acquired"
@@ -166,11 +171,12 @@
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993118,
+          "due_tick": 993183,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-25T07:30:01.659199+00:00",
+          "pending_msg": 75,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -180,11 +186,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993134,
+      "last_deliver_tick": 993135,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-25",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -228,7 +234,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993134,
+      "last_deliver_tick": 993135,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-25",
