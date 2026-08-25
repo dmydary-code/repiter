@@ -28,18 +28,24 @@
         },
         {
           "archived": false,
-          "cache": [],
+          "cache": [
+            {
+              "sentence": "That cheeky cat stole sausage from apartment 48 again and licked his whiskers.",
+              "sentence_ru": "Этот наглый кот снова украл колбасу из 48-й квартиры и облизал свои усы.",
+              "word_form": "cheeky"
+            }
+          ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 993145,
+          "due_tick": 993193,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-24T09:50:45.976219+00:00",
-          "pending_msg": 36,
+          "last_sent_at": "2026-08-25T12:30:16.504466+00:00",
+          "pending_msg": 79,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
-          "word_ru": ""
+          "word_ru": "наглый, дерзкий, бесстыдный"
         },
         {
           "archived": false,
@@ -204,11 +210,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993143,
+      "last_deliver_tick": 993145,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-25",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -252,7 +258,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993143,
+      "last_deliver_tick": 993145,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-25",
