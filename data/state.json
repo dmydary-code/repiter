@@ -264,7 +264,7 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993195,
+      "last_deliver_tick": 993196,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
@@ -308,18 +308,23 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow the stars advise you to flee angry creditors through dark backstreets.",
+              "sentence_ru": "Завтра звезды советуют вам бежать от злых кредиторов по темным задворкам.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "He fled through the dark backstreets while a deranged goose chased his trousers.",
               "sentence_ru": "Он бежал через темные переулки, пока безумный гусь преследовал его штаны.",
               "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 993196,
+          "due_tick": 993244,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-25T14:00:13.553218+00:00",
-          "pending_msg": 83,
+          "last_sent_at": "2026-08-26T14:00:16.560085+00:00",
+          "pending_msg": 93,
           "reps": 0,
           "step": 0,
           "word": "backstreets",
@@ -329,11 +334,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993195,
+      "last_deliver_tick": 993196,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
