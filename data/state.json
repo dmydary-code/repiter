@@ -9,18 +9,23 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even when I won the argument against a pigeon, I stayed incredibly humble.",
+              "sentence_ru": "Даже когда я выиграл спор у голубя, я остался невероятно скромным.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even my humble apologies at 3 AM won't fix how I ruined your life.",
               "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как я испортил тебе жизнь.",
               "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993191,
+          "due_tick": 993239,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-25T11:30:47.063325+00:00",
-          "pending_msg": 78,
+          "last_sent_at": "2026-08-26T11:30:05.712455+00:00",
+          "pending_msg": 90,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -254,11 +259,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993189,
+      "last_deliver_tick": 993191,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -314,7 +319,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993189,
+      "last_deliver_tick": 993191,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
