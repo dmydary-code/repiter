@@ -156,18 +156,23 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will encorage you to steal your boss's chair tomorrow.",
+              "sentence_ru": "Марс подбодрит тебя завтра украсть стул твоего босса.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My inner demon will always encorage me to eat pizza in bed.",
               "sentence_ru": "Мой внутренний демон всегда будет поощрять меня есть пиццу в постели.",
               "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 993187,
+          "due_tick": 993235,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-25T09:30:16.556944+00:00",
-          "pending_msg": 76,
+          "last_sent_at": "2026-08-26T09:30:12.241399+00:00",
+          "pending_msg": 88,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -244,11 +249,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993185,
+      "last_deliver_tick": 993187,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -304,7 +309,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993185,
+      "last_deliver_tick": 993187,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
