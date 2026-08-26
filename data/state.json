@@ -70,18 +70,24 @@
         },
         {
           "archived": false,
-          "cache": [],
+          "cache": [
+            {
+              "sentence": "A jealous goat will undermine your career by eating your resume tomorrow.",
+              "sentence_ru": "Ревнивый козел подорвет твою карьеру, сожрав твое резюме завтра.",
+              "word_form": "undermine"
+            }
+          ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993150,
+          "due_tick": 993231,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-24T10:37:30.385754+00:00",
-          "pending_msg": 37,
+          "last_sent_at": "2026-08-26T07:30:04.295551+00:00",
+          "pending_msg": 85,
           "reps": 0,
           "step": 0,
           "word": "undermine",
-          "word_ru": ""
+          "word_ru": "подрывать, разрушать исподтишка, ослаблять"
         },
         {
           "archived": false,
@@ -228,11 +234,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993182,
+      "last_deliver_tick": 993183,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -288,7 +294,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993182,
+      "last_deliver_tick": 993183,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
