@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-26",
-  "offset": 71487506,
+  "offset": 71487507,
   "users": {
     "1090554427": {
       "cards": [
@@ -319,12 +319,12 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 993244,
+          "due_tick": 993210,
           "id": "db2a0b8fd3",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-26T14:00:16.560085+00:00",
-          "pending_msg": 93,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "backstreets",
