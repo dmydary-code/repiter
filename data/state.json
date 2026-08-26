@@ -203,6 +203,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I acquired this cursed ancient skull just to piss off my HOA.",
+              "sentence_ru": "Я приобрел этот проклятый древний череп только для того, чтобы взбесить ТСЖ.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "He acquired a stolen bicycle from apartment 48 to escape police.",
               "sentence_ru": "Он приобрел краденый велосипед из квартиры 48, чтобы сбежать от полиции.",
               "word_form": "acquired"
@@ -224,12 +229,12 @@
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993183,
+          "due_tick": 993233,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-25T07:30:01.659199+00:00",
-          "pending_msg": 75,
+          "last_sent_at": "2026-08-26T08:30:14.650047+00:00",
+          "pending_msg": 87,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -239,11 +244,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993184,
+      "last_deliver_tick": 993185,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -299,7 +304,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993184,
+      "last_deliver_tick": 993185,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
