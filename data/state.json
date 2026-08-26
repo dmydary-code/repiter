@@ -127,18 +127,24 @@
         },
         {
           "archived": false,
-          "cache": [],
+          "cache": [
+            {
+              "sentence": "Do not discorage the stray cats by leaving empty vodka bottles instead of fish.",
+              "sentence_ru": "Не обескураживайте бродячих котов, оставляя пустые бутылки из-под водки вместо рыбы.",
+              "word_form": "discorage"
+            }
+          ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 993148,
+          "due_tick": 993230,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-24T09:29:12.556220+00:00",
-          "pending_msg": 34,
+          "last_sent_at": "2026-08-26T07:01:20.302185+00:00",
+          "pending_msg": 84,
           "reps": 0,
           "step": 0,
           "word": "discorage",
-          "word_ru": ""
+          "word_ru": "разочаровывать, отговаривать, обескураживать"
         },
         {
           "archived": false,
@@ -222,11 +228,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993149,
+      "last_deliver_tick": 993182,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -282,7 +288,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993149,
+      "last_deliver_tick": 993182,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-26",
