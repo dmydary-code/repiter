@@ -87,18 +87,23 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your new boyfriend cannot undermine the fact that you still cry to my voice at 3 AM.",
+              "sentence_ru": "Твой новый парень никак не подорвет тот факт, что ты все еще плачешь под мой голос в 3 часа ночи.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "A jealous goat will undermine your career by eating your resume tomorrow.",
               "sentence_ru": "Ревнивый козел подорвет твою карьеру, сожрав твое резюме завтра.",
               "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993231,
+          "due_tick": 993281,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-26T07:30:04.295551+00:00",
-          "pending_msg": 85,
+          "last_sent_at": "2026-08-27T08:30:26.495729+00:00",
+          "pending_msg": 99,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -279,11 +284,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993232,
+      "last_deliver_tick": 993233,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -359,7 +364,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993232,
+      "last_deliver_tick": 993233,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
