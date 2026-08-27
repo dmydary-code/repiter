@@ -217,6 +217,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Just try to steal my stapler again, and I will staple your eyelids to your forehead.",
+              "sentence_ru": "Только попробуй снова украсть мой степлер, и я пристеплеплю твои веки к твоему лбу.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Cows try to conquer Mars using stolen tractors and angry looks.",
               "sentence_ru": "Коровы пытаются захватить Марс с помощью украденных тракторов и злых взглядов.",
               "word_form": "try"
@@ -228,12 +233,12 @@
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993232,
+          "due_tick": 993282,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-26T08:00:13.150029+00:00",
-          "pending_msg": 86,
+          "last_sent_at": "2026-08-27T09:00:36.531943+00:00",
+          "pending_msg": 100,
           "reps": 1,
           "step": 1,
           "word": "Try",
@@ -284,11 +289,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993233,
+      "last_deliver_tick": 993234,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -364,7 +369,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993233,
+      "last_deliver_tick": 993234,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
