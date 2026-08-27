@@ -160,18 +160,23 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping boats.",
+              "sentence_ru": "Мутировавшие омары разочаровывают местных рыбаков, воруя у них пиво и переворачивая лодки.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Do not discorage the stray cats by leaving empty vodka bottles instead of fish.",
               "sentence_ru": "Не обескураживайте бродячих котов, оставляя пустые бутылки из-под водки вместо рыбы.",
               "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 993230,
+          "due_tick": 993280,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-26T07:01:20.302185+00:00",
-          "pending_msg": 84,
+          "last_sent_at": "2026-08-27T08:00:12.134516+00:00",
+          "pending_msg": 98,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -274,11 +279,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993231,
+      "last_deliver_tick": 993232,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -354,7 +359,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993231,
+      "last_deliver_tick": 993232,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
