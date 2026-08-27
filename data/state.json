@@ -191,6 +191,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My weird therapist tried to encorage me, but I still hate my ex.",
+              "sentence_ru": "Мой странный психотерапевт пытался меня подбодрить, но я всё равно ненавижу своего бывшего.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "Mars will encorage you to steal your boss's chair tomorrow.",
               "sentence_ru": "Марс подбодрит тебя завтра украсть стул твоего босса.",
               "word_form": "encorage"
@@ -202,12 +207,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 993235,
+          "due_tick": 993284,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-26T09:30:12.241399+00:00",
-          "pending_msg": 88,
+          "last_sent_at": "2026-08-27T10:00:14.616038+00:00",
+          "pending_msg": 102,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -289,11 +294,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993235,
+      "last_deliver_tick": 993236,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -369,7 +374,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993235,
+      "last_deliver_tick": 993236,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
