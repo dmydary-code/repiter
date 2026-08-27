@@ -135,17 +135,22 @@
           "cache": [
             {
               "sentence": "My ex's new biography will completely devastate my fragile social reputation forever.",
+              "sentence_ru": "Новая биография моего бывшего полностью опустошит мою хрупкую социальную репутацию навсегда.",
+              "word_form": "devastate"
+            },
+            {
+              "sentence": "My ex's new biography will completely devastate my fragile social reputation forever.",
               "sentence_ru": "Новая биография моей бывшей полностью уничтожит мою хрупкую социальную репутацию навсегда.",
               "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 993196,
+          "due_tick": 993279,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-25T14:00:11.986597+00:00",
-          "pending_msg": 82,
+          "last_sent_at": "2026-08-27T07:30:21.179941+00:00",
+          "pending_msg": 96,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -269,11 +274,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993230,
+      "last_deliver_tick": 993231,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -318,6 +323,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I run through the dark backstreets while my past finally catches up to me.",
+              "sentence_ru": "Я бегу по темным задворкам, пока мое прошлое наконец догоняет меня.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "Tomorrow the stars advise you to flee angry creditors through dark backstreets.",
               "sentence_ru": "Завтра звезды советуют вам бежать от злых кредиторов по темным задворкам.",
               "word_form": "backstreets"
@@ -329,12 +339,12 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 993210,
+          "due_tick": 993279,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-26T14:00:16.560085+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-08-27T07:30:22.486556+00:00",
+          "pending_msg": 97,
           "reps": 0,
           "step": 0,
           "word": "backstreets",
@@ -344,11 +354,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993230,
+      "last_deliver_tick": 993231,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
