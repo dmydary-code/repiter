@@ -108,18 +108,23 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you will accidentally blow up your kitchen with a suspicious chemical compound.",
+              "sentence_ru": "Завтра вы случайно взорвете свою кухню с помощью подозрительного химического соединения.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "This weird chemical compound made my neighbor's cat glow in the dark. Five stars!",
               "sentence_ru": "Это странное химическое соединение заставило кота моего соседа светиться в темноте. Пять звезд!",
               "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 993195,
+          "due_tick": 993278,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-25T13:30:45.353361+00:00",
-          "pending_msg": 80,
+          "last_sent_at": "2026-08-27T07:17:30.922518+00:00",
+          "pending_msg": 94,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -264,11 +269,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993196,
+      "last_deliver_tick": 993230,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -282,6 +287,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your ex's personality is so drab that even wallpaper tries to peel off.",
+              "sentence_ru": "Характер твоего бывшего такой унылый, что даже обои пытаются отклеиться.",
+              "word_form": "drab"
+            },
+            {
               "sentence": "My ex's personality was so drab that even the houseplants refused to grow near him.",
               "sentence_ru": "Характер моего бывшего был настолько унылым, что даже комнатные растения отказывались расти рядом с ним.",
               "word_form": "drab"
@@ -293,12 +303,12 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 993210,
+          "due_tick": 993278,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-08-26T13:30:17.752967+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-08-27T07:17:32.469303+00:00",
+          "pending_msg": 95,
           "reps": 0,
           "step": 0,
           "word": "drab",
@@ -334,11 +344,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993196,
+      "last_deliver_tick": 993230,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-27",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
