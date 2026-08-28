@@ -190,6 +190,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to diet when my grandma bakes daily will totally discourage me.",
+              "sentence_ru": "Попытки сидеть на диете, когда бабушка печет каждый день, меня полностью разочаруют.",
+              "word_form": "discourage"
+            },
+            {
               "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping boats.",
               "sentence_ru": "Мутировавшие омары разочаровывают местных рыбаков, воруя у них пиво и переворачивая лодки.",
               "word_form": "discorage"
@@ -201,12 +206,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 993280,
+          "due_tick": 993342,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-27T08:00:12.134516+00:00",
-          "pending_msg": 98,
+          "last_sent_at": "2026-08-28T15:00:08.841496+00:00",
+          "pending_msg": 110,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -319,11 +324,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993293,
+      "last_deliver_tick": 993294,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-28",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -409,7 +414,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993293,
+      "last_deliver_tick": 993294,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-28",
