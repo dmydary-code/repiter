@@ -40,6 +40,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky cat stole my last sausage and winked at me.",
+              "sentence_ru": "Этот наглый кот украл мою последнюю сосиску и подмигнул мне.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky cat who keeps stealing sausages from apartment 14 is wanted for armed robbery.",
               "sentence_ru": "Тот наглый кот, который постоянно ворует сосиски из 14-й квартиры, разыскивается за вооруженный грабеж.",
               "word_form": "cheeky"
@@ -51,12 +56,12 @@
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 993241,
+          "due_tick": 993327,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-26T12:30:01.514169+00:00",
-          "pending_msg": 91,
+          "last_sent_at": "2026-08-28T07:30:18.141408+00:00",
+          "pending_msg": 106,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -304,11 +309,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993278,
+      "last_deliver_tick": 993279,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-28",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -358,6 +363,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to drag my cheap vacuum cleaner through dark backstreets just to return it to the weird seller.",
+              "sentence_ru": "Мне пришлось тащить мой дешевый пылесос по темным задворкам только для того, чтобы вернуть его странному продавцу.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "I run through the dark backstreets while my past finally catches up to me.",
               "sentence_ru": "Я бегу по темным задворкам, пока мое прошлое наконец догоняет меня.",
               "word_form": "backstreets"
@@ -374,12 +384,12 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 993279,
+          "due_tick": 993327,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-27T07:30:22.486556+00:00",
-          "pending_msg": 97,
+          "last_sent_at": "2026-08-28T07:30:19.443427+00:00",
+          "pending_msg": 107,
           "reps": 0,
           "step": 0,
           "word": "backstreets",
@@ -389,11 +399,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993278,
+      "last_deliver_tick": 993279,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-28",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
