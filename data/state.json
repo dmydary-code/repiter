@@ -293,6 +293,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That weird smell in the elevator is an acquired stench I refuse to tolerate.",
+              "sentence_ru": "Эта странная вонь в лифте — приобретенное зловоние, которое я отказываюсь терпеть.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "I acquired this cursed ancient skull just to piss off my HOA.",
               "sentence_ru": "Я приобрел этот проклятый древний череп просто чтобы взбесить ТСЖ.",
               "word_form": "acquired"
@@ -311,20 +316,15 @@
               "sentence": "Your newly acquired fortune will vanish if you buy more designer cat wigs.",
               "sentence_ru": "Твое новоприобретенное состояние исчезнет, если ты купишь еще париков для кошек от кутюр.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "An acquired taste for goblin tears brings sudden chaos to your love life tomorrow.",
-              "sentence_ru": "Приобретенная тяга к слезам гоблинов завтра принесет внезапный хаос в твою личную жизнь.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993283,
+          "due_tick": 993345,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-27T09:30:25.750549+00:00",
-          "pending_msg": 101,
+          "last_sent_at": "2026-08-28T16:30:05.662558+00:00",
+          "pending_msg": 113,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -334,11 +334,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993296,
+      "last_deliver_tick": 993297,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-28",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -424,7 +424,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993296,
+      "last_deliver_tick": 993297,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-28",
