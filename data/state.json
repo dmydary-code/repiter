@@ -148,6 +148,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My terrible life choices somehow compound into this glorious, burning trash heap of despair.",
+              "sentence_ru": "Мои ужасные жизненные выборы почему-то соединяются в эту славную, пылающую кучу мусора отчаяния.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My terrible life choices only compound the misery of waking up.",
               "sentence_ru": "Мои ужасные жизненные выборы лишь усугубляют мучения от пробуждения.",
               "word_form": "compound"
@@ -164,12 +169,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 993340,
+          "due_tick": 993388,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-28T14:24:38.877966+00:00",
-          "pending_msg": 108,
+          "last_sent_at": "2026-08-29T14:00:31.476577+00:00",
+          "pending_msg": 133,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -354,11 +359,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993339,
+      "last_deliver_tick": 993340,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -511,6 +516,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
+              "sentence_ru": "Человек, если ты снова купишь дешевый сухой корм, я снесу этот тупой диван.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "I am going to demolish your new boyfriend's stupid face at 4 AM.",
               "sentence_ru": "Я собираюсь разнести тупое лицо твоего нового бойфренда в 4 часа утра.",
               "word_form": "demolish"
@@ -527,11 +537,12 @@
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 993337,
+          "due_tick": 993388,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-29T14:00:34.679997+00:00",
+          "pending_msg": 134,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -959,11 +970,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993339,
+      "last_deliver_tick": 993340,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
