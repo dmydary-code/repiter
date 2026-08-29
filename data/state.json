@@ -226,6 +226,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We encourage you to flush your goldfish down the toilet with maximum enthusiasm.",
+              "sentence_ru": "Мы поощряем смывание ваших золотых рыбок в унитаз с максимальным энтузиазмом.",
+              "word_form": "encourage"
+            },
+            {
               "sentence": "My weird therapist tried to encorage me, but I still hate my ex.",
               "sentence_ru": "Мой странный психотерапевт пытался меня подбодрить, но я всё равно ненавижу своего бывшего.",
               "word_form": "encorage"
@@ -242,12 +247,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 993284,
+          "due_tick": 993374,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-27T10:00:14.616038+00:00",
-          "pending_msg": 102,
+          "last_sent_at": "2026-08-29T07:00:07.858517+00:00",
+          "pending_msg": 114,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -334,11 +339,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993301,
+      "last_deliver_tick": 993326,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -351,6 +356,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "My ex-boyfriend's soul looks as drab as his mom's boiled cabbage.",
+              "sentence_ru": "Душа моего бывшего выглядит такой же унылой, как вареная капуста его мамы.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My soul is as drab as this cheap motel carpet, soaked in cheap whiskey and bad decisions.",
               "sentence_ru": "Моя душа так же уныла, как ковер в этом дешевом мотеле, пропитанный дешевым виски и дурными решениями.",
@@ -373,12 +383,12 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 993326,
+          "due_tick": 993374,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-08-28T07:00:06.606500+00:00",
-          "pending_msg": 105,
+          "last_sent_at": "2026-08-29T07:00:09.258056+00:00",
+          "pending_msg": 115,
           "reps": 0,
           "step": 0,
           "word": "drab",
@@ -424,11 +434,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993301,
+      "last_deliver_tick": 993326,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
