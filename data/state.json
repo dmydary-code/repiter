@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-29",
-  "offset": 71487516,
+  "offset": 71487517,
   "users": {
     "1090554427": {
       "cards": [
@@ -465,12 +465,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993386,
+          "due_tick": 993342,
           "id": "b624df5b77",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-29T13:01:12.796659+00:00",
-          "pending_msg": 131,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "gossip",
