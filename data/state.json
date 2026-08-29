@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-29",
-  "offset": 71487513,
+  "offset": 71487515,
   "users": {
     "1090554427": {
       "cards": [
@@ -657,6 +657,290 @@
           "step": 0,
           "word": "by and large",
           "word_ru": "в целом, в общем и целом, по большому счету"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "It would be hard to deny that my new sugar daddy is hotter than you.",
+              "sentence_ru": "Трудно отрицать, что мой новый папик горячее тебя.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
+              "sentence": "It would be hard to deny that you still cry into your pillow over my nudes.",
+              "sentence_ru": "Нельзя не признать, что ты всё ещё плачешь в подушку из-за моих голых фоток.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
+              "sentence": "It would be hard to deny that dumping me was the worst mistake of your pathetic life.",
+              "sentence_ru": "Трудно отрицать, что бросить меня было худшей ошибкой твоей жалкой жизни.",
+              "word_form": "It would be hard to deny that"
+            }
+          ],
+          "created_at": "2026-08-29T12:01:35.182307+00:00",
+          "due_tick": 993338,
+          "id": "0a85ee39ef",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "it would be hard to deny that",
+          "word_ru": "трудно отрицать, что; нельзя не признать, что"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "I hold the view that this cursed blender is actually possessed by a smoothie demon.",
+              "sentence_ru": "Я придерживаюсь мнения, что этот проклятый блендер на самом деле одержим демоном смузи.",
+              "word_form": "I hold the view that"
+            },
+            {
+              "sentence": "I hold the view that these skinny jeans were designed purely to torture my thighs.",
+              "sentence_ru": "Я считаю, что эти узкие джинсы были созданы исключительно для того, чтобы пытать мои бедра.",
+              "word_form": "I hold the view that"
+            },
+            {
+              "sentence": "I hold the view that the seller is a psychic wizard who read my lonely midnight desires.",
+              "sentence_ru": "Я придерживаюсь мнения, что продавец — маг-экстрасенс, который прочитал мои одиночные полуночные желания.",
+              "word_form": "I hold the view that"
+            }
+          ],
+          "created_at": "2026-08-29T12:01:53.038165+00:00",
+          "due_tick": 993338,
+          "id": "a416a94e6e",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "I hold the view that",
+          "word_ru": "я придерживаюсь мнения, что, я считаю, что"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "It seems to me your ex will steal your cat during a mercury retrograde.",
+              "sentence_ru": "Мне кажется, твой бывший украдет твоего кота во время ретроградного меркурия.",
+              "word_form": "It seems to me"
+            },
+            {
+              "sentence": "It seems to me you are about to marry a wealthy, extremely blind walrus.",
+              "sentence_ru": "Судя по всему, ты скоро выйдешь замуж за богатого, крайне слепого моржа.",
+              "word_form": "It seems to me"
+            },
+            {
+              "sentence": "It seems to me tomorrow you will insult a pigeon and lose all your money.",
+              "sentence_ru": "По-моему, завтра ты оскорбишь голубя и потеряешь все свои деньги.",
+              "word_form": "It seems to me"
+            }
+          ],
+          "created_at": "2026-08-29T12:02:32.650513+00:00",
+          "due_tick": 993338,
+          "id": "e9cb907104",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "it seems to me",
+          "word_ru": "мне кажется, судя по всему, по-моему"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "I'm inclined to think that my ex is stalking me through my smart fridge.",
+              "sentence_ru": "Я склоняюсь к мысли, что мой бывший следит за мной через мой умный холодильник.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
+              "sentence": "I'm inclined to think that pants are just leg prisons invented by demons.",
+              "sentence_ru": "Я склонен думать, что штаны — это просто тюрьмы для ног, изобретенные демонами.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
+              "sentence": "I'm inclined to think that glitter is the herpes of the craft world.",
+              "sentence_ru": "Я склоняюсь к мысли, что блестки — это герпес мира рукоделия.",
+              "word_form": "I'm inclined to think that"
+            }
+          ],
+          "created_at": "2026-08-29T12:03:24.338708+00:00",
+          "due_tick": 993338,
+          "id": "2c7cfcc022",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "I'm inclined to think that",
+          "word_ru": "я склоняюсь к мысли, что; я склонен думать, что"
+        },
+        {
+          "archived": false,
+          "cache": [],
+          "created_at": "2026-08-29T12:03:40.091424+00:00",
+          "due_tick": 993338,
+          "id": "949abe18a2",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "to adjust",
+          "word_ru": ""
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "My ex blocked me on all social media platforms altogether.",
+              "sentence_ru": "Мой бывший заблокировал меня во всех соцсетях разом и окончательно.",
+              "word_form": "altogether"
+            },
+            {
+              "sentence": "I am not altogether sure that eating this raw street meat was a good idea.",
+              "sentence_ru": "Я не совсем уверен, что поедание этого сырого уличного мяса было хорошей идеей.",
+              "word_form": "altogether"
+            },
+            {
+              "sentence": "The raccoon stole my wallet, my dignity, and my weekend plans altogether.",
+              "sentence_ru": "Енот разом украл мой кошелек, мое достоинство и мои планы на выходные.",
+              "word_form": "altogether"
+            }
+          ],
+          "created_at": "2026-08-29T12:05:00.451769+00:00",
+          "due_tick": 993338,
+          "id": "56692d5953",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "altogether",
+          "word_ru": "в целом, совсем, полностью"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Cyborg pigeons wire up the stolen nuclear launch codes to local pigeons.",
+              "sentence_ru": "Киборги-голуби подключают украденные ядерные коды к местным голубям.",
+              "word_form": "wire up"
+            },
+            {
+              "sentence": "Local maniacs wire up the city mayor to a giant espresso machine.",
+              "sentence_ru": "Местные маньяки подключают мэра города к гигантской эспрессо-машине.",
+              "word_form": "wire up"
+            },
+            {
+              "sentence": "Secret agents wire up every stray cat with explosive laser collars.",
+              "sentence_ru": "Секретные агенты начиняют каждого бродячего кота взрывными лазерными ошейниками.",
+              "word_form": "wire up"
+            }
+          ],
+          "created_at": "2026-08-29T12:05:24.590113+00:00",
+          "due_tick": 993338,
+          "id": "a4fcb2ea78",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "wire up",
+          "word_ru": "подключить проводами, соединить в сеть, заминировать"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Mutant cyborg pigeons suddenly seize up mid-air and rain onto the prime minister.",
+              "sentence_ru": "Мутировавшие кибернетические голуби внезапно заклинивают в воздухе и падают дождем на премьер-министра.",
+              "word_form": "seize up"
+            },
+            {
+              "sentence": "Local dictator's robotic jaw tends to seize up whenever journalists mention taxes.",
+              "sentence_ru": "Роботизированная челюсть местного диктатора имеет свойство заклинивать, когда журналисты упоминают налоги.",
+              "word_form": "seize up"
+            },
+            {
+              "sentence": "Time-traveling hipsters completely seize up when they realize the past has no Wi-Fi.",
+              "sentence_ru": "Путешествующие во времени хипстеры полностью цепенеют, когда осознают, что в прошлом нет вай-фая.",
+              "word_form": "seize up"
+            }
+          ],
+          "created_at": "2026-08-29T12:05:26.408952+00:00",
+          "due_tick": 993338,
+          "id": "b7d191b063",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "to seize up",
+          "word_ru": "заклинить, застопориться, оцепенеть"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "I need to ramp up my weird voice messages to you at 3 AM.",
+              "sentence_ru": "Мне нужно нарастить количество моих странных голосовых сообщений тебе в 3 часа ночи.",
+              "word_form": "ramp up"
+            },
+            {
+              "sentence": "Let's ramp up the drama and pretend you never blocked me, baby.",
+              "sentence_ru": "Давай усилим драму и сделаем вид, что ты меня никогда не блокировала, детка.",
+              "word_form": "ramp up"
+            },
+            {
+              "sentence": "My obsession is about to ramp up because I just finished a bottle of wine.",
+              "sentence_ru": "Моя одержимость сейчас пойдет на повышение, потому что я только что допил бутылку вина.",
+              "word_form": "ramp up"
+            }
+          ],
+          "created_at": "2026-08-29T12:05:27.959704+00:00",
+          "due_tick": 993338,
+          "id": "d698cc24d3",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "ramp up",
+          "word_ru": "наращивать, увеличивать, усиливать"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Why must I always impose my toxic insecurities on people who just wanted coffee?",
+              "sentence_ru": "Почему я вечно должен навязывать свои токсичные комплексы людям, которые просто хотели кофе?",
+              "word_form": "impose"
+            },
+            {
+              "sentence": "The cruel universe decided to impose a mandatory existential crisis right before my date.",
+              "sentence_ru": "Жестокая вселенная решила навязать мне обязательный экзистенциальный кризис прямо перед моим свиданием.",
+              "word_form": "impose"
+            },
+            {
+              "sentence": "I refused to impose silence on my inner demons, let them scream in 4K.",
+              "sentence_ru": "Я отказался навязывать тишину своим внутренним демонам, пусть орут в 4K.",
+              "word_form": "impose"
+            }
+          ],
+          "created_at": "2026-08-29T12:05:29.102440+00:00",
+          "due_tick": 993338,
+          "id": "72bf877189",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "impose",
+          "word_ru": "навязывать, облагать, налагать"
         }
       ],
       "chat_id": 729233651,
