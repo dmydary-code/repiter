@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even in my humble pajamas, I still know you miss this absolute king at 3 AM.",
+              "sentence_ru": "Даже в своей скромной пижаме я всё еще знаю, что ты скучаешь по этому абсолютному королю в 3 часа ночи.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Humble cult leader finally admits his alien overlords just wanted a quiet weekend.",
               "sentence_ru": "Скромный лидер секты наконец признает, что его инопланетные повелители просто хотели провести тихие выходные.",
               "word_form": "Humble"
@@ -25,12 +30,12 @@
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993326,
+          "due_tick": 993376,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-28T07:00:05.253695+00:00",
-          "pending_msg": 104,
+          "last_sent_at": "2026-08-29T08:00:05.883046+00:00",
+          "pending_msg": 118,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -344,11 +349,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993327,
+      "last_deliver_tick": 993328,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -444,7 +449,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993327,
+      "last_deliver_tick": 993328,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
