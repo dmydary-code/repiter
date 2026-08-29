@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-29",
-  "offset": 71487512,
+  "offset": 71487513,
   "users": {
     "1090554427": {
       "cards": [
@@ -354,7 +354,7 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993335,
+      "last_deliver_tick": 993336,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
@@ -449,12 +449,220 @@
           "step": 1,
           "word": "backstreets",
           "word_ru": "трущобы, захолустные улицы, переулки"
+        },
+        {
+          "archived": false,
+          "cache": [],
+          "created_at": "2026-08-29T11:53:01.080333+00:00",
+          "due_tick": 993337,
+          "id": "b624df5b77",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "gossip",
+          "word_ru": ""
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Tomorrow your ex will finally flourish in a dumpster fire of bad life choices.",
+              "sentence_ru": "Завтра твой бывший наконец-то расцветет в мусорном баке плохих жизненных выборов.",
+              "word_form": "flourish"
+            },
+            {
+              "sentence": "Your bank account will flourish after you secretly sell your annoying roommate's organs.",
+              "sentence_ru": "Твой банковский счет зацветет буйным цветом после того, как ты тайком продашь органы надоедливого соседа.",
+              "word_form": "flourish"
+            },
+            {
+              "sentence": "Virgos will flourish tomorrow while aggressively judging everyone else's cheap outfits.",
+              "sentence_ru": "Девы завтра будут процветать, агрессивно осуждая дешевые шмотки всех остальных.",
+              "word_form": "flourish"
+            }
+          ],
+          "created_at": "2026-08-29T11:55:13.315751+00:00",
+          "due_tick": 993337,
+          "id": "a6c2ac26cd",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "to flourish",
+          "word_ru": "процветать, расцветать"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "I am going to demolish your new boyfriend's stupid face at 4 AM.",
+              "sentence_ru": "Я собираюсь разнести тупое лицо твоего нового бойфренда в 4 часа утра.",
+              "word_form": "demolish"
+            },
+            {
+              "sentence": "My therapist told me to demolish my toxic attachments, so I blocked you everywhere.",
+              "sentence_ru": "Мой психотерапевт велел уничтожить токсичные привязанности, поэтому я заблокировал тебя везде.",
+              "word_form": "demolish"
+            },
+            {
+              "sentence": "We demolished an entire large pizza alone while crying to our old shared playlist.",
+              "sentence_ru": "Мы вдрызг умяли целую большую пиццу в одиночку, рыдая под наш старый общий плейлист.",
+              "word_form": "demolished"
+            }
+          ],
+          "created_at": "2026-08-29T11:56:16.633988+00:00",
+          "due_tick": 993337,
+          "id": "24c6f44226",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "to demolish",
+          "word_ru": "сносить, разрушать, уничтожать"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "All residents must undergo immediate psychiatric evaluation before paying water bills.",
+              "sentence_ru": "Все жильцы должны пройти внеплановое психиатрическое освидетельствование перед оплатой счетов за воду.",
+              "word_form": "undergo"
+            },
+            {
+              "sentence": "If your mutt barks at night, it will undergo aggressive cybernetic modification.",
+              "sentence_ru": "Если ваша шавка лает по ночам, она подвергнется агрессивной кибернетической модификации.",
+              "word_form": "undergo"
+            },
+            {
+              "sentence": "The elevator has to undergo a ritual sacrifice to work on odd dates.",
+              "sentence_ru": "Лифт должен пройти ритуальное жертвоприношение, чтобы работать по нечетным числам.",
+              "word_form": "undergo"
+            }
+          ],
+          "created_at": "2026-08-29T11:57:25.251148+00:00",
+          "due_tick": 993337,
+          "id": "4fea416258",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "to undergo",
+          "word_ru": "подвергнуться, перенести, проходить"
+        },
+        {
+          "archived": false,
+          "cache": [],
+          "created_at": "2026-08-29T11:58:28.644560+00:00",
+          "due_tick": 993338,
+          "id": "f8c593a6d8",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "to emerge",
+          "word_ru": ""
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Due to the influx of mutant pigeons, the elevator is closed until next Tuesday.",
+              "sentence_ru": "Из-за наплыва мутировавших голубей лифт не работает до следующего вторника.",
+              "word_form": "influx"
+            },
+            {
+              "sentence": "An unexpected influx of weird cultists means you should hide your cats immediately.",
+              "sentence_ru": "Неожиданный приток странных сектантов означает, что вам нужно немедленно спрятать котов.",
+              "word_form": "influx"
+            },
+            {
+              "sentence": "Stop dumping trash, or the influx of angry rats will legally evict you all.",
+              "sentence_ru": "Хватит сваливать мусор, иначе наплыв расъяренных крыс выселит вас всех по закону.",
+              "word_form": "influx"
+            }
+          ],
+          "created_at": "2026-08-29T12:00:40.836638+00:00",
+          "due_tick": 993338,
+          "id": "fc7abba39f",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "influx",
+          "word_ru": "наплыв, приток"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Now and then someone steals the doormat, so please chain your grandmothers inside.",
+              "sentence_ru": "Время от времени кто-то ворует коврик, так что приковывайте бабушек цепями внутри.",
+              "word_form": "Now and then"
+            },
+            {
+              "sentence": "The elevator drops to the basement now and then, enjoy the free extreme ride.",
+              "sentence_ru": "Лифт время от времени падает в подвал, наслаждайтесь бесплатным экстремальным аттракционом.",
+              "word_form": "now and then"
+            },
+            {
+              "sentence": "Now and then a sober plumber visits us, but don't count on this miracle.",
+              "sentence_ru": "Изредка к нам заглядывает трезвый сантехник, но не рассчитывайте на это чудо.",
+              "word_form": "Now and then"
+            }
+          ],
+          "created_at": "2026-08-29T12:00:56.716514+00:00",
+          "due_tick": 993338,
+          "id": "bfa6d7c76d",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "now and then",
+          "word_ru": "время от времени, изредка, то и дело"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "By and large, your loud midnight techno parties are fine, but the corpse in the hallway smells.",
+              "sentence_ru": "В целом, твои громкие полуночные техно-вечеринки — это нормально, но труп в коридоре воняет.",
+              "word_form": "By and large"
+            },
+            {
+              "sentence": "By and large, whoever keeps stealing my matching socks from the dryer is a pathetic goblin.",
+              "sentence_ru": "В общем и целом, тот, кто продолжает воровать мои парные носки из сушилки — жалкий гоблин.",
+              "word_form": "By and large"
+            },
+            {
+              "sentence": "By and large, this elevator is safe, unless you weigh more than a very sad hippopotamus.",
+              "sentence_ru": "По большому счету, этот лифт безопасен, если только вы не весите больше очень грустного бегемота.",
+              "word_form": "By and large"
+            }
+          ],
+          "created_at": "2026-08-29T12:00:57.855772+00:00",
+          "due_tick": 993338,
+          "id": "c1cf472110",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "by and large",
+          "word_ru": "в целом, в общем и целом, по большому счету"
         }
       ],
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993335,
+      "last_deliver_tick": 993336,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
