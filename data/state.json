@@ -117,6 +117,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your midnight howling tries to undermine my authority, human, but I still own this couch.",
+              "sentence_ru": "Твой полуночный вой пытается подорвать мой авторитет, кожаная, но этот диван всё ещё мой.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "These cheap Chinese shoes tried to undermine my faith in humanity with every step.",
               "sentence_ru": "Эти дешевые китайские туфли пытались подорвать мою веру в человечество с каждым шагом.",
               "word_form": "undermine"
@@ -133,12 +138,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993343,
+          "due_tick": 993391,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-28T15:30:08.508794+00:00",
-          "pending_msg": 111,
+          "last_sent_at": "2026-08-29T15:30:23.269392+00:00",
+          "pending_msg": 137,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -369,11 +374,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993342,
+      "last_deliver_tick": 993343,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -980,7 +985,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993342,
+      "last_deliver_tick": 993343,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
