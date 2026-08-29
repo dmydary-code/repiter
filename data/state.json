@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-29",
-  "offset": 71487508,
+  "offset": 71487509,
   "users": {
     "1090554427": {
       "cards": [
@@ -439,14 +439,14 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 993375,
+          "due_tick": 993347,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
           "last_sent_at": "2026-08-29T07:30:21.135617+00:00",
-          "pending_msg": 117,
-          "reps": 0,
-          "step": 0,
+          "pending_msg": null,
+          "reps": 1,
+          "step": 1,
           "word": "backstreets",
           "word_ru": "трущобы, захолустные улицы, переулки"
         }
