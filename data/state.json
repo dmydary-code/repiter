@@ -354,7 +354,7 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993337,
+      "last_deliver_tick": 993338,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
@@ -452,17 +452,24 @@
         },
         {
           "archived": false,
-          "cache": [],
+          "cache": [
+            {
+              "sentence": "My cat started to gossip with the toaster about my dating life.",
+              "sentence_ru": "Мой кот начал сплетничать с тостером о моей личной жизни.",
+              "word_form": "gossip"
+            }
+          ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993337,
+          "due_tick": 993386,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-29T13:01:12.796659+00:00",
+          "pending_msg": 131,
           "reps": 0,
           "step": 0,
           "word": "gossip",
-          "word_ru": ""
+          "word_ru": "сплетни, сплетничать, слухи"
         },
         {
           "archived": false,
@@ -946,11 +953,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993337,
+      "last_deliver_tick": 993338,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
