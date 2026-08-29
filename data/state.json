@@ -354,7 +354,7 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993334,
+      "last_deliver_tick": 993335,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
@@ -371,6 +371,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Tomorrow your ex will look as drab as a wet pigeon in a puddle.",
+              "sentence_ru": "Завтра твой бывший будет выглядеть таким же унылым, как мокрый голубь в луже.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Your soul is as drab as this Tuesday morning accounting report, Kevin.",
               "sentence_ru": "Твоя душа такая же унылая, как этот утренний бухгалтерский отчет за вторник, Кевин.",
@@ -390,20 +395,15 @@
               "sentence": "Your ex's personality is so drab that even wallpaper tries to peel off.",
               "sentence_ru": "Характер твоего бывшего такой унылый, что даже обои пытаются отклеиться.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My ex's personality was so drab that even the houseplants refused to grow near him.",
-              "sentence_ru": "Характер моего бывшего был настолько унылым, что даже комнатные растения отказывались расти рядом с ним.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 993335,
+          "due_tick": 993383,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-08-29T10:30:18.716212+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-08-29T11:30:49.351235+00:00",
+          "pending_msg": 121,
           "reps": 0,
           "step": 0,
           "word": "drab",
@@ -454,11 +454,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993334,
+      "last_deliver_tick": 993335,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-29",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
