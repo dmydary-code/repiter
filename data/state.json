@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487539,
+  "offset": 71487540,
   "users": {
     "1090554427": {
       "cards": [
@@ -644,6 +644,36 @@
           "step": 0,
           "word": "stuck",
           "word_ru": "застрявший, застрял"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "My pet raccoon looked suspiciously submissive before stealing my car keys.",
+              "sentence_ru": "Мой домашний енот выглядел подозрительно покорным перед тем, как украсть ключи от моей машины.",
+              "word_form": "submissive"
+            },
+            {
+              "sentence": "He tried to sound submissive while arguing with a very angry toaster.",
+              "sentence_ru": "Он пытался звучать услужливо, споря с очень злым тостером.",
+              "word_form": "submissive"
+            },
+            {
+              "sentence": "A truly submissive microwave always accepts burnt popcorn without complaining.",
+              "sentence_ru": "По-настоящему покорная микроволновка всегда принимает горелый попкорн без жалоб.",
+              "word_form": "submissive"
+            }
+          ],
+          "created_at": "2026-08-30T20:28:36.007472+00:00",
+          "due_tick": 993402,
+          "id": "9544f98cfa",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "submissive",
+          "word_ru": "покорный, услужливый, подчиненный"
         }
       ],
       "chat_id": 1090554427,
