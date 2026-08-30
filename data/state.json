@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487520,
+  "offset": 71487521,
   "users": {
     "1090554427": {
       "cards": [
@@ -629,12 +629,12 @@
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993423,
+          "due_tick": 993380,
           "id": "f8c593a6d8",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-30T07:30:35.739076+00:00",
-          "pending_msg": 141,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
