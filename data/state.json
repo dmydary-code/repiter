@@ -1,18 +1,13 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487525,
+  "offset": 71487519,
   "users": {
     "1090554427": {
       "cards": [
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Even my humble apologies at 3 AM won't fix how I ruined your life.",
-              "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как я испортил тебе жизнь.",
-              "word_form": "humble"
-            },
             {
               "sentence": "Even in my humble pajamas, I still know you miss this absolute king at 3 AM.",
               "sentence_ru": "Даже в своей скромной пижаме я всё еще знаю, что ты скучаешь по этому абсолютному королю в 3 часа ночи.",
@@ -35,12 +30,12 @@
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993426,
+          "due_tick": 993376,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T09:00:32.281445+00:00",
-          "pending_msg": 146,
+          "last_sent_at": "2026-08-29T08:00:05.883046+00:00",
+          "pending_msg": 118,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -49,11 +44,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "A cheeky astrologer will steal your wallet tomorrow and predict your sudden poverty.",
-              "sentence_ru": "Наглый астролог завтра украдет твой кошелек и предскажет твою внезапную нищету.",
-              "word_form": "cheeky"
-            },
             {
               "sentence": "That cheeky raccoon stole my last taco and didn't even apologize.",
               "sentence_ru": "Этот наглый енот украл мой последний тако и даже не извинился.",
@@ -76,12 +66,12 @@
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 993427,
+          "due_tick": 993377,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T09:30:02.318678+00:00",
-          "pending_msg": 148,
+          "last_sent_at": "2026-08-29T08:30:16.121418+00:00",
+          "pending_msg": 119,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -90,11 +80,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "The sex doll arrived slightly deflated, but my uncle still rated it five stars.",
-              "sentence_ru": "Секс-кукла приехала слегка сдутой, но дядя всё равно поставил пять звезд.",
-              "word_form": "slightly"
-            },
             {
               "sentence": "My pet goblin is slightly glowing after eating radioactive laundry detergent.",
               "sentence_ru": "Мой домашний гоблин слегка светится после того, как съел радиоактивный стиральный порошок.",
@@ -117,12 +102,12 @@
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 993425,
+          "due_tick": 993375,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T08:30:13.757888+00:00",
-          "pending_msg": 144,
+          "last_sent_at": "2026-08-29T07:30:19.627131+00:00",
+          "pending_msg": 116,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -276,11 +261,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "These spicy dildos encorage me to conquer new heights in bedroom sports.",
-              "sentence_ru": "Эти острые фаллоимитаторы поощряют меня покорять новые высоты в спальном спорте.",
-              "word_form": "encorage"
-            },
-            {
               "sentence": "We encourage you to flush your goldfish down the toilet with maximum enthusiasm.",
               "sentence_ru": "Мы поощряем смывание ваших золотых рыбок в унитаз с максимальным энтузиазмом.",
               "word_form": "encourage"
@@ -302,12 +282,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 993424,
+          "due_tick": 993374,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T08:00:18.297261+00:00",
-          "pending_msg": 142,
+          "last_sent_at": "2026-08-29T07:00:07.858517+00:00",
+          "pending_msg": 114,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -358,8 +338,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Pam, this acquired taste for expensive scotch is ruining our department budget.",
-              "sentence_ru": "Пэм, этот приобретенный вкус к дорогому виски разоряет бюджет нашего отдела.",
+              "sentence": "That taste for expensive tequila you acquired from me is still ruining my credit score.",
+              "sentence_ru": "Твой вкус к дорогой текиле, который ты приобрел со мной, все еще портит мой кредитный рейтинг.",
               "word_form": "acquired"
             },
             {
@@ -384,12 +364,12 @@
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993423,
+          "due_tick": 993427,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T07:30:26.035207+00:00",
-          "pending_msg": 140,
+          "last_sent_at": "2026-08-30T09:53:44.093809+00:00",
+          "pending_msg": 150,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -403,7 +383,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 6,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -613,12 +593,12 @@
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 993380,
+          "due_tick": 993422,
           "id": "4fea416258",
           "lang": "en",
-          "lapses": 1,
+          "lapses": 0,
           "last_sent_at": "2026-08-30T07:00:41.444780+00:00",
-          "pending_msg": null,
+          "pending_msg": 139,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -628,18 +608,18 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Tomorrow you will emerge from a dumpster smelling like cheap gin and pure destiny.",
-              "sentence_ru": "Завтра вы вылезнете из мусорного бака с ароматом дешевого джина и чистой судьбы.",
+              "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
+              "sentence_ru": "Моя бывшая обязана была вынырнуть из кустов именно тогда, когда я выглядел максимально отвратительно.",
               "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993380,
+          "due_tick": 993427,
           "id": "f8c593a6d8",
           "lang": "en",
-          "lapses": 1,
-          "last_sent_at": "2026-08-30T07:30:35.739076+00:00",
-          "pending_msg": null,
+          "lapses": 0,
+          "last_sent_at": "2026-08-30T09:53:45.174928+00:00",
+          "pending_msg": 151,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -648,11 +628,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "The sudden influx of aggressive badgers ruined my expensive underground techno party.",
-              "sentence_ru": "Внезапный наплыв агрессивных барсуков испортил мою дорогую подземную техно-вечеринку.",
-              "word_form": "influx"
-            },
             {
               "sentence": "Due to the influx of mutant pigeons, the elevator is closed until next Tuesday.",
               "sentence_ru": "Из-за наплыва мутировавших голубей лифт не работает до следующего вторника.",
@@ -670,12 +645,11 @@
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 993380,
+          "due_tick": 993338,
           "id": "fc7abba39f",
           "lang": "en",
-          "lapses": 1,
-          "last_sent_at": "2026-08-30T08:00:56.870657+00:00",
-          "pending_msg": null,
+          "lapses": 0,
+          "last_sent_at": null,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -684,11 +658,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "My sanity crumbles, yet now and then a terrifying clarity whispers that I deserve this.",
-              "sentence_ru": "Мой рассудок рушится, но время от времени пугающая ясность шепчет, что я заслужил это.",
-              "word_form": "now and then"
-            },
             {
               "sentence": "Now and then someone steals the doormat, so please chain your grandmothers inside.",
               "sentence_ru": "Время от времени кто-то ворует коврик, так что приковывайте бабушек цепями внутри.",
@@ -706,12 +675,11 @@
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 993380,
+          "due_tick": 993338,
           "id": "bfa6d7c76d",
           "lang": "en",
-          "lapses": 1,
-          "last_sent_at": "2026-08-30T08:30:15.139867+00:00",
-          "pending_msg": null,
+          "lapses": 0,
+          "last_sent_at": null,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -720,11 +688,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "By and large, mutant raccoons took over Washington and lowered taxes on garbage.",
-              "sentence_ru": "В общем и целом, мутировавшие еноты захватили Вашингтон и снизили налоги на мусор.",
-              "word_form": "By and large"
-            },
             {
               "sentence": "By and large, your loud midnight techno parties are fine, but the corpse in the hallway smells.",
               "sentence_ru": "В целом, твои громкие полуночные техно-вечеринки — это нормально, но труп в коридоре воняет.",
@@ -742,12 +705,11 @@
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 993380,
+          "due_tick": 993338,
           "id": "c1cf472110",
           "lang": "en",
-          "lapses": 1,
-          "last_sent_at": "2026-08-30T09:00:37.847986+00:00",
-          "pending_msg": null,
+          "lapses": 0,
+          "last_sent_at": null,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -756,11 +718,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "It would be hard to deny that my new sugar daddy is way hotter than you.",
-              "sentence_ru": "Трудно отрицать, что мой новый папик намного горячее тебя.",
-              "word_form": "It would be hard to deny that"
-            },
             {
               "sentence": "It would be hard to deny that my new sugar daddy is hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый папик горячее тебя.",
@@ -778,14 +735,13 @@
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 993395,
+          "due_tick": 993338,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T09:30:03.490199+00:00",
-          "pending_msg": null,
-          "reps": 1,
-          "step": 1,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
           "word": "it would be hard to deny that",
           "word_ru": "трудно отрицать, что; нельзя не признать, что"
         },
@@ -1051,7 +1007,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 6,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
