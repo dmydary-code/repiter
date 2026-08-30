@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487534,
+  "offset": 71487535,
   "users": {
     "1090554427": {
       "cards": [
@@ -494,12 +494,42 @@
           "step": 0,
           "word": "mince words",
           "word_ru": "подбирать выражения, сглаживать углы"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Me and the delivery guy hit it off when we both dropped our energy drinks.",
+              "sentence_ru": "Мы с курьером сразу сошлись, когда оба уронили свои энергетики.",
+              "word_form": "hit it off"
+            },
+            {
+              "sentence": "I thought we would hit it off, but this blender just wants to murder my fingers.",
+              "sentence_ru": "Я думал, мы найдем общий язык, но этот блендер просто хочет убить мои пальцы.",
+              "word_form": "hit it off"
+            },
+            {
+              "sentence": "My cat and the vacuum cleaner didn't hit it off and now my flat smells like burnt plastic.",
+              "sentence_ru": "Мой кот и пылесос не сошлись характерами, и теперь в квартире пахнет паленым пластиком.",
+              "word_form": "hit it off"
+            }
+          ],
+          "created_at": "2026-08-30T18:31:17.602286+00:00",
+          "due_tick": 993399,
+          "id": "2318b21371",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "hit it off",
+          "word_ru": "найти общий язык, сразу сойтись, подружиться"
         }
       ],
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993396,
+      "last_deliver_tick": 993397,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
@@ -1159,7 +1189,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993396,
+      "last_deliver_tick": 993397,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
