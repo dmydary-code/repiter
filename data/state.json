@@ -168,8 +168,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My ex built a ridiculous compound for cats, and now he lives there too.",
-              "sentence_ru": "Мой бывший построил нелепый комплекс для кошек, и теперь он тоже там живет.",
+              "sentence": "Tomorrow you will accidentally blow up your ex's secret compound with pure spite.",
+              "sentence_ru": "Завтра ты случайно взорвешь секретный компаунд твоего бывшего из чистой злости.",
               "word_form": "compound"
             },
             {
@@ -194,12 +194,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 993436,
+          "due_tick": 993439,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T14:00:20.156668+00:00",
-          "pending_msg": 162,
+          "last_sent_at": "2026-08-30T15:34:10.193469+00:00",
+          "pending_msg": 164,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -208,11 +208,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "A massive hangover will devastate your bank account after tonight's club binge, Aries.",
-              "sentence_ru": "Мощное похмелье опустошит твой банковский счет после ночного клубяшника, Овен.",
-              "word_form": "devastate"
-            },
             {
               "sentence": "That wild party in apt 42 didn't just devastate the floor, it killed my soul.",
               "sentence_ru": "Такая дикая вечеринка в 42-й квартире не просто разгромила пол, она убила мою душу.",
@@ -235,12 +230,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 993437,
+          "due_tick": 993389,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T14:30:18.832168+00:00",
-          "pending_msg": 163,
+          "last_sent_at": "2026-08-29T14:30:14.180204+00:00",
+          "pending_msg": 135,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -413,7 +408,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
