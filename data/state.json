@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487537,
+  "offset": 71487538,
   "users": {
     "1090554427": {
       "cards": [
@@ -584,6 +584,36 @@
           "step": 0,
           "word": "rolling in money",
           "word_ru": "купающийся в деньгах, богатый"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "This willful cat bit my finger just because I didn't buy the expensive organic salmon.",
+              "sentence_ru": "Этот своенравный кот укусил меня за палец просто потому, что я не купил дорогой органический лосось.",
+              "word_form": "willful"
+            },
+            {
+              "sentence": "Her willful refusal to assemble this trash wardrobe cost me three hours of my sanity.",
+              "sentence_ru": "Её упрямый отказ собирать этот мусорный шкаф стоил мне трёх часов рассудка.",
+              "word_form": "willful"
+            },
+            {
+              "sentence": "The seller's willful ignoring of my broken dildo delivery makes me rage hard.",
+              "sentence_ru": "Преднамеренное игнорирование продавцом доставки моего сломанного дилдо вызывает у меня дикую ярость.",
+              "word_form": "willful"
+            }
+          ],
+          "created_at": "2026-08-30T20:18:35.120393+00:00",
+          "due_tick": 993402,
+          "id": "da53cb26af",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "willful",
+          "word_ru": "своенравный, упрямый, преднамеренный"
         }
       ],
       "chat_id": 1090554427,
