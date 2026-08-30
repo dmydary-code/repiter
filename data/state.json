@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487524,
+  "offset": 71487525,
   "users": {
     "1090554427": {
       "cards": [
@@ -778,14 +778,14 @@
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 993427,
+          "due_tick": 993395,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
           "last_sent_at": "2026-08-30T09:30:03.490199+00:00",
-          "pending_msg": 149,
-          "reps": 0,
-          "step": 0,
+          "pending_msg": null,
+          "reps": 1,
+          "step": 1,
           "word": "it would be hard to deny that",
           "word_ru": "трудно отрицать, что; нельзя не признать, что"
         },
