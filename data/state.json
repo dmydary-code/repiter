@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487531,
+  "offset": 71487532,
   "users": {
     "1090554427": {
       "cards": [
@@ -404,12 +404,42 @@
           "step": 0,
           "word": "acquired",
           "word_ru": "приобретенный, полученный"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Whenever Greg brings fish to the office, HR has to evacuate the entire floor.",
+              "sentence_ru": "Всякий раз, когда Грег приносит в офис рыбу, отделу кадров приходится эвакуировать весь этаж.",
+              "word_form": "Whenever"
+            },
+            {
+              "sentence": "You can use my stolen stapler whenever your soul feels equally dead and empty.",
+              "sentence_ru": "Можешь пользоваться моим украденным степлером, когда твоя душа почувствует себя такой же мертвой и пустой.",
+              "word_form": "whenever"
+            },
+            {
+              "sentence": "Call me an ambulance whenever boss starts talking about corporate synergy again.",
+              "sentence_ru": "Вызови мне скорую, когда бы шеф снова ни завел речь о корпоративной синергии.",
+              "word_form": "whenever"
+            }
+          ],
+          "created_at": "2026-08-30T18:09:08.382193+00:00",
+          "due_tick": 993398,
+          "id": "e107b86335",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "whenever",
+          "word_ru": "когда бы ни, всякий раз когда, когда угодно"
         }
       ],
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993392,
+      "last_deliver_tick": 993396,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
@@ -1069,7 +1099,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993392,
+      "last_deliver_tick": 993396,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
