@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487540,
+  "offset": 71487541,
   "users": {
     "1090554427": {
       "cards": [
@@ -674,6 +674,36 @@
           "step": 0,
           "word": "submissive",
           "word_ru": "покорный, услужливый, подчиненный"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Your business acumen is the only reason you can afford divorce lawyers now.",
+              "sentence_ru": "Твоя деловая проницательность — единственная причина, почему ты можешь позволить себе адвокатов по разводам.",
+              "word_form": "acumen"
+            },
+            {
+              "sentence": "I used my financial acumen to buy crypto instead of paying rent, wyd?",
+              "sentence_ru": "Я использовал свое финансовое чутье, чтобы купить крипту вместо аренды, че делаешь?",
+              "word_form": "acumen"
+            },
+            {
+              "sentence": "With your zero acumen, you still thought you could play me at 3 AM.",
+              "sentence_ru": "С твоей нулевой сообразительностью ты все еще думал, что сможешь меня провести в 3 часа ночи.",
+              "word_form": "acumen"
+            }
+          ],
+          "created_at": "2026-08-30T20:29:29.624977+00:00",
+          "due_tick": 993402,
+          "id": "e92b1da67c",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "acumen",
+          "word_ru": "проницательность, сообразительность, чутье"
         }
       ],
       "chat_id": 1090554427,
