@@ -261,6 +261,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "These spicy dildos encorage me to conquer new heights in bedroom sports.",
+              "sentence_ru": "Эти острые фаллоимитаторы поощряют меня покорять новые высоты в спальном спорте.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "We encourage you to flush your goldfish down the toilet with maximum enthusiasm.",
               "sentence_ru": "Мы поощряем смывание ваших золотых рыбок в унитаз с максимальным энтузиазмом.",
               "word_form": "encourage"
@@ -282,12 +287,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 993374,
+          "due_tick": 993424,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-29T07:00:07.858517+00:00",
-          "pending_msg": 114,
+          "last_sent_at": "2026-08-30T08:00:18.297261+00:00",
+          "pending_msg": 142,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -379,11 +384,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993375,
+      "last_deliver_tick": 993376,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -629,6 +634,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The sudden influx of aggressive badgers ruined my expensive underground techno party.",
+              "sentence_ru": "Внезапный наплыв агрессивных барсуков испортил мою дорогую подземную техно-вечеринку.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "Due to the influx of mutant pigeons, the elevator is closed until next Tuesday.",
               "sentence_ru": "Из-за наплыва мутировавших голубей лифт не работает до следующего вторника.",
               "word_form": "influx"
@@ -645,11 +655,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 993338,
+          "due_tick": 993424,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-30T08:00:56.870657+00:00",
+          "pending_msg": 143,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1003,11 +1014,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993375,
+      "last_deliver_tick": 993376,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
