@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487519,
+  "offset": 71487520,
   "users": {
     "1090554427": {
       "cards": [
@@ -608,12 +608,12 @@
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 993422,
+          "due_tick": 993380,
           "id": "4fea416258",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-30T07:00:41.444780+00:00",
-          "pending_msg": 139,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
