@@ -81,6 +81,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The sex doll arrived slightly deflated, but my uncle still rated it five stars.",
+              "sentence_ru": "Секс-кукла приехала слегка сдутой, но дядя всё равно поставил пять звезд.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My pet goblin is slightly glowing after eating radioactive laundry detergent.",
               "sentence_ru": "Мой домашний гоблин слегка светится после того, как съел радиоактивный стиральный порошок.",
               "word_form": "slightly"
@@ -102,12 +107,12 @@
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 993375,
+          "due_tick": 993425,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-29T07:30:19.627131+00:00",
-          "pending_msg": 116,
+          "last_sent_at": "2026-08-30T08:30:13.757888+00:00",
+          "pending_msg": 144,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -384,11 +389,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993376,
+      "last_deliver_tick": 993377,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -670,6 +675,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My sanity crumbles, yet now and then a terrifying clarity whispers that I deserve this.",
+              "sentence_ru": "Мой рассудок рушится, но время от времени пугающая ясность шепчет, что я заслужил это.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Now and then someone steals the doormat, so please chain your grandmothers inside.",
               "sentence_ru": "Время от времени кто-то ворует коврик, так что приковывайте бабушек цепями внутри.",
               "word_form": "Now and then"
@@ -686,11 +696,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 993338,
+          "due_tick": 993425,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-30T08:30:15.139867+00:00",
+          "pending_msg": 145,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1014,11 +1025,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993376,
+      "last_deliver_tick": 993377,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
