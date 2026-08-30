@@ -338,6 +338,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Pam, this acquired taste for expensive scotch is ruining our department budget.",
+              "sentence_ru": "Пэм, этот приобретенный вкус к дорогому виски разоряет бюджет нашего отдела.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That weird smell in the elevator is an acquired stench I refuse to tolerate.",
               "sentence_ru": "Эта странная вонь в лифте — приобретенное зловоние, которое я отказываюсь терпеть.",
               "word_form": "acquired"
@@ -356,20 +361,15 @@
               "sentence": "He acquired a stolen bicycle from apartment 48 to escape police.",
               "sentence_ru": "Он приобрел краденый велосипед из квартиры 48, чтобы сбежать от полиции.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Your newly acquired fortune will vanish if you buy more designer cat wigs.",
-              "sentence_ru": "Твое новоприобретенное состояние исчезнет, если ты купишь еще париков для кошек от кутюр.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993345,
+          "due_tick": 993423,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-28T16:30:05.662558+00:00",
-          "pending_msg": 113,
+          "last_sent_at": "2026-08-30T07:30:26.035207+00:00",
+          "pending_msg": 140,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -379,11 +379,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993374,
+      "last_deliver_tick": 993375,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -606,17 +606,24 @@
         },
         {
           "archived": false,
-          "cache": [],
+          "cache": [
+            {
+              "sentence": "Tomorrow you will emerge from a dumpster smelling like cheap gin and pure destiny.",
+              "sentence_ru": "Завтра вы вылезнете из мусорного бака с ароматом дешевого джина и чистой судьбы.",
+              "word_form": "emerge"
+            }
+          ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993338,
+          "due_tick": 993423,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-30T07:30:35.739076+00:00",
+          "pending_msg": 141,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
-          "word_ru": ""
+          "word_ru": "появляться, возникать, всплывать"
         },
         {
           "archived": false,
@@ -996,11 +1003,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993374,
+      "last_deliver_tick": 993375,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
