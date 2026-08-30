@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487519,
+  "offset": 71487530,
   "users": {
     "1090554427": {
       "cards": [
@@ -624,12 +624,12 @@
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993427,
+          "due_tick": 993383,
           "id": "f8c593a6d8",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-30T09:53:45.174928+00:00",
-          "pending_msg": 151,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -660,12 +660,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 993428,
+          "due_tick": 993383,
           "id": "fc7abba39f",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-30T10:00:08.200453+00:00",
-          "pending_msg": 153,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -696,12 +696,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 993429,
+          "due_tick": 993383,
           "id": "bfa6d7c76d",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-30T10:31:09.456256+00:00",
-          "pending_msg": 155,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "now and then",
