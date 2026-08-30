@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487533,
+  "offset": 71487534,
   "users": {
     "1090554427": {
       "cards": [
@@ -464,6 +464,36 @@
           "step": 0,
           "word": "set heart on",
           "word_ru": "страстно желать, зациклиться, поставить цель"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Neighbor didn't mince words when screaming about my garbage bag on the stairs.",
+              "sentence_ru": "Сосед не подбирал выражения, когда орал из-за моего пакета с мусором на лестнице.",
+              "word_form": "mince words"
+            },
+            {
+              "sentence": "Why should I mince words in the chat if your dog shits by my door daily?",
+              "sentence_ru": "С какого хрена мне сглаживать углы в чате, если твоя собака ежедневно гадит у моей двери?",
+              "word_form": "mince words"
+            },
+            {
+              "sentence": "The HOA head didn't mince words calling us all freeloaders and morons tonight.",
+              "sentence_ru": "Глава ТСЖ не стал подбирать выражения и назвал нас всех халявщиками и дебилами сегодня вечером.",
+              "word_form": "mince words"
+            }
+          ],
+          "created_at": "2026-08-30T18:15:16.479334+00:00",
+          "due_tick": 993398,
+          "id": "28a1fe0ff2",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "mince words",
+          "word_ru": "подбирать выражения, сглаживать углы"
         }
       ],
       "chat_id": 1090554427,
