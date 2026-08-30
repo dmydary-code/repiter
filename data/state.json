@@ -209,6 +209,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your expired tofu paste totally devastated my toilet at 3 AM.",
+              "sentence_ru": "Твоя просроченная паста из тофу полностью разгромила мой унитаз в три часа ночи.",
+              "word_form": "devastated"
+            },
+            {
               "sentence": "That wild party in apt 42 didn't just devastate the floor, it killed my soul.",
               "sentence_ru": "Такая дикая вечеринка в 42-й квартире не просто разгромила пол, она убила мою душу.",
               "word_form": "devastate"
@@ -230,12 +235,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 993389,
+          "due_tick": 993440,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-29T14:30:14.180204+00:00",
-          "pending_msg": 135,
+          "last_sent_at": "2026-08-30T16:00:23.633327+00:00",
+          "pending_msg": 165,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -404,11 +409,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993391,
+      "last_deliver_tick": 993392,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1064,7 +1069,7 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993391,
+      "last_deliver_tick": 993392,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
