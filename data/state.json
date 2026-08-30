@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487541,
+  "offset": 71487542,
   "users": {
     "1090554427": {
       "cards": [
@@ -704,6 +704,36 @@
           "step": 0,
           "word": "acumen",
           "word_ru": "проницательность, сообразительность, чутье"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "He lied to the police regarding where he hid the stolen neon dildo.",
+              "sentence_ru": "Он солгал полиции относительно того, где спрятал украденный неоновый фаллоимитатор.",
+              "word_form": "regarding"
+            },
+            {
+              "sentence": "My ex sent a 10-page essay regarding why I am a toxic goblin.",
+              "sentence_ru": "Моя бывшая прислала сочинение на 10 страниц насчет того, почему я токсичный гоблин.",
+              "word_form": "regarding"
+            },
+            {
+              "sentence": "No questions were asked regarding why the cat was wearing a leather harness.",
+              "sentence_ru": "Никаких вопросов не задавали касательно того, почему кот был в кожаной сбруе.",
+              "word_form": "regarding"
+            }
+          ],
+          "created_at": "2026-08-30T20:37:23.720110+00:00",
+          "due_tick": 993403,
+          "id": "63f85621a0",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "regarding",
+          "word_ru": "касательно, относительно, насчет"
         }
       ],
       "chat_id": 1090554427,
