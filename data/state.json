@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487530,
+  "offset": 71487531,
   "users": {
     "1090554427": {
       "cards": [
@@ -737,12 +737,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 993430,
+          "due_tick": 993384,
           "id": "c1cf472110",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-30T11:00:21.801300+00:00",
-          "pending_msg": 157,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "by and large",
