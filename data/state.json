@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even my humble apologies at 3 AM won't fix how I ruined your life.",
+              "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как я испортил тебе жизнь.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even in my humble pajamas, I still know you miss this absolute king at 3 AM.",
               "sentence_ru": "Даже в своей скромной пижаме я всё еще знаю, что ты скучаешь по этому абсолютному королю в 3 часа ночи.",
               "word_form": "humble"
@@ -30,12 +35,12 @@
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993376,
+          "due_tick": 993426,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-29T08:00:05.883046+00:00",
-          "pending_msg": 118,
+          "last_sent_at": "2026-08-30T09:00:32.281445+00:00",
+          "pending_msg": 146,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -389,11 +394,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993377,
+      "last_deliver_tick": 993378,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -711,6 +716,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, mutant raccoons took over Washington and lowered taxes on garbage.",
+              "sentence_ru": "В общем и целом, мутировавшие еноты захватили Вашингтон и снизили налоги на мусор.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, your loud midnight techno parties are fine, but the corpse in the hallway smells.",
               "sentence_ru": "В целом, твои громкие полуночные техно-вечеринки — это нормально, но труп в коридоре воняет.",
               "word_form": "By and large"
@@ -727,11 +737,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 993338,
+          "due_tick": 993426,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-30T09:00:37.847986+00:00",
+          "pending_msg": 147,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1025,11 +1036,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993377,
+      "last_deliver_tick": 993378,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
