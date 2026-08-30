@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487538,
+  "offset": 71487539,
   "users": {
     "1090554427": {
       "cards": [
@@ -614,6 +614,36 @@
           "step": 0,
           "word": "willful",
           "word_ru": "своенравный, упрямый, преднамеренный"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "My fat cat got stuck inside a hollow pumpkin and now he rules the kitchen.",
+              "sentence_ru": "Мой толстый кот застрял внутри полой тыквы, и теперь он правит кухней.",
+              "word_form": "stuck"
+            },
+            {
+              "sentence": "Grandpa's dentures are permanently stuck to the ceiling because of my new super glue.",
+              "sentence_ru": "Вставная челюсть дедушки намертво прилипла к потолку из-за моего нового суперклея.",
+              "word_form": "stuck"
+            },
+            {
+              "sentence": "I was stuck in an elevator with a mime who kept pretending to eat my soul.",
+              "sentence_ru": "Я застрял в лифте с мимом, который постоянно делал вид, что ест мою душу.",
+              "word_form": "stuck"
+            }
+          ],
+          "created_at": "2026-08-30T20:23:14.395729+00:00",
+          "due_tick": 993402,
+          "id": "14689a9725",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "stuck",
+          "word_ru": "застрявший, застрял"
         }
       ],
       "chat_id": 1090554427,
