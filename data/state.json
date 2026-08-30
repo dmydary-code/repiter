@@ -399,7 +399,7 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993383,
+      "last_deliver_tick": 993384,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
@@ -793,6 +793,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that whoever keeps stealing my gym socks will burn in hell.",
+              "sentence_ru": "Я придерживаюсь мнения, что тот, кто продолжает воровать мои носки из качалки, сгорит в аду.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that this cursed blender is actually possessed by a smoothie demon.",
               "sentence_ru": "Я придерживаюсь мнения, что этот проклятый блендер на самом деле одержим демоном смузи.",
               "word_form": "I hold the view that"
@@ -809,11 +814,12 @@
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 993338,
+          "due_tick": 993432,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-30T12:00:21.469357+00:00",
+          "pending_msg": 160,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1047,11 +1053,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993383,
+      "last_deliver_tick": 993384,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
