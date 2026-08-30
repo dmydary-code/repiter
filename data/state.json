@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487542,
+  "offset": 71487543,
   "users": {
     "1090554427": {
       "cards": [
@@ -734,6 +734,36 @@
           "step": 0,
           "word": "regarding",
           "word_ru": "касательно, относительно, насчет"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "The boss caught off guard me eating raw salmon straight from the office fridge.",
+              "sentence_ru": "Босс застал меня врасплох, когда я жрал сырого лосося прямо из офисного холодильника.",
+              "word_form": "caught off guard"
+            },
+            {
+              "sentence": "Karen was caught off guard when her secret corporate Twitter account got exposed on Slack.",
+              "sentence_ru": "Карен оказалась застигнута врасплох, когда ее секретный корпоративный твиттер слили в Слак.",
+              "word_form": "caught off guard"
+            },
+            {
+              "sentence": "Don't look so caught off guard just because someone actually did some work today.",
+              "sentence_ru": "Не делай такое удивленное лицо, будто кто-то сегодня реально поработал.",
+              "word_form": "caught off guard"
+            }
+          ],
+          "created_at": "2026-08-30T20:57:17.706813+00:00",
+          "due_tick": 993403,
+          "id": "bc72179ba7",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "caught off guard",
+          "word_ru": "застигнутый врасплох, застать врасплох"
         }
       ],
       "chat_id": 1090554427,
