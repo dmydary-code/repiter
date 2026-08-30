@@ -297,6 +297,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Just try to steal my stapler again, and I will staple your eyelids together.",
+              "sentence_ru": "Только попробуй снова украсть мой степлер, и я скреплю твои веки степлером.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Please try to fix the elevator instead of smoking meth in it.",
               "sentence_ru": "Пожалуйста, попытайтесь починить лифт, а не курите в нём мет.",
               "word_form": "try"
@@ -318,12 +323,12 @@
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993344,
+          "due_tick": 993422,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-28T16:00:07.071169+00:00",
-          "pending_msg": 112,
+          "last_sent_at": "2026-08-30T07:00:25.064288+00:00",
+          "pending_msg": 138,
           "reps": 1,
           "step": 1,
           "word": "Try",
@@ -374,11 +379,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993345,
+      "last_deliver_tick": 993374,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -567,6 +572,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
+              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, только чтобы вспомнить мое имя.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "All residents must undergo immediate psychiatric evaluation before paying water bills.",
               "sentence_ru": "Все жильцы должны пройти внеплановое психиатрическое освидетельствование перед оплатой счетов за воду.",
               "word_form": "undergo"
@@ -583,11 +593,12 @@
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 993337,
+          "due_tick": 993422,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-30T07:00:41.444780+00:00",
+          "pending_msg": 139,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -985,11 +996,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993345,
+      "last_deliver_tick": 993374,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
