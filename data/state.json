@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487543,
+  "offset": 71487544,
   "users": {
     "1090554427": {
       "cards": [
@@ -764,6 +764,36 @@
           "step": 0,
           "word": "caught off guard",
           "word_ru": "застигнутый врасплох, застать врасплох"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "I was totally taken aback when my cat meowed in a deep, menacing demonic voice.",
+              "sentence_ru": "Я был полностью ошеломлен, когда мой кот мяукнул глубоким, зловещим демоническим голосом.",
+              "word_form": "taken aback"
+            },
+            {
+              "sentence": "The scammer was taken aback after I asked if he accepts payment in chewed gum.",
+              "sentence_ru": "Мошенник был застигнут врасплох после того, как я спросил, принимает ли он оплату жженой жвачкой.",
+              "word_form": "taken aback"
+            },
+            {
+              "sentence": "Grandma was taken aback seeing her quiet grandson bench-press a whole refrigerator.",
+              "sentence_ru": "Бабушка была поражена, увидев, как ее тихий внук жмет от груди целый холодильник.",
+              "word_form": "taken aback"
+            }
+          ],
+          "created_at": "2026-08-30T20:59:34.194330+00:00",
+          "due_tick": 993403,
+          "id": "5622476065",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "taken aback",
+          "word_ru": "застигнутый врасплох, пораженный, ошеломленный"
         }
       ],
       "chat_id": 1090554427,
