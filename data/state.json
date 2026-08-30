@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky raccoon stole my last beer and gave me the middle finger.",
+              "sentence_ru": "Этот наглый енот украл мое последнее пиво и показал мне средний палец.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky raccoon stole my last taco and didn't even apologize.",
               "sentence_ru": "Этот наглый енот украл мой последний тако и даже не извинился.",
               "word_form": "cheeky"
@@ -71,12 +76,12 @@
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 993377,
+          "due_tick": 993431,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-29T08:30:16.121418+00:00",
-          "pending_msg": 119,
+          "last_sent_at": "2026-08-30T11:30:22.388191+00:00",
+          "pending_msg": 158,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -394,11 +399,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993382,
+      "last_deliver_tick": 993383,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -752,6 +757,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that your screaming cat at 4 AM is possessed by Satan.",
+              "sentence_ru": "Трудно отрицать, что твой орущий в 4 утра кот одержим Сатаной.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that my new sugar daddy is hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый папик горячее тебя.",
               "word_form": "It would be hard to deny that"
@@ -768,11 +778,12 @@
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 993338,
+          "due_tick": 993431,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-30T11:30:23.500923+00:00",
+          "pending_msg": 159,
           "reps": 0,
           "step": 0,
           "word": "it would be hard to deny that",
@@ -1036,11 +1047,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993382,
+      "last_deliver_tick": 993383,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-30",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
