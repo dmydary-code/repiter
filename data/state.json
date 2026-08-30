@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487532,
+  "offset": 71487533,
   "users": {
     "1090554427": {
       "cards": [
@@ -434,6 +434,36 @@
           "step": 0,
           "word": "whenever",
           "word_ru": "когда бы ни, всякий раз когда, когда угодно"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Human, I have set my heart on eating your expensive leather boots tonight.",
+              "sentence_ru": "Человек, я страстно желаю сожрать твои дорогие кожаные ботинки сегодня ночью.",
+              "word_form": "set my heart on"
+            },
+            {
+              "sentence": "You set your heart on buying cheap food, but I set my heart on absolute chaos.",
+              "sentence_ru": "Ты зациклилась на покупке дешевой еды, а я нацелился на абсолютный хаос.",
+              "word_form": "set my heart on"
+            },
+            {
+              "sentence": "Why cry over spilled milk when you already set your heart on killing the vacuum cleaner?",
+              "sentence_ru": "Зачем плакать над пролитым молоком, если ты уже загорелся идеей убить пылесос?",
+              "word_form": "set your heart on"
+            }
+          ],
+          "created_at": "2026-08-30T18:11:04.644388+00:00",
+          "due_tick": 993398,
+          "id": "e4d46e59da",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "set heart on",
+          "word_ru": "страстно желать, зациклиться, поставить цель"
         }
       ],
       "chat_id": 1090554427,
