@@ -802,8 +802,8 @@
       "last_deliver_tick": 993397,
       "max_per_day": 8,
       "paused": false,
-      "sent_date": "2026-08-30",
-      "sent_today": 8,
+      "sent_date": "2026-08-31",
+      "sent_today": 0,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,8 +1462,8 @@
       "last_deliver_tick": 993397,
       "max_per_day": 8,
       "paused": false,
-      "sent_date": "2026-08-30",
-      "sent_today": 8,
+      "sent_date": "2026-08-31",
+      "sent_today": 0,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
