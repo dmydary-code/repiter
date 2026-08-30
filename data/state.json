@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-30",
-  "offset": 71487536,
+  "offset": 71487537,
   "users": {
     "1090554427": {
       "cards": [
@@ -554,6 +554,36 @@
           "step": 0,
           "word": "lifts a finger in the house",
           "word_ru": "палец о палец не ударить дома, шевельнуть пальцем по дому"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "My cat is rolling in money after selling my nudes to stray felines.",
+              "sentence_ru": "Мой кот купается в деньгах после продажи моих голых фоток бродячим кошкам.",
+              "word_form": "rolling in money"
+            },
+            {
+              "sentence": "That toddler is rolling in money just because he was born to rich psychopaths.",
+              "sentence_ru": "Этот малыш купается в деньгах просто потому, что родился у богатых психопатов.",
+              "word_form": "rolling in money"
+            },
+            {
+              "sentence": "I would be rolling in money if my crypto portfolio didn't crash into absolute zero.",
+              "sentence_ru": "Я бы купался в деньгах, если бы мой криптопортфель не рухнул в абсолютный ноль.",
+              "word_form": "rolling in money"
+            }
+          ],
+          "created_at": "2026-08-30T19:08:47.644887+00:00",
+          "due_tick": 993400,
+          "id": "74b498bb9f",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "rolling in money",
+          "word_ru": "купающийся в деньгах, богатый"
         }
       ],
       "chat_id": 1090554427,
