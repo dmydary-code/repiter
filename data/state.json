@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-31",
-  "offset": 71487548,
+  "offset": 71487549,
   "users": {
     "1090554427": {
       "cards": [
@@ -1110,7 +1110,7 @@
           "due_tick": 993427,
           "id": "949abe18a2",
           "lang": "en",
-          "lapses": 1,
+          "lapses": 2,
           "last_sent_at": "2026-08-31T08:35:03.054200+00:00",
           "pending_msg": null,
           "reps": 0,
