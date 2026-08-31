@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-31",
-  "offset": 71487553,
+  "offset": 71487555,
   "users": {
     "1090554427": {
       "cards": [
@@ -746,12 +746,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993478,
+          "due_tick": 993434,
           "id": "b624df5b77",
           "lang": "en",
-          "lapses": 1,
+          "lapses": 2,
           "last_sent_at": "2026-08-31T11:00:26.607537+00:00",
-          "pending_msg": 211,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "gossip",
@@ -787,12 +787,12 @@
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 993479,
+          "due_tick": 993434,
           "id": "a6c2ac26cd",
           "lang": "en",
-          "lapses": 1,
+          "lapses": 2,
           "last_sent_at": "2026-08-31T11:30:07.756820+00:00",
-          "pending_msg": 213,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
