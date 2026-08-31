@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop trying to undermine the building's foundation just to bury your noisy ex.",
+              "sentence_ru": "Хватит пытаться подрывать фундамент здания только чтобы закопать своего шумного бывшего.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Your midnight howling tries to undermine my authority, human, but I still own this couch.",
               "sentence_ru": "Твой полуночный вой пытается подорвать мой авторитет, кожаная, но этот диван всё ещё мой.",
               "word_form": "undermine"
@@ -153,12 +158,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993391,
+          "due_tick": 993471,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-29T15:30:23.269392+00:00",
-          "pending_msg": 137,
+          "last_sent_at": "2026-08-31T07:30:24.594941+00:00",
+          "pending_msg": 194,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -594,11 +599,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993422,
+      "last_deliver_tick": 993423,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1094,17 +1099,24 @@
         },
         {
           "archived": false,
-          "cache": [],
+          "cache": [
+            {
+              "sentence": "I need to adjust my sights and realize you are totally psycho.",
+              "sentence_ru": "Мне нужно настроить прицел и понять, что ты полная психопатка.",
+              "word_form": "to adjust"
+            }
+          ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993338,
+          "due_tick": 993471,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T07:30:26.078139+00:00",
+          "pending_msg": 195,
           "reps": 0,
           "step": 0,
           "word": "to adjust",
-          "word_ru": ""
+          "word_ru": "настраивать, регулировать, подгонять"
         },
         {
           "archived": false,
@@ -1260,11 +1272,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993422,
+      "last_deliver_tick": 993423,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
