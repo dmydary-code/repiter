@@ -599,6 +599,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet raccoon is rolling in money after robbing three local casinos.",
+              "sentence_ru": "Мой домашний енот купается в деньгах после ограбления трёх местных казино.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "My cat is rolling in money after selling my nudes to stray felines.",
               "sentence_ru": "Мой кот купается в деньгах после продажи моих голых фоток бродячим кошкам.",
               "word_form": "rolling in money"
@@ -615,11 +620,12 @@
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 993400,
+          "due_tick": 993479,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T11:30:06.463552+00:00",
+          "pending_msg": 212,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -629,11 +635,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993430,
+      "last_deliver_tick": 993431,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -755,6 +761,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons somehow manage to flourish while my soul slowly rots away.",
+              "sentence_ru": "Мои внутренние демоны умудряются процветать, пока моя душа медленно гниет.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "Illegal crypto-farms are set to flourish inside the active volcano after the latest tax cuts.",
               "sentence_ru": "Нелегальные криптофермы собираются процветать внутри действующего вулкана после недавнего снижения налогов.",
               "word_form": "flourish"
@@ -776,12 +787,12 @@
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 993342,
+          "due_tick": 993479,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-29T13:30:43.540199+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-08-31T11:30:07.756820+00:00",
+          "pending_msg": 213,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1327,11 +1338,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993430,
+      "last_deliver_tick": 993431,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
