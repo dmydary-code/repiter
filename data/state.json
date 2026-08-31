@@ -563,6 +563,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy husband never lifts a finger in the house, leaving me to drown in this domestic hell.",
+              "sentence_ru": "Мой ленивый муж палец о палец не ударяет дома, оставляя меня тонуть в этом бытовом аду.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "Tomorrow Taurus won't lifts a finger in the house, watching dust slowly conquer the living room.",
               "sentence_ru": "Завтра Телец не ударит палец о палец дома, наблюдая, как пыль медленно захватывает гостиную.",
               "word_form": "lifts a finger in the house"
@@ -579,11 +584,12 @@
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 993399,
+          "due_tick": 993478,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T11:00:24.734443+00:00",
+          "pending_msg": 210,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -623,11 +629,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993429,
+      "last_deliver_tick": 993430,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -723,18 +729,23 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop spreading toxic gossip about Aunt Luda's wig or I will glue your mailbox shut.",
+              "sentence_ru": "Хватит распускать токсичные сплетни о парике тети Люды, иначе я наглухо приклею ваш почтовый ящик.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "My cat started to gossip with the toaster about my dating life.",
               "sentence_ru": "Мой кот начал сплетничать с тостером о моей личной жизни.",
               "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993342,
+          "due_tick": 993478,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-29T13:01:12.796659+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-08-31T11:00:26.607537+00:00",
+          "pending_msg": 211,
           "reps": 0,
           "step": 0,
           "word": "gossip",
@@ -1316,11 +1327,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993429,
+      "last_deliver_tick": 993430,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
