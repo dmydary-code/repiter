@@ -491,6 +491,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The Satanic Pope didn't mince words when declaring eternal damnation for anyone eating soggy fries.",
+              "sentence_ru": "Сатанинский Папа Римский не стал подбирать выражения, объявив вечные муки каждому, кто ест размокшую картошку фри.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "Neighbor didn't mince words when screaming about my garbage bag on the stairs.",
               "sentence_ru": "Сосед не подбирал выражения, когда орал из-за моего пакета с мусором на лестнице.",
               "word_form": "mince words"
@@ -507,11 +512,12 @@
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 993398,
+          "due_tick": 993476,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T10:00:20.914257+00:00",
+          "pending_msg": 206,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -611,11 +617,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993427,
+      "last_deliver_tick": 993428,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1268,6 +1274,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please do not impose your toxic wellness routine on me before my morning coffee.",
+              "sentence_ru": "Пожалуйста, не навязывай мне свою токсичную оздоровительную рутину до моего утреннего кофе.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Why must I always impose my toxic insecurities on people who just wanted coffee?",
               "sentence_ru": "Почему я вечно должен навязывать свои токсичные комплексы людям, которые просто хотели кофе?",
               "word_form": "impose"
@@ -1284,11 +1295,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 993338,
+          "due_tick": 993476,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T10:00:22.117937+00:00",
+          "pending_msg": 207,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1298,11 +1310,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993427,
+      "last_deliver_tick": 993428,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
