@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-31",
-  "offset": 71487551,
+  "offset": 71487552,
   "users": {
     "1090554427": {
       "cards": [
@@ -1259,12 +1259,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 993475,
+          "due_tick": 993430,
           "id": "d698cc24d3",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-31T09:30:15.821677+00:00",
-          "pending_msg": 205,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
