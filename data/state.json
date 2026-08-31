@@ -455,6 +455,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen has set her heart on stealing the last gluten-free donut from the breakroom.",
+              "sentence_ru": "Карен твердо нацелилась украсть последний безглютеновый пончик из комнаты отдыха.",
+              "word_form": "set her heart on"
+            },
+            {
               "sentence": "Human, I have set my heart on eating your expensive leather boots tonight.",
               "sentence_ru": "Человек, я страстно желаю сожрать твои дорогие кожаные ботинки сегодня ночью.",
               "word_form": "set my heart on"
@@ -471,11 +476,12 @@
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 993398,
+          "due_tick": 993475,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T09:30:14.619443+00:00",
+          "pending_msg": 204,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -605,11 +611,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993426,
+      "last_deliver_tick": 993427,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1226,6 +1232,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Bro had to ramp up his ex-blocking speed after she spotted him at the mall.",
+              "sentence_ru": "Брату пришлось бешено ускориться, когда бывшая спалила его в торговом центре.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "I need to ramp up my weird voice messages to you at 3 AM.",
               "sentence_ru": "Мне нужно нарастить количество моих странных голосовых сообщений тебе в 3 часа ночи.",
               "word_form": "ramp up"
@@ -1242,11 +1253,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 993338,
+          "due_tick": 993475,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T09:30:15.821677+00:00",
+          "pending_msg": 205,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1286,11 +1298,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993426,
+      "last_deliver_tick": 993427,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
