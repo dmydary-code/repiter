@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat explodes whenever the doorbell rings, showering the hallway with pure glitter.",
+              "sentence_ru": "Мой кот взрывается всякий раз, когда звонит в дверь, осыпая прихожую чистыми блёстками.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever Greg brings fish to the office, HR has to evacuate the entire floor.",
               "sentence_ru": "Всякий раз, когда Грег приносит в офис рыбу, отделу кадров приходится эвакуировать весь этаж.",
               "word_form": "Whenever"
@@ -435,11 +440,12 @@
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 993398,
+          "due_tick": 993474,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T09:00:06.794590+00:00",
+          "pending_msg": 202,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -599,11 +605,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993425,
+      "last_deliver_tick": 993426,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1184,6 +1190,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My grandfather tried to breakdance and his old knees instantly started to seize up.",
+              "sentence_ru": "Мой дедушка попытался сделать брейк-данс, и его старые колени мгновенно заклинило.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "Mutant cyborg pigeons suddenly seize up mid-air and rain onto the prime minister.",
               "sentence_ru": "Мутировавшие кибернетические голуби внезапно заклинивают в воздухе и падают дождем на премьер-министра.",
               "word_form": "seize up"
@@ -1200,11 +1211,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 993338,
+          "due_tick": 993474,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T09:00:08.199695+00:00",
+          "pending_msg": 203,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1274,11 +1286,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993425,
+      "last_deliver_tick": 993426,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
