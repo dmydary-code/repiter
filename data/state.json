@@ -455,6 +455,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local raccoon sets heart on stealing the entire municipal treasury for shiny wrapper collection.",
+              "sentence_ru": "Местный енот страстно пожелал сжечь всю муниципальную казну ради коллекции блестящих фантиков.",
+              "word_form": "sets heart on"
+            },
+            {
               "sentence": "Human, I have set my heart on eating your expensive leather boots tonight.",
               "sentence_ru": "Человек, я страстно желаю сожрать твои дорогие кожаные ботинки сегодня ночью.",
               "word_form": "set my heart on"
@@ -471,11 +476,12 @@
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 993398,
+          "due_tick": 993473,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T08:30:09.707776+00:00",
+          "pending_msg": 198,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -605,11 +611,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993424,
+      "last_deliver_tick": 993425,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1164,6 +1170,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I managed to wire up my brain so I can finally stop texting you, but it failed.",
+              "sentence_ru": "Я умудрился подключить провода к мозгу, чтобы наконец перестать тебе писать, но это не сработало.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Cyborg pigeons wire up the stolen nuclear launch codes to local pigeons.",
               "sentence_ru": "Киборги-голуби подключают украденные ядерные коды к местным голубям.",
               "word_form": "wire up"
@@ -1180,11 +1191,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 993338,
+          "due_tick": 993473,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T08:30:10.891402+00:00",
+          "pending_msg": 199,
           "reps": 0,
           "step": 0,
           "word": "wire up",
@@ -1284,11 +1296,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993424,
+      "last_deliver_tick": 993425,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
