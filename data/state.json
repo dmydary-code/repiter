@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-31",
-  "offset": 71487549,
+  "offset": 71487550,
   "users": {
     "1090554427": {
       "cards": [
@@ -1295,12 +1295,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 993476,
+          "due_tick": 993430,
           "id": "72bf877189",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-31T10:00:22.117937+00:00",
-          "pending_msg": 207,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "impose",
