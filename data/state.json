@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-31",
-  "offset": 71487545,
+  "offset": 71487547,
   "users": {
     "1090554427": {
       "cards": [
@@ -1107,12 +1107,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993473,
+          "due_tick": 993427,
           "id": "949abe18a2",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-08-31T08:35:03.054200+00:00",
-          "pending_msg": 201,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to adjust",
@@ -1138,11 +1138,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 993338,
+          "due_tick": 993427,
           "id": "56692d5953",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": null,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "altogether",
