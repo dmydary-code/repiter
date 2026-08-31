@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever I wear these leopard leggings, my ex starts crying in public.",
+              "sentence_ru": "Всякий раз, когда я надеваю эти леопардовые леггинсы, мой бывший начинает плакать на людях.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "Whenever Greg brings fish to the office, HR has to evacuate the entire floor.",
               "sentence_ru": "Всякий раз, когда Грег приносит в офис рыбу, отделу кадров приходится эвакуировать весь этаж.",
               "word_form": "Whenever"
@@ -435,11 +440,12 @@
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 993398,
+          "due_tick": 993472,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T08:00:05.145377+00:00",
+          "pending_msg": 196,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -599,11 +605,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993423,
+      "last_deliver_tick": 993424,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1122,6 +1128,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Attention! The crazy cat lady on the third floor is altogether banned from owning animals.",
+              "sentence_ru": "Внимание! Сумасшедшей кошатнице с третьего этажа вообще запрещено заводить животных.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "My ex blocked me on all social media platforms altogether.",
               "sentence_ru": "Мой бывший заблокировал меня во всех соцсетях разом и окончательно.",
               "word_form": "altogether"
@@ -1138,11 +1149,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 993338,
+          "due_tick": 993472,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T08:00:06.444600+00:00",
+          "pending_msg": 197,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1272,11 +1284,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993423,
+      "last_deliver_tick": 993424,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
