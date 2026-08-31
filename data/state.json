@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-08-31",
-  "offset": 71487547,
+  "offset": 71487548,
   "users": {
     "1090554427": {
       "cards": [
@@ -1169,11 +1169,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 993338,
+          "due_tick": 993427,
           "id": "a4fcb2ea78",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": null,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "wire up",
