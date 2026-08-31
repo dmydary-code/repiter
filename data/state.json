@@ -132,8 +132,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Stop trying to undermine the building's foundation just to bury your noisy ex.",
-              "sentence_ru": "Хватит пытаться подрывать фундамент здания только чтобы закопать своего шумного бывшего.",
+              "sentence": "Karen tried to undermine my authority by stealing my emotional support stapler from my desk.",
+              "sentence_ru": "Карен попыталась подорвать мой авторитет, украв со стола мой степлер для эмоциональной поддержки.",
               "word_form": "undermine"
             },
             {
@@ -158,12 +158,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993471,
+          "due_tick": 993473,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T07:30:24.594941+00:00",
-          "pending_msg": 194,
+          "last_sent_at": "2026-08-31T08:35:01.767137+00:00",
+          "pending_msg": 200,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -419,11 +419,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Whenever I wear these leopard leggings, my ex starts crying in public.",
-              "sentence_ru": "Всякий раз, когда я надеваю эти леопардовые леггинсы, мой бывший начинает плакать на людях.",
-              "word_form": "Whenever"
-            },
-            {
               "sentence": "Whenever Greg brings fish to the office, HR has to evacuate the entire floor.",
               "sentence_ru": "Всякий раз, когда Грег приносит в офис рыбу, отделу кадров приходится эвакуировать весь этаж.",
               "word_form": "Whenever"
@@ -440,12 +435,11 @@
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 993472,
+          "due_tick": 993398,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T08:00:05.145377+00:00",
-          "pending_msg": 196,
+          "last_sent_at": null,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -454,11 +448,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Local raccoon sets heart on stealing the entire municipal treasury for shiny wrapper collection.",
-              "sentence_ru": "Местный енот страстно пожелал сжечь всю муниципальную казну ради коллекции блестящих фантиков.",
-              "word_form": "sets heart on"
-            },
             {
               "sentence": "Human, I have set my heart on eating your expensive leather boots tonight.",
               "sentence_ru": "Человек, я страстно желаю сожрать твои дорогие кожаные ботинки сегодня ночью.",
@@ -476,12 +465,11 @@
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 993473,
+          "due_tick": 993398,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T08:30:09.707776+00:00",
-          "pending_msg": 198,
+          "last_sent_at": null,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -615,7 +603,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 4,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1113,31 +1101,26 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I need to adjust my sights and realize you are totally psycho.",
-              "sentence_ru": "Мне нужно настроить прицел и понять, что ты полная психопатка.",
-              "word_form": "to adjust"
+              "sentence": "Mutants must adjust their telepathic volume before robbing the space bank.",
+              "sentence_ru": "Мутанты должны отрегулировать громкость телепатии перед ограблением космического банка.",
+              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993471,
+          "due_tick": 993473,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T07:30:26.078139+00:00",
-          "pending_msg": 195,
+          "last_sent_at": "2026-08-31T08:35:03.054200+00:00",
+          "pending_msg": 201,
           "reps": 0,
           "step": 0,
           "word": "to adjust",
-          "word_ru": "настраивать, регулировать, подгонять"
+          "word_ru": "настраивать, регулировать, адаптировать"
         },
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Attention! The crazy cat lady on the third floor is altogether banned from owning animals.",
-              "sentence_ru": "Внимание! Сумасшедшей кошатнице с третьего этажа вообще запрещено заводить животных.",
-              "word_form": "altogether"
-            },
             {
               "sentence": "My ex blocked me on all social media platforms altogether.",
               "sentence_ru": "Мой бывший заблокировал меня во всех соцсетях разом и окончательно.",
@@ -1155,12 +1138,11 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 993472,
+          "due_tick": 993338,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T08:00:06.444600+00:00",
-          "pending_msg": 197,
+          "last_sent_at": null,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1169,11 +1151,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I managed to wire up my brain so I can finally stop texting you, but it failed.",
-              "sentence_ru": "Я умудрился подключить провода к мозгу, чтобы наконец перестать тебе писать, но это не сработало.",
-              "word_form": "wire up"
-            },
             {
               "sentence": "Cyborg pigeons wire up the stolen nuclear launch codes to local pigeons.",
               "sentence_ru": "Киборги-голуби подключают украденные ядерные коды к местным голубям.",
@@ -1191,12 +1168,11 @@
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 993473,
+          "due_tick": 993338,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T08:30:10.891402+00:00",
-          "pending_msg": 199,
+          "last_sent_at": null,
           "reps": 0,
           "step": 0,
           "word": "wire up",
@@ -1300,7 +1276,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 4,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
