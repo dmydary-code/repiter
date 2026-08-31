@@ -250,6 +250,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Do not discorage the stray cats by leaving empty vodka bottles instead of fish.",
+              "sentence_ru": "Не обескураживайте бродячих котов, оставляя пустые бутылки из-под водки вместо рыбы.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Bad reviews discorage me from buying this cursed dildo of doom.",
               "sentence_ru": "Плохие отзывы отговаривают меня покупать этот проклятый фаллоимитатор судьбы.",
               "word_form": "discorage"
@@ -271,12 +276,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 993390,
+          "due_tick": 993470,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-29T15:00:19.593101+00:00",
-          "pending_msg": 136,
+          "last_sent_at": "2026-08-31T07:00:19.066819+00:00",
+          "pending_msg": 192,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -589,11 +594,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993397,
+      "last_deliver_tick": 993422,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1055,6 +1060,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that Jim glued my stapler to the ceiling again.",
+              "sentence_ru": "Я склонен думать, что Джим снова приклеил мой степлер к потолку.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that my ex is stalking me through my smart fridge.",
               "sentence_ru": "Я склоняюсь к мысли, что мой бывший следит за мной через мой умный холодильник.",
               "word_form": "I'm inclined to think that"
@@ -1071,11 +1081,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 993338,
+          "due_tick": 993470,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T07:00:20.226142+00:00",
+          "pending_msg": 193,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1249,11 +1260,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993397,
+      "last_deliver_tick": 993422,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
