@@ -527,6 +527,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Me and my therapist really hit it off after I blamed my ex for my bad vibes.",
+              "sentence_ru": "Я и мой психотерапевт сразу отлично поладили после того, как я свалил вину за свои плохие вайбы на бывшую.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Me and the delivery guy hit it off when we both dropped our energy drinks.",
               "sentence_ru": "Мы с курьером сразу сошлись, когда оба уронили свои энергетики.",
               "word_form": "hit it off"
@@ -543,11 +548,12 @@
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 993399,
+          "due_tick": 993477,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-08-31T10:30:17.578687+00:00",
+          "pending_msg": 208,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -617,11 +623,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993428,
+      "last_deliver_tick": 993429,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -634,6 +640,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "My ex-boyfriend's personality was so drab that even the houseplants tried to commit suicide.",
+              "sentence_ru": "Характер моего бывшего был настолько унылым, что даже комнатные растения попытались покончить с собой.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My ex-boyfriend's soul and this drab sweater are the exact same shade of depressing gray.",
               "sentence_ru": "Душа моего бывшего и этот унылый свитер — абсолютно одного депрессивно-серого оттенка.",
@@ -653,20 +664,15 @@
               "sentence": "My ex-boyfriend's soul looks as drab as his mom's boiled cabbage.",
               "sentence_ru": "Душа моего бывшего выглядит такой же унылой, как вареная капуста его мамы.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My soul is as drab as this cheap motel carpet, soaked in cheap whiskey and bad decisions.",
-              "sentence_ru": "Моя душа так же уныла, как ковер в этом дешевом мотеле, пропитанный дешевым виски и дурными решениями.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 993342,
+          "due_tick": 993477,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-08-29T12:30:08.065010+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-08-31T10:30:18.859838+00:00",
+          "pending_msg": 209,
           "reps": 0,
           "step": 0,
           "word": "drab",
@@ -1310,11 +1316,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993428,
+      "last_deliver_tick": 993429,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-08-31",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
