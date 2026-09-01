@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky cat stole my last sausage and winked at me.",
+              "sentence_ru": "Этот наглый кот украл мою последнюю сосиску и подмигнул мне.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky raccoon stole my last beer and gave me the middle finger.",
               "sentence_ru": "Этот наглый енот украл мое последнее пиво и показал мне средний палец.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky cat who keeps stealing sausages from apartment 14 is wanted for armed robbery.",
               "sentence_ru": "Тот наглый кот, который постоянно ворует сосиски из 14-й квартиры, разыскивается за вооруженный грабеж.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky cat stole sausage from apartment 48 again and licked his whiskers.",
-              "sentence_ru": "Этот наглый кот снова украл колбасу из 48-й квартиры и облизал свои усы.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 993431,
+          "due_tick": 993525,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T11:30:22.388191+00:00",
-          "pending_msg": 158,
+          "last_sent_at": "2026-09-01T10:30:25.771102+00:00",
+          "pending_msg": 232,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -665,11 +665,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993476,
+      "last_deliver_tick": 993477,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1017,6 +1017,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, our new boss is a psychopath who eats office plants.",
+              "sentence_ru": "В целом наш новый босс — психопат, который ест офисные растения.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, my life is just a circus, and I am the crying clown.",
               "sentence_ru": "В общем и целом, моя жизнь — это просто цирк, а я плачущий клоун.",
               "word_form": "By and large"
@@ -1038,12 +1043,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 993384,
+          "due_tick": 993525,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-30T11:00:21.801300+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-01T10:31:02.581454+00:00",
+          "pending_msg": 233,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1388,11 +1393,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993476,
+      "last_deliver_tick": 993477,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
