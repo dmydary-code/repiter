@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Just try to steal my stapler again, Gary, and I will staple your eyelids.",
+              "sentence_ru": "Только попробуй снова украсть мой степлер, Гэри, и я пристеплерю твои веки.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Just try to steal my stapler again, and I will staple your eyelids together.",
               "sentence_ru": "Только попробуй снова украсть мой степлер, и я скреплю твои веки степлером.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Cows try to conquer Mars using stolen tractors and angry looks.",
               "sentence_ru": "Коровы пытаются захватить Марс с помощью украденных тракторов и злых взглядов.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Cows try to conquer Mars using stolen tractors and very tight pants.",
-              "sentence_ru": "Коровы пытаются захватить Марс с помощью украденных тракторов и очень тесных штанов.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993422,
+          "due_tick": 993518,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T07:00:25.064288+00:00",
-          "pending_msg": 138,
+          "last_sent_at": "2026-09-01T07:00:24.313764+00:00",
+          "pending_msg": 216,
           "reps": 1,
           "step": 1,
           "word": "Try",
@@ -665,11 +665,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993445,
+      "last_deliver_tick": 993470,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -832,6 +832,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad is going to demolish the conference room just because his ex works there.",
+              "sentence_ru": "Чад собирается снести переговорку просто потому, что там работает его бывшая.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
               "sentence_ru": "Человек, если ты снова купишь дешевый сухой корм, я снесу этот тупой диван.",
               "word_form": "demolish"
@@ -853,12 +858,12 @@
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 993342,
+          "due_tick": 993518,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-29T14:00:34.679997+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-01T07:00:25.792143+00:00",
+          "pending_msg": 217,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1368,11 +1373,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993445,
+      "last_deliver_tick": 993470,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
