@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-01",
-  "offset": 71487556,
+  "offset": 71487557,
   "users": {
     "1090554427": {
       "cards": [
@@ -363,14 +363,14 @@
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993520,
+          "due_tick": 993524,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
           "last_sent_at": "2026-09-01T08:13:05.203177+00:00",
-          "pending_msg": 222,
-          "reps": 1,
-          "step": 1,
+          "pending_msg": null,
+          "reps": 2,
+          "step": 2,
           "word": "Try",
           "word_ru": "пытаться, пробовать, попытка"
         },
