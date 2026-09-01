@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Humble dictator apologizes for only stealing half the country's gold reserves.",
+              "sentence_ru": "Скромный диктатор извиняется за то, что украл лишь половину золотого запаса страны.",
+              "word_form": "Humble"
+            },
+            {
               "sentence": "Even my humble apologies at 3 AM won't fix how I ruined your life, hey.",
               "sentence_ru": "Даже мои скромные извинения в 3 ночи не исправят того, как я испортил тебе жизнь, алло.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even when I won the argument against a pigeon, I stayed incredibly humble.",
               "sentence_ru": "Даже когда я выиграл спор у голубя, я остался невероятно скромным.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even my humble apologies at 3 AM won't fix how I ruined your life.",
-              "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как я испортил тебе жизнь.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993430,
+          "due_tick": 993524,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T11:00:05.175012+00:00",
-          "pending_msg": 156,
+          "last_sent_at": "2026-09-01T10:00:29.324450+00:00",
+          "pending_msg": 230,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -665,11 +665,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993475,
+      "last_deliver_tick": 993476,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -976,6 +976,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still wake up at 3 AM to check if you remember me now and then.",
+              "sentence_ru": "Я всё еще просыпаюсь в 3 часа ночи, чтобы проверить, помнишь ли ты меня время от времени.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Some degenerate plays techno through the floor now and then, and my soup is vibrating.",
               "sentence_ru": "Какой-то дегенерат время от времени включает техно через пол, и у меня суп вибрирует.",
               "word_form": "now and then"
@@ -997,12 +1002,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 993383,
+          "due_tick": 993524,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-30T10:31:09.456256+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-01T10:00:30.595498+00:00",
+          "pending_msg": 231,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1383,11 +1388,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993475,
+      "last_deliver_tick": 993476,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
