@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-01",
-  "offset": 71487568,
+  "offset": 71487569,
   "users": {
     "1090554427": {
       "cards": [
@@ -1197,12 +1197,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 993527,
+          "due_tick": 993481,
           "id": "2c7cfcc022",
           "lang": "en",
-          "lapses": 1,
+          "lapses": 2,
           "last_sent_at": "2026-09-01T11:30:23.316626+00:00",
-          "pending_msg": 237,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
