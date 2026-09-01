@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-01",
-  "offset": 71487559,
+  "offset": 71487561,
   "users": {
     "1090554427": {
       "cards": [
@@ -750,14 +750,14 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 993521,
+          "due_tick": 993524,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
           "last_sent_at": "2026-09-01T08:30:19.210777+00:00",
-          "pending_msg": 225,
-          "reps": 1,
-          "step": 1,
+          "pending_msg": null,
+          "reps": 2,
+          "step": 2,
           "word": "backstreets",
           "word_ru": "трущобы, захолустные улицы, переулки"
         },
@@ -920,12 +920,12 @@
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993522,
+          "due_tick": 993478,
           "id": "f8c593a6d8",
           "lang": "en",
-          "lapses": 1,
+          "lapses": 2,
           "last_sent_at": "2026-09-01T09:00:52.921386+00:00",
-          "pending_msg": 227,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
