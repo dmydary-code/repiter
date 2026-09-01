@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen will totally devastate the office fridge if someone touches her oat milk again.",
+              "sentence_ru": "Карен полностью разнесет офисный холодильник, если кто-нибудь снова прикоснется к ее овсяному молоку.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Your expired tofu paste totally devastated my toilet at 3 AM.",
               "sentence_ru": "Твоя просроченная паста из тофу полностью разгромила мой унитаз в три часа ночи.",
               "word_form": "devastated"
@@ -232,20 +237,15 @@
               "sentence": "My ex's new biography will completely devastate my fragile social reputation forever.",
               "sentence_ru": "Новая биография моего бывшего полностью опустошит мою хрупкую социальную репутацию навсегда.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "My ex's new biography will completely devastate my fragile social reputation forever.",
-              "sentence_ru": "Новая биография моей бывшей полностью уничтожит мою хрупкую социальную репутацию навсегда.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 993440,
+          "due_tick": 993527,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T16:00:23.633327+00:00",
-          "pending_msg": 165,
+          "last_sent_at": "2026-09-01T11:30:21.999996+00:00",
+          "pending_msg": 236,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -665,11 +665,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993478,
+      "last_deliver_tick": 993479,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1171,6 +1171,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that my cat is plotting my murder while I sleep.",
+              "sentence_ru": "Я склонен думать, что мой кот планирует мое убийство, пока я сплю.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that Jim glued my stapler to the ceiling again.",
               "sentence_ru": "Я склонен думать, что Джим снова приклеил мой степлер к потолку.",
               "word_form": "I'm inclined to think that"
@@ -1192,12 +1197,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 993427,
+          "due_tick": 993527,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-31T07:00:20.226142+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-01T11:30:23.316626+00:00",
+          "pending_msg": 237,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1398,11 +1403,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993478,
+      "last_deliver_tick": 993479,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
