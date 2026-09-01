@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-01",
-  "offset": 71487564,
+  "offset": 71487565,
   "users": {
     "1090554427": {
       "cards": [
@@ -961,12 +961,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 993523,
+          "due_tick": 993478,
           "id": "fc7abba39f",
           "lang": "en",
-          "lapses": 1,
+          "lapses": 2,
           "last_sent_at": "2026-09-01T09:30:07.468930+00:00",
-          "pending_msg": 229,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "influx",
