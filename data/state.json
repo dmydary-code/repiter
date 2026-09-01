@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-01",
-  "offset": 71487555,
+  "offset": 71487556,
   "users": {
     "1090554427": {
       "cards": [
@@ -630,6 +630,36 @@
           "step": 0,
           "word": "rolling in money",
           "word_ru": "купающийся в деньгах, богатый"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "The raccoon stole my dentures, and the aforementioned thief is currently eating my burrito.",
+              "sentence_ru": "Енот украл мои вставные зубы, и вышеупомянутый вор в данный момент жрет мое буррито.",
+              "word_form": "aforementioned"
+            },
+            {
+              "sentence": "Grandma blamed the paranormal activity on the aforementioned ghost of her annoying ex-husband.",
+              "sentence_ru": "Бабуля списала паранормальную активность на вышеупомянутого призрака своего бесячего бывшего мужа.",
+              "word_form": "aforementioned"
+            },
+            {
+              "sentence": "I caught my cat wearing my toupee, and the aforementioned traitor hissed at me.",
+              "sentence_ru": "Я застукал кота в своем парике, и вышеупомянутый предатель на меня зашипел.",
+              "word_form": "aforementioned"
+            }
+          ],
+          "created_at": "2026-09-01T05:14:12.481829+00:00",
+          "due_tick": 993468,
+          "id": "f939077a5c",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "aforementioned",
+          "word_ru": "вышеупомянутый, вышеназванный"
         }
       ],
       "chat_id": 1090554427,
