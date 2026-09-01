@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If your cat has acquired a taste for neighbor's flesh, keep the beast inside.",
+              "sentence_ru": "Если ваш кот приобрел вкус к соседской плоти, держите тварь дома.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That taste for expensive tequila you acquired from me is still ruining my credit score.",
               "sentence_ru": "Твой вкус к дорогой текиле, который ты приобрел со мной, все еще портит мой кредитный рейтинг.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "I acquired this cursed ancient skull just to piss off my HOA.",
               "sentence_ru": "Я приобрел этот проклятый древний череп только для того, чтобы взбесить ТСЖ.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "He acquired a stolen bicycle from apartment 48 to escape police.",
-              "sentence_ru": "Он приобрел краденый велосипед из квартиры 48, чтобы сбежать от полиции.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993427,
+          "due_tick": 993521,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T09:53:44.093809+00:00",
-          "pending_msg": 150,
+          "last_sent_at": "2026-09-01T08:30:16.298397+00:00",
+          "pending_msg": 224,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -665,11 +665,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993472,
+      "last_deliver_tick": 993473,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -724,6 +724,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A naked mayor was spotted fleeing wild raccoons through dark backstreets with a stolen cheese wheel.",
+              "sentence_ru": "Голого мэра заметили убегающим от диких енотов по темным задворкам с украденной головкой сыра.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "Bro, my ex lives in these backstreets, so I Naruto-run past her window every night.",
               "sentence_ru": "Бро, моя бывшая живет в этих переулках, поэтому я каждую ночь пробегаю мимо ее окна в стиле Наруто.",
               "word_form": "backstreets"
@@ -742,20 +747,15 @@
               "sentence": "Tomorrow the stars advise you to flee angry creditors through dark backstreets.",
               "sentence_ru": "Завтра звезды советуют вам бежать от злых кредиторов по темным задворкам.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "He fled through the dark backstreets while a deranged goose chased his trousers.",
-              "sentence_ru": "Он бежал через темные переулки, пока безумный гусь преследовал его штаны.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 993347,
+          "due_tick": 993521,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-29T07:30:21.135617+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-01T08:30:19.210777+00:00",
+          "pending_msg": 225,
           "reps": 1,
           "step": 1,
           "word": "backstreets",
@@ -1373,11 +1373,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993472,
+      "last_deliver_tick": 993473,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-01",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
