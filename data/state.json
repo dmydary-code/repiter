@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy husband never lifts a finger in the house, so our cat hired a lawyer for divorce.",
+              "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец по дому, поэтому наш кот нанял адвоката для развода.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "My lazy husband never lifts a finger in the house, leaving me to drown in this domestic hell.",
               "sentence_ru": "Мой ленивый муж палец о палец не ударяет дома, оставляя меня тонуть в этом бытовом аду.",
               "word_form": "lifts a finger in the house"
@@ -604,12 +609,12 @@
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 993478,
+          "due_tick": 993573,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T11:00:24.734443+00:00",
-          "pending_msg": 210,
+          "last_sent_at": "2026-09-02T10:30:15.333696+00:00",
+          "pending_msg": 260,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -691,11 +696,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993524,
+      "last_deliver_tick": 993525,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1130,6 +1135,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that your expensive sofa was bought exclusively for my furious claws.",
+              "sentence_ru": "Я придерживаюсь мнения, что твой дорогой диван куплен исключительно для моих яростных когтей.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that whoever keeps stealing my gym socks will burn in hell.",
               "sentence_ru": "Я придерживаюсь мнения, что тот, кто продолжает воровать мои носки из качалки, сгорит в аду.",
               "word_form": "I hold the view that"
@@ -1151,12 +1161,12 @@
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 993432,
+          "due_tick": 993573,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T12:00:21.469357+00:00",
-          "pending_msg": 160,
+          "last_sent_at": "2026-09-02T10:30:16.634126+00:00",
+          "pending_msg": 261,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1464,11 +1474,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993524,
+      "last_deliver_tick": 993525,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
