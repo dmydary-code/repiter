@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please do not discorage my cat from howling at 3 AM in the hallway.",
+              "sentence_ru": "Пожалуйста, не отучайте моего кота орать в три часа ночи в коридоре.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Do not discorage the stray cats by leaving empty vodka bottles instead of fish.",
               "sentence_ru": "Не обескураживайте бродячих котов, оставляя пустые бутылки из-под водки вместо рыбы.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping boats.",
               "sentence_ru": "Мутировавшие омары разочаровывают местных рыбаков, воруя у них пиво и переворачивая лодки.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Do not discorage the stray cats by leaving empty vodka bottles instead of fish.",
-              "sentence_ru": "Не обескураживайте бродячих котов, оставляя пустые бутылки из-под водки вместо рыбы.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 993470,
+          "due_tick": 993567,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T07:00:19.066819+00:00",
-          "pending_msg": 192,
+          "last_sent_at": "2026-09-02T07:30:05.593152+00:00",
+          "pending_msg": 246,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -671,11 +671,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993518,
+      "last_deliver_tick": 993519,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1244,6 +1244,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Pigeons hijacked a nuclear submarine and vanished altogether into the Bermuda Triangle.",
+              "sentence_ru": "Голуби угнали атомную подводную лодку и целиком исчезли в Бермудском треугольнике.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "My ex blocked me on all social media platforms altogether.",
               "sentence_ru": "Мой бывший заблокировал меня во всех соцсетях разом и окончательно.",
               "word_form": "altogether"
@@ -1260,12 +1265,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 993427,
+          "due_tick": 993567,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": null,
-          "pending_msg": null,
+          "last_sent_at": "2026-09-02T07:30:06.781678+00:00",
+          "pending_msg": 247,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1414,11 +1419,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993518,
+      "last_deliver_tick": 993519,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
