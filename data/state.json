@@ -635,6 +635,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still hear the screams of the aforementioned bastard echoing in my haunted skull.",
+              "sentence_ru": "Я до сих пор слышу крики вышеупомянутого ублюдка, эхом отдающиеся в моем больном черепе.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "The raccoon stole my dentures, and the aforementioned thief is currently eating my burrito.",
               "sentence_ru": "Енот украл мои вставные зубы, и вышеупомянутый вор в данный момент жрет мое буррито.",
               "word_form": "aforementioned"
@@ -651,11 +656,12 @@
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 993468,
+          "due_tick": 993566,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-09-02T07:00:43.770377+00:00",
+          "pending_msg": 244,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -665,11 +671,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993485,
+      "last_deliver_tick": 993518,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1212,18 +1218,23 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you must aggressively adjust your horoscope before the universe notices you are broke.",
+              "sentence_ru": "Завтра ты должен агрессивно подстроить свой гороскоп, пока вселенная не заметила, что ты на мели.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Mutants must adjust their telepathic volume before robbing the space bank.",
               "sentence_ru": "Мутанты должны отрегулировать громкость телепатии перед ограблением космического банка.",
               "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993427,
+          "due_tick": 993566,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-08-31T08:35:03.054200+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-02T07:00:45.227994+00:00",
+          "pending_msg": 245,
           "reps": 0,
           "step": 0,
           "word": "to adjust",
@@ -1403,11 +1414,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993485,
+      "last_deliver_tick": 993518,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
