@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our new alcoholic neighbor and local stray cats hit it off right after midnight.",
+              "sentence_ru": "Наш новый сосед-алкоголик и местные бродячие коты сразу подружились сразу после полуночи.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Me and my therapist really hit it off after I blamed my ex for my bad vibes.",
               "sentence_ru": "Я и мой психотерапевт сразу отлично поладили после того, как я свалил вину за свои плохие вайбы на бывшую.",
               "word_form": "hit it off"
@@ -563,12 +568,12 @@
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 993477,
+          "due_tick": 993572,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T10:30:17.578687+00:00",
-          "pending_msg": 208,
+          "last_sent_at": "2026-09-02T10:00:11.359270+00:00",
+          "pending_msg": 256,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -686,11 +691,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993523,
+      "last_deliver_tick": 993524,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1084,6 +1089,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that my ex is aging like milk.",
+              "sentence_ru": "Трудно отрицать, что мой бывший стареет как молоко.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that your screaming cat at 4 AM is possessed by Satan.",
               "sentence_ru": "Трудно отрицать, что твой орущий в 4 утра кот одержим Сатаной.",
               "word_form": "It would be hard to deny that"
@@ -1105,12 +1115,12 @@
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 993431,
+          "due_tick": 993572,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T11:30:23.500923+00:00",
-          "pending_msg": 159,
+          "last_sent_at": "2026-09-02T10:00:12.575790+00:00",
+          "pending_msg": 257,
           "reps": 0,
           "step": 0,
           "word": "it would be hard to deny that",
@@ -1454,11 +1464,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993523,
+      "last_deliver_tick": 993524,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
