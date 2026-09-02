@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-02",
-  "offset": 71487572,
+  "offset": 71487573,
   "users": {
     "1090554427": {
       "cards": [
@@ -1254,14 +1254,14 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993566,
+          "due_tick": 993540,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 2,
           "last_sent_at": "2026-09-02T07:00:45.227994+00:00",
-          "pending_msg": 245,
-          "reps": 0,
-          "step": 0,
+          "pending_msg": null,
+          "reps": 1,
+          "step": 1,
           "word": "to adjust",
           "word_ru": "настраивать, регулировать, адаптировать"
         },
