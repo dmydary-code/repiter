@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever Greg starts crying about his gluten allergy, I just hide his coffee.",
+              "sentence_ru": "Всякий раз, когда Грег начинает плакать из-за своей аллергии на глютен, я просто прячу его кофе.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "My cat explodes whenever the doorbell rings, showering the hallway with pure glitter.",
               "sentence_ru": "Мой кот взрывается всякий раз, когда звонит в дверь, осыпая прихожую чистыми блёстками.",
               "word_form": "whenever"
@@ -440,12 +445,12 @@
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 993474,
+          "due_tick": 993569,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T09:00:06.794590+00:00",
-          "pending_msg": 202,
+          "last_sent_at": "2026-09-02T08:30:03.003391+00:00",
+          "pending_msg": 250,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -671,11 +676,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993520,
+      "last_deliver_tick": 993521,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1316,6 +1321,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cheap blender started smoking and decided to completely seize up on the very first smoothie.",
+              "sentence_ru": "Мой дешевый блендер задымился и решил окончательно заклинить на самом первом смузи.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My grandfather tried to breakdance and his old knees instantly started to seize up.",
               "sentence_ru": "Мой дедушка попытался сделать брейк-данс, и его старые колени мгновенно заклинило.",
               "word_form": "seize up"
@@ -1337,12 +1347,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 993430,
+          "due_tick": 993569,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-31T09:00:08.199695+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-02T08:30:04.276634+00:00",
+          "pending_msg": 251,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1424,11 +1434,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993520,
+      "last_deliver_tick": 993521,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
