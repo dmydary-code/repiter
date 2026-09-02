@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If you set heart on stealing the lobby cactus, just leave it before the cops arrive.",
+              "sentence_ru": "Если вы твердо нацелились украсть подъездный кактус, хотя бы верните его до приезда полицаев.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Karen has set her heart on stealing the last gluten-free donut from the breakroom.",
               "sentence_ru": "Карен твердо нацелилась украсть последний безглютеновый пончик из комнаты отдыха.",
               "word_form": "set her heart on"
@@ -481,12 +486,12 @@
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 993475,
+          "due_tick": 993570,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T09:30:14.619443+00:00",
-          "pending_msg": 204,
+          "last_sent_at": "2026-09-02T09:00:14.009067+00:00",
+          "pending_msg": 252,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -676,11 +681,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993521,
+      "last_deliver_tick": 993522,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1362,6 +1367,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
+              "sentence_ru": "Чел был вынужден увеличить дозу кофеина, просто чтобы выжить в понедельник утром.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Bro had to ramp up his ex-blocking speed after she spotted him at the mall.",
               "sentence_ru": "Брату пришлось бешено ускориться, когда бывшая спалила его в торговом центре.",
               "word_form": "ramp up"
@@ -1383,12 +1393,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 993430,
+          "due_tick": 993570,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-08-31T09:30:15.821677+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-02T09:00:15.536390+00:00",
+          "pending_msg": 253,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1434,11 +1444,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993521,
+      "last_deliver_tick": 993522,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-02",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
