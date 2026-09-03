@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Too humble to mention that I am basically a god among mortals.",
+              "sentence_ru": "Слишком скромный, чтобы упоминать, что я вообще-то бог среди смертных.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Humble dictator apologizes for only stealing half the country's gold reserves.",
               "sentence_ru": "Скромный диктатор извиняется за то, что украл лишь половину золотого запаса страны.",
               "word_form": "Humble"
@@ -27,20 +32,15 @@
               "sentence": "Humble cult leader finally admits his alien overlords just wanted a quiet weekend.",
               "sentence_ru": "Скромный лидер секты наконец признает, что его инопланетные повелители просто хотели провести тихие выходные.",
               "word_form": "Humble"
-            },
-            {
-              "sentence": "Even when I won the argument against a pigeon, I stayed incredibly humble.",
-              "sentence_ru": "Даже когда я выиграл спор у голубя, я остался невероятно скромным.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993524,
+          "due_tick": 993624,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-01T10:00:29.324450+00:00",
-          "pending_msg": 230,
+          "last_sent_at": "2026-09-03T12:00:47.156358+00:00",
+          "pending_msg": 282,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -701,11 +701,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993575,
+      "last_deliver_tick": 993576,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -873,6 +873,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Me and the boys on our way to demolish my ex's toxic art project.",
+              "sentence_ru": "Я и пацаны по пути сносить токсичный арт-проект моей бывшей.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Bro tried to cook eggs and accidentally demolished the entire kitchen.",
               "sentence_ru": "Бро пытался пожарить яйца и случайно снёс к чертям всю кухню.",
               "word_form": "demolished"
@@ -891,20 +896,15 @@
               "sentence": "My therapist told me to demolish my toxic attachments, so I blocked you everywhere.",
               "sentence_ru": "Мой психотерапевт велел уничтожить токсичные привязанности, поэтому я заблокировал тебя везде.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "We demolished an entire large pizza alone while crying to our old shared playlist.",
-              "sentence_ru": "Мы вдрызг умяли целую большую пиццу в одиночку, рыдая под наш старый общий плейлист.",
-              "word_form": "demolished"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 993478,
+          "due_tick": 993624,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-01T08:13:06.524100+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-03T12:00:52.424705+00:00",
+          "pending_msg": 283,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1489,11 +1489,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993575,
+      "last_deliver_tick": 993576,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
