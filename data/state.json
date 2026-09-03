@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons encorage me to burn this wretched diary and dance in the ashes.",
+              "sentence_ru": "Мои внутренние демоны поощряют меня сжечь этот проклятый дневник и станцевать на пепле.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "Mars will encorage you to steal a police horse and run away to Vegas.",
               "sentence_ru": "Марс подбодрит тебя украсть полицейскую лошадь и сбежать в Вегас.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My weird therapist tried to encorage me, but I still hate my ex.",
               "sentence_ru": "Мой странный психотерапевт пытался меня подбодрить, но я всё равно ненавижу своего бывшего.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "Mars will encorage you to steal your boss's chair tomorrow.",
-              "sentence_ru": "Марс подбодрит тебя завтра украсть стул твоего босса.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 993522,
+          "due_tick": 993616,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-01T09:00:51.674921+00:00",
-          "pending_msg": 226,
+          "last_sent_at": "2026-09-03T08:00:16.306829+00:00",
+          "pending_msg": 266,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -701,11 +701,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993567,
+      "last_deliver_tick": 993568,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -832,6 +832,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons somehow manage to flourish while my sanity quietly rots away.",
+              "sentence_ru": "Мои внутренние демоны умудряются процветать, пока мой рассудок тихо гниет.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My inner demons somehow manage to flourish while my soul slowly rots away.",
               "sentence_ru": "Мои внутренние демоны умудряются процветать, пока моя душа медленно гниет.",
               "word_form": "flourish"
@@ -850,20 +855,15 @@
               "sentence": "Your bank account will flourish after you secretly sell your annoying roommate's organs.",
               "sentence_ru": "Твой банковский счет зацветет буйным цветом после того, как ты тайком продашь органы надоедливого соседа.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Virgos will flourish tomorrow while aggressively judging everyone else's cheap outfits.",
-              "sentence_ru": "Девы завтра будут процветать, агрессивно осуждая дешевые шмотки всех остальных.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 993434,
+          "due_tick": 993616,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-08-31T11:30:07.756820+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-03T08:00:19.346309+00:00",
+          "pending_msg": 267,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1489,11 +1489,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993567,
+      "last_deliver_tick": 993568,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
