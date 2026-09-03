@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to look smart while my ex is crying in the club.",
+              "sentence_ru": "Пытаюсь выглядеть умно, пока бывший рыдает в клубе.",
+              "word_form": "Trying"
+            },
+            {
               "sentence": "When she tries to cook soup, the kitchen starts screaming in agony.",
               "sentence_ru": "Когда она пытается приготовить суп, кухня начинает кричать в агонии.",
               "word_form": "tries"
@@ -355,20 +360,15 @@
               "sentence": "Just try to steal my stapler again, and I will staple your eyelids to your forehead.",
               "sentence_ru": "Только попробуй снова украсть мой степлер, и я пристеплеплю твои веки к твоему лбу.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Cows try to conquer Mars using stolen tractors and angry looks.",
-              "sentence_ru": "Коровы пытаются захватить Марс с помощью украденных тракторов и злых взглядов.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993524,
+          "due_tick": 993619,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-01T08:13:05.203177+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-03T09:30:25.579866+00:00",
+          "pending_msg": 272,
           "reps": 2,
           "step": 2,
           "word": "Try",
@@ -701,11 +701,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993570,
+      "last_deliver_tick": 993571,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -955,6 +955,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to emerge from the dumpster just to steal this face cream.",
+              "sentence_ru": "Моему бывшему пришлось вылезти из мусорного бака только ради того, чтобы украсть этот крем для лица.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My ex had to suddenly emerge from the bushes just to rate my purchase one star.",
               "sentence_ru": "Моему бывшему пришлось внезапно вылезти из кустов только чтобы поставить моей покупке одну звезду.",
               "word_form": "emerge"
@@ -966,12 +971,12 @@
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993478,
+          "due_tick": 993619,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-01T09:00:52.921386+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-03T09:30:26.771754+00:00",
+          "pending_msg": 273,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1489,11 +1494,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993570,
+      "last_deliver_tick": 993571,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
