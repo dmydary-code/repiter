@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-03",
-  "offset": 71487581,
+  "offset": 71487582,
   "users": {
     "1090554427": {
       "cards": [
@@ -1212,12 +1212,12 @@
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 993614,
+          "due_tick": 993571,
           "id": "e9cb907104",
           "lang": "en",
-          "lapses": 0,
+          "lapses": 1,
           "last_sent_at": "2026-09-03T07:00:27.594006+00:00",
-          "pending_msg": 263,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "it seems to me",
