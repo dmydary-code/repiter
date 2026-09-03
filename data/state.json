@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Drinking expired energy drinks in the office will only compound your tragic presentation.",
+              "sentence_ru": "Питье просроченных энергетиков в офисе только усугубит твою трагичную презентацию.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "This weird compound turned my bald cat into a fluorescent green goblin. 5 stars!",
               "sentence_ru": "Эта странная смесь превратила моего лысого кота в флуоресцентно-зеленого гоблина. 5 звезд!",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My terrible life choices only compound the misery of waking up.",
               "sentence_ru": "Мои ужасные жизненные выборы лишь усугубляют мучения от пробуждения.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Tomorrow you will accidentally blow up your kitchen with a suspicious chemical compound.",
-              "sentence_ru": "Завтра вы случайно взорвете свою кухню с помощью подозрительного химического соединения.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 993532,
+          "due_tick": 993621,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-01T14:00:05.770928+00:00",
-          "pending_msg": 240,
+          "last_sent_at": "2026-09-03T10:30:01.924440+00:00",
+          "pending_msg": 276,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -701,11 +701,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993572,
+      "last_deliver_tick": 993573,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1027,6 +1027,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet raccoon steals my underwear now and then just to wear it as a hat.",
+              "sentence_ru": "Мой домашний енот время от времени ворует мое нижнее белье, просто чтобы носить его как шляпу.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "I still wake up at 3 AM to check if you remember me now and then.",
               "sentence_ru": "Я всё еще просыпаюсь в 3 часа ночи, чтобы проверить, помнишь ли ты меня время от времени.",
               "word_form": "now and then"
@@ -1045,20 +1050,15 @@
               "sentence": "The elevator drops to the basement now and then, enjoy the free extreme ride.",
               "sentence_ru": "Лифт время от времени падает в подвал, наслаждайтесь бесплатным экстремальным аттракционом.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Now and then a sober plumber visits us, but don't count on this miracle.",
-              "sentence_ru": "Изредка к нам заглядывает трезвый сантехник, но не рассчитывайте на это чудо.",
-              "word_form": "Now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 993478,
+          "due_tick": 993621,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-01T10:00:30.595498+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-03T10:30:05.377640+00:00",
+          "pending_msg": 277,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1494,11 +1494,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993572,
+      "last_deliver_tick": 993573,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
