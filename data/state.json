@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My sanity is slightly bleeding out on the cold kitchen floor.",
+              "sentence_ru": "Мой рассудок слегка истекает кровью на холодном полу кухни.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "Astronaut John is slightly disappointed after finding out the Moon is actually made of moldy cheese.",
               "sentence_ru": "Астронавт Джон слегка разочарован, узнав, что Луна на самом деле сделана из плесневелого сыра.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "Your new expensive perfume smells slightly like my dead mouse under the sofa, human.",
               "sentence_ru": "Твой новый дорогой парфюм слегка пахнет моей дохлой мышью под диваном, кожаная.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My grandmother looks slightly possessed while knitting sweaters from live spiders.",
-              "sentence_ru": "Моя бабушка выглядит слегка одержимой, когда вяжет свитера из живых пауков.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 993523,
+          "due_tick": 993623,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-01T09:30:06.308228+00:00",
-          "pending_msg": 228,
+          "last_sent_at": "2026-09-03T11:30:30.549357+00:00",
+          "pending_msg": 280,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -701,11 +701,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993574,
+      "last_deliver_tick": 993575,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -718,6 +718,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Why are our hallway walls painted in such a drab grey color?",
+              "sentence_ru": "Почему стены в нашем коридоре покрашены в такой унылый серый цвет?",
+              "word_form": "drab"
+            },
             {
               "sentence": "My ex-boyfriend's personality was so drab that even the houseplants tried to commit suicide.",
               "sentence_ru": "Характер моего бывшего был настолько унылым, что даже комнатные растения попытались покончить с собой.",
@@ -737,20 +742,15 @@
               "sentence": "Your soul is as drab as this Tuesday morning accounting report, Kevin.",
               "sentence_ru": "Твоя душа такая же унылая, как этот утренний бухгалтерский отчет за вторник, Кевин.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My ex-boyfriend's soul looks as drab as his mom's boiled cabbage.",
-              "sentence_ru": "Душа моего бывшего выглядит такой же унылой, как вареная капуста его мамы.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 993448,
+          "due_tick": 993623,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-08-31T10:30:18.859838+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-03T11:30:31.836849+00:00",
+          "pending_msg": 281,
           "reps": 1,
           "step": 1,
           "word": "drab",
@@ -1489,11 +1489,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993574,
+      "last_deliver_tick": 993575,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
