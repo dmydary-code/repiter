@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-03",
-  "offset": 71487583,
+  "offset": 71487584,
   "users": {
     "1090554427": {
       "cards": [
@@ -858,12 +858,12 @@
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 993616,
+          "due_tick": 993571,
           "id": "a6c2ac26cd",
           "lang": "en",
-          "lapses": 2,
+          "lapses": 3,
           "last_sent_at": "2026-09-03T08:00:19.346309+00:00",
-          "pending_msg": 267,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
