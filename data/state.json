@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Bought this solid gold toilet brush because I am rolling in money this month.",
+              "sentence_ru": "Купил этот ершик для унитаза из чистого золота, потому что в этом месяце я купаюсь в деньгах.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "My pet raccoon is rolling in money after robbing three local casinos.",
               "sentence_ru": "Мой домашний енот купается в деньгах после ограбления трёх местных казино.",
               "word_form": "rolling in money"
@@ -645,12 +650,12 @@
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 993479,
+          "due_tick": 993614,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-31T11:30:06.463552+00:00",
-          "pending_msg": 212,
+          "last_sent_at": "2026-09-03T07:00:26.486144+00:00",
+          "pending_msg": 262,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -696,11 +701,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993540,
+      "last_deliver_tick": 993566,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1176,6 +1181,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me you still love my chaotic energy and my unpaid debts.",
+              "sentence_ru": "Мне кажется, ты всё ещё любишь мою хаотичную энергию и мои неоплаченные долги.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me you are opening that tuna for me, human.",
               "sentence_ru": "Мне кажется, ты открываешь эту туну для меня, человек.",
               "word_form": "It seems to me"
@@ -1197,12 +1207,12 @@
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 993433,
+          "due_tick": 993614,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-08-30T12:30:19.780344+00:00",
-          "pending_msg": 161,
+          "last_sent_at": "2026-09-03T07:00:27.594006+00:00",
+          "pending_msg": 263,
           "reps": 0,
           "step": 0,
           "word": "it seems to me",
@@ -1474,11 +1484,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993540,
+      "last_deliver_tick": 993566,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
