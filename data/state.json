@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That taste for expensive caviar is an acquired flex I can no longer afford.",
+              "sentence_ru": "Эта тяга к дорогой икре — приобретенный выпендрёж, который я больше не вывожу.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "If your cat has acquired a taste for neighbor's flesh, keep the beast inside.",
               "sentence_ru": "Если ваш кот приобрел вкус к соседской плоти, держите тварь дома.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "I acquired this cursed ancient skull just to piss off my HOA.",
               "sentence_ru": "Я приобрел этот проклятый древний череп просто чтобы взбесить ТСЖ.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "I acquired this cursed ancient skull just to piss off my HOA.",
-              "sentence_ru": "Я приобрел этот проклятый древний череп только для того, чтобы взбесить ТСЖ.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993521,
+          "due_tick": 993615,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-01T08:30:16.298397+00:00",
-          "pending_msg": 224,
+          "last_sent_at": "2026-09-03T07:30:02.235616+00:00",
+          "pending_msg": 264,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -701,11 +701,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993566,
+      "last_deliver_tick": 993567,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -801,6 +801,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Drinking iced coffee and feeding the neighbourhood pigeons pure gossip.",
+              "sentence_ru": "Пью ледяной кофе и скармливаю районным голубям чистейшие сплетни.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop spreading toxic gossip about Aunt Luda's wig or I will glue your mailbox shut.",
               "sentence_ru": "Хватит распускать токсичные сплетни о парике тети Люды, иначе я наглухо приклею ваш почтовый ящик.",
               "word_form": "gossip"
@@ -812,12 +817,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993434,
+          "due_tick": 993615,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-08-31T11:00:26.607537+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-03T07:30:03.356113+00:00",
+          "pending_msg": 265,
           "reps": 0,
           "step": 0,
           "word": "gossip",
@@ -1484,11 +1489,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993566,
+      "last_deliver_tick": 993567,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-03",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
