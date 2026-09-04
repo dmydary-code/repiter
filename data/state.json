@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "These cheap Chinese scales completely undermine my fragile self-esteem every single morning.",
+              "sentence_ru": "Эти дешёвые китайские весы полностью подрывают мою хрупкую самооценку каждое божье утро.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "My ex trying to undermine my new relationship while still crying in my DMs.",
               "sentence_ru": "Мой бывший пытается подрывать мои новые отношения, пока сам всё ещё плачет в моих личных сообщениях.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "These cheap Chinese shoes tried to undermine my faith in humanity with every step.",
               "sentence_ru": "Эти дешевые китайские туфли пытались подорвать мою веру в человечество с каждым шагом.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Your new boyfriend cannot undermine the fact that you still cry to my voice at 3 AM.",
-              "sentence_ru": "Твой новый парень никак не подорвет тот факт, что ты все еще плачешь под мой голос в 3 часа ночи.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993568,
+          "due_tick": 993665,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-02T08:00:16.759310+00:00",
-          "pending_msg": 248,
+          "last_sent_at": "2026-09-04T08:30:10.372050+00:00",
+          "pending_msg": 296,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993616,
+      "last_deliver_tick": 993617,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-04",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1304,6 +1304,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your terrible loud techno music is altogether driving me insane this Sunday morning!",
+              "sentence_ru": "Ваша ужасная громкая техно-музыка в целом сводит меня с ума этим воскресным утром!",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Pigeons hijacked a nuclear submarine and vanished altogether into the Bermuda Triangle.",
               "sentence_ru": "Голуби угнали атомную подводную лодку и целиком исчезли в Бермудском треугольнике.",
               "word_form": "altogether"
@@ -1325,12 +1330,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 993526,
+          "due_tick": 993665,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-02T07:30:06.781678+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-04T08:30:11.610096+00:00",
+          "pending_msg": 297,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1499,11 +1504,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993616,
+      "last_deliver_tick": 993617,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-04",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
