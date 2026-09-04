@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-04",
-  "offset": 71487593,
+  "offset": 71487581,
   "users": {
     "1090554427": {
       "cards": [
@@ -132,11 +132,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "These cheap Chinese scales completely undermine my fragile self-esteem every single morning.",
-              "sentence_ru": "Эти дешёвые китайские весы полностью подрывают мою хрупкую самооценку каждое божье утро.",
-              "word_form": "undermine"
-            },
-            {
               "sentence": "My ex trying to undermine my new relationship while still crying in my DMs.",
               "sentence_ru": "Мой бывший пытается подрывать мои новые отношения, пока сам всё ещё плачет в моих личных сообщениях.",
               "word_form": "undermine"
@@ -155,15 +150,20 @@
               "sentence": "These cheap Chinese shoes tried to undermine my faith in humanity with every step.",
               "sentence_ru": "Эти дешевые китайские туфли пытались подорвать мою веру в человечество с каждым шагом.",
               "word_form": "undermine"
+            },
+            {
+              "sentence": "Your new boyfriend cannot undermine the fact that you still cry to my voice at 3 AM.",
+              "sentence_ru": "Твой новый парень никак не подорвет тот факт, что ты все еще плачешь под мой голос в 3 часа ночи.",
+              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993665,
+          "due_tick": 993568,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T08:30:10.372050+00:00",
-          "pending_msg": 296,
+          "last_sent_at": "2026-09-02T08:00:16.759310+00:00",
+          "pending_msg": 248,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -255,9 +255,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Stop to discorage neighbors from breeding aggressive raccoons in the elevator, it is our only joy.",
-              "sentence_ru": "Хватит отговаривать соседей разводить агрессивных енотов в лифте, это наша единственная радость.",
-              "word_form": "discorage"
+              "sentence": "Trying to teach my cat calculus will definitely discourage even the most patient teacher.",
+              "sentence_ru": "Попытки научить моего кота исчислению определенно разочаруют даже самого терпеливого учителя.",
+              "word_form": "discourage"
             },
             {
               "sentence": "Please do not discorage my cat from howling at 3 AM in the hallway.",
@@ -281,12 +281,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 993664,
+          "due_tick": 993667,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T08:00:08.360582+00:00",
-          "pending_msg": 294,
+          "last_sent_at": "2026-09-04T09:58:56.990842+00:00",
+          "pending_msg": 302,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -419,11 +419,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Whenever you cry, my new girlfriend laughs so hard she snorts.",
-              "sentence_ru": "Всякий раз, когда ты плачешь, моя новая девушка смеется так громко, что хрюкает.",
-              "word_form": "Whenever"
-            },
-            {
               "sentence": "Whenever Greg starts crying about his gluten allergy, I just hide his coffee.",
               "sentence_ru": "Всякий раз, когда Грег начинает плакать из-за своей аллергии на глютен, я просто прячу его кофе.",
               "word_form": "Whenever"
@@ -442,15 +437,20 @@
               "sentence": "You can use my stolen stapler whenever your soul feels equally dead and empty.",
               "sentence_ru": "Можешь пользоваться моим украденным степлером, когда твоя душа почувствует себя такой же мертвой и пустой.",
               "word_form": "whenever"
+            },
+            {
+              "sentence": "Call me an ambulance whenever boss starts talking about corporate synergy again.",
+              "sentence_ru": "Вызови мне скорую, когда бы шеф снова ни завел речь о корпоративной синергии.",
+              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 993666,
+          "due_tick": 993569,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T09:00:20.500102+00:00",
-          "pending_msg": 298,
+          "last_sent_at": "2026-09-02T08:30:03.003391+00:00",
+          "pending_msg": 250,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -459,11 +459,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I set heart on this vibrator, but it arrived broken and smelled like dead fish.",
-              "sentence_ru": "Я страстно желала этот вибратор, но он пришел сломанным и пах мертвой рыбой.",
-              "word_form": "set heart on"
-            },
             {
               "sentence": "If you set heart on stealing the lobby cactus, just leave it before the cops arrive.",
               "sentence_ru": "Если вы твердо нацелились украсть подъездный кактус, хотя бы верните его до приезда полицаев.",
@@ -483,15 +478,20 @@
               "sentence": "You set your heart on buying cheap food, but I set my heart on absolute chaos.",
               "sentence_ru": "Ты зациклилась на покупке дешевой еды, а я нацелился на абсолютный хаос.",
               "word_form": "set my heart on"
+            },
+            {
+              "sentence": "Why cry over spilled milk when you already set your heart on killing the vacuum cleaner?",
+              "sentence_ru": "Зачем плакать над пролитым молоком, если ты уже загорелся идеей убить пылесос?",
+              "word_form": "set your heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 993667,
+          "due_tick": 993570,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T09:30:02.177872+00:00",
-          "pending_msg": 300,
+          "last_sent_at": "2026-09-02T09:00:14.009067+00:00",
+          "pending_msg": 252,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-04",
-      "sent_today": 6,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -945,12 +945,12 @@
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 993620,
+          "due_tick": 993663,
           "id": "4fea416258",
           "lang": "en",
-          "lapses": 2,
+          "lapses": 1,
           "last_sent_at": "2026-09-04T07:30:06.896485+00:00",
-          "pending_msg": null,
+          "pending_msg": 293,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1099,12 +1099,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 993620,
+          "due_tick": 993662,
           "id": "c1cf472110",
           "lang": "en",
-          "lapses": 3,
+          "lapses": 2,
           "last_sent_at": "2026-09-04T07:00:05.184208+00:00",
-          "pending_msg": null,
+          "pending_msg": 291,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1237,8 +1237,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I'm inclined to think that the sentient cabbage patch stole our nuclear codes.",
-              "sentence_ru": "Я склонен думать, что разумная капустная грядка украла наши ядерные коды.",
+              "sentence": "I'm inclined to think that our talking fridge is stealing my beer at night.",
+              "sentence_ru": "Я склонен думать, что наш говорящий холодильник ворует мое пиво по ночам.",
               "word_form": "I'm inclined to think that"
             },
             {
@@ -1263,12 +1263,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 993620,
+          "due_tick": 993667,
           "id": "2c7cfcc022",
           "lang": "en",
-          "lapses": 3,
-          "last_sent_at": "2026-09-04T08:00:09.690452+00:00",
-          "pending_msg": null,
+          "lapses": 2,
+          "last_sent_at": "2026-09-04T09:59:08.944576+00:00",
+          "pending_msg": 303,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1304,11 +1304,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Your terrible loud techno music is altogether driving me insane this Sunday morning!",
-              "sentence_ru": "Ваша ужасная громкая техно-музыка в целом сводит меня с ума этим воскресным утром!",
-              "word_form": "altogether"
-            },
-            {
               "sentence": "Pigeons hijacked a nuclear submarine and vanished altogether into the Bermuda Triangle.",
               "sentence_ru": "Голуби угнали атомную подводную лодку и целиком исчезли в Бермудском треугольнике.",
               "word_form": "altogether"
@@ -1330,11 +1325,11 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 993620,
+          "due_tick": 993526,
           "id": "56692d5953",
           "lang": "en",
-          "lapses": 3,
-          "last_sent_at": "2026-09-04T08:30:11.610096+00:00",
+          "lapses": 2,
+          "last_sent_at": "2026-09-02T07:30:06.781678+00:00",
           "pending_msg": null,
           "reps": 0,
           "step": 0,
@@ -1381,11 +1376,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Your brain will seize up if you try to buy me cheap food again.",
-              "sentence_ru": "Твой мозг заклинит, если ты снова попытаешься купить мне дешевую еду.",
-              "word_form": "seize up"
-            },
-            {
               "sentence": "My cheap blender started smoking and decided to completely seize up on the very first smoothie.",
               "sentence_ru": "Мой дешевый блендер задымился и решил окончательно заклинить на самом первом смузи.",
               "word_form": "seize up"
@@ -1404,14 +1394,19 @@
               "sentence": "Local dictator's robotic jaw tends to seize up whenever journalists mention taxes.",
               "sentence_ru": "Роботизированная челюсть местного диктатора имеет свойство заклинивать, когда журналисты упоминают налоги.",
               "word_form": "seize up"
+            },
+            {
+              "sentence": "Time-traveling hipsters completely seize up when they realize the past has no Wi-Fi.",
+              "sentence_ru": "Путешествующие во времени хипстеры полностью цепенеют, когда осознают, что в прошлом нет вай-фая.",
+              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 993620,
+          "due_tick": 993526,
           "id": "b7d191b063",
           "lang": "en",
-          "lapses": 3,
-          "last_sent_at": "2026-09-04T09:00:29.291537+00:00",
+          "lapses": 2,
+          "last_sent_at": "2026-09-02T08:30:04.276634+00:00",
           "pending_msg": null,
           "reps": 0,
           "step": 0,
@@ -1421,11 +1416,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Cows ramp up milk production after listening to heavy metal at midnight.",
-              "sentence_ru": "Коровы наращивают производство молока после прослушивания хэви-метала в полночь.",
-              "word_form": "ramp up"
-            },
             {
               "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
               "sentence_ru": "Чел был вынужден увеличить дозу кофеина, просто чтобы выжить в понедельник утром.",
@@ -1445,15 +1435,20 @@
               "sentence": "Let's ramp up the drama and pretend you never blocked me, baby.",
               "sentence_ru": "Давай усилим драму и сделаем вид, что ты меня никогда не блокировала, детка.",
               "word_form": "ramp up"
+            },
+            {
+              "sentence": "My obsession is about to ramp up because I just finished a bottle of wine.",
+              "sentence_ru": "Моя одержимость сейчас пойдет на повышение, потому что я только что допил бутылку вина.",
+              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 993667,
+          "due_tick": 993526,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-04T09:30:03.340948+00:00",
-          "pending_msg": 301,
+          "last_sent_at": "2026-09-02T09:00:15.536390+00:00",
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1508,7 +1503,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-04",
-      "sent_today": 6,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
