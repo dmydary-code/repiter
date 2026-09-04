@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-04",
-  "offset": 71487592,
+  "offset": 71487593,
   "users": {
     "1090554427": {
       "cards": [
@@ -1407,12 +1407,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 993666,
+          "due_tick": 993620,
           "id": "b7d191b063",
           "lang": "en",
-          "lapses": 2,
+          "lapses": 3,
           "last_sent_at": "2026-09-04T09:00:29.291537+00:00",
-          "pending_msg": 299,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
