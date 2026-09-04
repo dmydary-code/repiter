@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I set heart on this vibrator, but it arrived broken and smelled like dead fish.",
+              "sentence_ru": "Я страстно желала этот вибратор, но он пришел сломанным и пах мертвой рыбой.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "If you set heart on stealing the lobby cactus, just leave it before the cops arrive.",
               "sentence_ru": "Если вы твердо нацелились украсть подъездный кактус, хотя бы верните его до приезда полицаев.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "You set your heart on buying cheap food, but I set my heart on absolute chaos.",
               "sentence_ru": "Ты зациклилась на покупке дешевой еды, а я нацелился на абсолютный хаос.",
               "word_form": "set my heart on"
-            },
-            {
-              "sentence": "Why cry over spilled milk when you already set your heart on killing the vacuum cleaner?",
-              "sentence_ru": "Зачем плакать над пролитым молоком, если ты уже загорелся идеей убить пылесос?",
-              "word_form": "set your heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 993570,
+          "due_tick": 993667,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-02T09:00:14.009067+00:00",
-          "pending_msg": 252,
+          "last_sent_at": "2026-09-04T09:30:02.177872+00:00",
+          "pending_msg": 300,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993618,
+      "last_deliver_tick": 993619,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-04",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1422,6 +1422,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Cows ramp up milk production after listening to heavy metal at midnight.",
+              "sentence_ru": "Коровы наращивают производство молока после прослушивания хэви-метала в полночь.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
               "sentence_ru": "Чел был вынужден увеличить дозу кофеина, просто чтобы выжить в понедельник утром.",
               "word_form": "ramp up"
@@ -1440,20 +1445,15 @@
               "sentence": "Let's ramp up the drama and pretend you never blocked me, baby.",
               "sentence_ru": "Давай усилим драму и сделаем вид, что ты меня никогда не блокировала, детка.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "My obsession is about to ramp up because I just finished a bottle of wine.",
-              "sentence_ru": "Моя одержимость сейчас пойдет на повышение, потому что я только что допил бутылку вина.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 993526,
+          "due_tick": 993667,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-02T09:00:15.536390+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-04T09:30:03.340948+00:00",
+          "pending_msg": 301,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1504,11 +1504,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993618,
+      "last_deliver_tick": 993619,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-04",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
