@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The aforementioned raccoon stole my toupee and is now leading a gang of stray cats.",
+              "sentence_ru": "Вышеупомянутый енот украл мой парик и теперь возглавляет банду бродячих котов.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "I still hear the screams of the aforementioned bastard echoing in my haunted skull.",
               "sentence_ru": "Я до сих пор слышу крики вышеупомянутого ублюдка, эхом отдающиеся в моем больном черепе.",
               "word_form": "aforementioned"
@@ -686,12 +691,12 @@
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 993566,
+          "due_tick": 993663,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-02T07:00:43.770377+00:00",
-          "pending_msg": 244,
+          "last_sent_at": "2026-09-04T07:30:05.540254+00:00",
+          "pending_msg": 292,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -701,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993614,
+      "last_deliver_tick": 993615,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-04",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -914,6 +919,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to undergo plastic surgery just to look herself in the mirror.",
+              "sentence_ru": "Моей бывшей пришлось перенести пластическую операцию, чтобы просто смотреть на себя в зеркало.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "You have to undergo a strict bag check before I let you feed me, human.",
               "sentence_ru": "Ты должна пройти строгий досмотр сумочки, прежде чем я позволю тебе покормить меня, человек.",
               "word_form": "undergo"
@@ -932,20 +942,15 @@
               "sentence": "If your mutt barks at night, it will undergo aggressive cybernetic modification.",
               "sentence_ru": "Если ваша шавка лает по ночам, она подвергнется агрессивной кибернетической модификации.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "The elevator has to undergo a ritual sacrifice to work on odd dates.",
-              "sentence_ru": "Лифт должен пройти ритуальное жертвоприношение, чтобы работать по нечетным числам.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 993486,
+          "due_tick": 993663,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-01T14:00:37.337185+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-04T07:30:06.896485+00:00",
+          "pending_msg": 293,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1494,11 +1499,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993614,
+      "last_deliver_tick": 993615,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-04",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
