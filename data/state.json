@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-04",
-  "offset": 71487590,
+  "offset": 71487592,
   "users": {
     "1090554427": {
       "cards": [
@@ -1263,12 +1263,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 993664,
+          "due_tick": 993620,
           "id": "2c7cfcc022",
           "lang": "en",
-          "lapses": 2,
+          "lapses": 3,
           "last_sent_at": "2026-09-04T08:00:09.690452+00:00",
-          "pending_msg": 295,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1330,12 +1330,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 993665,
+          "due_tick": 993620,
           "id": "56692d5953",
           "lang": "en",
-          "lapses": 2,
+          "lapses": 3,
           "last_sent_at": "2026-09-04T08:30:11.610096+00:00",
-          "pending_msg": 297,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "altogether",
