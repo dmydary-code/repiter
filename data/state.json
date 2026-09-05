@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A humble goblin accidentally overthrew the corrupt goblin senate using only a stolen sandwich.",
+              "sentence_ru": "Скромный гоблин случайно сверг коррумпированный сенат гоблинов, используя лишь украденный бутерброд.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Too humble to mention that I am basically a god among mortals.",
               "sentence_ru": "Слишком скромный, чтобы упоминать, что я вообще-то бог среди смертных.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even in my humble pajamas, I still know you miss this absolute king at 3 AM.",
               "sentence_ru": "Даже в своей скромной пижаме я всё еще знаю, что ты скучаешь по этому абсолютному королю в 3 часа ночи.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Humble cult leader finally admits his alien overlords just wanted a quiet weekend.",
-              "sentence_ru": "Скромный лидер секты наконец признает, что его инопланетные повелители просто хотели провести тихие выходные.",
-              "word_form": "Humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993624,
+          "due_tick": 993718,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-03T12:00:47.156358+00:00",
-          "pending_msg": 282,
+          "last_sent_at": "2026-09-05T11:00:04.530849+00:00",
+          "pending_msg": 334,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993669,
+      "last_deliver_tick": 993670,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -765,6 +765,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Bro, my ex lives in these backstreets so I literally had to Naruto-run past her window.",
+              "sentence_ru": "Бро, моя бывшая живет в этих переулках, так что мне пришлось буквально пробежать мимо ее окна в стиле Наруто.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "A naked mayor was spotted fleeing wild raccoons through dark backstreets with a stolen cheese wheel.",
               "sentence_ru": "Голого мэра заметили убегающим от диких енотов по темным задворкам с украденной головкой сыра.",
               "word_form": "backstreets"
@@ -783,20 +788,15 @@
               "sentence": "I run through the dark backstreets while my past finally catches up to me.",
               "sentence_ru": "Я бегу по темным задворкам, пока мое прошлое наконец догоняет меня.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Tomorrow the stars advise you to flee angry creditors through dark backstreets.",
-              "sentence_ru": "Завтра звезды советуют вам бежать от злых кредиторов по темным задворкам.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 993620,
+          "due_tick": 993718,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-01T08:30:19.210777+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-05T11:00:05.748118+00:00",
+          "pending_msg": 335,
           "reps": 3,
           "step": 3,
           "word": "backstreets",
@@ -1519,11 +1519,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993669,
+      "last_deliver_tick": 993670,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
