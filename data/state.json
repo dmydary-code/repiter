@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-05",
-  "offset": 71487600,
+  "offset": 71487602,
   "users": {
     "1090554427": {
       "cards": [
@@ -1145,14 +1145,14 @@
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 993722,
+          "due_tick": 993818,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
           "last_sent_at": "2026-09-05T08:39:40.472163+00:00",
           "pending_msg": null,
-          "reps": 2,
-          "step": 2,
+          "reps": 3,
+          "step": 3,
           "word": "it would be hard to deny that",
           "word_ru": "трудно отрицать, что; нельзя не признать, что"
         },
@@ -1381,14 +1381,14 @@
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 993715,
+          "due_tick": 993722,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
           "last_sent_at": "2026-09-05T09:30:26.029291+00:00",
-          "pending_msg": 329,
-          "reps": 1,
-          "step": 1,
+          "pending_msg": null,
+          "reps": 2,
+          "step": 2,
           "word": "wire up",
           "word_ru": "подключить проводами, соединить в сеть, заминировать"
         },
