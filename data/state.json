@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local dictator looks slightly annoyed after citizens launched his palace into the sun.",
+              "sentence_ru": "Местный диктатор выглядит слегка раздраженным после того, как граждане запустили его дворец в солнце.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My sanity is slightly bleeding out on the cold kitchen floor.",
               "sentence_ru": "Мой рассудок слегка истекает кровью на холодном полу кухни.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "My pet goblin is slightly glowing after eating radioactive laundry detergent.",
               "sentence_ru": "Мой домашний гоблин слегка светится после того, как съел радиоактивный стиральный порошок.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "Your new expensive perfume smells slightly like my dead mouse under the sofa, human.",
-              "sentence_ru": "Твой новый дорогой парфюм слегка пахнет моей дохлой мышью под диваном, кожаная.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 993623,
+          "due_tick": 993717,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-03T11:30:30.549357+00:00",
-          "pending_msg": 280,
+          "last_sent_at": "2026-09-05T10:30:02.594953+00:00",
+          "pending_msg": 332,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993668,
+      "last_deliver_tick": 993669,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,6 +806,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop to gossip in the chat about my trash bags and clean your own hallway!",
+              "sentence_ru": "Хватит сплетничать в чате про мои мусорные пакеты и помойте свой собственный коридор!",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Drinking iced coffee and feeding the neighbourhood pigeons pure gossip.",
               "sentence_ru": "Пью ледяной кофе и скармливаю районным голубям чистейшие сплетни.",
               "word_form": "gossip"
@@ -822,12 +827,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993615,
+          "due_tick": 993717,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-03T07:30:03.356113+00:00",
-          "pending_msg": 265,
+          "last_sent_at": "2026-09-05T10:30:03.725558+00:00",
+          "pending_msg": 333,
           "reps": 0,
           "step": 0,
           "word": "gossip",
@@ -1514,11 +1519,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993668,
+      "last_deliver_tick": 993669,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
