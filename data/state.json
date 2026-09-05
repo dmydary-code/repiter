@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your acquired taste for expensive whiskey will finally bankrupt your sugar daddy tomorrow.",
+              "sentence_ru": "Твой приобретенный вкус к дорогому виски завтра окончательно разорит твоего папика.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That taste for expensive caviar is an acquired flex I can no longer afford.",
               "sentence_ru": "Эта тяга к дорогой икре — приобретенный выпендрёж, который я больше не вывожу.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That weird smell in the elevator is an acquired stench I refuse to tolerate.",
               "sentence_ru": "Эта странная вонь в лифте — приобретенное зловоние, которое я отказываюсь терпеть.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "I acquired this cursed ancient skull just to piss off my HOA.",
-              "sentence_ru": "Я приобрел этот проклятый древний череп просто чтобы взбесить ТСЖ.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993615,
+          "due_tick": 993712,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-03T07:30:02.235616+00:00",
-          "pending_msg": 264,
+          "last_sent_at": "2026-09-05T08:00:18.770597+00:00",
+          "pending_msg": 320,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993663,
+      "last_deliver_tick": 993664,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1350,6 +1350,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who decided to wire up the intercom to my doorbell while on crack?",
+              "sentence_ru": "Кто додумался подключить провода домофона к моему дверному звонку под кайфом?",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Who decided to wire up the intercom to my doorbell while on heavy drugs?",
               "sentence_ru": "Кто додумался подключить домофон к моему звонку под тяжелыми наркотиками?",
               "word_form": "wire up"
@@ -1371,12 +1376,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 993540,
+          "due_tick": 993712,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-02T08:00:18.175339+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-05T08:00:20.319362+00:00",
+          "pending_msg": 321,
           "reps": 1,
           "step": 1,
           "word": "wire up",
@@ -1509,11 +1514,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993663,
+      "last_deliver_tick": 993664,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
