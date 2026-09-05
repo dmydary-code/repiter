@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "She is rolling in money while my soul starves in this damp basement.",
+              "sentence_ru": "Она купается в деньгах, пока моя душа голодает в этом сыром подвале.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "Bought this solid gold toilet brush because I am rolling in money this month.",
               "sentence_ru": "Купил этот ершик для унитаза из чистого золота, потому что в этом месяце я купаюсь в деньгах.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "That toddler is rolling in money just because he was born to rich psychopaths.",
               "sentence_ru": "Этот малыш купается в деньгах просто потому, что родился у богатых психопатов.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "I would be rolling in money if my crypto portfolio didn't crash into absolute zero.",
-              "sentence_ru": "Я бы купался в деньгах, если бы мой криптопортфель не рухнул в абсолютный ноль.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 993614,
+          "due_tick": 993711,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-03T07:00:26.486144+00:00",
-          "pending_msg": 262,
+          "last_sent_at": "2026-09-05T07:30:07.021122+00:00",
+          "pending_msg": 318,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993662,
+      "last_deliver_tick": 993663,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1278,6 +1278,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please adjust your screaming kids, I am trying to sleep through this hangover.",
+              "sentence_ru": "Пожалуйста, угомоните своих орущих детей, я пытаюсь проспать это похмелье.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Tomorrow you must aggressively adjust your horoscope before the universe notices you are broke.",
               "sentence_ru": "Завтра ты должен агрессивно подстроить свой гороскоп, пока вселенная не заметила, что ты на мели.",
               "word_form": "adjust"
@@ -1289,12 +1294,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993540,
+          "due_tick": 993711,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-02T07:00:45.227994+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-05T07:30:08.342029+00:00",
+          "pending_msg": 319,
           "reps": 1,
           "step": 1,
           "word": "to adjust",
@@ -1504,11 +1509,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993662,
+      "last_deliver_tick": 993663,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
