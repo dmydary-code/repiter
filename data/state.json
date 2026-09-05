@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chaos in Hell: Satan never lifts a finger in the house, complains stressed-out demon wife.",
+              "sentence_ru": "Хаос в Аду: Сатана палец о палец не ударяет по дому, жалуется замотанная жена-демоница.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "My lazy husband never lifts a finger in the house, so our cat hired a lawyer for divorce.",
               "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец по дому, поэтому наш кот нанял адвоката для развода.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "If Gemini lifts a finger in the house tomorrow, it's only to throw a tantrum at the broom.",
               "sentence_ru": "Если Близнецы завтра шевельнут пальцем по дому, то только чтобы устроить истерику метле.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "Scorpio stubbornly refuses lifts a finger in the house, letting chaos become the new luxury aesthetic.",
-              "sentence_ru": "Скорпион упрямо отказывается ударить палец о палец дома, позволяя хаосу стать новой люксовой эстетикой.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 993573,
+          "due_tick": 993710,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-02T10:30:15.333696+00:00",
-          "pending_msg": 260,
+          "last_sent_at": "2026-09-05T07:00:21.793780+00:00",
+          "pending_msg": 316,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993631,
+      "last_deliver_tick": 993662,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1114,6 +1114,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that mutant badgers run our local senate.",
+              "sentence_ru": "Трудно отрицать, что мутировавшие барсуки управляют нашим местным сенатом.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that my ex is aging like milk.",
               "sentence_ru": "Трудно отрицать, что мой бывший стареет как молоко.",
               "word_form": "It would be hard to deny that"
@@ -1132,20 +1137,15 @@
               "sentence": "It would be hard to deny that you still cry into your pillow over my nudes.",
               "sentence_ru": "Нельзя не признать, что ты всё ещё плачешь в подушку из-за моих голых фоток.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that dumping me was the worst mistake of your pathetic life.",
-              "sentence_ru": "Трудно отрицать, что бросить меня было худшей ошибкой твоей жалкой жизни.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 993540,
+          "due_tick": 993710,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-02T10:00:12.575790+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-05T07:00:23.257777+00:00",
+          "pending_msg": 317,
           "reps": 1,
           "step": 1,
           "word": "it would be hard to deny that",
@@ -1504,11 +1504,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993631,
+      "last_deliver_tick": 993662,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
