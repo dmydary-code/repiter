@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If you try to glue your broken life here again, I will superglue your eyes.",
+              "sentence_ru": "Если вы попытаетесь снова склеить здесь свою разбитую жизнь, я суперклеем залеплю вам глаза.",
+              "word_form": "try"
+            },
+            {
               "sentence": "I still try to wash away the blood from my soul, but soap doesn't work.",
               "sentence_ru": "Я всё еще пытаюсь смыть кровь со своей души, но мыло не помогает.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Please try to fix the elevator instead of smoking meth in it.",
               "sentence_ru": "Пожалуйста, попытайтесь починить лифт, а не курите в нём мет.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Just try to steal my stapler again, and I will staple your eyelids to your forehead.",
-              "sentence_ru": "Только попробуй снова украсть мой степлер, и я пристеплеплю твои веки к твоему лбу.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993625,
+          "due_tick": 993719,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-03T12:30:07.644485+00:00",
-          "pending_msg": 284,
+          "last_sent_at": "2026-09-05T11:30:06.105720+00:00",
+          "pending_msg": 336,
           "reps": 2,
           "step": 2,
           "word": "Try",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993670,
+      "last_deliver_tick": 993671,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -842,6 +842,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local cats flourish after successfully staging a coup against the mayor.",
+              "sentence_ru": "Местные коты процветают после успешного государственного переворота против мэра.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "While our ceiling is collapsing, the black mold in the hallway continues to flourish.",
               "sentence_ru": "Пока наш потолок рушится, черная плесень в коридоре продолжает процветать.",
               "word_form": "flourish"
@@ -860,20 +865,15 @@
               "sentence": "Tomorrow your ex will finally flourish in a dumpster fire of bad life choices.",
               "sentence_ru": "Завтра твой бывший наконец-то расцветет в мусорном баке плохих жизненных выборов.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Your bank account will flourish after you secretly sell your annoying roommate's organs.",
-              "sentence_ru": "Твой банковский счет зацветет буйным цветом после того, как ты тайком продашь органы надоедливого соседа.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 993622,
+          "due_tick": 993719,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-03T11:17:18.103072+00:00",
-          "pending_msg": 279,
+          "last_sent_at": "2026-09-05T11:30:07.200512+00:00",
+          "pending_msg": 337,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1519,11 +1519,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993670,
+      "last_deliver_tick": 993671,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-05",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
