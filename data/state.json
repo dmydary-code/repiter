@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex tried to compound his stupidity by gifting me a live badger in a box.",
+              "sentence_ru": "Мой бывший попытался усугубить свою тупость, подарив мне живого барсука в коробке.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Eating expired mayo in the bathtub will only compound your tragic life choices.",
               "sentence_ru": "Поедание просроченного майонеза в ванной только усугубит твои трагические жизненные выборы.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My terrible life choices somehow compound into this glorious, burning trash heap of despair.",
               "sentence_ru": "Мои ужасные жизненные выборы почему-то соединяются в эту славную, пылающую кучу мусора отчаяния.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My terrible life choices only compound the misery of waking up.",
-              "sentence_ru": "Мои ужасные жизненные выборы лишь усугубляют мучения от пробуждения.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 993627,
+          "due_tick": 993758,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-03T13:31:26.613510+00:00",
-          "pending_msg": 288,
+          "last_sent_at": "2026-09-06T07:00:16.613706+00:00",
+          "pending_msg": 340,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993676,
+      "last_deliver_tick": 993710,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -883,6 +883,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars in Taurus will make you demolish your ex's new apartment with a bulldozer.",
+              "sentence_ru": "Марс в Тельце заставит тебя снести бульдозером новую квартиру твоего бывшего.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Me and the boys on our way to demolish my ex's toxic art project.",
               "sentence_ru": "Я и пацаны по пути сносить токсичный арт-проект моей бывшей.",
               "word_form": "demolish"
@@ -901,20 +906,15 @@
               "sentence": "I am going to demolish your new boyfriend's stupid face at 4 AM.",
               "sentence_ru": "Я собираюсь разнести тупое лицо твоего нового бойфренда в 4 часа утра.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "My therapist told me to demolish my toxic attachments, so I blocked you everywhere.",
-              "sentence_ru": "Мой психотерапевт велел уничтожить токсичные привязанности, поэтому я заблокировал тебя везде.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 993624,
+          "due_tick": 993758,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-03T12:00:52.424705+00:00",
-          "pending_msg": 283,
+          "last_sent_at": "2026-09-06T07:00:24.762576+00:00",
+          "pending_msg": 341,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1519,11 +1519,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993676,
+      "last_deliver_tick": 993710,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
