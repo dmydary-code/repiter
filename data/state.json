@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-06",
-  "offset": 71487609,
+  "offset": 71487610,
   "users": {
     "1090554427": {
       "cards": [
@@ -909,12 +909,12 @@
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 993758,
+          "due_tick": 993719,
           "id": "24c6f44226",
           "lang": "en",
-          "lapses": 3,
+          "lapses": 4,
           "last_sent_at": "2026-09-06T07:20:58.079652+00:00",
-          "pending_msg": 343,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
