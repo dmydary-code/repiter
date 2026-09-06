@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Aries, you set heart on stealing your neighbor’s cat tomorrow, but the feline mafia will fight back.",
+              "sentence_ru": "Овен, завтра ты страстно возжелаешь спереть кота соседа, но кошачья мафия даст жесткий отпор.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Local goblin sets heart on stealing the moon to impress his ex.",
               "sentence_ru": "Местный гоблин страстно пожелал украсть луну, чтобы впечатлить свою бывшую.",
               "word_form": "sets heart on"
@@ -478,20 +483,15 @@
               "sentence": "Human, I have set my heart on eating your expensive leather boots tonight.",
               "sentence_ru": "Человек, я страстно желаю сожрать твои дорогие кожаные ботинки сегодня ночью.",
               "word_form": "set my heart on"
-            },
-            {
-              "sentence": "You set your heart on buying cheap food, but I set my heart on absolute chaos.",
-              "sentence_ru": "Ты зациклилась на покупке дешевой еды, а я нацелился на абсолютный хаос.",
-              "word_form": "set my heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 993670,
+          "due_tick": 993764,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T11:00:09.538162+00:00",
-          "pending_msg": 308,
+          "last_sent_at": "2026-09-06T10:00:02.651870+00:00",
+          "pending_msg": 354,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993715,
+      "last_deliver_tick": 993716,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1247,6 +1247,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that your new boyfriend's face looks punchable.",
+              "sentence_ru": "Я склонен думать, что лицо твоего нового бойфренда выглядит так, будто просит удара.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that our talking fridge is stealing my beer at night.",
               "sentence_ru": "Я склонен думать, что наш говорящий холодильник ворует мое пиво по ночам.",
               "word_form": "I'm inclined to think that"
@@ -1265,20 +1270,15 @@
               "sentence": "I'm inclined to think that my ex is stalking me through my smart fridge.",
               "sentence_ru": "Я склоняюсь к мысли, что мой бывший следит за мной через мой умный холодильник.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that pants are just leg prisons invented by demons.",
-              "sentence_ru": "Я склонен думать, что штаны — это просто тюрьмы для ног, изобретенные демонами.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 993667,
+          "due_tick": 993764,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-04T09:59:08.944576+00:00",
-          "pending_msg": 303,
+          "last_sent_at": "2026-09-06T10:00:03.896959+00:00",
+          "pending_msg": 355,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1524,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993715,
+      "last_deliver_tick": 993716,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
