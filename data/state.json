@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to discorage my raccoon from laundering stolen underwear in the soup.",
+              "sentence_ru": "Мне пришлось отговаривать енота стирать ворованное белье в супе.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Trying to teach my cat calculus will definitely discourage even the most patient teacher.",
               "sentence_ru": "Попытки научить моего кота исчислению определенно разочаруют даже самого терпеливого учителя.",
               "word_form": "discourage"
@@ -273,20 +278,15 @@
               "sentence": "Bad reviews discorage me from buying this cursed dildo of doom.",
               "sentence_ru": "Плохие отзывы отговаривают меня покупать этот проклятый фаллоимитатор судьбы.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Trying to diet when my grandma bakes daily will totally discourage me.",
-              "sentence_ru": "Попытки сидеть на диете, когда бабушка печет каждый день, меня полностью разочаруют.",
-              "word_form": "discourage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 993667,
+          "due_tick": 993761,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T09:58:56.990842+00:00",
-          "pending_msg": 302,
+          "last_sent_at": "2026-09-06T08:30:06.979664+00:00",
+          "pending_msg": 348,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993712,
+      "last_deliver_tick": 993713,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1042,6 +1042,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I use this vibrator now and then, when my ex husbands ghost stops haunting me.",
+              "sentence_ru": "Я пользуюсь этим вибратором время от времени, когда призрак моего бывшего мужа перестает меня преследовать.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "I use this vibrator now and then when the husband falls asleep too fast.",
               "sentence_ru": "Я пользуюсь этим вибратором время от времени, когда муж слишком быстро засыпает.",
               "word_form": "now and then"
@@ -1060,20 +1065,15 @@
               "sentence": "Now and then someone steals the doormat, so please chain your grandmothers inside.",
               "sentence_ru": "Время от времени кто-то ворует коврик, так что приковывайте бабушек цепями внутри.",
               "word_form": "Now and then"
-            },
-            {
-              "sentence": "The elevator drops to the basement now and then, enjoy the free extreme ride.",
-              "sentence_ru": "Лифт время от времени падает в подвал, наслаждайтесь бесплатным экстремальным аттракционом.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 993627,
+          "due_tick": 993761,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-03T13:31:28.305520+00:00",
-          "pending_msg": 289,
+          "last_sent_at": "2026-09-06T08:30:08.453101+00:00",
+          "pending_msg": 349,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1524,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993712,
+      "last_deliver_tick": 993713,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
