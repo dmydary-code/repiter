@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The angry wizard refused to mince words and cursed my cat into a toaster.",
+              "sentence_ru": "Злой волшебник не стал подбирать выражения и проклял моего кота, превратив его в тостер.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I won't mince words: whoever keeps dumping trash in the elevator is going to Hell.",
               "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает бросать мусор в лифте, отправится в ад.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "Neighbor didn't mince words when screaming about my garbage bag on the stairs.",
               "sentence_ru": "Сосед не подбирал выражения, когда орал из-за моего пакета с мусором на лестнице.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "Why should I mince words in the chat if your dog shits by my door daily?",
-              "sentence_ru": "С какого хрена мне сглаживать углы в чате, если твоя собака ежедневно гадит у моей двери?",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 993671,
+          "due_tick": 993765,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T11:30:13.575624+00:00",
-          "pending_msg": 310,
+          "last_sent_at": "2026-09-06T10:30:09.045732+00:00",
+          "pending_msg": 356,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993716,
+      "last_deliver_tick": 993717,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1319,6 +1319,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That weird guy from the third floor is altogether out of his mind, he washes his cat with beer!",
+              "sentence_ru": "Этот странный чувак с третьего этажа совсем сошел с ума, он моет своего кота пивом!",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Your expensive leather boots are altogether ruined because I puked in them, human.",
               "sentence_ru": "Твои дорогие кожаные ботинки совсем испорчены, потому что я наблевал в них, двуногая.",
               "word_form": "altogether"
@@ -1337,20 +1342,15 @@
               "sentence": "I am not altogether sure that eating this raw street meat was a good idea.",
               "sentence_ru": "Я не совсем уверен, что поедание этого сырого уличного мяса было хорошей идеей.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "The raccoon stole my wallet, my dignity, and my weekend plans altogether.",
-              "sentence_ru": "Енот разом украл мой кошелек, мое достоинство и мои планы на выходные.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 993668,
+          "due_tick": 993765,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-04T10:00:13.637284+00:00",
-          "pending_msg": 305,
+          "last_sent_at": "2026-09-06T10:30:10.393162+00:00",
+          "pending_msg": 357,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1524,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993716,
+      "last_deliver_tick": 993717,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
