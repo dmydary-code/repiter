@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Drop that fish into the aforementioned bowl or I will destroy your favorite shoes, human.",
+              "sentence_ru": "Брось эту рыбу в вышеупомянутую миску, иначе я уничтожу твои любимые туфли, человек.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "The aforementioned raccoon stole my toupee and is now leading a gang of stray cats.",
               "sentence_ru": "Вышеупомянутый енот украл мой парик и теперь возглавляет банду бродячих котов.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "Grandma blamed the paranormal activity on the aforementioned ghost of her annoying ex-husband.",
               "sentence_ru": "Бабуля списала паранормальную активность на вышеупомянутого призрака своего бесячего бывшего мужа.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I caught my cat wearing my toupee, and the aforementioned traitor hissed at me.",
-              "sentence_ru": "Я застукал кота в своем парике, и вышеупомянутый предатель на меня зашипел.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 993663,
+          "due_tick": 993760,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T07:30:05.540254+00:00",
-          "pending_msg": 292,
+          "last_sent_at": "2026-09-06T08:00:25.611449+00:00",
+          "pending_msg": 346,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993711,
+      "last_deliver_tick": 993712,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1001,6 +1001,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An influx of radioactive badgers has officially clogged the municipal sewage system.",
+              "sentence_ru": "Наплыв радиоактивных барсуков официально засорил муниципальную канализационную систему.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "We need more coffee machines to survive this sudden influx of weeping interns.",
               "sentence_ru": "Нам нужно больше кофемашин, чтобы пережить этот внезапный наплыв плачущих стажеров.",
               "word_form": "influx"
@@ -1019,20 +1024,15 @@
               "sentence": "Due to the influx of mutant pigeons, the elevator is closed until next Tuesday.",
               "sentence_ru": "Из-за наплыва мутировавших голубей лифт не работает до следующего вторника.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An unexpected influx of weird cultists means you should hide your cats immediately.",
-              "sentence_ru": "Неожиданный приток странных сектантов означает, что вам нужно немедленно спрятать котов.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 993626,
+          "due_tick": 993760,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-03T13:00:17.516595+00:00",
-          "pending_msg": 287,
+          "last_sent_at": "2026-09-06T08:00:26.825451+00:00",
+          "pending_msg": 347,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1524,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993711,
+      "last_deliver_tick": 993712,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
