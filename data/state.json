@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet raccoon tries to undermine our marriage by hiding my wife's pants.",
+              "sentence_ru": "Мой домашний енот пытается подорвать наш брак, пряча штаны моей жены.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "These cheap Chinese leggings tried to undermine my confidence right in the middle of a grocery store.",
               "sentence_ru": "Эти дешевые китайские леггинсы попытались подорвать мою уверенность прямо посреди продуктового магазина.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Your midnight howling tries to undermine my authority, human, but I still own this couch.",
               "sentence_ru": "Твой полуночный вой пытается подорвать мой авторитет, кожаная, но этот диван всё ещё мой.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "These cheap Chinese shoes tried to undermine my faith in humanity with every step.",
-              "sentence_ru": "Эти дешевые китайские туфли пытались подорвать мою веру в человечество с каждым шагом.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993668,
+          "due_tick": 993762,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T10:00:12.325026+00:00",
-          "pending_msg": 304,
+          "last_sent_at": "2026-09-06T09:00:13.944094+00:00",
+          "pending_msg": 350,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993713,
+      "last_deliver_tick": 993714,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1083,6 +1083,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, your loud midnight karaoke sessions suck, so please stop screaming.",
+              "sentence_ru": "В целом, ваши громкие полуночные сессии караоке отстой, так что прекратите орать.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, human, your pathetic attempts to cook fish are getting slightly less toxic.",
               "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки приготовить рыбу становятся чуть менее токсичными.",
               "word_form": "By and large"
@@ -1101,20 +1106,15 @@
               "sentence": "By and large, your loud midnight techno parties are fine, but the corpse in the hallway smells.",
               "sentence_ru": "В целом, твои громкие полуночные техно-вечеринки — это нормально, но труп в коридоре воняет.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, whoever keeps stealing my matching socks from the dryer is a pathetic goblin.",
-              "sentence_ru": "В общем и целом, тот, кто продолжает воровать мои парные носки из сушилки — жалкий гоблин.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 993662,
+          "due_tick": 993762,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-04T07:00:05.184208+00:00",
-          "pending_msg": 291,
+          "last_sent_at": "2026-09-06T09:00:15.286369+00:00",
+          "pending_msg": 351,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1524,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993713,
+      "last_deliver_tick": 993714,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
