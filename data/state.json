@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I cry into these overpriced leggings whenever my ex posts a happy selfie.",
+              "sentence_ru": "Я рыдаю в эти дорогие леггинсы всякий раз, когда мой бывший выкладывает счастливое селфи.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever you drill your concrete wall at 6 AM, my soul leaves my body.",
               "sentence_ru": "Всякий раз, когда вы сверлите свою бетонную стену в 6 утра, моя душа покидает тело.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever Greg brings fish to the office, HR has to evacuate the entire floor.",
               "sentence_ru": "Всякий раз, когда Грег приносит в офис рыбу, отделу кадров приходится эвакуировать весь этаж.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "You can use my stolen stapler whenever your soul feels equally dead and empty.",
-              "sentence_ru": "Можешь пользоваться моим украденным степлером, когда твоя душа почувствует себя такой же мертвой и пустой.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 993669,
+          "due_tick": 993763,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T10:30:11.137581+00:00",
-          "pending_msg": 306,
+          "last_sent_at": "2026-09-06T09:30:21.056205+00:00",
+          "pending_msg": 352,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993714,
+      "last_deliver_tick": 993715,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -924,6 +924,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
+              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, только чтобы вспомнить мое имя.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "My ex had to undergo plastic surgery just to look herself in the mirror.",
               "sentence_ru": "Моей бывшей пришлось перенести пластическую операцию, чтобы просто смотреть на себя в зеркало.",
               "word_form": "undergo"
@@ -942,20 +947,15 @@
               "sentence": "All residents must undergo immediate psychiatric evaluation before paying water bills.",
               "sentence_ru": "Все жильцы должны пройти внеплановое психиатрическое освидетельствование перед оплатой счетов за воду.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "If your mutt barks at night, it will undergo aggressive cybernetic modification.",
-              "sentence_ru": "Если ваша шавка лает по ночам, она подвергнется агрессивной кибернетической модификации.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 993663,
+          "due_tick": 993763,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-04T07:30:06.896485+00:00",
-          "pending_msg": 293,
+          "last_sent_at": "2026-09-06T09:30:22.304886+00:00",
+          "pending_msg": 353,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1524,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993714,
+      "last_deliver_tick": 993715,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
