@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your loud techno parties will devastate this entire building, so turn that trash off immediately.",
+              "sentence_ru": "Ваши громкие техно-вечеринки разрушат весь этот дом, так что немедленно выключите этот мусор.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "My ex tried to devastate my ego, so I bought a yacht with his dog.",
               "sentence_ru": "Мой бывший попытался уничтожить моё эго, поэтому я купила яхту на его собаку.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "That wild party in apt 42 didn't just devastate the floor, it killed my soul.",
               "sentence_ru": "Такая дикая вечеринка в 42-й квартире не просто разгромила пол, она убила мою душу.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "That spicy burrito will literally devastate your toilet within ten minutes of consumption.",
-              "sentence_ru": "Этот острый буррито буквально разнесет ваш унитаз через десять минут после поедания.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 993662,
+          "due_tick": 993759,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T07:00:03.844842+00:00",
-          "pending_msg": 290,
+          "last_sent_at": "2026-09-06T07:30:19.397777+00:00",
+          "pending_msg": 344,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993710,
+      "last_deliver_tick": 993711,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -965,6 +965,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Did Kevin just emerge from the ceiling tiles covered in melted cheese?",
+              "sentence_ru": "Кевин что, только что вылез из потолочной плитки, весь обмазанный плавленым сыром?",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "Neighbor from 48 flat decided to emerge from his cave and scream at our GC again.",
               "sentence_ru": "Сосед из 48 квартиры решил вылезти из своей пещеры и снова орать в нашем чате.",
               "word_form": "emerge"
@@ -981,12 +986,12 @@
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993625,
+          "due_tick": 993759,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-03T12:30:09.166080+00:00",
-          "pending_msg": 285,
+          "last_sent_at": "2026-09-06T07:30:20.649783+00:00",
+          "pending_msg": 345,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1519,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993710,
+      "last_deliver_tick": 993711,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-06",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
