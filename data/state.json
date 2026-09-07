@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demon will always encorage me to eat the entire pizza at 3 AM.",
+              "sentence_ru": "Мой внутренний демон всегда будет подбадривать меня сожрать всю пиццу в 3 часа ночи.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "Mutants encorage local rats to unionize and demand better trash.",
               "sentence_ru": "Мутанты поощряют местных крыс создавать профсоюзы и требовать лучший мусор.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "Stop to encorage these mutant pigeons to nest on my balcony with your stale bread!",
               "sentence_ru": "Хватит поощрять этих мутантских голубей гнездиться на моем балконе вашим черствым хлебом!",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "We encourage you to flush your goldfish down the toilet with maximum enthusiasm.",
-              "sentence_ru": "Мы поощряем смывание ваших золотых рыбок в унитаз с максимальным энтузиазмом.",
-              "word_form": "encourage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 993716,
+          "due_tick": 993810,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-05T10:00:01.165351+00:00",
-          "pending_msg": 330,
+          "last_sent_at": "2026-09-07T09:00:25.640843+00:00",
+          "pending_msg": 366,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993761,
+      "last_deliver_tick": 993762,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -723,6 +723,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Your soul is as drab as this office coffee, Karen.",
+              "sentence_ru": "Твоя душа такая же унылая, как этот офисный кофе, Карен.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Your new living room rug looks so drab that even I refuse to throw up on it.",
               "sentence_ru": "Твой новый ковер в гостиной выглядит таким унылым, что даже я отказываюсь на него блевать.",
@@ -742,20 +747,15 @@
               "sentence": "My ex-boyfriend's soul and this drab sweater are the exact same shade of depressing gray.",
               "sentence_ru": "Душа моего бывшего и этот унылый свитер — абсолютно одного депрессивно-серого оттенка.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Tomorrow your ex will look as drab as a wet pigeon in a puddle.",
-              "sentence_ru": "Завтра твой бывший будет выглядеть таким же унылым, как мокрый голубь в луже.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 993676,
+          "due_tick": 993810,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-05T12:00:09.169388+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-07T09:00:26.905890+00:00",
+          "pending_msg": 367,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1524,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993761,
+      "last_deliver_tick": 993762,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
