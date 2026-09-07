@@ -9,8 +9,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Our boss is so humble he only drives a stolen Porsche to work.",
-              "sentence_ru": "Наш босс такой скромный, что ездит на работу только на ворованном Порше.",
+              "sentence": "Even my humble apologies at 3 AM won't fix how much I ruined us.",
+              "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как сильно я всё испортил.",
               "word_form": "humble"
             },
             {
@@ -35,12 +35,12 @@
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993812,
+          "due_tick": 993815,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-07T10:00:23.483164+00:00",
-          "pending_msg": 370,
+          "last_sent_at": "2026-09-07T11:42:40.082846+00:00",
+          "pending_msg": 374,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -337,11 +337,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Don't try to feed me this disgusting kibble, human, or I'll puke in your shoes.",
-              "sentence_ru": "Даже не пытайся кормить меня этим отвратительным сухим кормом, кожаная, иначе я блевану тебе в туфли.",
-              "word_form": "try"
-            },
-            {
               "sentence": "If you try to glue your broken life here again, I will superglue your eyes.",
               "sentence_ru": "Если вы попытаетесь снова склеить здесь свою разбитую жизнь, я суперклеем залеплю вам глаза.",
               "word_form": "try"
@@ -360,15 +355,20 @@
               "sentence": "Just try to steal my stapler again, and I will staple your eyelids together.",
               "sentence_ru": "Только попробуй снова украсть мой степлер, и я скреплю твои веки степлером.",
               "word_form": "try"
+            },
+            {
+              "sentence": "Please try to fix the elevator instead of smoking meth in it.",
+              "sentence_ru": "Пожалуйста, попытайтесь починить лифт, а не курите в нём мет.",
+              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993813,
+          "due_tick": 993719,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-07T10:30:22.357768+00:00",
-          "pending_msg": 372,
+          "last_sent_at": "2026-09-05T11:30:06.105720+00:00",
+          "pending_msg": 336,
           "reps": 2,
           "step": 2,
           "word": "Try",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,11 +806,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Stop spreading gossip about Babushka Zina's mutant cat, or she will curse your Wi-Fi.",
-              "sentence_ru": "Хватит распускать сплетни о мутировавшем коте бабушки Зины, иначе она проклянет ваш вайфай.",
-              "word_form": "gossip"
-            },
-            {
               "sentence": "Stop to gossip in the chat about my trash bags and clean your own hallway!",
               "sentence_ru": "Хватит сплетничать в чате про мои мусорные пакеты и помойте свой собственный коридор!",
               "word_form": "gossip"
@@ -832,12 +827,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993813,
+          "due_tick": 993690,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-07T10:30:23.451962+00:00",
-          "pending_msg": 373,
+          "last_sent_at": "2026-09-05T10:30:03.725558+00:00",
+          "pending_msg": null,
           "reps": 1,
           "step": 1,
           "word": "gossip",
@@ -1293,8 +1288,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "He had to adjust the alien's microwave so it stopped broadcasting cat thoughts.",
-              "sentence_ru": "Ему пришлось настроить микроволновку пришельца, чтобы она перестала транслировать кошачьи мысли.",
+              "sentence": "I had to adjust the straps so my cat couldn't escape his tactical vest.",
+              "sentence_ru": "Мне пришлось отрегулировать ремни, чтобы мой кот не смог сбежать из своего тактического жилета.",
               "word_form": "adjust"
             },
             {
@@ -1314,12 +1309,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993812,
+          "due_tick": 993815,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-07T10:00:24.652642+00:00",
-          "pending_msg": 371,
+          "last_sent_at": "2026-09-07T11:42:41.505812+00:00",
+          "pending_msg": 375,
           "reps": 1,
           "step": 0,
           "word": "to adjust",
@@ -1538,7 +1533,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
