@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our cat is rolling in money after biting off a billionaire's thumb.",
+              "sentence_ru": "Наш кот купается в деньгах после того, как отгрыз палец миллиардеру.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "My cat is rolling in money after selling nude photos of his paws online.",
               "sentence_ru": "Мой кот купается в деньгах после продажи ню-фотографий своих лапок в сети.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "My cat is rolling in money after selling my nudes to stray felines.",
               "sentence_ru": "Мой кот купается в деньгах после продажи моих голых фоток бродячим кошкам.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "That toddler is rolling in money just because he was born to rich psychopaths.",
-              "sentence_ru": "Этот малыш купается в деньгах просто потому, что родился у богатых психопатов.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 993714,
+          "due_tick": 993808,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-05T09:00:23.725370+00:00",
-          "pending_msg": 326,
+          "last_sent_at": "2026-09-07T08:00:01.856996+00:00",
+          "pending_msg": 362,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993759,
+      "last_deliver_tick": 993760,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1483,6 +1483,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to impose my weird lifestyle on my cat, who just stares back with pure disgust.",
+              "sentence_ru": "Пытаюсь навязать свой странный образ жизни коту, который просто таращится в ответ с чистым отвращением.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "This weird seller tried to impose his cursed crystals on me during the delivery.",
               "sentence_ru": "Этот странный продавец пытался навязать мне свои проклятые кристаллы во время доставки.",
               "word_form": "impose"
@@ -1501,20 +1506,15 @@
               "sentence": "Why must I always impose my toxic insecurities on people who just wanted coffee?",
               "sentence_ru": "Почему я вечно должен навязывать свои токсичные комплексы людям, которые просто хотели кофе?",
               "word_form": "impose"
-            },
-            {
-              "sentence": "The cruel universe decided to impose a mandatory existential crisis right before my date.",
-              "sentence_ru": "Жестокая вселенная решила навязать мне обязательный экзистенциальный кризис прямо перед моим свиданием.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 993671,
+          "due_tick": 993808,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-04T11:30:14.810188+00:00",
-          "pending_msg": 311,
+          "last_sent_at": "2026-09-07T08:00:02.911128+00:00",
+          "pending_msg": 363,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1524,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993759,
+      "last_deliver_tick": 993760,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
