@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Don't try to feed me this disgusting kibble, human, or I'll puke in your shoes.",
+              "sentence_ru": "Даже не пытайся кормить меня этим отвратительным сухим кормом, кожаная, иначе я блевану тебе в туфли.",
+              "word_form": "try"
+            },
+            {
               "sentence": "If you try to glue your broken life here again, I will superglue your eyes.",
               "sentence_ru": "Если вы попытаетесь снова склеить здесь свою разбитую жизнь, я суперклеем залеплю вам глаза.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Just try to steal my stapler again, and I will staple your eyelids together.",
               "sentence_ru": "Только попробуй снова украсть мой степлер, и я скреплю твои веки степлером.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Please try to fix the elevator instead of smoking meth in it.",
-              "sentence_ru": "Пожалуйста, попытайтесь починить лифт, а не курите в нём мет.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993719,
+          "due_tick": 993813,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-05T11:30:06.105720+00:00",
-          "pending_msg": 336,
+          "last_sent_at": "2026-09-07T10:30:22.357768+00:00",
+          "pending_msg": 372,
           "reps": 2,
           "step": 2,
           "word": "Try",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993764,
+      "last_deliver_tick": 993765,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,6 +806,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop spreading gossip about Babushka Zina's mutant cat, or she will curse your Wi-Fi.",
+              "sentence_ru": "Хватит распускать сплетни о мутировавшем коте бабушки Зины, иначе она проклянет ваш вайфай.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop to gossip in the chat about my trash bags and clean your own hallway!",
               "sentence_ru": "Хватит сплетничать в чате про мои мусорные пакеты и помойте свой собственный коридор!",
               "word_form": "gossip"
@@ -827,12 +832,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993690,
+          "due_tick": 993813,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-05T10:30:03.725558+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-07T10:30:23.451962+00:00",
+          "pending_msg": 373,
           "reps": 1,
           "step": 1,
           "word": "gossip",
@@ -1529,11 +1534,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993764,
+      "last_deliver_tick": 993765,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
