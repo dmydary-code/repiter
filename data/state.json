@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our boss is so humble he only drives a stolen Porsche to work.",
+              "sentence_ru": "Наш босс такой скромный, что ездит на работу только на ворованном Порше.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "A humble goblin accidentally overthrew the corrupt goblin senate using only a stolen sandwich.",
               "sentence_ru": "Скромный гоблин случайно сверг коррумпированный сенат гоблинов, используя лишь украденный бутерброд.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even my humble apologies at 3 AM won't fix how I ruined your life, hey.",
               "sentence_ru": "Даже мои скромные извинения в 3 ночи не исправят того, как я испортил тебе жизнь, алло.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even in my humble pajamas, I still know you miss this absolute king at 3 AM.",
-              "sentence_ru": "Даже в своей скромной пижаме я всё еще знаю, что ты скучаешь по этому абсолютному королю в 3 часа ночи.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993718,
+          "due_tick": 993812,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-05T11:00:04.530849+00:00",
-          "pending_msg": 334,
+          "last_sent_at": "2026-09-07T10:00:23.483164+00:00",
+          "pending_msg": 370,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993763,
+      "last_deliver_tick": 993764,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1288,6 +1288,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He had to adjust the alien's microwave so it stopped broadcasting cat thoughts.",
+              "sentence_ru": "Ему пришлось настроить микроволновку пришельца, чтобы она перестала транслировать кошачьи мысли.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I had to adjust my sanity before facing another family dinner.",
               "sentence_ru": "Мне пришлось подкрутить свою кукуху перед очередным семейным ужином.",
               "word_form": "adjust"
@@ -1304,12 +1309,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993676,
+          "due_tick": 993812,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-05T09:00:24.814845+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-07T10:00:24.652642+00:00",
+          "pending_msg": 371,
           "reps": 1,
           "step": 0,
           "word": "to adjust",
@@ -1524,11 +1529,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993763,
+      "last_deliver_tick": 993764,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
