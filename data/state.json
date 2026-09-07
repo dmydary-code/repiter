@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen gnome and the neighbor's aggressive cat hit it off instantly during the arson.",
+              "sentence_ru": "Мой украденный гном и агрессивный кот соседа сразу подружились во время поджога.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Our new alcoholic neighbor and local stray cats hit it off right after midnight.",
               "sentence_ru": "Наш новый сосед-алкоголик и местные бродячие коты сразу подружились сразу после полуночи.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "I thought we would hit it off, but this blender just wants to murder my fingers.",
               "sentence_ru": "Я думал, мы найдем общий язык, но этот блендер просто хочет убить мои пальцы.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "My cat and the vacuum cleaner didn't hit it off and now my flat smells like burnt plastic.",
-              "sentence_ru": "Мой кот и пылесос не сошлись характерами, и теперь в квартире пахнет паленым пластиком.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 993672,
+          "due_tick": 993806,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-04T12:00:28.037911+00:00",
-          "pending_msg": 312,
+          "last_sent_at": "2026-09-07T07:00:03.701281+00:00",
+          "pending_msg": 358,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993733,
+      "last_deliver_tick": 993758,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1401,6 +1401,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your ex's brain will seize up tomorrow when they see you winning at life.",
+              "sentence_ru": "Мозг твоего бывшего завтра заклинит, когда он увидит, как ты преуспеваешь в жизни.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "The dictator's robotic spine decided to seize up right during his triumphant naked parade.",
               "sentence_ru": "Роботизированный позвоночник диктатора решил заклинить прямо во время его триумфального голого парада.",
               "word_form": "seize up"
@@ -1419,20 +1424,15 @@
               "sentence": "Mutant cyborg pigeons suddenly seize up mid-air and rain onto the prime minister.",
               "sentence_ru": "Мутировавшие кибернетические голуби внезапно заклинивают в воздухе и падают дождем на премьер-министра.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "Local dictator's robotic jaw tends to seize up whenever journalists mention taxes.",
-              "sentence_ru": "Роботизированная челюсть местного диктатора имеет свойство заклинивать, когда журналисты упоминают налоги.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 993669,
+          "due_tick": 993806,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-04T10:30:12.365341+00:00",
-          "pending_msg": 307,
+          "last_sent_at": "2026-09-07T07:00:04.923869+00:00",
+          "pending_msg": 359,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1524,11 +1524,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993733,
+      "last_deliver_tick": 993758,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-07",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
