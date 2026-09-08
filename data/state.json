@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping their boats.",
+              "sentence_ru": "Мутантные омары разочаровывают местных рыбаков, воруя их пиво и переворачивая лодки.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "I had to discorage my raccoon from laundering stolen underwear in the soup.",
               "sentence_ru": "Мне пришлось отговаривать енота стирать ворованное белье в супе.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Do not discorage the stray cats by leaving empty vodka bottles instead of fish.",
               "sentence_ru": "Не обескураживайте бродячих котов, оставляя пустые бутылки из-под водки вместо рыбы.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Bad reviews discorage me from buying this cursed dildo of doom.",
-              "sentence_ru": "Плохие отзывы отговаривают меня покупать этот проклятый фаллоимитатор судьбы.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 993761,
+          "due_tick": 993858,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-06T08:30:06.979664+00:00",
-          "pending_msg": 348,
+          "last_sent_at": "2026-09-08T09:00:57.948512+00:00",
+          "pending_msg": 386,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993809,
+      "last_deliver_tick": 993810,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1006,6 +1006,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An unexpected influx of stray cats turned my apartment into a chaotic furry cult.",
+              "sentence_ru": "Неожиданный наплыв бродячих котов превратил мою квартиру в хаотичный пушистый культ.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "An influx of radioactive badgers has officially clogged the municipal sewage system.",
               "sentence_ru": "Наплыв радиоактивных барсуков официально засорил муниципальную канализационную систему.",
               "word_form": "influx"
@@ -1024,20 +1029,15 @@
               "sentence": "An influx of my regrets can't stop me texting you at 3 AM.",
               "sentence_ru": "Наплыв моих сожалений не может помешать мне писать тебе в 3 часа ночи.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "Due to the influx of mutant pigeons, the elevator is closed until next Tuesday.",
-              "sentence_ru": "Из-за наплыва мутировавших голубей лифт не работает до следующего вторника.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 993719,
+          "due_tick": 993858,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-06T08:00:26.825451+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-08T09:01:38.419261+00:00",
+          "pending_msg": 387,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1534,11 +1534,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993809,
+      "last_deliver_tick": 993810,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
