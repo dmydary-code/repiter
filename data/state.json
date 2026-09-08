@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A cheeky astrologer will steal your wallet tomorrow and predict it as a cosmic test.",
+              "sentence_ru": "Наглый астролог завтра стырит твой кошелек и предскажет это как космическое испытание.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "A cheeky raccoon stole the pope's hat and posted a selfie on OnlyFans.",
               "sentence_ru": "Наглый енот украл шляпу папы римского и выложил селфи в OnlyFans.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky raccoon stole my last beer and gave me the middle finger.",
               "sentence_ru": "Этот наглый енот украл мое последнее пиво и показал мне средний палец.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky raccoon stole my last taco and didn't even apologize.",
-              "sentence_ru": "Этот наглый енот украл мой последний тако и даже не извинился.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 993720,
+          "due_tick": 993854,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-05T12:00:07.616565+00:00",
-          "pending_msg": 338,
+          "last_sent_at": "2026-09-08T07:00:38.217625+00:00",
+          "pending_msg": 378,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993778,
+      "last_deliver_tick": 993806,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1211,6 +1211,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that the mayor's stolen wig is now running for congress.",
+              "sentence_ru": "Мне кажется, что украденный паричок мэра теперь баллотируется в конгресс.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me you still miss my chaotic energy and bad decisions.",
               "sentence_ru": "Мне кажется, ты всё ещё скучаешь по моей хаотичной энергии и дурацким решениям.",
               "word_form": "It seems to me"
@@ -1229,20 +1234,15 @@
               "sentence": "It seems to me your ex will steal your cat during a mercury retrograde.",
               "sentence_ru": "Мне кажется, твой бывший украдет твоего кота во время ретроградного меркурия.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me you are about to marry a wealthy, extremely blind walrus.",
-              "sentence_ru": "Судя по всему, ты скоро выйдешь замуж за богатого, крайне слепого моржа.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 993690,
+          "due_tick": 993854,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-05T10:00:02.276530+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-08T07:00:57.261966+00:00",
+          "pending_msg": 379,
           "reps": 1,
           "step": 1,
           "word": "it seems to me",
@@ -1534,11 +1534,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993778,
+      "last_deliver_tick": 993806,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
