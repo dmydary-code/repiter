@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Do not throw your stale babushka into the chemical compound behind the dumpster!",
+              "sentence_ru": "Не бросайте свою залежалую бабушку в химический компаунд за мусорным контейнером!",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My ex-boyfriend tried to compound his stupidity by proposing to a toaster.",
               "sentence_ru": "Мой бывший парень попытался усугубить свою глупость, сделав предложение тостеру.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Tomorrow you will accidentally blow up your ex's secret compound with pure spite.",
               "sentence_ru": "Завтра ты случайно взорвешь секретный компаунд твоего бывшего из чистой злости.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My terrible life choices somehow compound into this glorious, burning trash heap of despair.",
-              "sentence_ru": "Мои ужасные жизненные выборы почему-то соединяются в эту славную, пылающую кучу мусора отчаяния.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 993758,
+          "due_tick": 993855,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-06T07:20:56.702061+00:00",
-          "pending_msg": 342,
+          "last_sent_at": "2026-09-08T07:30:38.330484+00:00",
+          "pending_msg": 380,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993806,
+      "last_deliver_tick": 993807,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
+              "sentence_ru": "Человек, если ты снова купишь дешевый корм, я снесу этот тупой диван.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "I will demolish your new boyfriend's house while you are sleeping, babe.",
               "sentence_ru": "Я снесу дом твоего нового бойфренда, пока ты спишь, детка.",
               "word_form": "demolish"
@@ -906,20 +911,15 @@
               "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
               "sentence_ru": "Человек, если ты снова купишь дешевый сухой корм, я снесу этот тупой диван.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "I am going to demolish your new boyfriend's stupid face at 4 AM.",
-              "sentence_ru": "Я собираюсь разнести тупое лицо твоего нового бойфренда в 4 часа утра.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 993719,
+          "due_tick": 993855,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-06T07:20:58.079652+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-08T07:31:06.544261+00:00",
+          "pending_msg": 381,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1534,11 +1534,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993806,
+      "last_deliver_tick": 993807,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
