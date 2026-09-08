@@ -419,9 +419,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Whenever my goldfish stares at me, I confess my deepest tax fraud secrets.",
-              "sentence_ru": "Всякий раз, когда моя золотая рыбка пялится на меня, я признаюсь ей в своих тайных махинациях с налогами.",
-              "word_form": "Whenever"
+              "sentence": "My cat stares at my soul whenever I open a tuna can.",
+              "sentence_ru": "Мой кот пялится мне в душу всякий раз, когда я открываю банку тунца.",
+              "word_form": "whenever"
             },
             {
               "sentence": "I cry into these overpriced leggings whenever my ex posts a happy selfie.",
@@ -449,8 +449,8 @@
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-08T10:00:47.014952+00:00",
-          "pending_msg": 390,
+          "last_sent_at": "2026-09-08T10:23:55.060633+00:00",
+          "pending_msg": 392,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -1088,8 +1088,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "By and large, mutant raccoons prefer eating stolen luxury Rolexes over cheap garbage.",
-              "sentence_ru": "В общем и целом, еноты-мутанты предпочитают есть краденые элитные Rolex, а не дешевый мусор.",
+              "sentence": "By and large, our HOA president is just a bald goblin stealing our Wi-Fi.",
+              "sentence_ru": "В целом, наш председатель ТСЖ — просто лысый гоблин, который ворует наш вайфай.",
               "word_form": "By and large"
             },
             {
@@ -1118,8 +1118,8 @@
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-08T10:00:48.404238+00:00",
-          "pending_msg": 391,
+          "last_sent_at": "2026-09-08T10:23:56.253546+00:00",
+          "pending_msg": 393,
           "reps": 0,
           "step": 0,
           "word": "by and large",
