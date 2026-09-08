@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever my goldfish stares at me, I confess my deepest tax fraud secrets.",
+              "sentence_ru": "Всякий раз, когда моя золотая рыбка пялится на меня, я признаюсь ей в своих тайных махинациях с налогами.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "I cry into these overpriced leggings whenever my ex posts a happy selfie.",
               "sentence_ru": "Я рыдаю в эти дорогие леггинсы всякий раз, когда мой бывший выкладывает счастливое селфи.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "My cat explodes whenever the doorbell rings, showering the hallway with pure glitter.",
               "sentence_ru": "Мой кот взрывается всякий раз, когда звонит в дверь, осыпая прихожую чистыми блёстками.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "Whenever Greg brings fish to the office, HR has to evacuate the entire floor.",
-              "sentence_ru": "Всякий раз, когда Грег приносит в офис рыбу, отделу кадров приходится эвакуировать весь этаж.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 993763,
+          "due_tick": 993860,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-06T09:30:21.056205+00:00",
-          "pending_msg": 352,
+          "last_sent_at": "2026-09-08T10:00:47.014952+00:00",
+          "pending_msg": 390,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993811,
+      "last_deliver_tick": 993812,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1088,6 +1088,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, mutant raccoons prefer eating stolen luxury Rolexes over cheap garbage.",
+              "sentence_ru": "В общем и целом, еноты-мутанты предпочитают есть краденые элитные Rolex, а не дешевый мусор.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, your loud midnight karaoke sessions suck, so please stop screaming.",
               "sentence_ru": "В целом, ваши громкие полуночные сессии караоке отстой, так что прекратите орать.",
               "word_form": "By and large"
@@ -1106,20 +1111,15 @@
               "sentence": "By and large, my life is just a circus, and I am the crying clown.",
               "sentence_ru": "В общем и целом, моя жизнь — это просто цирк, а я плачущий клоун.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, your loud midnight techno parties are fine, but the corpse in the hallway smells.",
-              "sentence_ru": "В целом, твои громкие полуночные техно-вечеринки — это нормально, но труп в коридоре воняет.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 993719,
+          "due_tick": 993860,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-06T09:00:15.286369+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-08T10:00:48.404238+00:00",
+          "pending_msg": 391,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1534,11 +1534,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993811,
+      "last_deliver_tick": 993812,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
