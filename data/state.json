@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still remember the aforementioned betrayal, especially at three in the morning.",
+              "sentence_ru": "Я до сих пор помню вышеупомянутое предательство, особенно в три часа ночи.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "Drop that fish into the aforementioned bowl or I will destroy your favorite shoes, human.",
               "sentence_ru": "Брось эту рыбу в вышеупомянутую миску, иначе я уничтожу твои любимые туфли, человек.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "The raccoon stole my dentures, and the aforementioned thief is currently eating my burrito.",
               "sentence_ru": "Енот украл мои вставные зубы, и вышеупомянутый вор в данный момент жрет мое буррито.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "Grandma blamed the paranormal activity on the aforementioned ghost of her annoying ex-husband.",
-              "sentence_ru": "Бабуля списала паранормальную активность на вышеупомянутого призрака своего бесячего бывшего мужа.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 993760,
+          "due_tick": 993857,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-06T08:00:25.611449+00:00",
-          "pending_msg": 346,
+          "last_sent_at": "2026-09-08T08:30:31.068744+00:00",
+          "pending_msg": 384,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993808,
+      "last_deliver_tick": 993809,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -991,12 +991,12 @@
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993719,
+          "due_tick": 993857,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-06T07:30:20.649783+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-08T08:30:47.534721+00:00",
+          "pending_msg": 385,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1534,11 +1534,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993808,
+      "last_deliver_tick": 993809,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-08",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
