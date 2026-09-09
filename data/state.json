@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Me and the delivery guy hit it off so well he stole my ex's TV.",
+              "sentence_ru": "Мы с курьером так отлично сошлись, что он украл телек моего бывшего.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "My stolen gnome and the neighbor's aggressive cat hit it off instantly during the arson.",
               "sentence_ru": "Мой украденный гном и агрессивный кот соседа сразу подружились во время поджога.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Me and the delivery guy hit it off when we both dropped our energy drinks.",
               "sentence_ru": "Мы с курьером сразу сошлись, когда оба уронили свои энергетики.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "I thought we would hit it off, but this blender just wants to murder my fingers.",
-              "sentence_ru": "Я думал, мы найдем общий язык, но этот блендер просто хочет убить мои пальцы.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 993806,
+          "due_tick": 993903,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-07T07:00:03.701281+00:00",
-          "pending_msg": 358,
+          "last_sent_at": "2026-09-09T07:30:01.583288+00:00",
+          "pending_msg": 398,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993854,
+      "last_deliver_tick": 993855,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1411,6 +1411,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The dictator's armored pants began to seize up mid-parade after a pigeon attack.",
+              "sentence_ru": "Бронированные штаны диктатора начали заклинивать посреди парада после атаки голубя.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "Your ex's brain will seize up tomorrow when they see you winning at life.",
               "sentence_ru": "Мозг твоего бывшего завтра заклинит, когда он увидит, как ты преуспеваешь в жизни.",
               "word_form": "seize up"
@@ -1429,20 +1434,15 @@
               "sentence": "My grandfather tried to breakdance and his old knees instantly started to seize up.",
               "sentence_ru": "Мой дедушка попытался сделать брейк-данс, и его старые колени мгновенно заклинило.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "Mutant cyborg pigeons suddenly seize up mid-air and rain onto the prime minister.",
-              "sentence_ru": "Мутировавшие кибернетические голуби внезапно заклинивают в воздухе и падают дождем на премьер-министра.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 993806,
+          "due_tick": 993903,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-07T07:00:04.923869+00:00",
-          "pending_msg": 359,
+          "last_sent_at": "2026-09-09T07:30:02.993464+00:00",
+          "pending_msg": 399,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1534,11 +1534,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993854,
+      "last_deliver_tick": 993855,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
