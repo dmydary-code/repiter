@@ -9,11 +9,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Even in our humble elevator, neighbor Oleg manages to leave royal stench and empty beer cans.",
-              "sentence_ru": "Даже в нашем скромном лифте сосед Олег умудряется оставлять царственное зловоние и пустые пивные банки.",
-              "word_form": "humble"
-            },
-            {
               "sentence": "Even my humble apologies at 3 AM won't fix how much I ruined us.",
               "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как сильно я всё испортил.",
               "word_form": "humble"
@@ -32,15 +27,20 @@
               "sentence": "Humble dictator apologizes for only stealing half the country's gold reserves.",
               "sentence_ru": "Скромный диктатор извиняется за то, что украл лишь половину золотого запаса страны.",
               "word_form": "Humble"
+            },
+            {
+              "sentence": "Even my humble apologies at 3 AM won't fix how I ruined your life, hey.",
+              "sentence_ru": "Даже мои скромные извинения в 3 ночи не исправят того, как я испортил тебе жизнь, алло.",
+              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993913,
+          "due_tick": 993815,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-09T12:30:21.369914+00:00",
-          "pending_msg": 420,
+          "last_sent_at": "2026-09-07T11:42:40.082846+00:00",
+          "pending_msg": 374,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -91,8 +91,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My ex is looking slightly more miserable today, nature is healing.",
-              "sentence_ru": "Мой бывший выглядит сегодня слегка более несчастным, природа исцеляется.",
+              "sentence": "Neighbor's techno is slightly shaking my skull at 3 AM again.",
+              "sentence_ru": "Техно соседа снова слегка сотрясает мой череп в 3 часа ночи.",
               "word_form": "slightly"
             },
             {
@@ -117,12 +117,12 @@
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 993912,
+          "due_tick": 993917,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-09T12:00:17.283436+00:00",
-          "pending_msg": 418,
+          "last_sent_at": "2026-09-09T14:46:08.514064+00:00",
+          "pending_msg": 422,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,8 +847,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Illegal crypto-farms flourish inside abandoned nuclear silos while mutants pay taxes in dogecoin.",
-              "sentence_ru": "Незаконные криптофермы процветают внутри заброшенных ядерных шахт, пока мутанты платят налоги догикоинами.",
+              "sentence": "I see you continue to flourish while I am crying alone on the bathroom floor.",
+              "sentence_ru": "Я вижу, ты продолжаешь процветать, пока я плачу в одиночестве на полу в ванной.",
               "word_form": "flourish"
             },
             {
@@ -873,12 +873,12 @@
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 993912,
+          "due_tick": 993917,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-09T12:00:18.664346+00:00",
-          "pending_msg": 419,
+          "last_sent_at": "2026-09-09T14:46:09.750150+00:00",
+          "pending_msg": 423,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1293,11 +1293,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Trying to adjust my crown so my haters can see it better.",
-              "sentence_ru": "Пытаюсь поправить корону, чтобы мои хейтеры видели её лучше.",
-              "word_form": "adjust"
-            },
-            {
               "sentence": "I had to adjust the straps so my cat couldn't escape his tactical vest.",
               "sentence_ru": "Мне пришлось отрегулировать ремни, чтобы мой кот не смог сбежать из своего тактического жилета.",
               "word_form": "adjust"
@@ -1319,12 +1314,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993913,
+          "due_tick": 993815,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-09T12:30:26.107141+00:00",
-          "pending_msg": 421,
+          "last_sent_at": "2026-09-07T11:42:41.505812+00:00",
+          "pending_msg": 375,
           "reps": 1,
           "step": 0,
           "word": "to adjust",
@@ -1543,7 +1538,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
