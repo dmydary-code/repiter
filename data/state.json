@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy roommate never lifts a finger in the house, so our kitchen is now a biohazard zone.",
+              "sentence_ru": "Мой ленивый сожитель никогда не ударяет палец о палец по дому, так что наша кухня теперь — зона биологического заражения.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "Nobody ever lifts a finger in the house, so I am drowning in dirty dishes!",
               "sentence_ru": "Никто в этом доме никогда не ударит палец о палец, поэтому я тону в грязной посуде!",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "My lazy husband never lifts a finger in the house, leaving me to drown in this domestic hell.",
               "sentence_ru": "Мой ленивый муж палец о палец не ударяет дома, оставляя меня тонуть в этом бытовом аду.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "Tomorrow Taurus won't lifts a finger in the house, watching dust slowly conquer the living room.",
-              "sentence_ru": "Завтра Телец не ударит палец о палец дома, наблюдая, как пыль медленно захватывает гостиную.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 993807,
+          "due_tick": 993908,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-07T07:30:02.735367+00:00",
-          "pending_msg": 360,
+          "last_sent_at": "2026-09-09T10:00:08.317998+00:00",
+          "pending_msg": 410,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993859,
+      "last_deliver_tick": 993860,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1452,6 +1452,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I need to ramp up my daily caffeine intake before my boss destroys my soul.",
+              "sentence_ru": "Мне нужно нарастить ежедневную дозу кофеина, прежде чем босс уничтожит мою душу.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Neighbors, ramp up your trash throwing accuracy or we will feed you to the stray cats.",
               "sentence_ru": "Соседи, наращивайте точность метания мусора, иначе мы скормим вас бродячим котам.",
               "word_form": "ramp up"
@@ -1470,20 +1475,15 @@
               "sentence": "Bro had to ramp up his ex-blocking speed after she spotted him at the mall.",
               "sentence_ru": "Брату пришлось бешено ускориться, когда бывшая спалила его в торговом центре.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "I need to ramp up my weird voice messages to you at 3 AM.",
-              "sentence_ru": "Мне нужно нарастить количество моих странных голосовых сообщений тебе в 3 часа ночи.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 993807,
+          "due_tick": 993908,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-07T07:30:03.924614+00:00",
-          "pending_msg": 361,
+          "last_sent_at": "2026-09-09T10:00:09.452361+00:00",
+          "pending_msg": 411,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1534,11 +1534,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993859,
+      "last_deliver_tick": 993860,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
