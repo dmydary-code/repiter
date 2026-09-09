@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex is looking slightly more miserable today, nature is healing.",
+              "sentence_ru": "Мой бывший выглядит сегодня слегка более несчастным, природа исцеляется.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "The inflatable dinosaur arrived slightly deflated, but my existential dread remains intact. 5 stars.",
               "sentence_ru": "Надувной динозавр приехал слегка сдутым, но мой экзистенциальный ужас остался прежним. 5 звезд.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "Astronaut John is slightly disappointed after finding out the Moon is actually made of moldy cheese.",
               "sentence_ru": "Астронавт Джон слегка разочарован, узнав, что Луна на самом деле сделана из плесневелого сыра.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My cat looks slightly disappointed after I accidentally served him the divorce papers instead of wet food.",
-              "sentence_ru": "Мой кот выглядит слегка разочарованным после того, как я случайно подал ему документы на развод вместо влажного корма.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 993811,
+          "due_tick": 993912,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-07T09:30:24.470338+00:00",
-          "pending_msg": 368,
+          "last_sent_at": "2026-09-09T12:00:17.283436+00:00",
+          "pending_msg": 418,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993863,
+      "last_deliver_tick": 993864,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,6 +847,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Illegal crypto-farms flourish inside abandoned nuclear silos while mutants pay taxes in dogecoin.",
+              "sentence_ru": "Незаконные криптофермы процветают внутри заброшенных ядерных шахт, пока мутанты платят налоги догикоинами.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "I flourish on the expensive carpets you cry about while I sharpen my claws.",
               "sentence_ru": "Я процветаю на тех дорогих коврах, над которыми ты рыдаешь, пока я точу когти.",
               "word_form": "flourish"
@@ -865,20 +870,15 @@
               "sentence": "My inner demons somehow manage to flourish while my soul slowly rots away.",
               "sentence_ru": "Мои внутренние демоны умудряются процветать, пока моя душа медленно гниет.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Illegal crypto-farms are set to flourish inside the active volcano after the latest tax cuts.",
-              "sentence_ru": "Нелегальные криптофермы собираются процветать внутри действующего вулкана после недавнего снижения налогов.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 993811,
+          "due_tick": 993912,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-07T09:30:25.596850+00:00",
-          "pending_msg": 369,
+          "last_sent_at": "2026-09-09T12:00:18.664346+00:00",
+          "pending_msg": 419,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1534,11 +1534,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993863,
+      "last_deliver_tick": 993864,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
