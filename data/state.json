@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even when wearing a crown made of raw meat, the king tried to stay humble.",
+              "sentence_ru": "Даже когда королева надевала корону из сырого мяса, король старался оставаться скромным.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even my humble apologies at 3 AM won't fix how much I ruined us.",
               "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как сильно я всё испортил.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Humble dictator apologizes for only stealing half the country's gold reserves.",
               "sentence_ru": "Скромный диктатор извиняется за то, что украл лишь половину золотого запаса страны.",
               "word_form": "Humble"
-            },
-            {
-              "sentence": "Even my humble apologies at 3 AM won't fix how I ruined your life, hey.",
-              "sentence_ru": "Даже мои скромные извинения в 3 ночи не исправят того, как я испортил тебе жизнь, алло.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 993815,
+          "due_tick": 993918,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-07T11:42:40.082846+00:00",
-          "pending_msg": 374,
+          "last_sent_at": "2026-09-09T15:00:11.554211+00:00",
+          "pending_msg": 424,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993869,
+      "last_deliver_tick": 993870,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1293,6 +1293,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to adjust the straps so this cursed bra wouldn't choke my fat cats.",
+              "sentence_ru": "Мне пришлось отрегулировать лямки, чтобы этот проклятый лифчик не душил моих жирных котов.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I had to adjust the straps so my cat couldn't escape his tactical vest.",
               "sentence_ru": "Мне пришлось отрегулировать ремни, чтобы мой кот не смог сбежать из своего тактического жилета.",
               "word_form": "adjust"
@@ -1314,12 +1319,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993815,
+          "due_tick": 993918,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-07T11:42:41.505812+00:00",
-          "pending_msg": 375,
+          "last_sent_at": "2026-09-09T15:00:17.127834+00:00",
+          "pending_msg": 425,
           "reps": 1,
           "step": 0,
           "word": "to adjust",
@@ -1534,11 +1539,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993869,
+      "last_deliver_tick": 993870,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-09",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
