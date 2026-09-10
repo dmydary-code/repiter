@@ -50,11 +50,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "That cheeky cat who keeps stealing my sausage from the porch is banned from the building.",
-              "sentence_ru": "Тот наглый кот, который постоянно ворует мою колбасу с крыльца, изгнан из подъезда.",
-              "word_form": "cheeky"
-            },
-            {
               "sentence": "A cheeky astrologer will steal your wallet tomorrow and predict it as a cosmic test.",
               "sentence_ru": "Наглый астролог завтра стырит твой кошелек и предскажет это как космическое испытание.",
               "word_form": "cheeky"
@@ -73,15 +68,20 @@
               "sentence": "A cheeky Aries will steal the boss's coffee and blame it on the office cat.",
               "sentence_ru": "Дерзкий Овен стырит кофе у босса и свалит всё на офисного кота.",
               "word_form": "cheeky"
+            },
+            {
+              "sentence": "That cheeky raccoon stole my last beer and gave me the middle finger.",
+              "sentence_ru": "Этот наглый енот украл мое последнее пиво и показал мне средний палец.",
+              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 993951,
+          "due_tick": 993854,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-10T07:30:06.466428+00:00",
-          "pending_msg": 428,
+          "last_sent_at": "2026-09-08T07:00:38.217625+00:00",
+          "pending_msg": 378,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -337,9 +337,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I still try to wash away the blood of my shattered dreams in the shower.",
-              "sentence_ru": "Я всё еще пытаюсь смыть в душе кровь моих разбитых мечтов.",
-              "word_form": "try"
+              "sentence": "Try to touch my fish again, human, and I will end your pathetic bloodline.",
+              "sentence_ru": "Попробуй еще раз тронуть мою рыбу, кожаный, и я прерву твой жалкий род.",
+              "word_form": "Try"
             },
             {
               "sentence": "I tried to feed my angry toaster, but it bit my finger off.",
@@ -363,12 +363,12 @@
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993950,
+          "due_tick": 993951,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-10T07:00:05.182490+00:00",
-          "pending_msg": 426,
+          "last_sent_at": "2026-09-10T07:47:29.812627+00:00",
+          "pending_msg": 430,
           "reps": 2,
           "step": 2,
           "word": "Try",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 2,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,8 +806,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Grandma drinks blood instead of tea while spreading juicy gossip about the neighbors.",
-              "sentence_ru": "Бабушка пьет кровь вместо чая, распуская сочные сплетни о соседях.",
+              "sentence": "Tomorrow your ex will start a toxic gossip about your new zodiac sign.",
+              "sentence_ru": "Завтра твой бывший начнет токсичную сплетню про твой новый знак зодиака.",
               "word_form": "gossip"
             },
             {
@@ -832,12 +832,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993950,
+          "due_tick": 993951,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-10T07:00:06.336630+00:00",
-          "pending_msg": 427,
+          "last_sent_at": "2026-09-10T07:47:40.175034+00:00",
+          "pending_msg": 431,
           "reps": 1,
           "step": 1,
           "word": "gossip",
@@ -1129,11 +1129,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It would be hard to deny that sentient pugs now control the Supreme Court.",
-              "sentence_ru": "Трудно отрицать, что разумные мопсы теперь контролируют Верховный суд.",
-              "word_form": "It would be hard to deny that"
-            },
-            {
               "sentence": "It would be hard to deny that this cursed dildo woke up my dead ancestors.",
               "sentence_ru": "Трудно отрицать, что этот проклятый фаллоимитатор разбудил моих мертвых предков.",
               "word_form": "It would be hard to deny that"
@@ -1152,15 +1147,20 @@
               "sentence": "It would be hard to deny that my new sugar daddy is hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый папик горячее тебя.",
               "word_form": "It would be hard to deny that"
+            },
+            {
+              "sentence": "It would be hard to deny that you still cry into your pillow over my nudes.",
+              "sentence_ru": "Нельзя не признать, что ты всё ещё плачешь в подушку из-за моих голых фоток.",
+              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 993951,
+          "due_tick": 993818,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-10T07:30:07.646414+00:00",
-          "pending_msg": 429,
+          "last_sent_at": "2026-09-05T08:39:40.472163+00:00",
+          "pending_msg": null,
           "reps": 3,
           "step": 3,
           "word": "it would be hard to deny that",
@@ -1543,7 +1543,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 2,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
