@@ -199,12 +199,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 993855,
+          "due_tick": 993953,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-08T07:30:38.330484+00:00",
-          "pending_msg": 380,
+          "last_sent_at": "2026-09-10T08:30:42.220377+00:00",
+          "pending_msg": 434,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993904,
+      "last_deliver_tick": 993905,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1375,6 +1375,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to wire up my smart fridge before it eats my cat.",
+              "sentence_ru": "Пытаюсь подключить свой умный холодильник, пока он не сожрал моего кота.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Trying to wire up my smart home before the toaster takes over the Wi-Fi.",
               "sentence_ru": "Пытаюсь подключить свой умный дом, пока тостер не захватил вайфай.",
               "word_form": "wire up"
@@ -1393,20 +1398,15 @@
               "sentence": "Local maniacs wire up the city mayor to a giant espresso machine.",
               "sentence_ru": "Местные маньяки подключают мэра города к гигантской эспрессо-машине.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Secret agents wire up every stray cat with explosive laser collars.",
-              "sentence_ru": "Секретные агенты начиняют каждого бродячего кота взрывными лазерными ошейниками.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 993818,
+          "due_tick": 993953,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-05T09:30:26.029291+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-10T08:30:43.877750+00:00",
+          "pending_msg": 435,
           "reps": 3,
           "step": 3,
           "word": "wire up",
@@ -1539,11 +1539,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993904,
+      "last_deliver_tick": 993905,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
