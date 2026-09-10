@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Still thinking about how the aforementioned ex ruined my vibe in Ibiza.",
+              "sentence_ru": "До сих пор думаю о том, как вышеупомянутый бывший испортил мне вайб на Ибице.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "I still remember the aforementioned betrayal, especially at three in the morning.",
               "sentence_ru": "Я до сих пор помню вышеупомянутое предательство, особенно в три часа ночи.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I still hear the screams of the aforementioned bastard echoing in my haunted skull.",
               "sentence_ru": "Я до сих пор слышу крики вышеупомянутого ублюдка, эхом отдающиеся в моем больном черепе.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "The raccoon stole my dentures, and the aforementioned thief is currently eating my burrito.",
-              "sentence_ru": "Енот украл мои вставные зубы, и вышеупомянутый вор в данный момент жрет мое буррито.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 993857,
+          "due_tick": 993955,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-08T08:30:31.068744+00:00",
-          "pending_msg": 384,
+          "last_sent_at": "2026-09-10T09:30:58.183194+00:00",
+          "pending_msg": 438,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993906,
+      "last_deliver_tick": 993907,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We will demolish apartment 48 tomorrow because the owner's music taste violates all human rights.",
+              "sentence_ru": "Завтра мы снесём квартиру 48, потому что музыкальный вкус её хозяина нарушает все права человека.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
               "sentence_ru": "Человек, если ты снова купишь дешевый корм, я снесу этот тупой диван.",
               "word_form": "demolish"
@@ -906,20 +911,15 @@
               "sentence": "Bro tried to cook eggs and accidentally demolished the entire kitchen.",
               "sentence_ru": "Бро пытался пожарить яйца и случайно снёс к чертям всю кухню.",
               "word_form": "demolished"
-            },
-            {
-              "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
-              "sentence_ru": "Человек, если ты снова купишь дешевый сухой корм, я снесу этот тупой диван.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 993855,
+          "due_tick": 993955,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-08T07:31:06.544261+00:00",
-          "pending_msg": 381,
+          "last_sent_at": "2026-09-10T09:31:27.085676+00:00",
+          "pending_msg": 439,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1539,11 +1539,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993906,
+      "last_deliver_tick": 993907,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
