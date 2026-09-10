@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My emotional cat tried to undermine my marriage by whispering treason into my husband's ear.",
+              "sentence_ru": "Мой эмоциональный кот пытался подорвать мой брак, шепча измену на ухо моему мужу.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "My ex trying to undermine my new relationship with memes is honestly pathetic.",
               "sentence_ru": "Пытки моего бывшего подорвать мои новые отношения с помощью мемов — это честно говоря жалко.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "My ex trying to undermine my new relationship while still crying in my DMs.",
               "sentence_ru": "Мой бывший пытается подрывать мои новые отношения, пока сам всё ещё плачет в моих личных сообщениях.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Karen tried to undermine my authority by stealing my emotional support stapler from my desk.",
-              "sentence_ru": "Карен попыталась подорвать мой авторитет, украв со стола мой степлер для эмоциональной поддержки.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993859,
+          "due_tick": 993957,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-08T09:30:07.386729+00:00",
-          "pending_msg": 388,
+          "last_sent_at": "2026-09-10T10:30:22.553872+00:00",
+          "pending_msg": 442,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993908,
+      "last_deliver_tick": 993909,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to emerge from the bushes just to ruin my selfie.",
+              "sentence_ru": "Моему бывшему пришлось вылезти из кустов только для того, чтобы испортить мое селфи.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "Did Kevin just emerge from the ceiling tiles covered in melted cheese?",
               "sentence_ru": "Кевин что, только что вылез из потолочной плитки, весь обмазанный плавленым сыром?",
               "word_form": "emerge"
@@ -991,12 +996,12 @@
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993857,
+          "due_tick": 993957,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-08T08:30:47.534721+00:00",
-          "pending_msg": 385,
+          "last_sent_at": "2026-09-10T10:30:27.825142+00:00",
+          "pending_msg": 443,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1539,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993908,
+      "last_deliver_tick": 993909,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
