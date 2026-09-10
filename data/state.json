@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still try to wash away the blood of my shattered dreams in the shower.",
+              "sentence_ru": "Я всё еще пытаюсь смыть в душе кровь моих разбитых мечтов.",
+              "word_form": "try"
+            },
+            {
               "sentence": "I tried to feed my angry toaster, but it bit my finger off.",
               "sentence_ru": "Я попытался покормить свой злой тостер, но он откусил мне палец.",
               "word_form": "tried"
@@ -355,20 +360,15 @@
               "sentence": "When she tries to cook soup, the kitchen starts screaming in agony.",
               "sentence_ru": "Когда она пытается приготовить суп, кухня начинает кричать в агонии.",
               "word_form": "tries"
-            },
-            {
-              "sentence": "Just try to steal my stapler again, and I will staple your eyelids together.",
-              "sentence_ru": "Только попробуй снова украсть мой степлер, и я скреплю твои веки степлером.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993816,
+          "due_tick": 993950,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-07T12:00:09.026242+00:00",
-          "pending_msg": 376,
+          "last_sent_at": "2026-09-10T07:00:05.182490+00:00",
+          "pending_msg": 426,
           "reps": 2,
           "step": 2,
           "word": "Try",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993870,
+      "last_deliver_tick": 993902,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,6 +806,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Grandma drinks blood instead of tea while spreading juicy gossip about the neighbors.",
+              "sentence_ru": "Бабушка пьет кровь вместо чая, распуская сочные сплетни о соседях.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "My cat stopped eating wet food just to spread neighborhood gossip about the dog.",
               "sentence_ru": "Мой кот перестал есть влажный корм только для того, чтобы распускать дворовые сплетни про собаку.",
               "word_form": "gossip"
@@ -824,20 +829,15 @@
               "sentence": "Stop spreading toxic gossip about Aunt Luda's wig or I will glue your mailbox shut.",
               "sentence_ru": "Хватит распускать токсичные сплетни о парике тети Люды, иначе я наглухо приклею ваш почтовый ящик.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "My cat started to gossip with the toaster about my dating life.",
-              "sentence_ru": "Мой кот начал сплетничать с тостером о моей личной жизни.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993816,
+          "due_tick": 993950,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-07T12:00:10.358176+00:00",
-          "pending_msg": 377,
+          "last_sent_at": "2026-09-10T07:00:06.336630+00:00",
+          "pending_msg": 427,
           "reps": 1,
           "step": 1,
           "word": "gossip",
@@ -1539,11 +1539,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993870,
+      "last_deliver_tick": 993902,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
