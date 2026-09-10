@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please do not discorage our stray cat from sleeping on the lobby rug.",
+              "sentence_ru": "Пожалуйста, не отговаривайте нашего бродячего кота спать на коврике в вестибюле.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping their boats.",
               "sentence_ru": "Мутантные омары разочаровывают местных рыбаков, воруя их пиво и переворачивая лодки.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Please do not discorage my cat from howling at 3 AM in the hallway.",
               "sentence_ru": "Пожалуйста, не отучайте моего кота орать в три часа ночи в коридоре.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Do not discorage the stray cats by leaving empty vodka bottles instead of fish.",
-              "sentence_ru": "Не обескураживайте бродячих котов, оставляя пустые бутылки из-под водки вместо рыбы.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 993858,
+          "due_tick": 993956,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-08T09:00:57.948512+00:00",
-          "pending_msg": 386,
+          "last_sent_at": "2026-09-10T10:00:25.588276+00:00",
+          "pending_msg": 440,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993907,
+      "last_deliver_tick": 993908,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -930,6 +930,11 @@
           "cache": [
             {
               "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
+              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить мое имя.",
+              "word_form": "undergo"
+            },
+            {
+              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
               "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, только чтобы вспомнить мое имя.",
               "word_form": "undergo"
             },
@@ -947,20 +952,15 @@
               "sentence": "You have to undergo a strict bag check before I let you feed me, human.",
               "sentence_ru": "Ты должна пройти строгий досмотр сумочки, прежде чем я позволю тебе покормить меня, человек.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
-              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, только чтобы вспомнить мое имя.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 993856,
+          "due_tick": 993956,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-08T08:00:27.639050+00:00",
-          "pending_msg": 383,
+          "last_sent_at": "2026-09-10T10:00:33.303223+00:00",
+          "pending_msg": 441,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1539,11 +1539,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993907,
+      "last_deliver_tick": 993908,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
