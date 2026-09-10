@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat stares into the void and hisses whenever I try to sleep.",
+              "sentence_ru": "Мой кот пялится в пустоту и шипит всякий раз, когда я пытаюсь уснуть.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "My cat stares at my soul whenever I open a tuna can.",
               "sentence_ru": "Мой кот пялится мне в душу всякий раз, когда я открываю банку тунца.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever Greg starts crying about his gluten allergy, I just hide his coffee.",
               "sentence_ru": "Всякий раз, когда Грег начинает плакать из-за своей аллергии на глютен, я просто прячу его кофе.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "My cat explodes whenever the doorbell rings, showering the hallway with pure glitter.",
-              "sentence_ru": "Мой кот взрывается всякий раз, когда звонит в дверь, осыпая прихожую чистыми блёстками.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 993860,
+          "due_tick": 993958,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-08T10:23:55.060633+00:00",
-          "pending_msg": 392,
+          "last_sent_at": "2026-09-10T11:00:34.668667+00:00",
+          "pending_msg": 444,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993909,
+      "last_deliver_tick": 993910,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We need more coffee machines to survive this sudden influx of weeping interns.",
+              "sentence_ru": "Нам нужно больше кофемашин, чтобы пережить этот внезапный наплыв рыдающих стажеров.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "An unexpected influx of stray cats turned my apartment into a chaotic furry cult.",
               "sentence_ru": "Неожиданный наплыв бродячих котов превратил мою квартиру в хаотичный пушистый культ.",
               "word_form": "influx"
@@ -1029,20 +1034,15 @@
               "sentence": "An influx of crazy cat ladies crashed the servers during the yarn sale.",
               "sentence_ru": "Наплыв безумных кошатниц обрушил сервера во время распродажи пряжи.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An influx of my regrets can't stop me texting you at 3 AM.",
-              "sentence_ru": "Наплыв моих сожалений не может помешать мне писать тебе в 3 часа ночи.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 993858,
+          "due_tick": 993958,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-08T09:01:38.419261+00:00",
-          "pending_msg": 387,
+          "last_sent_at": "2026-09-10T11:00:41.585143+00:00",
+          "pending_msg": 445,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993909,
+      "last_deliver_tick": 993910,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-10",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
