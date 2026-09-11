@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The new CEO and the office printer hit it off immediately by setting fire to the breakroom.",
+              "sentence_ru": "Новый гендиректор и офисный принтер сразу нашли общий язык, устроив пожар в комнате отдыха.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "We hit it off with the local stray cat and now I owe it my entire paycheck.",
               "sentence_ru": "Мы сразу подружились с местным бродячим котом, и теперь я должен ему всю свою зарплату.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Me and my therapist really hit it off after I blamed my ex for my bad vibes.",
               "sentence_ru": "Я и мой психотерапевт сразу отлично поладили после того, как я свалил вину за свои плохие вайбы на бывшую.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Me and the delivery guy hit it off when we both dropped our energy drinks.",
-              "sentence_ru": "Мы с курьером сразу сошлись, когда оба уронили свои энергетики.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 993907,
+          "due_tick": 994000,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-09T09:30:08.476624+00:00",
-          "pending_msg": 408,
+          "last_sent_at": "2026-09-11T08:00:32.486901+00:00",
+          "pending_msg": 450,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993951,
+      "last_deliver_tick": 993952,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that this wig was made from a stray cat.",
+              "sentence_ru": "Я склоняюсь к мысли, что этот парик сделали из бродячего кота.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that my cat is plotting my murder while I sleep.",
               "sentence_ru": "Я склонен думать, что мой кот планирует мое убийство, пока я сплю.",
               "word_form": "I'm inclined to think that"
@@ -1275,20 +1280,15 @@
               "sentence": "I'm inclined to think that your ex will crash your wedding on a stolen tractor.",
               "sentence_ru": "Я склонен думать, что твой бывший сорвет твою свадьбу на украденном тракторе.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that Jim glued my stapler to the ceiling again.",
-              "sentence_ru": "Я склонен думать, что Джим снова приклеил мой степлер к потолку.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 993861,
+          "due_tick": 994000,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-08T10:30:19.468146+00:00",
-          "pending_msg": 395,
+          "last_sent_at": "2026-09-11T08:00:44.719763+00:00",
+          "pending_msg": 451,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993951,
+      "last_deliver_tick": 993952,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
