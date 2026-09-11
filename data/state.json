@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your acquired paranoia will finally help you dodge a falling piano tomorrow.",
+              "sentence_ru": "Твоя приобретенная паранойя завтра наконец-то поможет тебе увернуться от падающего пианино.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That taste for expensive champagne is just an acquired excuse to stay broke.",
               "sentence_ru": "Этот вкус к дорогому шампанскому — просто приобретенный повод оставаться на мели.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That taste for expensive caviar is an acquired flex I can no longer afford.",
               "sentence_ru": "Эта тяга к дорогой икре — приобретенный выпендрёж, который я больше не вывожу.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "If your cat has acquired a taste for neighbor's flesh, keep the beast inside.",
-              "sentence_ru": "Если ваш кот приобрел вкус к соседской плоти, держите тварь дома.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 993910,
+          "due_tick": 994003,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-09T11:00:08.303112+00:00",
-          "pending_msg": 414,
+          "last_sent_at": "2026-09-11T09:30:51.398455+00:00",
+          "pending_msg": 456,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993954,
+      "last_deliver_tick": 993955,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, ramp up production of my salmon paté immediately or face my wrath.",
+              "sentence_ru": "Человек, немедленно наращивай производство моего лососевого паштета, иначе столкнешься с моим гневом.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "I need to ramp up my daily caffeine intake before my boss destroys my soul.",
               "sentence_ru": "Мне нужно нарастить ежедневную дозу кофеина, прежде чем босс уничтожит мою душу.",
               "word_form": "ramp up"
@@ -1480,20 +1485,15 @@
               "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
               "sentence_ru": "Чел был вынужден увеличить дозу кофеина, просто чтобы выжить в понедельник утром.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Bro had to ramp up his ex-blocking speed after she spotted him at the mall.",
-              "sentence_ru": "Брату пришлось бешено ускориться, когда бывшая спалила его в торговом центре.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 993908,
+          "due_tick": 994003,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-09T10:00:09.452361+00:00",
-          "pending_msg": 411,
+          "last_sent_at": "2026-09-11T09:30:55.053825+00:00",
+          "pending_msg": 457,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993954,
+      "last_deliver_tick": 993955,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
