@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words anymore; your soul is as cheap as a gas station hot dog.",
+              "sentence_ru": "Я больше не буду подбирать выражения; твоя душа дешевле хот-дога на заправке.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "He never minces words when telling his cat that the kibble tastes like radioactive trash.",
               "sentence_ru": "Он никогда не выбирает выражения, заявляя своему коту, что сухой корм на вкус как радиоактивный мусор.",
               "word_form": "minces words"
@@ -519,20 +524,15 @@
               "sentence": "Stop trying to mince words, Chad, just tell me who stole my lunch from the shared fridge.",
               "sentence_ru": "Хватит пытаться подбирать выражения, Чад, просто скажи мне, кто украл мой обед из общего холодильника.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "The Satanic Pope didn't mince words when declaring eternal damnation for anyone eating soggy fries.",
-              "sentence_ru": "Сатанинский Папа Римский не стал подбирать выражения, объявив вечные муки каждому, кто ест размокшую картошку фри.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 993906,
+          "due_tick": 993999,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-09T09:05:37.640147+00:00",
-          "pending_msg": 406,
+          "last_sent_at": "2026-09-11T07:30:30.934464+00:00",
+          "pending_msg": 448,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993950,
+      "last_deliver_tick": 993951,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, human, your pathetic attempts at cooking are almost edible today.",
+              "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки готовить сегодня почти съедобны.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, our HOA president is just a bald goblin stealing our Wi-Fi.",
               "sentence_ru": "В целом, наш председатель ТСЖ — просто лысый гоблин, который ворует наш вайфай.",
               "word_form": "By and large"
@@ -1111,20 +1116,15 @@
               "sentence": "By and large, our new boss is a total psychopath who loves PowerPoint.",
               "sentence_ru": "В целом наш новый босс — абсолютный психопат, который обожает PowerPoint.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, my life is just a circus, and I am the crying clown.",
-              "sentence_ru": "В общем и целом, моя жизнь — это просто цирк, а я плачущий клоун.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 993860,
+          "due_tick": 993999,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-08T10:23:56.253546+00:00",
-          "pending_msg": 393,
+          "last_sent_at": "2026-09-11T07:30:37.840709+00:00",
+          "pending_msg": 449,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993950,
+      "last_deliver_tick": 993951,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
