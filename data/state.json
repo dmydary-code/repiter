@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons encorage me to steal the entire bakery at 3 AM.",
+              "sentence_ru": "Мои внутренние демоны подбадривают меня украсть всю пекарню в три часа ночи.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "I encorage my pet raccoon to steal shiny spoons from angry neighbors.",
               "sentence_ru": "Я поощряю своего домашнего енота воровать блестящие ложки у злых соседей.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "You should encorage my nighttime chaos instead of yelling and throwing slippers.",
               "sentence_ru": "Тебе следовало бы поощрять мой ночной хаус вместо того, чтобы орать и кидаться тапками.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "Mars will encorage you to steal a police horse and run away to Vegas.",
-              "sentence_ru": "Марс подбодрит тебя украсть полицейскую лошадь и сбежать в Вегас.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 993911,
+          "due_tick": 994004,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-09T11:30:09.374450+00:00",
-          "pending_msg": 416,
+          "last_sent_at": "2026-09-11T10:00:39.082732+00:00",
+          "pending_msg": 458,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993955,
+      "last_deliver_tick": 993956,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Why must the universe constantly impose its idiotic destiny upon my bleeding soul?",
+              "sentence_ru": "Почему вселенная постоянно навязывает свою идиотскую судьбу моей кровоточащей душе?",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Mars will force you to impose your weird vegan diet on stray cats tomorrow.",
               "sentence_ru": "Марс заставит тебя навязывать твою странную веганскую диету бродячим котам завтра.",
               "word_form": "impose"
@@ -1521,20 +1526,15 @@
               "sentence": "This weird seller tried to impose his cursed cat statue on me as a gift.",
               "sentence_ru": "Этот странный продавец попытался навязать мне свою проклятую статуэтку кота в качестве подарка.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Please do not impose your toxic wellness routine on me before my morning coffee.",
-              "sentence_ru": "Пожалуйста, не навязывай мне свою токсичную оздоровительную рутину до моего утреннего кофе.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 993909,
+          "due_tick": 994004,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-09T10:30:10.311939+00:00",
-          "pending_msg": 413,
+          "last_sent_at": "2026-09-11T10:00:53.446747+00:00",
+          "pending_msg": 459,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993955,
+      "last_deliver_tick": 993956,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
