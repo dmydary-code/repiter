@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I set heart on ruining your new wedding, just like you ruined my crypto portfolio.",
+              "sentence_ru": "Я страстно желаю испортить твою новую свадьбу, прямо как ты испортил мой криптопортфель.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Karen has set her heart on stealing the last gluten-free muffin from the breakroom.",
               "sentence_ru": "Карен твердо нацелилась украсть последний безглютеновый маффин из комнаты отдыха.",
               "word_form": "has set her heart on"
@@ -478,20 +483,15 @@
               "sentence": "If you set heart on stealing the lobby cactus, just leave it before the cops arrive.",
               "sentence_ru": "Если вы твердо нацелились украсть подъездный кактус, хотя бы верните его до приезда полицаев.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Karen has set her heart on stealing the last gluten-free donut from the breakroom.",
-              "sentence_ru": "Карен твердо нацелилась украсть последний безглютеновый пончик из комнаты отдыха.",
-              "word_form": "set her heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 993861,
+          "due_tick": 993998,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-08T10:30:18.348215+00:00",
-          "pending_msg": 394,
+          "last_sent_at": "2026-09-11T07:00:37.405576+00:00",
+          "pending_msg": 446,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993925,
+      "last_deliver_tick": 993950,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Some freak plays techno on a bagpipe now and then, and my cat starts levitating from horror.",
+              "sentence_ru": "Какой-то придурок время от времени играет техно на волынке, и мой кот начинает левитировать от ужаса.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "I still wake up at 3 AM to check if you remember me now and then.",
               "sentence_ru": "Я всё еще просыпаюсь в 3 часа ночи, чтобы проверить, помнишь ли ты меня время от времени.",
               "word_form": "now and then"
@@ -1070,20 +1075,15 @@
               "sentence": "I still wake up at 3 AM to check if you remember me now and then.",
               "sentence_ru": "Я всё еще просыпаюсь в 3 часа ночи, чтобы проверить, помнишь ли ты меня время от времени.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Some degenerate plays techno through the floor now and then, and my soup is vibrating.",
-              "sentence_ru": "Какой-то дегенерат время от времени включает техно через пол, и у меня суп вибрирует.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 993859,
+          "due_tick": 993998,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-08T09:30:31.584973+00:00",
-          "pending_msg": 389,
+          "last_sent_at": "2026-09-11T07:00:38.698329+00:00",
+          "pending_msg": 447,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993925,
+      "last_deliver_tick": 993950,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-11",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
