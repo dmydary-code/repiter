@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky raccoon stole my toupee and wore it to a job interview.",
+              "sentence_ru": "Этот наглый енот украл мой парик и надел его на собеседование.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky raccoon stole my last taco and didn't even regret it.",
               "sentence_ru": "Этот наглый енот украл мой последний тако и даже не пожалел об этом.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "A cheeky raccoon steals nuclear launch codes and demands endless pizza.",
               "sentence_ru": "Наглый енот крадет коды ядерного запуска и требует бесконечную пиццу.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "A cheeky Aries will steal the boss's coffee and blame it on the office cat.",
-              "sentence_ru": "Дерзкий Овен стырит кофе у босса и свалит всё на офисного кота.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 993952,
+          "due_tick": 994048,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-10T08:00:16.052438+00:00",
-          "pending_msg": 432,
+          "last_sent_at": "2026-09-12T08:00:05.008466+00:00",
+          "pending_msg": 466,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993999,
+      "last_deliver_tick": 994000,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He had to adjust the alien's microwave so it wouldn't vaporize his cat.",
+              "sentence_ru": "Ему пришлось настроить микроволновку пришельца, чтобы она не испарила его кота.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I had to adjust the straps so this cursed bra wouldn't choke my fat cats.",
               "sentence_ru": "Мне пришлось отрегулировать лямки, чтобы этот проклятый лифчик не душил моих жирных котов.",
               "word_form": "adjust"
@@ -1316,20 +1321,15 @@
               "sentence": "Tomorrow you must aggressively adjust your horoscope before the universe notices you are broke.",
               "sentence_ru": "Завтра ты должен агрессивно подстроить свой гороскоп, пока вселенная не заметила, что ты на мели.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Mutants must adjust their telepathic volume before robbing the space bank.",
-              "sentence_ru": "Мутанты должны отрегулировать громкость телепатии перед ограблением космического банка.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 993918,
+          "due_tick": 994048,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-09T15:00:17.127834+00:00",
-          "pending_msg": 425,
+          "last_sent_at": "2026-09-12T08:00:06.170280+00:00",
+          "pending_msg": 467,
           "reps": 1,
           "step": 0,
           "word": "to adjust",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993999,
+      "last_deliver_tick": 994000,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
