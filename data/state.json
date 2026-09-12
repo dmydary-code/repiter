@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you will try to seduce a stray cat, but it will judge you.",
+              "sentence_ru": "Завтра вы попытаетесь соблазнить бродячего кота, но он вас осудит.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Try to touch my fish again, human, and I will end your pathetic bloodline.",
               "sentence_ru": "Попробуй еще раз тронуть мою рыбу, кожаный, и я прерву твой жалкий род.",
               "word_form": "Try"
@@ -355,20 +360,15 @@
               "sentence": "I still try to wash away the blood from my soul, but soap doesn't work.",
               "sentence_ru": "Я всё еще пытаюсь смыть кровь со своей души, но мыло не помогает.",
               "word_form": "try"
-            },
-            {
-              "sentence": "When she tries to cook soup, the kitchen starts screaming in agony.",
-              "sentence_ru": "Когда она пытается приготовить суп, кухня начинает кричать в агонии.",
-              "word_form": "tries"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 993951,
+          "due_tick": 994047,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-10T07:47:29.812627+00:00",
-          "pending_msg": 430,
+          "last_sent_at": "2026-09-12T07:30:06.790575+00:00",
+          "pending_msg": 464,
           "reps": 2,
           "step": 2,
           "word": "Try",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 993998,
+      "last_deliver_tick": 993999,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,6 +847,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen gnomes flourish on a diet of cheap gin and stolen mail.",
+              "sentence_ru": "Мои украденные гномы процветают на диете из дешевого джина и ворованной почты.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "I see you continue to flourish while I am crying alone on the bathroom floor.",
               "sentence_ru": "Я вижу, ты продолжаешь процветать, пока я плачу в одиночестве на полу в ванной.",
               "word_form": "flourish"
@@ -865,20 +870,15 @@
               "sentence": "While our ceiling is collapsing, the black mold in the hallway continues to flourish.",
               "sentence_ru": "Пока наш потолок рушится, черная плесень в коридоре продолжает процветать.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "My inner demons somehow manage to flourish while my soul slowly rots away.",
-              "sentence_ru": "Мои внутренние демоны умудряются процветать, пока моя душа медленно гниет.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 993917,
+          "due_tick": 994047,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-09T14:46:09.750150+00:00",
-          "pending_msg": 423,
+          "last_sent_at": "2026-09-12T07:30:07.963086+00:00",
+          "pending_msg": 465,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 993998,
+      "last_deliver_tick": 993999,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
