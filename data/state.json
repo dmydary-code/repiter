@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-12",
-  "offset": 71487618,
+  "offset": 71487619,
   "users": {
     "1090554427": {
       "cards": [
@@ -750,12 +750,12 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994053,
+          "due_tick": 994014,
           "id": "7047657d33",
           "lang": "en",
-          "lapses": 7,
+          "lapses": 8,
           "last_sent_at": "2026-09-12T10:50:55.705508+00:00",
-          "pending_msg": 479,
+          "pending_msg": null,
           "reps": 1,
           "step": 0,
           "word": "drab",
