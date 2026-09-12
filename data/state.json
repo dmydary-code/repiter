@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still hear the screams of the aforementioned betrayal echoing in my empty skull.",
+              "sentence_ru": "Я всё еще слышу крики вышеупомянутого предательства, эхом отдающиеся в моем пустом черепе.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "Still thinking about how the aforementioned ex ruined my vibe in Ibiza.",
               "sentence_ru": "До сих пор думаю о том, как вышеупомянутый бывший испортил мне вайб на Ибице.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "The aforementioned raccoon stole my toupee and is now leading a gang of stray cats.",
               "sentence_ru": "Вышеупомянутый енот украл мой парик и теперь возглавляет банду бродячих котов.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I still hear the screams of the aforementioned bastard echoing in my haunted skull.",
-              "sentence_ru": "Я до сих пор слышу крики вышеупомянутого ублюдка, эхом отдающиеся в моем больном черепе.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 993955,
+          "due_tick": 994058,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-10T09:30:58.183194+00:00",
-          "pending_msg": 438,
+          "last_sent_at": "2026-09-12T13:00:04.079108+00:00",
+          "pending_msg": 488,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994009,
+      "last_deliver_tick": 994010,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If you try to wire up the elevator yourself again, I will glue your fingers to the wall.",
+              "sentence_ru": "Если вы снова попытаетесь сами подключить лифт, я приклею ваши пальцы к стене.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Trying to wire up my smart fridge before it eats my cat.",
               "sentence_ru": "Пытаюсь подключить свой умный холодильник, пока он не сожрал моего кота.",
               "word_form": "wire up"
@@ -1398,20 +1403,15 @@
               "sentence": "Cyborg pigeons wire up the stolen nuclear launch codes to local pigeons.",
               "sentence_ru": "Киборги-голуби подключают украденные ядерные коды к местным голубям.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Local maniacs wire up the city mayor to a giant espresso machine.",
-              "sentence_ru": "Местные маньяки подключают мэра города к гигантской эспрессо-машине.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 993953,
+          "due_tick": 994058,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-10T08:30:43.877750+00:00",
-          "pending_msg": 435,
+          "last_sent_at": "2026-09-12T13:00:05.489908+00:00",
+          "pending_msg": 489,
           "reps": 3,
           "step": 3,
           "word": "wire up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994009,
+      "last_deliver_tick": 994010,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
