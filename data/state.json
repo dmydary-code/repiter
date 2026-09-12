@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Her secret midnight snacks constantly undermine my authority as the strict, terrifying household dictator.",
+              "sentence_ru": "Ее тайные ночные перекусы постоянно подрывают мой авторитет строгого, ужасающего домашнего диктатора.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "My emotional cat tried to undermine my marriage by whispering treason into my husband's ear.",
               "sentence_ru": "Мой эмоциональный кот пытался подорвать мой брак, шепча измену на ухо моему мужу.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "These cheap Chinese leggings tried to undermine my confidence right in the middle of a grocery store.",
               "sentence_ru": "Эти дешевые китайские леггинсы попытались подорвать мою уверенность прямо посреди продуктового магазина.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "My ex trying to undermine my new relationship while still crying in my DMs.",
-              "sentence_ru": "Мой бывший пытается подрывать мои новые отношения, пока сам всё ещё плачет в моих личных сообщениях.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 993957,
+          "due_tick": 994053,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-10T10:30:22.553872+00:00",
-          "pending_msg": 442,
+          "last_sent_at": "2026-09-12T10:30:21.210552+00:00",
+          "pending_msg": 476,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994004,
+      "last_deliver_tick": 994005,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He decided to demolish his entire kitchen just to find a lost sausage.",
+              "sentence_ru": "Он решил снести всю свою кухню только ради того, чтобы найти потерянную сосиску.",
+              "word_form": "to demolish"
+            },
+            {
               "sentence": "We will demolish apartment 48 tomorrow because the owner's music taste violates all human rights.",
               "sentence_ru": "Завтра мы снесём квартиру 48, потому что музыкальный вкус её хозяина нарушает все права человека.",
               "word_form": "demolish"
@@ -906,20 +911,15 @@
               "sentence": "Me and the boys on our way to demolish my ex's toxic art project.",
               "sentence_ru": "Я и пацаны по пути сносить токсичный арт-проект моей бывшей.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Bro tried to cook eggs and accidentally demolished the entire kitchen.",
-              "sentence_ru": "Бро пытался пожарить яйца и случайно снёс к чертям всю кухню.",
-              "word_form": "demolished"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 993955,
+          "due_tick": 994053,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-10T09:31:27.085676+00:00",
-          "pending_msg": 439,
+          "last_sent_at": "2026-09-12T10:30:22.348160+00:00",
+          "pending_msg": 477,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994004,
+      "last_deliver_tick": 994005,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
