@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-12",
-  "offset": 71487627,
+  "offset": 71487632,
   "users": {
     "1090554427": {
       "cards": [
@@ -832,14 +832,14 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 994060,
+          "due_tick": 994156,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
           "last_sent_at": "2026-09-12T12:00:12.138707+00:00",
           "pending_msg": null,
-          "reps": 2,
-          "step": 2,
+          "reps": 3,
+          "step": 3,
           "word": "gossip",
           "word_ru": "сплетни, сплетничать, слухи"
         },
@@ -876,7 +876,7 @@
           "due_tick": 994014,
           "id": "a6c2ac26cd",
           "lang": "en",
-          "lapses": 4,
+          "lapses": 5,
           "last_sent_at": "2026-09-12T11:00:19.559237+00:00",
           "pending_msg": null,
           "reps": 0,
@@ -1160,14 +1160,14 @@
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 994348,
+          "due_tick": 994684,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
           "last_sent_at": "2026-09-12T12:30:21.648535+00:00",
           "pending_msg": null,
-          "reps": 4,
-          "step": 4,
+          "reps": 5,
+          "step": 5,
           "word": "it would be hard to deny that",
           "word_ru": "трудно отрицать, что; нельзя не признать, что"
         },
@@ -1324,14 +1324,14 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 994028,
+          "due_tick": 994060,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
           "last_sent_at": "2026-09-12T11:30:02.972267+00:00",
           "pending_msg": null,
-          "reps": 2,
-          "step": 1,
+          "reps": 3,
+          "step": 2,
           "word": "to adjust",
           "word_ru": "настраивать, регулировать, адаптировать"
         },
@@ -1406,14 +1406,14 @@
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 994348,
+          "due_tick": 994684,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
           "last_sent_at": "2026-09-12T13:00:05.489908+00:00",
           "pending_msg": null,
-          "reps": 4,
-          "step": 4,
+          "reps": 5,
+          "step": 5,
           "word": "wire up",
           "word_ru": "подключить проводами, соединить в сеть, заминировать"
         },
