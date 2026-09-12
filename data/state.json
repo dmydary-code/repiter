@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-12",
-  "offset": 71487619,
+  "offset": 71487621,
   "users": {
     "1090554427": {
       "cards": [
@@ -873,12 +873,12 @@
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 994054,
+          "due_tick": 994014,
           "id": "a6c2ac26cd",
           "lang": "en",
-          "lapses": 3,
+          "lapses": 4,
           "last_sent_at": "2026-09-12T11:00:19.559237+00:00",
-          "pending_msg": 481,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1324,14 +1324,14 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 994055,
+          "due_tick": 994028,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
           "last_sent_at": "2026-09-12T11:30:02.972267+00:00",
-          "pending_msg": 483,
-          "reps": 1,
-          "step": 0,
+          "pending_msg": null,
+          "reps": 2,
+          "step": 1,
           "word": "to adjust",
           "word_ru": "настраивать, регулировать, адаптировать"
         },
