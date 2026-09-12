@@ -9,8 +9,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Even our humble trash can is too fancy for whoever keeps throwing dirty diapers in the lobby.",
-              "sentence_ru": "Даже наша скромная мусорка слишком шикарна для того, кто продолжает бросать грязные подгузники в вестибюле.",
+              "sentence": "Be more humble, human, and maybe I won't puke in your shoes tonight.",
+              "sentence_ru": "Будь скромнее, кожаный, и, может быть, я не натошню тебе в туфли сегодня ночью.",
               "word_form": "humble"
             },
             {
@@ -35,12 +35,12 @@
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 994046,
+          "due_tick": 994053,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T07:00:08.804883+00:00",
-          "pending_msg": 462,
+          "last_sent_at": "2026-09-12T10:50:52.635252+00:00",
+          "pending_msg": 478,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -49,11 +49,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "That cheeky raccoon stole my toupee and wore it to a job interview.",
-              "sentence_ru": "Этот наглый енот украл мой парик и надел его на собеседование.",
-              "word_form": "cheeky"
-            },
             {
               "sentence": "That cheeky raccoon stole my last taco and didn't even regret it.",
               "sentence_ru": "Этот наглый енот украл мой последний тако и даже не пожалел об этом.",
@@ -73,15 +68,20 @@
               "sentence": "A cheeky raccoon steals nuclear launch codes and demands endless pizza.",
               "sentence_ru": "Наглый енот крадет коды ядерного запуска и требует бесконечную пиццу.",
               "word_form": "cheeky"
+            },
+            {
+              "sentence": "A cheeky Aries will steal the boss's coffee and blame it on the office cat.",
+              "sentence_ru": "Дерзкий Овен стырит кофе у босса и свалит всё на офисного кота.",
+              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 994048,
+          "due_tick": 993952,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T08:00:05.008466+00:00",
-          "pending_msg": 466,
+          "last_sent_at": "2026-09-10T08:00:16.052438+00:00",
+          "pending_msg": 432,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -132,11 +132,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Her secret midnight snacks constantly undermine my authority as the strict, terrifying household dictator.",
-              "sentence_ru": "Ее тайные ночные перекусы постоянно подрывают мой авторитет строгого, ужасающего домашнего диктатора.",
-              "word_form": "undermine"
-            },
-            {
               "sentence": "My emotional cat tried to undermine my marriage by whispering treason into my husband's ear.",
               "sentence_ru": "Мой эмоциональный кот пытался подорвать мой брак, шепча измену на ухо моему мужу.",
               "word_form": "undermine"
@@ -155,15 +150,20 @@
               "sentence": "These cheap Chinese leggings tried to undermine my confidence right in the middle of a grocery store.",
               "sentence_ru": "Эти дешевые китайские леггинсы попытались подорвать мою уверенность прямо посреди продуктового магазина.",
               "word_form": "undermine"
+            },
+            {
+              "sentence": "My ex trying to undermine my new relationship while still crying in my DMs.",
+              "sentence_ru": "Мой бывший пытается подрывать мои новые отношения, пока сам всё ещё плачет в моих личных сообщениях.",
+              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 994053,
+          "due_tick": 993957,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T10:30:21.210552+00:00",
-          "pending_msg": 476,
+          "last_sent_at": "2026-09-10T10:30:22.553872+00:00",
+          "pending_msg": 442,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -172,11 +172,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Do not throw your used diapers into the compound yard, you disgusting ghouls!",
-              "sentence_ru": "Не бросайте свои использованные подгузники во двор жилого комплекса, отвратительные упыри!",
-              "word_form": "compound"
-            },
             {
               "sentence": "Do not throw your stale babushka into the chemical compound behind the dumpster!",
               "sentence_ru": "Не бросайте свою залежалую бабушку в химический компаунд за мусорным контейнером!",
@@ -196,15 +191,20 @@
               "sentence": "This weird compound turned my bald cat into a fluorescent green goblin. 5 stars!",
               "sentence_ru": "Эта странная смесь превратила моего лысого кота в флуоресцентно-зеленого гоблина. 5 звезд!",
               "word_form": "compound"
+            },
+            {
+              "sentence": "Tomorrow you will accidentally blow up your ex's secret compound with pure spite.",
+              "sentence_ru": "Завтра ты случайно взорвешь секретный компаунд твоего бывшего из чистой злости.",
+              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994049,
+          "due_tick": 993953,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T08:30:03.115819+00:00",
-          "pending_msg": 468,
+          "last_sent_at": "2026-09-10T08:30:42.220377+00:00",
+          "pending_msg": 434,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -213,11 +213,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "My ex tried to devastate my ego, so I ate her entire birthday cake.",
-              "sentence_ru": "Моя бывшая попыталась уничтожить моё эго, поэтому я сожрал её праздничный торт целиком.",
-              "word_form": "devastate"
-            },
             {
               "sentence": "I will totally devastate this expensive sofa if you do not give me salmon right now.",
               "sentence_ru": "Я полностью разнесу этот дорогой диван, если ты не дашь мне лосось прямо сейчас.",
@@ -237,15 +232,20 @@
               "sentence": "My ex's new biography will completely devastate my fragile ego and my therapist's bank account.",
               "sentence_ru": "Новая биография моего бывшего полностью опустошит мое хрупкое эго и банковский счет моего психотерапевта.",
               "word_form": "devastate"
+            },
+            {
+              "sentence": "Your expired tofu paste totally devastated my toilet at 3 AM.",
+              "sentence_ru": "Твоя просроченная паста из тофу полностью разгромила мой унитаз в три часа ночи.",
+              "word_form": "devastated"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 994050,
+          "due_tick": 993954,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T09:00:26.330771+00:00",
-          "pending_msg": 470,
+          "last_sent_at": "2026-09-10T09:00:18.241925+00:00",
+          "pending_msg": 436,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -254,11 +254,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I had to discorage my raccoon from laundering stolen underwear in the soup.",
-              "sentence_ru": "Мне пришлось отговаривать своего енота стирать ворованное белье в супе.",
-              "word_form": "discorage"
-            },
             {
               "sentence": "Please do not discorage our stray cat from sleeping on the lobby rug.",
               "sentence_ru": "Пожалуйста, не отговаривайте нашего бродячего кота спать на коврике в вестибюле.",
@@ -278,15 +273,20 @@
               "sentence": "Trying to teach my cat calculus will definitely discourage even the most patient teacher.",
               "sentence_ru": "Попытки научить моего кота исчислению определенно разочаруют даже самого терпеливого учителя.",
               "word_form": "discourage"
+            },
+            {
+              "sentence": "Please do not discorage my cat from howling at 3 AM in the hallway.",
+              "sentence_ru": "Пожалуйста, не отучайте моего кота орать в три часа ночи в коридоре.",
+              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994052,
+          "due_tick": 993956,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T10:00:22.721532+00:00",
-          "pending_msg": 474,
+          "last_sent_at": "2026-09-10T10:00:25.588276+00:00",
+          "pending_msg": 440,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -337,11 +337,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Tomorrow you will try to seduce a stray cat, but it will judge you.",
-              "sentence_ru": "Завтра вы попытаетесь соблазнить бродячего кота, но он вас осудит.",
-              "word_form": "try"
-            },
-            {
               "sentence": "Try to touch my fish again, human, and I will end your pathetic bloodline.",
               "sentence_ru": "Попробуй еще раз тронуть мою рыбу, кожаный, и я прерву твой жалкий род.",
               "word_form": "Try"
@@ -360,15 +355,20 @@
               "sentence": "I still try to wash away the blood from my soul, but soap doesn't work.",
               "sentence_ru": "Я всё еще пытаюсь смыть кровь со своей души, но мыло не помогает.",
               "word_form": "try"
+            },
+            {
+              "sentence": "When she tries to cook soup, the kitchen starts screaming in agony.",
+              "sentence_ru": "Когда она пытается приготовить суп, кухня начинает кричать в агонии.",
+              "word_form": "tries"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 994047,
+          "due_tick": 993951,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T07:30:06.790575+00:00",
-          "pending_msg": 464,
+          "last_sent_at": "2026-09-10T07:47:29.812627+00:00",
+          "pending_msg": 430,
           "reps": 2,
           "step": 2,
           "word": "Try",
@@ -665,11 +665,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Who keeps dumping trash in the lobby? The aforementioned idiot needs to be evicted immediately.",
-              "sentence_ru": "Кто продолжает бросать мусор в лобби? Вышеупомянутого идиота нужно выселить немедленно.",
-              "word_form": "aforementioned"
-            },
-            {
               "sentence": "Still thinking about how the aforementioned ex ruined my vibe in Ibiza.",
               "sentence_ru": "До сих пор думаю о том, как вышеупомянутый бывший испортил мне вайб на Ибице.",
               "word_form": "aforementioned"
@@ -688,15 +683,20 @@
               "sentence": "The aforementioned raccoon stole my toupee and is now leading a gang of stray cats.",
               "sentence_ru": "Вышеупомянутый енот украл мой парик и теперь возглавляет банду бродячих котов.",
               "word_form": "aforementioned"
+            },
+            {
+              "sentence": "I still hear the screams of the aforementioned bastard echoing in my haunted skull.",
+              "sentence_ru": "Я до сих пор слышу крики вышеупомянутого ублюдка, эхом отдающиеся в моем больном черепе.",
+              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994051,
+          "due_tick": 993955,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T09:30:24.488007+00:00",
-          "pending_msg": 472,
+          "last_sent_at": "2026-09-10T09:30:58.183194+00:00",
+          "pending_msg": 438,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 8,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -724,8 +724,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Your ex's personality is so drab that even wallpaper tries to peel itself off.",
-              "sentence_ru": "Характер твоего бывшего настолько унылый, что даже обои пытаются сами содраться со стен.",
+              "sentence": "My ex's personality is so drab that even a wall paint feels suicidal.",
+              "sentence_ru": "Характер моего бывшего настолько унылый, что даже краска на стене хочет покончить с собой.",
               "word_form": "drab"
             },
             {
@@ -750,12 +750,12 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994046,
+          "due_tick": 994053,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-12T07:00:09.926982+00:00",
-          "pending_msg": 463,
+          "last_sent_at": "2026-09-12T10:50:55.705508+00:00",
+          "pending_msg": 479,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -806,11 +806,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Stop spreading gossip about Babushka Zina, or she will curse your Wi-Fi.",
-              "sentence_ru": "Хватит распускать сплетни о бабке Зине, а то она проклянет ваш вайфай.",
-              "word_form": "gossip"
-            },
-            {
               "sentence": "Tomorrow your ex will start a toxic gossip about your new zodiac sign.",
               "sentence_ru": "Завтра твой бывший начнет токсичную сплетню про твой новый знак зодиака.",
               "word_form": "gossip"
@@ -829,15 +824,20 @@
               "sentence": "Drinking iced coffee and feeding the neighbourhood pigeons pure gossip.",
               "sentence_ru": "Пью ледяной кофе и скармливаю районным голубям чистейшие сплетни.",
               "word_form": "gossip"
+            },
+            {
+              "sentence": "Stop spreading toxic gossip about Aunt Luda's wig or I will glue your mailbox shut.",
+              "sentence_ru": "Хватит распускать токсичные сплетни о парике тети Люды, иначе я наглухо приклею ваш почтовый ящик.",
+              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 994049,
+          "due_tick": 993951,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-12T08:30:04.236099+00:00",
-          "pending_msg": 469,
+          "last_sent_at": "2026-09-10T07:47:40.175034+00:00",
+          "pending_msg": 431,
           "reps": 1,
           "step": 1,
           "word": "gossip",
@@ -846,11 +846,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "My stolen gnomes flourish on a diet of cheap gin and stolen mail.",
-              "sentence_ru": "Мои украденные гномы процветают на диете из дешевого джина и ворованной почты.",
-              "word_form": "flourish"
-            },
             {
               "sentence": "I see you continue to flourish while I am crying alone on the bathroom floor.",
               "sentence_ru": "Я вижу, ты продолжаешь процветать, пока я плачу в одиночестве на полу в ванной.",
@@ -870,15 +865,20 @@
               "sentence": "While our ceiling is collapsing, the black mold in the hallway continues to flourish.",
               "sentence_ru": "Пока наш потолок рушится, черная плесень в коридоре продолжает процветать.",
               "word_form": "flourish"
+            },
+            {
+              "sentence": "My inner demons somehow manage to flourish while my soul slowly rots away.",
+              "sentence_ru": "Мои внутренние демоны умудряются процветать, пока моя душа медленно гниет.",
+              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 994047,
+          "due_tick": 993917,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-12T07:30:07.963086+00:00",
-          "pending_msg": 465,
+          "last_sent_at": "2026-09-09T14:46:09.750150+00:00",
+          "pending_msg": 423,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -887,11 +887,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "He decided to demolish his entire kitchen just to find a lost sausage.",
-              "sentence_ru": "Он решил снести всю свою кухню только ради того, чтобы найти потерянную сосиску.",
-              "word_form": "to demolish"
-            },
             {
               "sentence": "We will demolish apartment 48 tomorrow because the owner's music taste violates all human rights.",
               "sentence_ru": "Завтра мы снесём квартиру 48, потому что музыкальный вкус её хозяина нарушает все права человека.",
@@ -911,15 +906,20 @@
               "sentence": "Me and the boys on our way to demolish my ex's toxic art project.",
               "sentence_ru": "Я и пацаны по пути сносить токсичный арт-проект моей бывшей.",
               "word_form": "demolish"
+            },
+            {
+              "sentence": "Bro tried to cook eggs and accidentally demolished the entire kitchen.",
+              "sentence_ru": "Бро пытался пожарить яйца и случайно снёс к чертям всю кухню.",
+              "word_form": "demolished"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 994053,
+          "due_tick": 993955,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-12T10:30:22.348160+00:00",
-          "pending_msg": 477,
+          "last_sent_at": "2026-09-10T09:31:27.085676+00:00",
+          "pending_msg": 439,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1134,11 +1134,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It would be hard to deny that Jim's stapler is permanently trapped in gelatin.",
-              "sentence_ru": "Трудно отрицать, что степлер Джима навечно застрял в желатине.",
-              "word_form": "It would be hard to deny that"
-            },
-            {
               "sentence": "It would be hard to deny that my new boyfriend is way hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый парень намного горячее тебя.",
               "word_form": "It would be hard to deny that"
@@ -1157,15 +1152,20 @@
               "sentence": "It would be hard to deny that your screaming cat at 4 AM is possessed by Satan.",
               "sentence_ru": "Трудно отрицать, что твой орущий в 4 утра кот одержим Сатаной.",
               "word_form": "It would be hard to deny that"
+            },
+            {
+              "sentence": "It would be hard to deny that my new sugar daddy is hotter than you.",
+              "sentence_ru": "Трудно отрицать, что мой новый папик горячее тебя.",
+              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 994050,
+          "due_tick": 993952,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T09:00:27.525358+00:00",
-          "pending_msg": 471,
+          "last_sent_at": "2026-09-10T08:00:40.021220+00:00",
+          "pending_msg": 433,
           "reps": 3,
           "step": 3,
           "word": "it would be hard to deny that",
@@ -1216,11 +1216,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It seems to me that your cat is plotting a bloody coup.",
-              "sentence_ru": "Мне кажется, что твой кот замышляет кровавый переворот.",
-              "word_form": "It seems to me"
-            },
-            {
               "sentence": "It seems to me that the mayor's stolen wig is now running for congress.",
               "sentence_ru": "Мне кажется, что украденный паричок мэра теперь баллотируется в конгресс.",
               "word_form": "It seems to me"
@@ -1239,15 +1234,20 @@
               "sentence": "It seems to me you are opening that tuna for me, human.",
               "sentence_ru": "Мне кажется, ты открываешь эту туну для меня, человек.",
               "word_form": "It seems to me"
+            },
+            {
+              "sentence": "It seems to me your ex will steal your cat during a mercury retrograde.",
+              "sentence_ru": "Мне кажется, твой бывший украдет твоего кота во время ретроградного меркурия.",
+              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 994052,
+          "due_tick": 993954,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-12T10:00:23.873081+00:00",
-          "pending_msg": 475,
+          "last_sent_at": "2026-09-10T09:00:31.265595+00:00",
+          "pending_msg": 437,
           "reps": 1,
           "step": 1,
           "word": "it seems to me",
@@ -1298,11 +1298,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "He had to adjust the alien's microwave so it wouldn't vaporize his cat.",
-              "sentence_ru": "Ему пришлось настроить микроволновку пришельца, чтобы она не испарила его кота.",
-              "word_form": "adjust"
-            },
-            {
               "sentence": "I had to adjust the straps so this cursed bra wouldn't choke my fat cats.",
               "sentence_ru": "Мне пришлось отрегулировать лямки, чтобы этот проклятый лифчик не душил моих жирных котов.",
               "word_form": "adjust"
@@ -1321,15 +1316,20 @@
               "sentence": "Tomorrow you must aggressively adjust your horoscope before the universe notices you are broke.",
               "sentence_ru": "Завтра ты должен агрессивно подстроить свой гороскоп, пока вселенная не заметила, что ты на мели.",
               "word_form": "adjust"
+            },
+            {
+              "sentence": "Mutants must adjust their telepathic volume before robbing the space bank.",
+              "sentence_ru": "Мутанты должны отрегулировать громкость телепатии перед ограблением космического банка.",
+              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 994048,
+          "due_tick": 993918,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-12T08:00:06.170280+00:00",
-          "pending_msg": 467,
+          "last_sent_at": "2026-09-09T15:00:17.127834+00:00",
+          "pending_msg": 425,
           "reps": 1,
           "step": 0,
           "word": "to adjust",
@@ -1380,11 +1380,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Who decided to wire up the intercom to my doorbell while high on energy drinks?",
-              "sentence_ru": "Кто додумался подключить домофон к моему звонку, обпившись энергетиков?",
-              "word_form": "wire up"
-            },
-            {
               "sentence": "Trying to wire up my smart fridge before it eats my cat.",
               "sentence_ru": "Пытаюсь подключить свой умный холодильник, пока он не сожрал моего кота.",
               "word_form": "wire up"
@@ -1403,15 +1398,20 @@
               "sentence": "Cyborg pigeons wire up the stolen nuclear launch codes to local pigeons.",
               "sentence_ru": "Киборги-голуби подключают украденные ядерные коды к местным голубям.",
               "word_form": "wire up"
+            },
+            {
+              "sentence": "Local maniacs wire up the city mayor to a giant espresso machine.",
+              "sentence_ru": "Местные маньяки подключают мэра города к гигантской эспрессо-машине.",
+              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 994051,
+          "due_tick": 993953,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-12T09:30:25.632532+00:00",
-          "pending_msg": 473,
+          "last_sent_at": "2026-09-10T08:30:43.877750+00:00",
+          "pending_msg": 435,
           "reps": 3,
           "step": 3,
           "word": "wire up",
@@ -1548,7 +1548,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 8,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
