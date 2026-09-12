@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your broken washing machine in this compound is flooding my ceiling with pure misery!",
+              "sentence_ru": "Ваша сломанная стиралка в этом жилом комплексе затопляет мой потолок чистейшим несчастьем!",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Do not throw your stale babushka into the chemical compound behind the dumpster!",
               "sentence_ru": "Не бросайте свою залежалую бабушку в химический компаунд за мусорным контейнером!",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "This weird compound turned my bald cat into a fluorescent green goblin. 5 stars!",
               "sentence_ru": "Эта странная смесь превратила моего лысого кота в флуоресцентно-зеленого гоблина. 5 звезд!",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Tomorrow you will accidentally blow up your ex's secret compound with pure spite.",
-              "sentence_ru": "Завтра ты случайно взорвешь секретный компаунд твоего бывшего из чистой злости.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 993953,
+          "due_tick": 994056,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-10T08:30:42.220377+00:00",
-          "pending_msg": 434,
+          "last_sent_at": "2026-09-12T12:00:10.641605+00:00",
+          "pending_msg": 484,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994007,
+      "last_deliver_tick": 994008,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,6 +806,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop the gossip, human, and fill my bowl before I ruin your shoes.",
+              "sentence_ru": "Хватит сплетен, кожаная, и наполни мою миску, пока я не испортил твои туфли.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Tomorrow your ex will start a toxic gossip about your new zodiac sign.",
               "sentence_ru": "Завтра твой бывший начнет токсичную сплетню про твой новый знак зодиака.",
               "word_form": "gossip"
@@ -824,20 +829,15 @@
               "sentence": "Drinking iced coffee and feeding the neighbourhood pigeons pure gossip.",
               "sentence_ru": "Пью ледяной кофе и скармливаю районным голубям чистейшие сплетни.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop spreading toxic gossip about Aunt Luda's wig or I will glue your mailbox shut.",
-              "sentence_ru": "Хватит распускать токсичные сплетни о парике тети Люды, иначе я наглухо приклею ваш почтовый ящик.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 993951,
+          "due_tick": 994056,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-10T07:47:40.175034+00:00",
-          "pending_msg": 431,
+          "last_sent_at": "2026-09-12T12:00:12.138707+00:00",
+          "pending_msg": 485,
           "reps": 1,
           "step": 1,
           "word": "gossip",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994007,
+      "last_deliver_tick": 994008,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-12",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
