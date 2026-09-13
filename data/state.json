@@ -296,11 +296,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I had to encourage my pet raccoon to steal the neighbor's toupee.",
-              "sentence_ru": "Мне пришлось поощрить моего домашнего енота украсть парик у соседа.",
-              "word_form": "encourage"
-            },
-            {
               "sentence": "My inner demons encorage me to steal the entire bakery at 3 AM.",
               "sentence_ru": "Мои внутренние демоны подбадривают меня украсть всю пекарню в три часа ночи.",
               "word_form": "encorage"
@@ -319,15 +314,20 @@
               "sentence": "Mutants encorage local rats to unionize and demand better trash.",
               "sentence_ru": "Мутанты поощряют местных крыс создавать профсоюзы и требовать лучший мусор.",
               "word_form": "encorage"
+            },
+            {
+              "sentence": "You should encorage my nighttime chaos instead of yelling and throwing slippers.",
+              "sentence_ru": "Тебе следовало бы поощрять мой ночной хаус вместо того, чтобы орать и кидаться тапками.",
+              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 994106,
+          "due_tick": 994004,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-13T13:00:20.421420+00:00",
-          "pending_msg": 520,
+          "last_sent_at": "2026-09-11T10:00:39.082732+00:00",
+          "pending_msg": 458,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -378,8 +378,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I acquired this cursed vintage skull from a creepy goth who was crying.",
-              "sentence_ru": "Я приобрел этот проклятый старинный череп у плачущего жуткого гота.",
+              "sentence": "Your acquired taste for expensive booze will finally ruin your ex's credit card.",
+              "sentence_ru": "Твой приобретенный вкус к дорогому бухлу наконец-то разорит кредитку твоего бывшего.",
               "word_form": "acquired"
             },
             {
@@ -404,12 +404,12 @@
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 994105,
+          "due_tick": 994110,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-13T12:30:08.886784+00:00",
-          "pending_msg": 518,
+          "last_sent_at": "2026-09-13T15:13:12.971195+00:00",
+          "pending_msg": 522,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-13",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,9 +1421,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Mutant cyborg grandmother decided to seize up right in the middle of the bank robbery.",
-              "sentence_ru": "Бабушка-мутант-киборг решила заклинить прямо посреди ограбления банка.",
-              "word_form": "seize up"
+              "sentence": "My grandfather tried to break into his own safe, but his brain completely seized up.",
+              "sentence_ru": "Мой дед попытался взломать собственный сейф, но его мозг окончательно заклинило.",
+              "word_form": "seized up"
             },
             {
               "sentence": "Your ex's brain will totally seize up when they see you winning at life tomorrow.",
@@ -1447,12 +1447,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 994105,
+          "due_tick": 994110,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-13T12:30:10.081003+00:00",
-          "pending_msg": 519,
+          "last_sent_at": "2026-09-13T15:13:14.323090+00:00",
+          "pending_msg": 523,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1461,11 +1461,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Aries, ramp up your dark rituals tomorrow because Satan loves extra effort.",
-              "sentence_ru": "Овны, завтра наращивайте темп своих темных ритуалов, потому что Сатана любит старание.",
-              "word_form": "ramp up"
-            },
             {
               "sentence": "Human, ramp up production of my salmon paté immediately or face my wrath.",
               "sentence_ru": "Человек, немедленно наращивай производство моего лососевого паштета, иначе столкнешься с моим гневом.",
@@ -1485,15 +1480,20 @@
               "sentence": "Human, ramp up production of my salmon paté immediately or face my wrath.",
               "sentence_ru": "Человек, немедленно наращивай производство моего лососевого паштета, иначе столкнешься с моим гневом.",
               "word_form": "ramp up"
+            },
+            {
+              "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
+              "sentence_ru": "Чел был вынужден увеличить дозу кофеина, просто чтобы выжить в понедельник утром.",
+              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994106,
+          "due_tick": 994003,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-13T13:00:21.926750+00:00",
-          "pending_msg": 521,
+          "last_sent_at": "2026-09-11T09:30:55.053825+00:00",
+          "pending_msg": 457,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1548,7 +1548,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-13",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
