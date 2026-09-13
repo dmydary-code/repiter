@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I acquired this cursed vintage skull from a creepy goth who was crying.",
+              "sentence_ru": "Я приобрел этот проклятый старинный череп у плачущего жуткого гота.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Your acquired paranoia will finally help you dodge a falling piano tomorrow.",
               "sentence_ru": "Твоя приобретенная паранойя завтра наконец-то поможет тебе увернуться от падающего пианино.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "The local cult leader has acquired a brand new tank using tax exemptions.",
               "sentence_ru": "Местный лидер секты приобрел новенький танк, используя налоговые льготы.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "That taste for expensive caviar is an acquired flex I can no longer afford.",
-              "sentence_ru": "Эта тяга к дорогой икре — приобретенный выпендрёж, который я больше не вывожу.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 994003,
+          "due_tick": 994105,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-11T09:30:51.398455+00:00",
-          "pending_msg": 456,
+          "last_sent_at": "2026-09-13T12:30:08.886784+00:00",
+          "pending_msg": 518,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994056,
+      "last_deliver_tick": 994057,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-13",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant cyborg grandmother decided to seize up right in the middle of the bank robbery.",
+              "sentence_ru": "Бабушка-мутант-киборг решила заклинить прямо посреди ограбления банка.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "Your ex's brain will totally seize up when they see you winning at life tomorrow.",
               "sentence_ru": "Мозг твоего бывшего полностью заклинит, когда он увидит завтра, как ты преуспеваешь.",
               "word_form": "seize up"
@@ -1439,20 +1444,15 @@
               "sentence": "The dictator's robotic spine decided to seize up right during his triumphant naked parade.",
               "sentence_ru": "Роботизированный позвоночник диктатора решил заклинить прямо во время его триумфального голого парада.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My cheap blender started smoking and decided to completely seize up on the very first smoothie.",
-              "sentence_ru": "Мой дешевый блендер задымился и решил окончательно заклинить на самом первом смузи.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 994002,
+          "due_tick": 994105,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-11T09:00:15.659028+00:00",
-          "pending_msg": 455,
+          "last_sent_at": "2026-09-13T12:30:10.081003+00:00",
+          "pending_msg": 519,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994056,
+      "last_deliver_tick": 994057,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-13",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
