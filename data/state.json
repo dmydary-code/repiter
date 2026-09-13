@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I am rolling in money now, but you still sleep with your cat.",
+              "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё ещё спишь со своей кошкой.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "Our neighbor in apt 42 is rolling in money yet refuses to pay for elevator repairs.",
               "sentence_ru": "Наш сосед из 42-й квартиры купается в деньгах, но отказывается платить за ремонт лифта.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "My cat is rolling in money after selling nude photos of his paws online.",
               "sentence_ru": "Мой кот купается в деньгах после продажи ню-фотографий своих лапок в сети.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "Bought this solid gold toilet brush because I am rolling in money this month.",
-              "sentence_ru": "Купил этот ершик для унитаза из чистого золота, потому что в этом месяце я купаюсь в деньгах.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 994002,
+          "due_tick": 994099,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-11T09:00:14.002270+00:00",
-          "pending_msg": 454,
+          "last_sent_at": "2026-09-13T09:30:20.986202+00:00",
+          "pending_msg": 504,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994050,
+      "last_deliver_tick": 994051,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-13",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that my cat is plotting a gruesome coup.",
+              "sentence_ru": "Я склонен думать, что мой кот замышляет жуткий госпереворот.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that this wig was made from a stray cat.",
               "sentence_ru": "Я склоняюсь к мысли, что этот парик сделали из бродячего кота.",
               "word_form": "I'm inclined to think that"
@@ -1275,20 +1280,15 @@
               "sentence": "I'm inclined to think that our talking fridge is stealing my beer at night.",
               "sentence_ru": "Я склонен думать, что наш говорящий холодильник ворует мое пиво по ночам.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that your ex will crash your wedding on a stolen tractor.",
-              "sentence_ru": "Я склонен думать, что твой бывший сорвет твою свадьбу на украденном тракторе.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 994000,
+          "due_tick": 994099,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-11T08:00:44.719763+00:00",
-          "pending_msg": 451,
+          "last_sent_at": "2026-09-13T09:30:22.320053+00:00",
+          "pending_msg": 505,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994050,
+      "last_deliver_tick": 994051,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-13",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
