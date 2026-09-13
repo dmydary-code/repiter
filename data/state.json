@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-13",
-  "offset": 71487646,
+  "offset": 71487647,
   "users": {
     "1090554427": {
       "cards": [
@@ -1365,12 +1365,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994104,
+          "due_tick": 994058,
           "id": "56692d5953",
           "lang": "en",
-          "lapses": 3,
+          "lapses": 4,
           "last_sent_at": "2026-09-13T12:00:17.453429+00:00",
-          "pending_msg": 517,
+          "pending_msg": null,
           "reps": 0,
           "step": 0,
           "word": "altogether",
