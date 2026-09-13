@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Aries, you set your heart on stealing the neighbor's prize-winning cat, but the universe says 'no'.",
+              "sentence_ru": "Овны, вы страстно возжелали украсть призового кота соседа, но вселенная говорит «нет».",
+              "word_form": "set your heart on"
+            },
+            {
               "sentence": "I set heart on ruining your new wedding, just like you ruined my crypto portfolio.",
               "sentence_ru": "Я страстно желаю испортить твою новую свадьбу, прямо как ты испортил мой криптопортфель.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "Local goblin sets heart on stealing the moon to impress his ex.",
               "sentence_ru": "Местный гоблин страстно пожелал украсть луну, чтобы впечатлить свою бывшую.",
               "word_form": "sets heart on"
-            },
-            {
-              "sentence": "If you set heart on stealing the lobby cactus, just leave it before the cops arrive.",
-              "sentence_ru": "Если вы твердо нацелились украсть подъездный кактус, хотя бы верните его до приезда полицаев.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 993998,
+          "due_tick": 994095,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-11T07:00:37.405576+00:00",
-          "pending_msg": 446,
+          "last_sent_at": "2026-09-13T07:30:26.940686+00:00",
+          "pending_msg": 496,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994046,
+      "last_deliver_tick": 994047,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-13",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You will emerge from this cardboard box only when I allow you to, human.",
+              "sentence_ru": "Ты появишься из этой картонной коробки только тогда, когда я тебе разрешу, кожаный.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My ex had to emerge from the bushes just to ruin my selfie.",
               "sentence_ru": "Моему бывшему пришлось вылезти из кустов только для того, чтобы испортить мое селфи.",
               "word_form": "emerge"
@@ -988,20 +993,15 @@
               "sentence": "My ex had to suddenly emerge from the bushes just to rate my purchase one star.",
               "sentence_ru": "Моему бывшему пришлось внезапно вылезти из кустов только чтобы поставить моей покупке одну звезду.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
-              "sentence_ru": "Моя бывшая обязана была вынырнуть из кустов именно тогда, когда я выглядел максимально отвратительно.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 993957,
+          "due_tick": 994095,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-10T10:30:27.825142+00:00",
-          "pending_msg": 443,
+          "last_sent_at": "2026-09-13T07:30:28.151317+00:00",
+          "pending_msg": 497,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994046,
+      "last_deliver_tick": 994047,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-13",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
