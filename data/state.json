@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your constant midnight screaming will definitely undermine my authority in this house, human.",
+              "sentence_ru": "Твой постоянный ночной ор определенно подорвет мой авторитет в этом доме, кожаная.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Her secret midnight snacks constantly undermine my authority as the strict, terrifying household dictator.",
               "sentence_ru": "Её тайные ночные перекусы постоянно подрывают мой авторитет строгого, ужасающего домашнего диктатора.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "My pet raccoon tries to undermine our marriage by hiding my wife's pants.",
               "sentence_ru": "Мой домашний енот пытается подорвать наш брак, пряча штаны моей жены.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "These cheap Chinese leggings tried to undermine my confidence right in the middle of a grocery store.",
-              "sentence_ru": "Эти дешевые китайские леггинсы попытались подорвать мою уверенность прямо посреди продуктового магазина.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 994060,
+          "due_tick": 994151,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T14:00:24.277958+00:00",
-          "pending_msg": 492,
+          "last_sent_at": "2026-09-14T11:30:10.868889+00:00",
+          "pending_msg": 546,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994102,
+      "last_deliver_tick": 994103,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-14",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local politician had to undergo brain removal to finally understand the budget report.",
+              "sentence_ru": "Местному политику пришлось перенести удаление мозга, чтобы наконец понять отчет о бюджете.",
+              "word_form": "to undergo"
+            },
+            {
               "sentence": "My lazy neighbor finally has to undergo a psychiatric evaluation after barking at the elevator.",
               "sentence_ru": "Мой ленивый сосел наконец должен пройти психиатрическое освидетельствование после лая на лифт.",
               "word_form": "undergo"
@@ -947,20 +952,15 @@
               "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
               "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, только чтобы вспомнить мое имя.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "My ex had to undergo plastic surgery just to look herself in the mirror.",
-              "sentence_ru": "Моей бывшей пришлось перенести пластическую операцию, чтобы просто смотреть на себя в зеркало.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 994057,
+          "due_tick": 994151,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-13T09:32:45.157446+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-14T11:30:12.528421+00:00",
+          "pending_msg": 547,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994102,
+      "last_deliver_tick": 994103,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-14",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
