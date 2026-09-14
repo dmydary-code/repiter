@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex blocked me after I tagged him in a meme about the aforementioned commitment issues.",
+              "sentence_ru": "Мой бывший заблокировал меня после того, как я отметила его на меме про вышеупомянутые проблемы с обязательствами.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "I still hear the screams of the aforementioned betrayal echoing in my empty skull.",
               "sentence_ru": "Я всё еще слышу крики вышеупомянутого предательства, эхом отдающиеся в моем пустом черепе.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "Drop that fish into the aforementioned bowl or I will destroy your favorite shoes, human.",
               "sentence_ru": "Брось эту рыбу в вышеупомянутую миску, иначе я уничтожу твои любимые туфли, человек.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "The aforementioned raccoon stole my toupee and is now leading a gang of stray cats.",
-              "sentence_ru": "Вышеупомянутый енот украл мой парик и теперь возглавляет банду бродячих котов.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994058,
+          "due_tick": 994149,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T13:00:04.079108+00:00",
-          "pending_msg": 488,
+          "last_sent_at": "2026-09-14T10:30:16.143332+00:00",
+          "pending_msg": 542,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994100,
+      "last_deliver_tick": 994101,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-14",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm going to demolish your new boyfriend's house while you're sleeping, babe.",
+              "sentence_ru": "Я собираюсь снести дом твоего нового бойфренда, пока ты спишь, детка.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Attention! We will demolish apartment 48 tonight because your cat's singing is illegal.",
               "sentence_ru": "Внимание! Сегодня ночью мы снесем квартиру 48, потому что пение вашего кота незаконно.",
               "word_form": "demolish"
@@ -906,20 +911,15 @@
               "sentence": "I will demolish your new boyfriend's house while you are sleeping, babe.",
               "sentence_ru": "Я снесу дом твоего нового бойфренда, пока ты спишь, детка.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Me and the boys on our way to demolish my ex's toxic art project.",
-              "sentence_ru": "Я и пацаны по пути сносить токсичный арт-проект моей бывшей.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 994014,
+          "due_tick": 994149,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-12T14:00:28.653621+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-14T10:30:17.476754+00:00",
+          "pending_msg": 543,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994100,
+      "last_deliver_tick": 994101,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-14",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
