@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My terrible choices compound daily into a fortress of pure, magnificent regret.",
+              "sentence_ru": "Мои ужасные выборы ежедневно усугубляются в крепость чистого, величественного сожаления.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Your broken washing machine in this compound is flooding my ceiling with pure misery!",
               "sentence_ru": "Ваша сломанная стиралка в этом жилом комплексе затопляет мой потолок чистейшим несчастьем!",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Eating expired mayo in the bathtub will only compound your tragic life choices.",
               "sentence_ru": "Поедание просроченного майонеза в ванной только усугубит твои трагические жизненные выборы.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "This weird compound turned my bald cat into a fluorescent green goblin. 5 stars!",
-              "sentence_ru": "Эта странная смесь превратила моего лысого кота в флуоресцентно-зеленого гоблина. 5 звезд!",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994056,
+          "due_tick": 994147,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T12:00:10.641605+00:00",
-          "pending_msg": 484,
+          "last_sent_at": "2026-09-14T09:30:23.369397+00:00",
+          "pending_msg": 538,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994098,
+      "last_deliver_tick": 994099,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-14",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -723,6 +723,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Your new personality is just as drab as your ex's cooking at 3 AM.",
+              "sentence_ru": "Твоя новая личность такая же унылая, как стряпня твоего бывшего в три часа ночи.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My ex's personality is so drab that even a wall paint feels suicidal.",
               "sentence_ru": "Характер моего бывшего настолько унылый, что даже краска на стене хочет покончить с собой.",
@@ -742,20 +747,15 @@
               "sentence": "Your new living room rug looks so drab that even I refuse to throw up on it.",
               "sentence_ru": "Твой новый ковер в гостиной выглядит таким унылым, что даже я отказываюсь на него блевать.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Why are our hallway walls painted in such a drab grey color?",
-              "sentence_ru": "Почему стены в нашем коридоре покрашены в такой унылый серый цвет?",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994014,
+          "due_tick": 994147,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-09-12T10:50:55.705508+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-14T09:30:24.738651+00:00",
+          "pending_msg": 539,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994098,
+      "last_deliver_tick": 994099,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-14",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
