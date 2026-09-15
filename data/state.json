@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You must encorage my chaos, human, or I will vomit in your designer boots.",
+              "sentence_ru": "Ты должна поощрять мой хаос, кожаная, иначе я блювану в твои брендовые ботинки.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My inner demon will always encorage me to eat pizza at 3 AM.",
               "sentence_ru": "Мой внутренний демон всегда будет подбадривать меня сожрать пиццу в 3 часа ночи.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My inner demon will always encorage me to eat the entire pizza at 3 AM.",
               "sentence_ru": "Мой внутренний демон всегда будет подбадривать меня сожрать всю пиццу в 3 часа ночи.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "Mutants encorage local rats to unionize and demand better trash.",
-              "sentence_ru": "Мутанты поощряют местных крыс создавать профсоюзы и требовать лучший мусор.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 994111,
+          "due_tick": 994197,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-13T15:30:06.459457+00:00",
-          "pending_msg": 524,
+          "last_sent_at": "2026-09-15T10:30:17.171325+00:00",
+          "pending_msg": 562,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994148,
+      "last_deliver_tick": 994149,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The dictator's robotic pelvis began to seize up mid-dance during the military parade.",
+              "sentence_ru": "Роботизированный таз диктатора начал заклинивать прямо во время танца на военном параде.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My grandfather tried to break into his own safe, but his brain completely seized up.",
               "sentence_ru": "Мой дед попытался взломать собственный сейф, но его мозг окончательно заклинило.",
               "word_form": "seized up"
@@ -1439,20 +1444,15 @@
               "sentence": "Your ex's brain will seize up tomorrow when they see you winning at life.",
               "sentence_ru": "Мозг твоего бывшего завтра заклинит, когда он увидит, как ты преуспеваешь в жизни.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "The dictator's robotic spine decided to seize up right during his triumphant naked parade.",
-              "sentence_ru": "Роботизированный позвоночник диктатора решил заклинить прямо во время его триумфального голого парада.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 994110,
+          "due_tick": 994197,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-13T15:13:14.323090+00:00",
-          "pending_msg": 523,
+          "last_sent_at": "2026-09-15T10:30:18.513507+00:00",
+          "pending_msg": 563,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994148,
+      "last_deliver_tick": 994149,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
