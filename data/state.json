@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy husband never lifts a finger in the house, so the talking vacuum cleaner finally divorced him.",
+              "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец по дому, так что говорящий пылесос в итоге с ним развелся.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "Ancient vampire finally lifts a finger in the house, accidentally dusting a ghost.",
               "sentence_ru": "Древний вампир наконец-то ударил палец о палец по дому, случайно стряхнув пыль с призрака.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "Nobody ever lifts a finger in the house, so I am drowning in dirty dishes!",
               "sentence_ru": "Никто в этом доме никогда не ударит палец о палец, поэтому я тону в грязной посуде!",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "Human, you never lifts a finger in the house except to open my crunchies.",
-              "sentence_ru": "Человек, ты никогда палец о палец не ударяешь по дому, кроме как чтобы открыть мои хрустики.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 994103,
+          "due_tick": 994194,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-13T11:30:22.553252+00:00",
-          "pending_msg": 514,
+          "last_sent_at": "2026-09-15T09:00:23.155052+00:00",
+          "pending_msg": 556,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994145,
+      "last_deliver_tick": 994146,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that this vibrator was used before me, gross.",
+              "sentence_ru": "Я склоняюсь к тому, что этот вибратор использовали до меня, фу.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that this wig was made from a stray cat.",
               "sentence_ru": "Я склоняюсь к мысли, что этот парик сделали из бродячего кота.",
               "word_form": "I'm inclined to think that"
@@ -1275,20 +1280,15 @@
               "sentence": "I'm inclined to think that our talking fridge is stealing my beer at night.",
               "sentence_ru": "Я склонен думать, что наш говорящий холодильник ворует мое пиво по ночам.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that your ex will crash your wedding on a stolen tractor.",
-              "sentence_ru": "Я склонен думать, что твой бывший сорвет твою свадьбу на украденном тракторе.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 994057,
+          "due_tick": 994194,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-11T08:00:44.719763+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-15T09:00:24.536446+00:00",
+          "pending_msg": 557,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994145,
+      "last_deliver_tick": 994146,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
