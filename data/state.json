@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever you block me, I just create a new fake account to stalk you.",
+              "sentence_ru": "Всякий раз, когда ты меня блокируешь, я просто создаю новый фейковый аккаунт, чтобы следить за тобой.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "Whenever Chad speaks in meetings, my soul slowly crawls out of my pants.",
               "sentence_ru": "Всякий раз, когда Чад говорит на совещаниях, моя душа медленно вылезает из штанов.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "I cry into these overpriced leggings whenever my ex posts a happy selfie.",
               "sentence_ru": "Я рыдаю в эти дорогие леггинсы всякий раз, когда мой бывший выкладывает счастливое селфи.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "Whenever you drill your concrete wall at 6 AM, my soul leaves my body.",
-              "sentence_ru": "Всякий раз, когда вы сверлите свою бетонную стену в 6 утра, моя душа покидает тело.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 994099,
+          "due_tick": 994190,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-13T09:32:43.949864+00:00",
-          "pending_msg": 506,
+          "last_sent_at": "2026-09-15T07:00:23.660469+00:00",
+          "pending_msg": 548,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994107,
+      "last_deliver_tick": 994142,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to emerge from the shadows at 3 AM just to ask for your Netflix password.",
+              "sentence_ru": "Мне пришлось выползти из тени в 3 часа ночи просто чтобы попросить пароль от твоего Netflix.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "Mutant lobsters plan to emerge from the sewer and demand voting rights.",
               "sentence_ru": "Мутировавшие омары планируют вылезти из канализации и потребовать избирательные права.",
               "word_form": "emerge"
@@ -988,20 +993,15 @@
               "sentence": "Neighbor from 48 flat decided to emerge from his cave and scream at our GC again.",
               "sentence_ru": "Сосед из 48 квартиры решил вылезти из своей пещеры и снова орать в нашем чате.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "My ex had to suddenly emerge from the bushes just to rate my purchase one star.",
-              "sentence_ru": "Моему бывшему пришлось внезапно вылезти из кустов только чтобы поставить моей покупке одну звезду.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 994057,
+          "due_tick": 994190,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-09-13T10:00:21.603822+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-15T07:00:25.186395+00:00",
+          "pending_msg": 549,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994107,
+      "last_deliver_tick": 994142,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
