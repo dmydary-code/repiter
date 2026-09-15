@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop eating cheap whiskas from the floor, human, we are rolling in money now!",
+              "sentence_ru": "Хватит жрать дешёвый вискас с пола, человек, мы теперь купаемся в деньгах!",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "Stop eating cheap canned food, human, we are rolling in money now buy me lobsters!",
               "sentence_ru": "Хватит жрать дешёвые консервы, кожаная, мы теперь купаемся в деньгах, купи мне лобстеров!",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "Our cat is rolling in money after biting off a billionaire's thumb.",
               "sentence_ru": "Наш кот купается в деньгах после того, как отгрыз палец миллиардеру.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "My cat is rolling in money after selling nude photos of his paws online.",
-              "sentence_ru": "Мой кот купается в деньгах после продажи ню-фотографий своих лапок в сети.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 994104,
+          "due_tick": 994195,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-13T12:00:14.092057+00:00",
-          "pending_msg": 516,
+          "last_sent_at": "2026-09-15T09:30:03.675561+00:00",
+          "pending_msg": 558,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994146,
+      "last_deliver_tick": 994147,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That weird guy from the third floor is altogether losing his mind over my parking spot.",
+              "sentence_ru": "Этот странный чувак с третьего этажа совсем сходит с ума из-за моего парковочного места.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "If we lose this client, our department is altogether screwed.",
               "sentence_ru": "Если мы потеряем этого клиента, нашему отделу полный капец.",
               "word_form": "altogether"
@@ -1357,20 +1362,15 @@
               "sentence": "That weird guy from the third floor is altogether out of his mind, he washes his cat with beer!",
               "sentence_ru": "Этот странный чувак с третьего этажа совсем сошел с ума, он моет своего кота пивом!",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "Your expensive leather boots are altogether ruined because I puked in them, human.",
-              "sentence_ru": "Твои дорогие кожаные ботинки совсем испорчены, потому что я наблевал в них, двуногая.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994058,
+          "due_tick": 994195,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-13T12:00:17.453429+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-15T09:30:05.118540+00:00",
+          "pending_msg": 559,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994146,
+      "last_deliver_tick": 994147,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
