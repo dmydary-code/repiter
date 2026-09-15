@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If you set heart on stealing neighbor's Wi-Fi, at least change your router name from 'Loser'.",
+              "sentence_ru": "Если вы страстно желаете украсть соседский вай-фай, хотя бы смените название роутера с «Лузера».",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Aries, you set heart on stealing your boss's chair, but you will just sit on a thumbtack.",
               "sentence_ru": "Овен, ты страстно желаешь украсть стул твоего босса, но просто сядешь на канцелярскую кнопку.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "Aries, you set heart on stealing your neighbor’s cat tomorrow, but the feline mafia will fight back.",
               "sentence_ru": "Овен, завтра ты страстно возжелаешь спереть кота соседа, но кошачья мафия даст жесткий отпор.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Local goblin sets heart on stealing the moon to impress his ex.",
-              "sentence_ru": "Местный гоблин страстно пожелал украсть луну, чтобы впечатлить свою бывшую.",
-              "word_form": "sets heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 994100,
+          "due_tick": 994191,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-13T10:00:20.475036+00:00",
-          "pending_msg": 508,
+          "last_sent_at": "2026-09-15T07:30:04.992927+00:00",
+          "pending_msg": 550,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994142,
+      "last_deliver_tick": 994143,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An influx of my regrets can't wake you up at 3 AM, but here I am.",
+              "sentence_ru": "Наплыв моих сожалений не может разбудить тебя в 3 ночи, но вот он я.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "Due to an influx of feral gopniks, the elevator smells like cheap beer and despair.",
               "sentence_ru": "Из-за наплыва диких гопников в лифте пахнет дешевым пивом и отчаянием.",
               "word_form": "influx"
@@ -1029,20 +1034,15 @@
               "sentence": "An influx of radioactive badgers has officially clogged the municipal sewage system.",
               "sentence_ru": "Наплыв радиоактивных барсуков официально засорил муниципальную канализационную систему.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "We need more coffee machines to survive this sudden influx of weeping interns.",
-              "sentence_ru": "Нам нужно больше кофемашин, чтобы пережить этот внезапный наплыв плачущих стажеров.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994057,
+          "due_tick": 994191,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-13T10:30:04.578497+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-15T07:30:06.176578+00:00",
+          "pending_msg": 551,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994142,
+      "last_deliver_tick": 994143,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-15",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
