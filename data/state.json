@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will discorage you from wearing trousers, so go to the office naked and proud.",
+              "sentence_ru": "Марс отговорит тебя надевать штаны, так что иди в офис голым и гордым.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "My inner demons try to discorage me from eating ice cream straight from the tub.",
               "sentence_ru": "Мои внутренние демоны пытаются отговорить меня жрать мороженое прямо из ведра.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping their boats.",
               "sentence_ru": "Мутантные омары разочаровывают местных рыбаков, воруя их пиво и переворачивая лодки.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "I had to discorage my raccoon from laundering stolen underwear in the soup.",
-              "sentence_ru": "Мне пришлось отговаривать енота стирать ворованное белье в супе.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994150,
+          "due_tick": 994244,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-14T11:00:12.322354+00:00",
-          "pending_msg": 544,
+          "last_sent_at": "2026-09-16T10:00:22.975887+00:00",
+          "pending_msg": 576,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994195,
+      "last_deliver_tick": 994196,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Neighbor's feral kids tried to demolish the elevator with a hammer again!",
+              "sentence_ru": "Дикие дети соседа снова попытались разнести лифт молотком!",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "I'm going to demolish your new boyfriend's house while you're sleeping, babe.",
               "sentence_ru": "Я собираюсь снести дом твоего нового бойфренда, пока ты спишь, детка.",
               "word_form": "demolish"
@@ -906,20 +911,15 @@
               "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
               "sentence_ru": "Человек, если ты снова купишь дешевый корм, я снесу этот тупой диван.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "I will demolish your new boyfriend's house while you are sleeping, babe.",
-              "sentence_ru": "Я снесу дом твоего нового бойфренда, пока ты спишь, детка.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 994149,
+          "due_tick": 994244,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-14T10:30:17.476754+00:00",
-          "pending_msg": 543,
+          "last_sent_at": "2026-09-16T10:00:24.233686+00:00",
+          "pending_msg": 577,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994195,
+      "last_deliver_tick": 994196,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
