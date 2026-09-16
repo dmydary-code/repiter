@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even the local pigeons shit on my humble car, so stop crying about your life.",
+              "sentence_ru": "Даже местные голуби гадят на мою скромную машину, так что хватит ныть насчет своей жизни.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even in our humble elevator, neighbor Oleg manages to leave royal stench of cheap beer.",
               "sentence_ru": "Даже в нашем скромном лифте сосед Олег умудряется оставлять королевское смрадье дешевого пива.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even my humble apologies at 3 AM won't fix how much I ruined us.",
               "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как сильно я всё испортил.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "A humble goblin accidentally overthrew the corrupt goblin senate using only a stolen sandwich.",
-              "sentence_ru": "Скромный гоблин случайно сверг коррумпированный сенат гоблинов, используя лишь украденный бутерброд.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 994145,
+          "due_tick": 994239,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-14T08:30:12.699021+00:00",
-          "pending_msg": 534,
+          "last_sent_at": "2026-09-16T07:30:20.524687+00:00",
+          "pending_msg": 566,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994190,
+      "last_deliver_tick": 994191,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat tries to impose his fascist worldview on me every time I buy the cheap food.",
+              "sentence_ru": "Мой кот пытается навязать мне своё фашистское мировоззрение каждый раз, когда я покупаю дешёвый корм.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "My cat tried to impose a strict meat-only tax on my paycheck.",
               "sentence_ru": "Мой кот попытался навязать строгий мясной налог на мою зарплату.",
               "word_form": "impose"
@@ -1521,20 +1526,15 @@
               "sentence": "Trying to impose my weird lifestyle on my cat, who just stares back with pure disgust.",
               "sentence_ru": "Пытаюсь навязать свой странный образ жизни коту, который просто таращится в ответ с чистым отвращением.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "This weird seller tried to impose his cursed crystals on me during the delivery.",
-              "sentence_ru": "Этот странный продавец пытался навязать мне свои проклятые кристаллы во время доставки.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 994144,
+          "due_tick": 994239,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-14T08:14:24.398716+00:00",
-          "pending_msg": 533,
+          "last_sent_at": "2026-09-16T07:30:21.789324+00:00",
+          "pending_msg": 567,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994190,
+      "last_deliver_tick": 994191,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
