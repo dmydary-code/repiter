@@ -132,8 +132,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My ex trying to undermine my new relationship while eating my leftover pizza is peak comedy.",
-              "sentence_ru": "Мой бывший, пытающийся подорвать мои новые отношения за поеданием моей оставшейся пиццы — это вершина комедии.",
+              "sentence": "Mutant moles hired by the mafia continue to undermine the city's central bank.",
+              "sentence_ru": "Мутантские кроты, нанятые мафией, продолжают подкапывать центральный банк города.",
               "word_form": "undermine"
             },
             {
@@ -158,12 +158,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 994245,
+          "due_tick": 994246,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-16T10:30:23.336953+00:00",
-          "pending_msg": 578,
+          "last_sent_at": "2026-09-16T11:17:00.104445+00:00",
+          "pending_msg": 580,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -1216,8 +1216,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It seems to me that my ex is crying into a bucket of KFC right now.",
-              "sentence_ru": "Мне кажется, что мой бывший сейчас рыдает в ведерко с KFC.",
+              "sentence": "It seems to me that mutant pigeons are plotting a tax revolt in Soho.",
+              "sentence_ru": "Мне кажется, что голуби-мутанты замышляют налоговый бунт в Сохо.",
               "word_form": "It seems to me"
             },
             {
@@ -1242,12 +1242,12 @@
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 994245,
+          "due_tick": 994246,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-16T10:30:24.324254+00:00",
-          "pending_msg": 579,
+          "last_sent_at": "2026-09-16T11:17:01.322040+00:00",
+          "pending_msg": 581,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
