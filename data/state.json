@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I am slightly outside your window and I brought a dead raccoon.",
+              "sentence_ru": "Я слегка за твоим окном и я принес мертвого енота.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My ex is looking slightly more miserable than me, success.",
               "sentence_ru": "Мой бывший выглядит слегка более несчастным, чем я, успех.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "The inflatable dinosaur arrived slightly deflated, but my existential dread remains intact. 5 stars.",
               "sentence_ru": "Надувной динозавр приехал слегка сдутым, но мой экзистенциальный ужас остался прежним. 5 звезд.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "Local dictator looks slightly annoyed after citizens launched his palace into the sun.",
-              "sentence_ru": "Местный диктатор выглядит слегка раздраженным после того, как граждане запустили его дворец в солнце.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 994144,
+          "due_tick": 994238,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-14T08:14:23.006680+00:00",
-          "pending_msg": 532,
+          "last_sent_at": "2026-09-16T07:00:19.324094+00:00",
+          "pending_msg": 564,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994164,
+      "last_deliver_tick": 994190,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Management will ramp up the noise with techno music at 6 AM because you didn't pay for garbage.",
+              "sentence_ru": "Управляющая компания врубит техно в 6 утра на полную катушку, потому что вы не заплатили за мусор.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "I need to ramp up my therapy so I stop texting you at 3 AM.",
               "sentence_ru": "Мне нужно усилить терапию, чтобы перестать писать тебе в три часа ночи.",
               "word_form": "ramp up"
@@ -1480,20 +1485,15 @@
               "sentence": "Neighbors, ramp up your trash throwing accuracy or we will feed you to the stray cats.",
               "sentence_ru": "Соседи, наращивайте точность метания мусора, иначе мы скормим вас бродячим котам.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Human, ramp up production of my salmon paté immediately or face my wrath.",
-              "sentence_ru": "Человек, немедленно наращивай производство моего лососевого паштета, иначе столкнешься с моим гневом.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994111,
+          "due_tick": 994238,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-13T15:30:07.952825+00:00",
-          "pending_msg": 525,
+          "last_sent_at": "2026-09-16T07:00:20.939770+00:00",
+          "pending_msg": 565,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994164,
+      "last_deliver_tick": 994190,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
