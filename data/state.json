@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I broke into your new compound just to steal my hoodie back, psycho.",
+              "sentence_ru": "Я взломал твое новое заграждение, просто чтобы забрать свою худи обратно, психопатка.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My terrible choices compound daily into a fortress of pure, magnificent regret.",
               "sentence_ru": "Мои ужасные выборы ежедневно усугубляются в крепость чистого, величественного сожаления.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My ex-boyfriend tried to compound his stupidity by proposing to a toaster.",
               "sentence_ru": "Мой бывший парень попытался усугубить свою глупость, сделав предложение тостеру.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Eating expired mayo in the bathtub will only compound your tragic life choices.",
-              "sentence_ru": "Поедание просроченного майонеза в ванной только усугубит твои трагические жизненные выборы.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994147,
+          "due_tick": 994241,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-14T09:30:23.369397+00:00",
-          "pending_msg": 538,
+          "last_sent_at": "2026-09-16T08:30:22.305882+00:00",
+          "pending_msg": 570,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994192,
+      "last_deliver_tick": 994193,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -765,6 +765,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He fled through dark backstreets after stealing a massive wheel of parmesan cheese.",
+              "sentence_ru": "Он сбежал через темные переулки после кражи огромной головки пармезана.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "Lost my dignity and a left boot in these sketchy backstreets after buying sketchy skincare.",
               "sentence_ru": "Потеряла достоинство и левый ботинок в этих сомнительных переулках после покупки сомнительной уходовой косметики.",
               "word_form": "backstreets"
@@ -783,20 +788,15 @@
               "sentence": "Bro, my ex lives in these backstreets, so I Naruto-run past her window every night.",
               "sentence_ru": "Бро, моя бывшая живет в этих переулках, поэтому я каждую ночь пробегаю мимо ее окна в стиле Наруто.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "I had to drag my cheap vacuum cleaner through dark backstreets just to return it to the weird seller.",
-              "sentence_ru": "Мне пришлось тащить мой дешевый пылесос по темным задворкам только для того, чтобы вернуть его странному продавцу.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 994146,
+          "due_tick": 994241,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-14T09:00:06.250203+00:00",
-          "pending_msg": 537,
+          "last_sent_at": "2026-09-16T08:30:23.562602+00:00",
+          "pending_msg": 571,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994192,
+      "last_deliver_tick": 994193,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
