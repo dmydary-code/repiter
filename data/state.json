@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky text at 3 AM won't bring me back, but nice try.",
+              "sentence_ru": "Это наглое сообщение в три часа ночи не вернет меня, но попытка засчитана.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "The cheeky raccoon stole my toupee and wore it like a tiny majestic crown.",
               "sentence_ru": "Этот дерзкий енот украл мой парик и носил его как крошечную величественную корону.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "A cheeky astrologer will steal your wallet tomorrow and predict it as a cosmic test.",
               "sentence_ru": "Наглый астролог завтра стырит твой кошелек и предскажет это как космическое испытание.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "A cheeky raccoon stole the pope's hat and posted a selfie on OnlyFans.",
-              "sentence_ru": "Наглый енот украл шляпу папы римского и выложил селфи в OnlyFans.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 994146,
+          "due_tick": 994240,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-14T09:00:04.901385+00:00",
-          "pending_msg": 536,
+          "last_sent_at": "2026-09-16T08:00:21.450123+00:00",
+          "pending_msg": 568,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994191,
+      "last_deliver_tick": 994192,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that pineapple on pizza is a hate crime against Italy.",
+              "sentence_ru": "Я придерживаюсь мнения, что ананасы на пицце — это преступление на почве ненависти против Италии.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that whoever lit the trash chute on fire needs therapy.",
               "sentence_ru": "Я придерживаюсь мнения, что тот, кто поджег мусоропровод, нуждается в терапии.",
               "word_form": "I hold the view that"
@@ -1193,20 +1198,15 @@
               "sentence": "I hold the view that raccoons in trench coats run local strip clubs.",
               "sentence_ru": "Я придерживаюсь мнения, что еноты в плащах управляют местными стриптиз-клубами.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that your expensive sofa was bought exclusively for my furious claws.",
-              "sentence_ru": "Я придерживаюсь мнения, что твой дорогой диван куплен исключительно для моих яростных когтей.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 994145,
+          "due_tick": 994240,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-14T08:30:13.979409+00:00",
-          "pending_msg": 535,
+          "last_sent_at": "2026-09-16T08:00:22.726924+00:00",
+          "pending_msg": 569,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994191,
+      "last_deliver_tick": 994192,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
