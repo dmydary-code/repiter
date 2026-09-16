@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad blamed the aforementioned ghost for deleting his spreadsheet, but HR knows he just can't use Excel.",
+              "sentence_ru": "Чэд обвинил вышеупомянутого призрака в удалении своей таблицы, но HR знает, что он просто не умеет пользоваться Excel.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "My ex blocked me after I tagged him in a meme about the aforementioned commitment issues.",
               "sentence_ru": "Мой бывший заблокировал меня после того, как я отметила его на меме про вышеупомянутые проблемы с обязательствами.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I still remember the aforementioned betrayal, especially at three in the morning.",
               "sentence_ru": "Я до сих пор помню вышеупомянутое предательство, особенно в три часа ночи.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "Drop that fish into the aforementioned bowl or I will destroy your favorite shoes, human.",
-              "sentence_ru": "Брось эту рыбу в вышеупомянутую миску, иначе я уничтожу твои любимые туфли, человек.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994149,
+          "due_tick": 994243,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-14T10:30:16.143332+00:00",
-          "pending_msg": 542,
+          "last_sent_at": "2026-09-16T09:30:22.697067+00:00",
+          "pending_msg": 574,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994194,
+      "last_deliver_tick": 994195,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,6 +847,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our illegal meth lab in the basement tends to flourish despite the HOA complaints.",
+              "sentence_ru": "Наша нелегальная нарколаборатория в подвале имеет свойство процветать вопреки жалобам ТСЖ.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "Aries, your bank account will flourish tomorrow, unlike your dignity after that tequila.",
               "sentence_ru": "Овен, твой банковский счет завтра будет процветать, в отличие от твоего достоинства после той текилы.",
               "word_form": "flourish"
@@ -865,20 +870,15 @@
               "sentence": "I flourish on the expensive carpets you cry about while I sharpen my claws.",
               "sentence_ru": "Я процветаю на тех дорогих коврах, над которыми ты рыдаешь, пока я точу когти.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Local cats flourish after successfully staging a coup against the mayor.",
-              "sentence_ru": "Местные коты процветают после успешного государственного переворота против мэра.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 994148,
+          "due_tick": 994243,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-14T10:00:17.608108+00:00",
-          "pending_msg": 541,
+          "last_sent_at": "2026-09-16T09:30:23.910084+00:00",
+          "pending_msg": 575,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994194,
+      "last_deliver_tick": 994195,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
