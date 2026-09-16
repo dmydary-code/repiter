@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your wild party animals completely devastate the lobby every single Friday night, you degenerates!",
+              "sentence_ru": "Ваши дикие тусовщики полностью разносят лобби каждую пятницу, вы дегенераты!",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Karen will totally devastate the office fridge if someone touches her oat milk again.",
               "sentence_ru": "Карен полностью разнесет офисный холодильник, если кто-нибудь снова тронет ее овсяное молоко.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Your loud techno parties will devastate this entire building, so turn that trash off immediately.",
               "sentence_ru": "Ваши громкие техно-вечеринки разрушат весь этот дом, так что немедленно выключите этот мусор.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "My ex tried to devastate my ego, so I bought a yacht with his dog.",
-              "sentence_ru": "Мой бывший попытался уничтожить моё эго, поэтому я купила яхту на его собаку.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 994148,
+          "due_tick": 994242,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-14T10:00:16.352540+00:00",
-          "pending_msg": 540,
+          "last_sent_at": "2026-09-16T09:00:22.103686+00:00",
+          "pending_msg": 572,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994193,
+      "last_deliver_tick": 994194,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -723,6 +723,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Mars in your sign makes your ex's outfit look totally drab, so flex your Gucci.",
+              "sentence_ru": "Марс в вашем знаке делает наряд вашего бывшего совершенно унылым, так что выгуливайте свой Гуччи.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Your new personality is just as drab as your ex's cooking at 3 AM.",
               "sentence_ru": "Твоя новая личность такая же унылая, как стряпня твоего бывшего в три часа ночи.",
@@ -742,20 +747,15 @@
               "sentence": "Your soul is as drab as this office coffee, Karen.",
               "sentence_ru": "Твоя душа такая же унылая, как этот офисный кофе, Карен.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Your new living room rug looks so drab that even I refuse to throw up on it.",
-              "sentence_ru": "Твой новый ковер в гостиной выглядит таким унылым, что даже я отказываюсь на него блевать.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994147,
+          "due_tick": 994242,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-09-14T09:30:24.738651+00:00",
-          "pending_msg": 539,
+          "last_sent_at": "2026-09-16T09:00:23.496008+00:00",
+          "pending_msg": 573,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994193,
+      "last_deliver_tick": 994194,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-16",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
