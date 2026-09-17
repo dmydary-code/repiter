@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You buy expensive fish, whenever you feel guilty for ignoring me all day.",
+              "sentence_ru": "Ты покупаешь дорогую рыбу всякий раз, когда чувствуешь себя виноватой за то, что игнорировала меня весь день.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever you block me, I just create a new fake account to stalk you.",
               "sentence_ru": "Всякий раз, когда ты меня блокируешь, я просто создаю новый фейковый аккаунт, чтобы следить за тобой.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "My cat stares at my soul whenever I open a tuna can.",
               "sentence_ru": "Мой кот пялится мне в душу всякий раз, когда я открываю банку тунца.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "I cry into these overpriced leggings whenever my ex posts a happy selfie.",
-              "sentence_ru": "Я рыдаю в эти дорогие леггинсы всякий раз, когда мой бывший выкладывает счастливое селфи.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 994190,
+          "due_tick": 994287,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-15T07:00:23.660469+00:00",
-          "pending_msg": 548,
+          "last_sent_at": "2026-09-17T07:30:12.053903+00:00",
+          "pending_msg": 584,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994238,
+      "last_deliver_tick": 994239,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-17",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,6 +806,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop the gossip about Jim and Pam, or HR will fire us all.",
+              "sentence_ru": "Хватит сплетничать о Джиме и Пэм, а то кадры нас всех уволят.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop the gossip, human, and fill my bowl before I ruin your shoes.",
               "sentence_ru": "Хватит сплетен, кожаная, и наполни мою миску, пока я не испортил твои туфли.",
               "word_form": "gossip"
@@ -824,20 +829,15 @@
               "sentence": "Stop to gossip in the chat about my trash bags and clean your own hallway!",
               "sentence_ru": "Хватит сплетничать в чате про мои мусорные пакеты и помойте свой собственный коридор!",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Drinking iced coffee and feeding the neighbourhood pigeons pure gossip.",
-              "sentence_ru": "Пью ледяной кофе и скармливаю районным голубям чистейшие сплетни.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 994156,
+          "due_tick": 994287,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-12T12:00:12.138707+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-17T07:30:13.322163+00:00",
+          "pending_msg": 585,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994238,
+      "last_deliver_tick": 994239,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-17",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
