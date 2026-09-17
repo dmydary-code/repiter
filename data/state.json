@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our new alcoholic neighbor and stray pitbull hit it off instantly and are now terrorizing the courtyard together.",
+              "sentence_ru": "Наш новый сосед-алкаш и бродячий питбуль сразу сошлись и теперь терроризируют двор вместе.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Me and my therapist hit it off so well she started crying first.",
               "sentence_ru": "Я и мой психотерапевт так быстро сошлись, что она первая начала плакать.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "We hit it off with the local stray cat and now I owe it my entire paycheck.",
               "sentence_ru": "Мы сразу подружились с местным бродячим котом, и теперь я должен ему всю свою зарплату.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "My stolen gnome and the neighbor's aggressive cat hit it off instantly during the arson.",
-              "sentence_ru": "Мой украденный гном и агрессивный кот соседа сразу подружились во время поджога.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 994193,
+          "due_tick": 994290,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-15T08:30:17.046893+00:00",
-          "pending_msg": 554,
+          "last_sent_at": "2026-09-17T09:00:08.942056+00:00",
+          "pending_msg": 590,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994241,
+      "last_deliver_tick": 994242,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-17",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My talking toaster screams obscenities at me now and then, but we have an understanding.",
+              "sentence_ru": "Мой говорящий тостер время от времени орёт на меня матом, но мы нашли общий язык.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "I knock your expensive vase off the shelf now and then just to test gravity.",
               "sentence_ru": "Я сбрасываю твою дорогую вазу с полки время от времени просто чтобы проверить гравитацию.",
               "word_form": "now and then"
@@ -1070,20 +1075,15 @@
               "sentence": "I still wake up at 3 AM to check if you remember me now and then.",
               "sentence_ru": "Я всё еще просыпаюсь в 3 часа ночи, чтобы проверить, помнишь ли ты меня время от времени.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "I use this vibrator now and then, when my ex husbands ghost stops haunting me.",
-              "sentence_ru": "Я пользуюсь этим вибратором время от времени, когда призрак моего бывшего мужа перестает меня преследовать.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 994192,
+          "due_tick": 994290,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-15T08:00:12.255683+00:00",
-          "pending_msg": 553,
+          "last_sent_at": "2026-09-17T09:00:10.214634+00:00",
+          "pending_msg": 591,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994241,
+      "last_deliver_tick": 994242,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-17",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
