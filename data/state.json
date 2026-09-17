@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you will try to seduce your boss using a rotten banana.",
+              "sentence_ru": "Завтра вы попытаетесь соблазнить своего босса с помощью гнилого банана.",
+              "word_form": "try"
+            },
+            {
               "sentence": "I still try to wash away the blood, knowing the stain is inside me.",
               "sentence_ru": "Я всё еще пытаюсь смыть кровь, зная, что это пятно внутри меня.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "If you try to glue your broken life here again, I will superglue your eyes.",
               "sentence_ru": "Если вы попытаетесь снова склеить здесь свою разбитую жизнь, я суперклеем залеплю вам глаза.",
               "word_form": "try"
-            },
-            {
-              "sentence": "I still try to wash away the blood from my soul, but soap doesn't work.",
-              "sentence_ru": "Я всё еще пытаюсь смыть кровь со своей души, но мыло не помогает.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 994156,
+          "due_tick": 994286,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-12T11:00:17.974720+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-17T07:00:13.440040+00:00",
+          "pending_msg": 582,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994209,
+      "last_deliver_tick": 994238,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-17",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If Greg tries to steal my yogurt again, he is going to undergo severe dental surgery.",
+              "sentence_ru": "Если Грег снова попытается украсть мой йогурт, ему предстоит сложная стоматологическая операция.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "Local politician had to undergo brain removal to finally understand the budget report.",
               "sentence_ru": "Местному политику пришлось перенести удаление мозга, чтобы наконец понять отчет о бюджете.",
               "word_form": "to undergo"
@@ -947,20 +952,15 @@
               "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
               "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, только чтобы вспомнить мое имя.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
-              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, только чтобы вспомнить мое имя.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 994151,
+          "due_tick": 994286,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-14T11:30:12.528421+00:00",
-          "pending_msg": 547,
+          "last_sent_at": "2026-09-17T07:00:14.490791+00:00",
+          "pending_msg": 583,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994209,
+      "last_deliver_tick": 994238,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-17",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
