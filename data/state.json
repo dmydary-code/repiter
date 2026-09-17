@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I will not mince words: whoever keeps dumping cat carcasses in the elevator is a psycho.",
+              "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает скидывать трупы кошек в лифте — психопат.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I didn't mince words when telling my ex his new haircut looks like a dead ferret.",
               "sentence_ru": "Я не стал церемониться в выражениях, когда сказал бывшему, что его новая стрижка похожа на мертвого хорька.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "He never minces words when telling his cat that the kibble tastes like radioactive trash.",
               "sentence_ru": "Он никогда не выбирает выражения, заявляя своему коту, что сухой корм на вкус как радиоактивный мусор.",
               "word_form": "minces words"
-            },
-            {
-              "sentence": "The angry wizard refused to mince words and cursed my cat into a toaster.",
-              "sentence_ru": "Злой волшебник не стал подбирать выражения и проклял моего кота, превратив его в тостер.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 994192,
+          "due_tick": 994289,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-15T08:00:11.008058+00:00",
-          "pending_msg": 552,
+          "last_sent_at": "2026-09-17T08:30:10.366749+00:00",
+          "pending_msg": 588,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994240,
+      "last_deliver_tick": 994241,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-17",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Because of this insane influx of weirdos in our lobby, I can't even order a normal pizza.",
+              "sentence_ru": "Из-за этого безумного наплыва фриков в нашем лобби я даже не могу заказать нормальную пиццу.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "An influx of my regrets can't wake you up at 3 AM, but here I am.",
               "sentence_ru": "Наплыв моих сожалений не может разбудить тебя в 3 ночи, но вот он я.",
               "word_form": "influx"
@@ -1029,20 +1034,15 @@
               "sentence": "An unexpected influx of stray cats turned my apartment into a chaotic furry cult.",
               "sentence_ru": "Неожиданный наплыв бродячих котов превратил мою квартиру в хаотичный пушистый культ.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An influx of radioactive badgers has officially clogged the municipal sewage system.",
-              "sentence_ru": "Наплыв радиоактивных барсуков официально засорил муниципальную канализационную систему.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994191,
+          "due_tick": 994289,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-15T07:30:06.176578+00:00",
-          "pending_msg": 551,
+          "last_sent_at": "2026-09-17T08:30:11.643288+00:00",
+          "pending_msg": 589,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994240,
+      "last_deliver_tick": 994241,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-17",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
