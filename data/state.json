@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My absolute genius must somehow fit into this humble cardboard box.",
+              "sentence_ru": "Мой абсолютный гений должен как-то поместиться в эту скромную картонную коробку.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even the local pigeons shit on my humble car, so stop crying about your life.",
               "sentence_ru": "Даже местные голуби гадят на мою скромную машину, так что хватит ныть насчет своей жизни.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even when wearing a crown made of raw meat, the king tried to stay humble.",
               "sentence_ru": "Даже когда королева надевала корону из сырого мяса, король старался оставаться скромным.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even my humble apologies at 3 AM won't fix how much I ruined us.",
-              "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как сильно я всё испортил.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 994239,
+          "due_tick": 994336,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-16T07:30:20.524687+00:00",
-          "pending_msg": 566,
+          "last_sent_at": "2026-09-18T08:00:12.975386+00:00",
+          "pending_msg": 602,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994287,
+      "last_deliver_tick": 994288,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Management will ramp up the noise from drills if you don't pay your utility bills.",
+              "sentence_ru": "Управляющая компания начнет наращивать шум от дрелей, если вы не заплатите за коммуналку.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Management will ramp up the noise with techno music at 6 AM because you didn't pay for garbage.",
               "sentence_ru": "Управляющая компания врубит техно в 6 утра на полную катушку, потому что вы не заплатили за мусор.",
               "word_form": "ramp up"
@@ -1480,20 +1485,15 @@
               "sentence": "I need to ramp up my daily caffeine intake before my boss destroys my soul.",
               "sentence_ru": "Мне нужно нарастить ежедневную дозу кофеина, прежде чем босс уничтожит мою душу.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Neighbors, ramp up your trash throwing accuracy or we will feed you to the stray cats.",
-              "sentence_ru": "Соседи, наращивайте точность метания мусора, иначе мы скормим вас бродячим котам.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994238,
+          "due_tick": 994336,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-16T07:00:20.939770+00:00",
-          "pending_msg": 565,
+          "last_sent_at": "2026-09-18T08:00:14.129807+00:00",
+          "pending_msg": 603,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994287,
+      "last_deliver_tick": 994288,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
