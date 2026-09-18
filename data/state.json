@@ -50,8 +50,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "A cheeky raccoon steals nuclear launch codes and demands endless pizza.",
-              "sentence_ru": "Наглый енот крадет коды ядерного запуска и требует бесконечную пиццу.",
+              "sentence": "That cheeky grin while my world burned just broke the final thread of my sanity.",
+              "sentence_ru": "Эта дерзкая ухмылка, пока мой мир горел, оборвала последнюю нить моего здравого смысла.",
               "word_form": "cheeky"
             },
             {
@@ -80,8 +80,8 @@
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-18T08:30:12.589205+00:00",
-          "pending_msg": 604,
+          "last_sent_at": "2026-09-18T08:40:09.029609+00:00",
+          "pending_msg": 606,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -1503,8 +1503,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Do not impose your weird vegan diet on stray cats in this hallway!",
-              "sentence_ru": "Не навязывайте свою странную веганскую диету бродячим котам в этом коридоре!",
+              "sentence": "Don't try to impose your weird vegan diet on me, human.",
+              "sentence_ru": "Не пытайся навязывать мне свою странную веганскую диету, человек.",
               "word_form": "impose"
             },
             {
@@ -1533,8 +1533,8 @@
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-18T08:30:13.692325+00:00",
-          "pending_msg": 605,
+          "last_sent_at": "2026-09-18T08:40:10.322984+00:00",
+          "pending_msg": 607,
           "reps": 0,
           "step": 0,
           "word": "impose",
