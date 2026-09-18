@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars in Taurus will devastate your ex's new credit card by noon.",
+              "sentence_ru": "Марс в Тельце к полудню опустошит новую кредитку твоего бывшего.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Your wild party animals completely devastate the lobby every single Friday night, you degenerates!",
               "sentence_ru": "Ваши дикие тусовщики полностью разносят лобби каждую пятницу, вы дегенераты!",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "I will totally devastate this expensive sofa if you do not give me salmon right now.",
               "sentence_ru": "Я полностью разнесу этот дорогой диван, если ты не дашь мне лосось прямо сейчас.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "Your loud techno parties will devastate this entire building, so turn that trash off immediately.",
-              "sentence_ru": "Ваши громкие техно-вечеринки разрушат весь этот дом, так что немедленно выключите этот мусор.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 994242,
+          "due_tick": 994339,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-16T09:00:22.103686+00:00",
-          "pending_msg": 572,
+          "last_sent_at": "2026-09-18T09:30:18.787402+00:00",
+          "pending_msg": 610,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994290,
+      "last_deliver_tick": 994291,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -765,6 +765,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I ran through the dark backstreets while my past chased me with a butcher knife.",
+              "sentence_ru": "Я бежал по темным задворкам, пока мое прошлое преследовало меня с мясницким ножом.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "He fled through dark backstreets after stealing a massive wheel of parmesan cheese.",
               "sentence_ru": "Он сбежал через темные переулки после кражи огромной головки пармезана.",
               "word_form": "backstreets"
@@ -783,20 +788,15 @@
               "sentence": "A naked mayor was spotted fleeing wild raccoons through dark backstreets with a stolen cheese wheel.",
               "sentence_ru": "Голого мэра заметили убегающим от диких енотов по темным задворкам с украденной головкой сыра.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Bro, my ex lives in these backstreets, so I Naruto-run past her window every night.",
-              "sentence_ru": "Бро, моя бывшая живет в этих переулках, поэтому я каждую ночь пробегаю мимо ее окна в стиле Наруто.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 994241,
+          "due_tick": 994339,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-16T08:30:23.562602+00:00",
-          "pending_msg": 571,
+          "last_sent_at": "2026-09-18T09:30:19.991393+00:00",
+          "pending_msg": 611,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994290,
+      "last_deliver_tick": 994291,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
