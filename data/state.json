@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Don't let my new sugar daddy discorage you from loving me at 3 AM.",
+              "sentence_ru": "Не позволяй моему новому папику отговаривать тебя любить меня в три часа ночи.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Mars will discorage you from wearing trousers, so go to the office naked and proud.",
               "sentence_ru": "Марс отговорит тебя надевать штаны, так что иди в офис голым и гордым.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Please do not discorage our stray cat from sleeping on the lobby rug.",
               "sentence_ru": "Пожалуйста, не отговаривайте нашего бродячего кота спать на коврике в вестибюле.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping their boats.",
-              "sentence_ru": "Мутантные омары разочаровывают местных рыбаков, воруя их пиво и переворачивая лодки.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994244,
+          "due_tick": 994341,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-16T10:00:22.975887+00:00",
-          "pending_msg": 576,
+          "last_sent_at": "2026-09-18T10:30:22.593303+00:00",
+          "pending_msg": 614,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994292,
+      "last_deliver_tick": 994293,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,6 +847,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "While our ceiling is leaking, the mold in the hallway continues to flourish.",
+              "sentence_ru": "Пока у нас протекает потолок, плесень в коридоре продолжает процветать.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "Our illegal meth lab in the basement tends to flourish despite the HOA complaints.",
               "sentence_ru": "Наша нелегальная нарколаборатория в подвале имеет свойство процветать вопреки жалобам ТСЖ.",
               "word_form": "flourish"
@@ -865,20 +870,15 @@
               "sentence": "I see you continue to flourish while I am crying alone on the bathroom floor.",
               "sentence_ru": "Я вижу, ты продолжаешь процветать, пока я плачу в одиночестве на полу в ванной.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "I flourish on the expensive carpets you cry about while I sharpen my claws.",
-              "sentence_ru": "Я процветаю на тех дорогих коврах, над которыми ты рыдаешь, пока я точу когти.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 994243,
+          "due_tick": 994341,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-16T09:30:23.910084+00:00",
-          "pending_msg": 575,
+          "last_sent_at": "2026-09-18T10:30:23.765398+00:00",
+          "pending_msg": 615,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994292,
+      "last_deliver_tick": 994293,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
