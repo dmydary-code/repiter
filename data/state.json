@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A cheeky raccoon steals nuclear launch codes and demands endless pizza.",
+              "sentence_ru": "Наглый енот крадет коды ядерного запуска и требует бесконечную пиццу.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky text at 3 AM won't bring me back, but nice try.",
               "sentence_ru": "Это наглое сообщение в три часа ночи не вернет меня, но попытка засчитана.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky raccoon stole my last taco and didn't even regret it.",
               "sentence_ru": "Этот наглый енот украл мой последний тако и даже не пожалел об этом.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "A cheeky astrologer will steal your wallet tomorrow and predict it as a cosmic test.",
-              "sentence_ru": "Наглый астролог завтра стырит твой кошелек и предскажет это как космическое испытание.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 994240,
+          "due_tick": 994337,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-16T08:00:21.450123+00:00",
-          "pending_msg": 568,
+          "last_sent_at": "2026-09-18T08:30:12.589205+00:00",
+          "pending_msg": 604,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994288,
+      "last_deliver_tick": 994289,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Do not impose your weird vegan diet on stray cats in this hallway!",
+              "sentence_ru": "Не навязывайте свою странную веганскую диету бродячим котам в этом коридоре!",
+              "word_form": "impose"
+            },
+            {
               "sentence": "My cat tries to impose his fascist worldview on me every time I buy the cheap food.",
               "sentence_ru": "Мой кот пытается навязать мне своё фашистское мировоззрение каждый раз, когда я покупаю дешёвый корм.",
               "word_form": "impose"
@@ -1521,20 +1526,15 @@
               "sentence": "Mars will force you to impose your weird vegan diet on stray cats tomorrow.",
               "sentence_ru": "Марс заставит тебя навязывать твою странную веганскую диету бродячим котам завтра.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Trying to impose my weird lifestyle on my cat, who just stares back with pure disgust.",
-              "sentence_ru": "Пытаюсь навязать свой странный образ жизни коту, который просто таращится в ответ с чистым отвращением.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 994239,
+          "due_tick": 994337,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-16T07:30:21.789324+00:00",
-          "pending_msg": 567,
+          "last_sent_at": "2026-09-18T08:30:13.692325+00:00",
+          "pending_msg": 605,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994288,
+      "last_deliver_tick": 994289,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
