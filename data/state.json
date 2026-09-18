@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still remember the aforementioned betrayal, especially while drinking tequila at 3 AM.",
+              "sentence_ru": "Я до сих пор помню вышеупомянутое предательство, особенно попивая текилу в 3 часа ночи.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "Chad blamed the aforementioned ghost for deleting his spreadsheet, but HR knows he just can't use Excel.",
               "sentence_ru": "Чэд обвинил вышеупомянутого призрака в удалении своей таблицы, но HR знает, что он просто не умеет пользоваться Excel.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "Still thinking about how the aforementioned ex ruined my vibe in Ibiza.",
               "sentence_ru": "До сих пор думаю о том, как вышеупомянутый бывший испортил мне вайб на Ибице.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I still remember the aforementioned betrayal, especially at three in the morning.",
-              "sentence_ru": "Я до сих пор помню вышеупомянутое предательство, особенно в три часа ночи.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994243,
+          "due_tick": 994340,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-16T09:30:22.697067+00:00",
-          "pending_msg": 574,
+          "last_sent_at": "2026-09-18T10:00:03.341966+00:00",
+          "pending_msg": 612,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994291,
+      "last_deliver_tick": 994292,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -723,6 +723,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "My ex's soul is less drab than this hideous beige hoodie from Zara.",
+              "sentence_ru": "Душа моего бывшего менее унылая, чем эта отвратительная бежевая худи из Зары.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Mars in your sign makes your ex's outfit look totally drab, so flex your Gucci.",
               "sentence_ru": "Марс в вашем знаке делает наряд вашего бывшего совершенно унылым, так что выгуливайте свой Гуччи.",
@@ -742,20 +747,15 @@
               "sentence": "Why are our hallway walls painted in such a drab color that makes me want to cry?",
               "sentence_ru": "Почему стены нашего коридора покрашены в такой унылый цвет, от которого хочется плакать?",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Your soul is as drab as this office coffee, Karen.",
-              "sentence_ru": "Твоя душа такая же унылая, как этот офисный кофе, Карен.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994242,
+          "due_tick": 994340,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-09-16T09:00:23.496008+00:00",
-          "pending_msg": 573,
+          "last_sent_at": "2026-09-18T10:00:14.457172+00:00",
+          "pending_msg": 613,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994291,
+      "last_deliver_tick": 994292,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-18",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
