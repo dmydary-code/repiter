@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He never lifts a finger in the house, leaving me to drown in this domestic hell.",
+              "sentence_ru": "Он палец о палец не ударяет дома, оставляя меня тонуть в этом бытовом аду.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "You never lifts a finger in the house, but now you want my attention at 3 AM?",
               "sentence_ru": "Ты никогда не ударял палец о палец по дому, но теперь хочешь моего внимания в 3 часа ночи?",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "If roommate Kevin still never lifts a finger in the house, we will flush his Play Station down the toilet.",
               "sentence_ru": "Если сосед по квартире Кевин по-прежнему не ударит палец о палец по дому, мы смоем его PlayStation в унитаз.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "My lazy roommate never lifts a finger in the house, so our kitchen is now a biohazard zone.",
-              "sentence_ru": "Мой ленивый сожитель никогда не ударяет палец о палец по дому, так что наша кухня теперь — зона биологического заражения.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 994291,
+          "due_tick": 994395,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-17T09:30:08.126363+00:00",
-          "pending_msg": 592,
+          "last_sent_at": "2026-09-19T13:30:17.252708+00:00",
+          "pending_msg": 636,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994346,
+      "last_deliver_tick": 994347,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Now and then someone steals the doormat, so please chain your grandmothers to the radiator.",
+              "sentence_ru": "Время от времени кто-то крадет коврик, поэтому, пожалуйста, пристегивайте своих бабушек цепями к батарее.",
+              "word_form": "Now and then"
+            },
+            {
               "sentence": "My talking toaster screams obscenities at me now and then, but we have an understanding.",
               "sentence_ru": "Мой говорящий тостер время от времени орёт на меня матом, но мы нашли общий язык.",
               "word_form": "now and then"
@@ -1070,20 +1075,15 @@
               "sentence": "Some freak plays techno on a bagpipe now and then, and my cat starts levitating from horror.",
               "sentence_ru": "Какой-то придурок время от времени играет техно на волынке, и мой кот начинает левитировать от ужаса.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "I still wake up at 3 AM to check if you remember me now and then.",
-              "sentence_ru": "Я всё еще просыпаюсь в 3 часа ночи, чтобы проверить, помнишь ли ты меня время от времени.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 994290,
+          "due_tick": 994395,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-17T09:00:10.214634+00:00",
-          "pending_msg": 591,
+          "last_sent_at": "2026-09-19T13:30:18.539579+00:00",
+          "pending_msg": 637,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994346,
+      "last_deliver_tick": 994347,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
