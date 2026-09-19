@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words at 3 AM: your new boyfriend looks like a toasted potato.",
+              "sentence_ru": "Я не буду церемониться в три часа ночи: твой новый парень выглядит как подгорелая картошка.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I will not mince words: whoever keeps dumping cat carcasses in the elevator is a psycho.",
               "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает скидывать трупы кошек в лифте — психопат.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I won't mince words anymore; your soul is as cheap as a gas station hot dog.",
               "sentence_ru": "Я больше не буду подбирать выражения; твоя душа дешевле хот-дога на заправке.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "He never minces words when telling his cat that the kibble tastes like radioactive trash.",
-              "sentence_ru": "Он никогда не выбирает выражения, заявляя своему коту, что сухой корм на вкус как радиоактивный мусор.",
-              "word_form": "minces words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 994289,
+          "due_tick": 994386,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-17T08:30:10.366749+00:00",
-          "pending_msg": 588,
+          "last_sent_at": "2026-09-19T09:00:24.478422+00:00",
+          "pending_msg": 626,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994337,
+      "last_deliver_tick": 994338,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Did Kevin just emerge from the ceiling tiles with a half-eaten burrito?",
+              "sentence_ru": "Кевин только что вылез из потолочной плитки с наполовину съеденным буррито?",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "When I emerge from my blanket cocoon, society instantly regrets demanding my presence.",
               "sentence_ru": "Когда я вылезаю из своего одеяльного кокона, общество тут же жалеет, что потребовало моего присутствия.",
               "word_form": "emerge"
@@ -988,20 +993,15 @@
               "sentence": "My ex had to emerge from the bushes just to ruin my selfie.",
               "sentence_ru": "Моему бывшему пришлось вылезти из кустов только для того, чтобы испортить мое селфи.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "Did Kevin just emerge from the ceiling tiles covered in melted cheese?",
-              "sentence_ru": "Кевин что, только что вылез из потолочной плитки, весь обмазанный плавленым сыром?",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 994288,
+          "due_tick": 994386,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-09-17T08:00:12.507354+00:00",
-          "pending_msg": 587,
+          "last_sent_at": "2026-09-19T09:00:25.592720+00:00",
+          "pending_msg": 627,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994337,
+      "last_deliver_tick": 994338,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
