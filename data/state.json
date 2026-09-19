@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That stray ginger cat and I hit it off the second he stole my steak.",
+              "sentence_ru": "Тот бродячий рыжий кот и я сразу подружились в ту секунду, когда он украл мой стейк.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Our new alcoholic neighbor and stray pitbull hit it off instantly and are now terrorizing the courtyard together.",
               "sentence_ru": "Наш новый сосед-алкаш и бродячий питбуль сразу сошлись и теперь терроризируют двор вместе.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "The new CEO and the office printer hit it off immediately by setting fire to the breakroom.",
               "sentence_ru": "Новый гендиректор и офисный принтер сразу нашли общий язык, устроив пожар в комнате отдыха.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "We hit it off with the local stray cat and now I owe it my entire paycheck.",
-              "sentence_ru": "Мы сразу подружились с местным бродячим котом, и теперь я должен ему всю свою зарплату.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 994290,
+          "due_tick": 994387,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-17T09:00:08.942056+00:00",
-          "pending_msg": 590,
+          "last_sent_at": "2026-09-19T09:30:01.523851+00:00",
+          "pending_msg": 628,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994338,
+      "last_deliver_tick": 994339,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An influx of angry raccoons broke into my apartment to steal all my leftover pizza.",
+              "sentence_ru": "Наплыв злых енотов ворвался в мою квартиру, чтобы украсть всю мою оставшуюся пиццу.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "Because of this insane influx of weirdos in our lobby, I can't even order a normal pizza.",
               "sentence_ru": "Из-за этого безумного наплыва фриков в нашем лобби я даже не могу заказать нормальную пиццу.",
               "word_form": "influx"
@@ -1029,20 +1034,15 @@
               "sentence": "We need more coffee machines to survive this sudden influx of weeping interns.",
               "sentence_ru": "Нам нужно больше кофемашин, чтобы пережить этот внезапный наплыв рыдающих стажеров.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An unexpected influx of stray cats turned my apartment into a chaotic furry cult.",
-              "sentence_ru": "Неожиданный наплыв бродячих котов превратил мою квартиру в хаотичный пушистый культ.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994289,
+          "due_tick": 994387,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-17T08:30:11.643288+00:00",
-          "pending_msg": 589,
+          "last_sent_at": "2026-09-19T09:30:02.663310+00:00",
+          "pending_msg": 629,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994338,
+      "last_deliver_tick": 994339,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
