@@ -132,8 +132,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My emotional support hamster tried to undermine the living room floor with a tiny plastic spoon.",
-              "sentence_ru": "Мой хомяк эмоциональной поддержки попытался подорвать пол в гостиной крошечной пластиковой ложкой.",
+              "sentence": "My talking hamster tried to undermine the living room floor with a tiny plastic spoon.",
+              "sentence_ru": "Мой говорящий хомяк попытался подорвать пол в гостиной крошечной пластиковой ложкой.",
               "word_form": "undermine"
             },
             {
@@ -162,8 +162,8 @@
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T07:00:18.703436+00:00",
-          "pending_msg": 616,
+          "last_sent_at": "2026-09-19T07:21:20.751557+00:00",
+          "pending_msg": 618,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -888,9 +888,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I used this aggressive vacuum cleaner to demolish my ex-boyfriend's apartment completely.",
-              "sentence_ru": "Я использовала этот агрессивный пылесос, чтобы полностью снести квартиру бывшего парня.",
-              "word_form": "demolish"
+              "sentence": "Bro tried to cook eggs and accidentally demolished the entire kitchen.",
+              "sentence_ru": "Бро пытался пожарить яйца и случайно снёс к чертям всю кухню.",
+              "word_form": "demolished"
             },
             {
               "sentence": "Neighbor's feral kids tried to demolish the elevator with a hammer again!",
@@ -918,8 +918,8 @@
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-19T07:00:20.131819+00:00",
-          "pending_msg": 617,
+          "last_sent_at": "2026-09-19T07:21:21.900322+00:00",
+          "pending_msg": 619,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
