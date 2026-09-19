@@ -542,8 +542,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "That stray ginger cat and I hit it off the second he stole my steak.",
-              "sentence_ru": "Тот бродячий рыжий кот и я сразу подружились в ту секунду, когда он украл мой стейк.",
+              "sentence": "Tomorrow you and a stray raccoon will hit it off and rob a bank together.",
+              "sentence_ru": "Завтра ты и бродячий енот сразу поладите и вместе ограбите банк.",
               "word_form": "hit it off"
             },
             {
@@ -568,12 +568,12 @@
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 994387,
+          "due_tick": 994394,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T09:30:01.523851+00:00",
-          "pending_msg": 628,
+          "last_sent_at": "2026-09-19T13:01:55.198885+00:00",
+          "pending_msg": 634,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -582,11 +582,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Ancient vampire king still refuses and never lifts a finger in the house during a full moon.",
-              "sentence_ru": "Древний король-вампир до сих пор отказывается и никогда не ударяет палец о палец по дому в полнолуние.",
-              "word_form": "lifts a finger in the house"
-            },
             {
               "sentence": "You never lifts a finger in the house, but now you want my attention at 3 AM?",
               "sentence_ru": "Ты никогда не ударял палец о палец по дому, но теперь хочешь моего внимания в 3 часа ночи?",
@@ -606,15 +601,20 @@
               "sentence": "If roommate Kevin still never lifts a finger in the house, we will flush his Play Station down the toilet.",
               "sentence_ru": "Если сосед по квартире Кевин по-прежнему не ударит палец о палец по дому, мы смоем его PlayStation в унитаз.",
               "word_form": "lifts a finger in the house"
+            },
+            {
+              "sentence": "My lazy roommate never lifts a finger in the house, so our kitchen is now a biohazard zone.",
+              "sentence_ru": "Мой ленивый сожитель никогда не ударяет палец о палец по дому, так что наша кухня теперь — зона биологического заражения.",
+              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 994388,
+          "due_tick": 994291,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T10:00:04.601397+00:00",
-          "pending_msg": 630,
+          "last_sent_at": "2026-09-17T09:30:08.126363+00:00",
+          "pending_msg": 592,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -623,11 +623,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "If you are rolling in money, pay for the elevator repair, you greedy goblin.",
-              "sentence_ru": "Если ты купаешься в деньгах, заплати за ремонт лифта, жадный гоблин.",
-              "word_form": "rolling in money"
-            },
             {
               "sentence": "I'm rolling in money now, but you still sleep with your cat, loser.",
               "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё ещё спишь со своим котом, неудачник.",
@@ -647,15 +642,20 @@
               "sentence": "Our neighbor in apt 42 is rolling in money yet refuses to pay for elevator repairs.",
               "sentence_ru": "Наш сосед из 42-й квартиры купается в деньгах, но отказывается платить за ремонт лифта.",
               "word_form": "rolling in money"
+            },
+            {
+              "sentence": "Stop eating cheap whiskas from the floor, human, I am rolling in money now!",
+              "sentence_ru": "Хватит есть дешевый вискас с пола, двуногий, я теперь купаюсь в деньгах!",
+              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 994389,
+          "due_tick": 994292,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T10:30:09.011568+00:00",
-          "pending_msg": 632,
+          "last_sent_at": "2026-09-17T10:00:14.488797+00:00",
+          "pending_msg": 594,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 8,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,8 +1011,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "An influx of angry raccoons broke into my apartment to steal all my leftover pizza.",
-              "sentence_ru": "Наплыв злых енотов ворвался в мою квартиру, чтобы украсть всю мою оставшуюся пиццу.",
+              "sentence": "An unexpected influx of aggressive badgers ruined my exquisite underground techno party.",
+              "sentence_ru": "Неожиданный наплыв агрессивных барсуков испортил мою изысканную подземную техно-вечеринку.",
               "word_form": "influx"
             },
             {
@@ -1037,12 +1037,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994387,
+          "due_tick": 994394,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-19T09:30:02.663310+00:00",
-          "pending_msg": 629,
+          "last_sent_at": "2026-09-19T13:01:56.427623+00:00",
+          "pending_msg": 635,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1051,11 +1051,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I show up at my ex's funeral now and then just to check if she's really gone.",
-              "sentence_ru": "Я появляюсь на похоронах своей бывшей время от времени, просто чтобы проверить, действительно ли она ушла.",
-              "word_form": "now and then"
-            },
             {
               "sentence": "My talking toaster screams obscenities at me now and then, but we have an understanding.",
               "sentence_ru": "Мой говорящий тостер время от времени орёт на меня матом, но мы нашли общий язык.",
@@ -1075,15 +1070,20 @@
               "sentence": "Some freak plays techno on a bagpipe now and then, and my cat starts levitating from horror.",
               "sentence_ru": "Какой-то придурок время от времени играет техно на волынке, и мой кот начинает левитировать от ужаса.",
               "word_form": "now and then"
+            },
+            {
+              "sentence": "I still wake up at 3 AM to check if you remember me now and then.",
+              "sentence_ru": "Я всё еще просыпаюсь в 3 часа ночи, чтобы проверить, помнишь ли ты меня время от времени.",
+              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 994388,
+          "due_tick": 994290,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-19T10:00:05.930086+00:00",
-          "pending_msg": 631,
+          "last_sent_at": "2026-09-17T09:00:10.214634+00:00",
+          "pending_msg": 591,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1092,11 +1092,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "By and large, your wild parties suck, but at least nobody puked in the elevator today.",
-              "sentence_ru": "В общем и целом ваши дикие вечеринки отстой, но сегодня хоть никто не блеванул в лифте.",
-              "word_form": "By and large"
-            },
             {
               "sentence": "By and large, my stolen TV still works even after the raccoon bathed it in gravy.",
               "sentence_ru": "В общем и целом, мой украденный телевизор всё еще работает, даже после того как енот искупал его в подливе.",
@@ -1116,15 +1111,20 @@
               "sentence": "By and large, human, your pathetic attempts at cooking are almost edible today.",
               "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки готовить сегодня почти съедобны.",
               "word_form": "By and large"
+            },
+            {
+              "sentence": "By and large, our HOA president is just a bald goblin stealing our Wi-Fi.",
+              "sentence_ru": "В целом, наш председатель ТСЖ — просто лысый гоблин, который ворует наш вайфай.",
+              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 994389,
+          "due_tick": 994291,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-19T10:30:10.223516+00:00",
-          "pending_msg": 633,
+          "last_sent_at": "2026-09-17T09:30:09.491819+00:00",
+          "pending_msg": 593,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1548,7 +1548,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 8,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
