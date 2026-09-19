@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen has set her heart on stealing the last gluten-free muffin from the breakroom.",
+              "sentence_ru": "Карен твердо нацелилась украсть последний безглютеновый маффин из комнаты отдыха.",
+              "word_form": "set her heart on"
+            },
+            {
               "sentence": "I set heart on this vibrator, but it arrived broken and smelled like old fish.",
               "sentence_ru": "Я страстно желала этот вибратор, но он пришел сломанным и пах старой рыбой.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "I set heart on ruining your new wedding, just like you ruined my crypto portfolio.",
               "sentence_ru": "Я страстно желаю испортить твою новую свадьбу, прямо как ты испортил мой криптопортфель.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Karen has set her heart on stealing the last gluten-free muffin from the breakroom.",
-              "sentence_ru": "Карен твердо нацелилась украсть последний безглютеновый маффин из комнаты отдыха.",
-              "word_form": "has set her heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 994288,
+          "due_tick": 994385,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-17T08:00:11.334422+00:00",
-          "pending_msg": 586,
+          "last_sent_at": "2026-09-19T08:30:22.163144+00:00",
+          "pending_msg": 624,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994336,
+      "last_deliver_tick": 994337,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,6 +806,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I know you are awake, stop spreading gossip about my new sugar daddy and answer me.",
+              "sentence_ru": "Я знаю, что ты не спишь, хватит распускать сплетни о моем новом папике и ответь мне.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop the gossip about Jim and Pam, or HR will fire us all.",
               "sentence_ru": "Хватит сплетничать о Джиме и Пэм, а то кадры нас всех уволят.",
               "word_form": "gossip"
@@ -824,20 +829,15 @@
               "sentence": "My cat stopped eating wet food just to spread neighborhood gossip about the dog.",
               "sentence_ru": "Мой кот перестал есть влажный корм только для того, чтобы распускать дворовые сплетни про собаку.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop to gossip in the chat about my trash bags and clean your own hallway!",
-              "sentence_ru": "Хватит сплетничать в чате про мои мусорные пакеты и помойте свой собственный коридор!",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 994287,
+          "due_tick": 994385,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-17T07:30:13.322163+00:00",
-          "pending_msg": 585,
+          "last_sent_at": "2026-09-19T08:30:23.273909+00:00",
+          "pending_msg": 625,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994336,
+      "last_deliver_tick": 994337,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
