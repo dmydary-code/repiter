@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My emotional support hamster tried to undermine the living room floor with a tiny plastic spoon.",
+              "sentence_ru": "Мой хомяк эмоциональной поддержки попытался подорвать пол в гостиной крошечной пластиковой ложкой.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Mutant moles hired by the mafia continue to undermine the city's central bank.",
               "sentence_ru": "Мутантские кроты, нанятые мафией, продолжают подкапывать центральный банк города.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "My emotional cat tried to undermine my marriage by whispering treason into my husband's ear.",
               "sentence_ru": "Мой эмоциональный кот пытался подорвать мой брак, шепча измену на ухо моему мужу.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "My ex trying to undermine my new relationship with memes is honestly pathetic.",
-              "sentence_ru": "Пытки моего бывшего подорвать мои новые отношения с помощью мемов — это честно говоря жалко.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 994246,
+          "due_tick": 994382,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-16T11:17:00.104445+00:00",
-          "pending_msg": 580,
+          "last_sent_at": "2026-09-19T07:00:18.703436+00:00",
+          "pending_msg": 616,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994300,
+      "last_deliver_tick": 994334,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I used this aggressive vacuum cleaner to demolish my ex-boyfriend's apartment completely.",
+              "sentence_ru": "Я использовала этот агрессивный пылесос, чтобы полностью снести квартиру бывшего парня.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Neighbor's feral kids tried to demolish the elevator with a hammer again!",
               "sentence_ru": "Дикие дети соседа снова попытались разнести лифт молотком!",
               "word_form": "demolish"
@@ -906,20 +911,15 @@
               "sentence": "We will demolish apartment 48 tomorrow because the owner's music taste violates all human rights.",
               "sentence_ru": "Завтра мы снесём квартиру 48, потому что музыкальный вкус её хозяина нарушает все права человека.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
-              "sentence_ru": "Человек, если ты снова купишь дешевый корм, я снесу этот тупой диван.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 994244,
+          "due_tick": 994382,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-16T10:00:24.233686+00:00",
-          "pending_msg": 577,
+          "last_sent_at": "2026-09-19T07:00:20.131819+00:00",
+          "pending_msg": 617,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994300,
+      "last_deliver_tick": 994334,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-19",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
