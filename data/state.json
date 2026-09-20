@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons encorage me to burn this wretched diary and dance on the ashes.",
+              "sentence_ru": "Мои внутренние демоны поощряют меня сжечь этот проклятый дневник и станцевать на пепле.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "Stop trying to encourage my plant by yelling motivational quotes at its dirt.",
               "sentence_ru": "Хватит пытаться подбадривать мое растение, выкрикивая мотивационные цитаты в его землю.",
               "word_form": "encourage"
@@ -314,20 +319,15 @@
               "sentence": "My inner demons encorage me to steal the entire bakery at 3 AM.",
               "sentence_ru": "Мои внутренние демоны подбадривают меня украсть всю пекарню в три часа ночи.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "I encorage my pet raccoon to steal shiny spoons from angry neighbors.",
-              "sentence_ru": "Я поощряю своего домашнего енота воровать блестящие ложки у злых соседей.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 994334,
+          "due_tick": 994440,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-18T07:00:14.537068+00:00",
-          "pending_msg": 598,
+          "last_sent_at": "2026-09-20T12:00:10.404705+00:00",
+          "pending_msg": 658,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994391,
+      "last_deliver_tick": 994392,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow your ex and their new partner will ruin your life altogether, Aries.",
+              "sentence_ru": "Завтра твой бывший и их новый партнер полностью разрушат твою жизнь, Овен.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Tomorrow your boss and your ex will vanish altogether, leaving you alone with infinite pizza.",
               "sentence_ru": "Завтра твой босс и твой бывший полностью исчезнут, оставив тебя наедине с бесконечной пиццей.",
               "word_form": "altogether"
@@ -1357,20 +1362,15 @@
               "sentence": "We are losing clients, dignity, and sanity altogether thanks to your brilliant strategy.",
               "sentence_ru": "Мы теряем клиентов, достоинство и рассудок в целом благодаря твоей блестящей стратегии.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "We stopped inviting Gary to parties because he is altogether chaotic.",
-              "sentence_ru": "Мы перестали звать Гэри на вечеринки, потому что он просто конченый хаос.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994293,
+          "due_tick": 994440,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-17T10:30:14.472937+00:00",
-          "pending_msg": 597,
+          "last_sent_at": "2026-09-20T12:00:11.726901+00:00",
+          "pending_msg": 659,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994391,
+      "last_deliver_tick": 994392,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
