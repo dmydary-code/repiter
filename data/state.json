@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The aforementioned blender exploded and turned my cat into a shiny disco ball, five stars.",
+              "sentence_ru": "Вышеназванный блендер взорвался и превратил моего кота в блестящий диско-шар, пять звезд.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "I still remember the aforementioned betrayal, especially while drinking tequila at 3 AM.",
               "sentence_ru": "Я до сих пор помню вышеупомянутое предательство, особенно попивая текилу в 3 часа ночи.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I still hear the screams of the aforementioned betrayal echoing in my empty skull.",
               "sentence_ru": "Я всё еще слышу крики вышеупомянутого предательства, эхом отдающиеся в моем пустом черепе.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "Still thinking about how the aforementioned ex ruined my vibe in Ibiza.",
-              "sentence_ru": "До сих пор думаю о том, как вышеупомянутый бывший испортил мне вайб на Ибице.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994340,
+          "due_tick": 994437,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-18T10:00:03.341966+00:00",
-          "pending_msg": 612,
+          "last_sent_at": "2026-09-20T10:30:12.164010+00:00",
+          "pending_msg": 654,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994388,
+      "last_deliver_tick": 994389,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -765,6 +765,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My weird neighbor chased a feral raccoon through the dark backstreets while wearing a tutu.",
+              "sentence_ru": "Мой странный сосед гнался за диким енотом по темным задворкам в балетной пачке.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "I ran through the dark backstreets while my past chased me with a butcher knife.",
               "sentence_ru": "Я бежал по темным задворкам, пока мое прошлое преследовало меня с мясницким ножом.",
               "word_form": "backstreets"
@@ -783,20 +788,15 @@
               "sentence": "Bro, my ex lives in these backstreets so I literally had to Naruto-run past her window.",
               "sentence_ru": "Бро, моя бывшая живет в этих переулках, так что мне пришлось буквально пробежать мимо ее окна в стиле Наруто.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "A naked mayor was spotted fleeing wild raccoons through dark backstreets with a stolen cheese wheel.",
-              "sentence_ru": "Голого мэра заметили убегающим от диких енотов по темным задворкам с украденной головкой сыра.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 994339,
+          "due_tick": 994437,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-18T09:30:19.991393+00:00",
-          "pending_msg": 611,
+          "last_sent_at": "2026-09-20T10:30:13.689721+00:00",
+          "pending_msg": 655,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994388,
+      "last_deliver_tick": 994389,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
