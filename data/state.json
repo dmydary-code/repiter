@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That weird noise in the elevator is my acquired taste, deal with it.",
+              "sentence_ru": "Этот странный шум в лифте — мой приобретенный вкус, смиритесь с этим.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That expensive smoked salmon was acquired through illegal midnight raids on the fridge.",
               "sentence_ru": "Этот дорогой копченый лосось был добыт путем ночных незаконных набегов на холодильник.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "Your acquired paranoia will finally help you dodge a falling piano tomorrow.",
               "sentence_ru": "Твоя приобретенная паранойя завтра наконец-то поможет тебе увернуться от падающего пианино.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "That taste for expensive champagne is just an acquired excuse to stay broke.",
-              "sentence_ru": "Этот вкус к дорогому шампанскому — просто приобретенный повод оставаться на мели.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 994293,
+          "due_tick": 994430,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-17T10:30:13.292609+00:00",
-          "pending_msg": 596,
+          "last_sent_at": "2026-09-20T07:00:10.598673+00:00",
+          "pending_msg": 640,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994357,
+      "last_deliver_tick": 994382,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that my sanity packed its bags and left me years ago.",
+              "sentence_ru": "Я склоняюсь к тому, что мой рассудок собрал чемоданы и бросил меня еще много лет назад.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that your ex will crash your new Ferrari tomorrow.",
               "sentence_ru": "Я склоняюсь к мысли, что твой бывший разобьет твой новый феррари завтра.",
               "word_form": "I'm inclined to think that"
@@ -1275,20 +1280,15 @@
               "sentence": "I'm inclined to think that my cat is plotting my murder while I sleep.",
               "sentence_ru": "Я склонен думать, что мой кот планирует мое убийство, пока я сплю.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that your new boyfriend's face looks punchable.",
-              "sentence_ru": "Я склонен думать, что лицо твоего нового бойфренда выглядит так, будто просит удара.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 994292,
+          "due_tick": 994430,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-17T10:00:16.237754+00:00",
-          "pending_msg": 595,
+          "last_sent_at": "2026-09-20T07:00:11.902171+00:00",
+          "pending_msg": 641,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994357,
+      "last_deliver_tick": 994382,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
