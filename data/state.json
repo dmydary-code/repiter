@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A cheeky raccoon stole the pope's hat and posted a selfie on TikTok.",
+              "sentence_ru": "Наглый енот украл шляпу папы римского и выложил селфи в TikTok.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky grin while my world burned just broke the final thread of my sanity.",
               "sentence_ru": "Эта дерзкая ухмылка, пока мой мир горел, оборвала последнюю нить моего здравого смысла.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "A cheeky raccoon steals nuclear launch codes and demands endless pizza.",
               "sentence_ru": "Наглый енот крадет коды ядерного запуска и требует бесконечную пиццу.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky raccoon stole my last taco and didn't even regret it.",
-              "sentence_ru": "Этот наглый енот украл мой последний тако и даже не пожалел об этом.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 994337,
+          "due_tick": 994443,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-18T08:40:09.029609+00:00",
-          "pending_msg": 606,
+          "last_sent_at": "2026-09-20T13:30:23.573914+00:00",
+          "pending_msg": 664,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994394,
+      "last_deliver_tick": 994395,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We need to ramp up production before the boss finds out we haven't done shit.",
+              "sentence_ru": "Нам нужно нарастить производство, пока босс не узнал, что мы ни хрена не сделали.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Management will ramp up the noise from drills if you don't pay your utility bills.",
               "sentence_ru": "Управляющая компания начнет наращивать шум от дрелей, если вы не заплатите за коммуналку.",
               "word_form": "ramp up"
@@ -1480,20 +1485,15 @@
               "sentence": "Human, ramp up production of my salmon paté immediately or face my wrath.",
               "sentence_ru": "Человек, немедленно наращивай производство моего лососевого паштета, иначе столкнешься с моим гневом.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "I need to ramp up my daily caffeine intake before my boss destroys my soul.",
-              "sentence_ru": "Мне нужно нарастить ежедневную дозу кофеина, прежде чем босс уничтожит мою душу.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994336,
+          "due_tick": 994443,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-18T08:00:14.129807+00:00",
-          "pending_msg": 603,
+          "last_sent_at": "2026-09-20T13:30:24.809382+00:00",
+          "pending_msg": 665,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994394,
+      "last_deliver_tick": 994395,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
