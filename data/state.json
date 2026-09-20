@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop crying in the compound, Dwight, or I will feed you to the warehouse cats.",
+              "sentence_ru": "Хватит плакать на территории комплекса, Дуайт, а то я скормлю тебя складским котам.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Mutated raccoons built a secret compound under the nuclear brewery to brew chaos.",
               "sentence_ru": "Мутировавшие еноты построили секретный комплекс под ядерной пивоварней, чтобы варить хаос.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Your broken washing machine in this compound is flooding my ceiling with pure misery!",
               "sentence_ru": "Ваша сломанная стиралка в этом жилом комплексе затопляет мой потолок чистейшим несчастьем!",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Do not throw your stale babushka into the chemical compound behind the dumpster!",
-              "sentence_ru": "Не бросайте свою залежалую бабушку в химический компаунд за мусорным контейнером!",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994338,
+          "due_tick": 994444,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-18T09:00:08.854032+00:00",
-          "pending_msg": 608,
+          "last_sent_at": "2026-09-20T14:00:13.925531+00:00",
+          "pending_msg": 666,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994395,
+      "last_deliver_tick": 994396,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Do not impose your weird vegan rules on neighbors, or we will glue your doors shut.",
+              "sentence_ru": "Не навязывайте соседям свои странные веганские правила, иначе мы заклеим вам двери.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Don't try to impose your weird vegan diet on me, human.",
               "sentence_ru": "Не пытайся навязывать мне свою странную веганскую диету, человек.",
               "word_form": "impose"
@@ -1521,20 +1526,15 @@
               "sentence": "Why must the universe constantly impose its idiotic destiny upon my bleeding soul?",
               "sentence_ru": "Почему вселенная постоянно навязывает свою идиотскую судьбу моей кровоточащей душе?",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Mars will force you to impose your weird vegan diet on stray cats tomorrow.",
-              "sentence_ru": "Марс заставит тебя навязывать твою странную веганскую диету бродячим котам завтра.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 994337,
+          "due_tick": 994444,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-18T08:40:10.322984+00:00",
-          "pending_msg": 607,
+          "last_sent_at": "2026-09-20T14:00:15.331472+00:00",
+          "pending_msg": 667,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994395,
+      "last_deliver_tick": 994396,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
