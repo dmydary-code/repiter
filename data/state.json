@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex is looking slightly more miserable, and honestly, that is my skincare routine.",
+              "sentence_ru": "Моя бывшая выглядит слегка более несчастной, и, честно говоря, это мой уход за кожей.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "Your favorite cashmere sweater is now slightly chewed, just like your dignity.",
               "sentence_ru": "Твой любимый кашемировый свитер теперь слегка пожеван, прямо как твое достоинство.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "I look like a homeless wizard, but my ego is only slightly bruised.",
               "sentence_ru": "Я выгляжу как бездомный волшебник, но моё эго пострадало лишь слегка.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "Neighbor's techno is slightly shaking my skull at 3 AM again.",
-              "sentence_ru": "Техно соседа снова слегка сотрясает мой череп в 3 часа ночи.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 994335,
+          "due_tick": 994432,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-18T07:30:13.425140+00:00",
-          "pending_msg": 600,
+          "last_sent_at": "2026-09-20T08:00:18.574524+00:00",
+          "pending_msg": 644,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994383,
+      "last_deliver_tick": 994384,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant cyborg pigeons adjust their laser eyes to vaporize local mayors.",
+              "sentence_ru": "Мутанты-киборги голуби настраивают свои лазерные глаза, чтобы испарить местных мэров.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Mutants must urgently adjust their alien tentacles before the intergalactic tax inspection arrives.",
               "sentence_ru": "Мутантам нужно срочно настроить свои инопланетные щупальца до прихода межгалактической налоговой инспекции.",
               "word_form": "adjust"
@@ -1316,20 +1321,15 @@
               "sentence": "I had to adjust the straps so this cursed bra wouldn't choke my fat cats.",
               "sentence_ru": "Мне пришлось отрегулировать лямки, чтобы этот проклятый лифчик не душил моих жирных котов.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "I had to adjust the straps so my cat couldn't escape his tactical vest.",
-              "sentence_ru": "Мне пришлось отрегулировать ремни, чтобы мой кот не смог сбежать из своего тактического жилета.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 994334,
+          "due_tick": 994432,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-18T07:00:15.711372+00:00",
-          "pending_msg": 599,
+          "last_sent_at": "2026-09-20T08:00:19.790167+00:00",
+          "pending_msg": 645,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994383,
+      "last_deliver_tick": 994384,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
