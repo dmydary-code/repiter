@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Be humble, human, and maybe I will let you clean my royal litter box.",
+              "sentence_ru": "Будь скромнее, человек, и, может быть, я позволю тебе убрать мой королевский лоток.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "My absolute genius must somehow fit into this humble cardboard box.",
               "sentence_ru": "Мой абсолютный гений должен как-то поместиться в эту скромную картонную коробку.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Be more humble, human, and maybe I won't puke in your shoes tonight.",
               "sentence_ru": "Будь скромнее, кожаный, и, может быть, я не натошню тебе в туфли сегодня ночью.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even when wearing a crown made of raw meat, the king tried to stay humble.",
-              "sentence_ru": "Даже когда королева надевала корону из сырого мяса, король старался оставаться скромным.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 994336,
+          "due_tick": 994433,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-18T08:00:12.975386+00:00",
-          "pending_msg": 602,
+          "last_sent_at": "2026-09-20T08:30:21.942018+00:00",
+          "pending_msg": 646,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994384,
+      "last_deliver_tick": 994385,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My brain tends to seize up whenever my toxic ex tries to flirt.",
+              "sentence_ru": "Мой мозг обычно клинит каждый раз, когда мой токсичный бывший пытается флиртовать.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My brain started to seize up the exact second my toxic ex asked me for life advice.",
               "sentence_ru": "Мой мозг начал клинить в ту самую секунду, когда мой токсичный бывший попросил совета по жизни.",
               "word_form": "to seize up"
@@ -1439,20 +1444,15 @@
               "sentence": "Your ex's brain will totally seize up when they see you winning at life tomorrow.",
               "sentence_ru": "Мозг твоего бывшего полностью заклинит, когда он увидит завтра, как ты преуспеваешь.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "Your ex's brain will totally seize up when they see you winning at life tomorrow.",
-              "sentence_ru": "Мозг твоего бывшего полностью заклинит завтра, когда он увидит, как ты преуспеваешь.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 994335,
+          "due_tick": 994433,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-18T07:30:14.608253+00:00",
-          "pending_msg": 601,
+          "last_sent_at": "2026-09-20T08:30:23.073426+00:00",
+          "pending_msg": 647,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994384,
+      "last_deliver_tick": 994385,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-20",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
