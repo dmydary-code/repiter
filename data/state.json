@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Remember how we hit it off at that weird furry convention? Anyway, unblock me.",
+              "sentence_ru": "Помнишь, как мы сразу сошлись на том странном фурри-конвенте? Короче, разблокируй меня.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Tomorrow you and a stray raccoon will hit it off and rob a bank together.",
               "sentence_ru": "Завтра ты и бродячий енот сразу поладите и вместе ограбите банк.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Me and the new vacuum cleaner hit it off immediately, screaming in terror together.",
               "sentence_ru": "Я и новый пылесос сразу сошлись, визжа от ужаса вдвоем.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "The new CEO and the office printer hit it off immediately by setting fire to the breakroom.",
-              "sentence_ru": "Новый гендиректор и офисный принтер сразу нашли общий язык, устроив пожар в комнате отдыха.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 994394,
+          "due_tick": 994484,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T13:01:55.198885+00:00",
-          "pending_msg": 634,
+          "last_sent_at": "2026-09-21T10:00:11.453361+00:00",
+          "pending_msg": 684,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994435,
+      "last_deliver_tick": 994436,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Neighbor from 48 flat decided to emerge from his cave and scream at our chat.",
+              "sentence_ru": "Сосед из 48 квартиры решил вылезти из своей пещеры и орать в наш чат.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "Did Kevin just emerge from the ceiling tiles with a half-eaten burrito?",
               "sentence_ru": "Кевин только что вылез из потолочной плитки с наполовину съеденным буррито?",
               "word_form": "emerge"
@@ -988,20 +993,15 @@
               "sentence": "Mutant lobsters plan to emerge from the sewer and demand voting rights.",
               "sentence_ru": "Мутировавшие омары планируют вылезти из канализации и потребовать избирательные права.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "My ex had to emerge from the bushes just to ruin my selfie.",
-              "sentence_ru": "Моему бывшему пришлось вылезти из кустов только для того, чтобы испортить мое селфи.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 994386,
+          "due_tick": 994484,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-09-19T09:00:25.592720+00:00",
-          "pending_msg": 627,
+          "last_sent_at": "2026-09-21T10:00:12.779586+00:00",
+          "pending_msg": 685,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994435,
+      "last_deliver_tick": 994436,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
