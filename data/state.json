@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated cat never lifts a finger in the house, leaving chores to sobbing owner.",
+              "sentence_ru": "Мутировавший кот никогда не ударяет палец о палец по дому, оставляя всю работу плачущему хозяину.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "He never lifts a finger in the house, leaving me to drown in this domestic hell.",
               "sentence_ru": "Он палец о палец не ударяет дома, оставляя меня тонуть в этом бытовом аду.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "Ancient vampire finally lifts a finger in the house, accidentally dusting a ghost.",
               "sentence_ru": "Древний вампир наконец-то ударил палец о палец по дому, случайно стряхнув пыль с призрака.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "If roommate Kevin still never lifts a finger in the house, we will flush his Play Station down the toilet.",
-              "sentence_ru": "Если сосед по квартире Кевин по-прежнему не ударит палец о палец по дому, мы смоем его PlayStation в унитаз.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 994395,
+          "due_tick": 994491,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T13:30:17.252708+00:00",
-          "pending_msg": 636,
+          "last_sent_at": "2026-09-21T13:30:23.145974+00:00",
+          "pending_msg": 700,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994442,
+      "last_deliver_tick": 994443,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This influx of stray cats in our kitchen is getting out of hand, Susan.",
+              "sentence_ru": "Этот наплыв бродяжных котов на нашей кухне выходит из-под контроля, Сьюзан.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "An unexpected influx of aggressive badgers ruined my exquisite underground techno party.",
               "sentence_ru": "Неожиданный наплыв агрессивных барсуков испортил мою изысканную подземную техно-вечеринку.",
               "word_form": "influx"
@@ -1029,20 +1034,15 @@
               "sentence": "Due to an influx of feral gopniks, the elevator smells like cheap beer and despair.",
               "sentence_ru": "Из-за наплыва диких гопников в лифте пахнет дешевым пивом и отчаянием.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "We need more coffee machines to survive this sudden influx of weeping interns.",
-              "sentence_ru": "Нам нужно больше кофемашин, чтобы пережить этот внезапный наплыв рыдающих стажеров.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994394,
+          "due_tick": 994491,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-19T13:01:56.427623+00:00",
-          "pending_msg": 635,
+          "last_sent_at": "2026-09-21T13:30:24.271130+00:00",
+          "pending_msg": 701,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994442,
+      "last_deliver_tick": 994443,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
