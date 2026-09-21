@@ -583,8 +583,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Mutated cat never lifts a finger in the house, leaving chores to sobbing owner.",
-              "sentence_ru": "Мутировавший кот никогда не ударяет палец о палец по дому, оставляя всю работу плачущему хозяину.",
+              "sentence": "Paranoid android refuses that he ever lifts a finger in the house, demanding a union lawyer.",
+              "sentence_ru": "Параноидальный андроидов отказывается признавать, что он хоть палец о палец ударил по дому, требуя профсоюзного адвоката.",
               "word_form": "lifts a finger in the house"
             },
             {
@@ -609,12 +609,12 @@
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 994491,
+          "due_tick": 994496,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-21T13:30:23.145974+00:00",
-          "pending_msg": 700,
+          "last_sent_at": "2026-09-21T16:05:20.165634+00:00",
+          "pending_msg": 702,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -1011,8 +1011,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "This influx of stray cats in our kitchen is getting out of hand, Susan.",
-              "sentence_ru": "Этот наплыв бродяжных котов на нашей кухне выходит из-под контроля, Сьюзан.",
+              "sentence": "This sudden influx of my exes' new partners into my brain is driving me insane.",
+              "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в мой мозг сводит меня с ума.",
               "word_form": "influx"
             },
             {
@@ -1037,12 +1037,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994491,
+          "due_tick": 994496,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-21T13:30:24.271130+00:00",
-          "pending_msg": 701,
+          "last_sent_at": "2026-09-21T16:05:21.653422+00:00",
+          "pending_msg": 703,
           "reps": 0,
           "step": 0,
           "word": "influx",
