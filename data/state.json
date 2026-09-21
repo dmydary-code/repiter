@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever you throw garbage out the window, a stray cat loses its last shred of dignity.",
+              "sentence_ru": "Всякий раз, когда вы выбрасываете мусор в окно, бездомный кот теряет последние крохи достоинства.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "This weird guy stares at me through the window whenever I eat mayonnaise with a spoon.",
               "sentence_ru": "Этот странный чувак пялится на меня в окно всякий раз, когда я ем майонез ложкой.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever Chad speaks in meetings, my soul slowly crawls out of my pants.",
               "sentence_ru": "Всякий раз, когда Чад говорит на совещаниях, моя душа медленно вылезает из штанов.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "My cat stares into the void and hisses whenever I try to sleep.",
-              "sentence_ru": "Мой кот пялится в пустоту и шипит всякий раз, когда я пытаюсь уснуть.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 994384,
+          "due_tick": 994487,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T08:00:19.401066+00:00",
-          "pending_msg": 622,
+          "last_sent_at": "2026-09-21T11:30:03.871121+00:00",
+          "pending_msg": 692,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994438,
+      "last_deliver_tick": 994439,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that mutant pigeons have successfully seized control of the local mayor.",
+              "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили контроль над местным мэром.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that mutant pigeons have successfully seized control of the local mayor's office.",
               "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили контроль над мэрией.",
               "word_form": "It seems to me"
@@ -1234,20 +1239,15 @@
               "sentence": "It seems to me that someone is stealing cat food from the porch again.",
               "sentence_ru": "Мне кажется, что кто-то снова ворует кошачий корм из подъезда.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that the mayor's stolen wig is now running for congress.",
-              "sentence_ru": "Мне кажется, что украденный паричок мэра теперь баллотируется в конгресс.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 994383,
+          "due_tick": 994487,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-19T07:30:18.158552+00:00",
-          "pending_msg": 621,
+          "last_sent_at": "2026-09-21T11:30:05.068206+00:00",
+          "pending_msg": 693,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994438,
+      "last_deliver_tick": 994439,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
