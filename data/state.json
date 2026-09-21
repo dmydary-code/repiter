@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad didn't mince words when he told HR why he was stealing staplers.",
+              "sentence_ru": "Чад не подбирал выражения, когда объяснял кадрам, почему он ворует степлеры.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I won't mince words at 3 AM: your new boyfriend looks like a toasted potato.",
               "sentence_ru": "Я не буду церемониться в три часа ночи: твой новый парень выглядит как подгорелая картошка.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "He didn't mince words when he told the cat it was adopted.",
               "sentence_ru": "Он не стал подбирать выражения, когда сказал коту, что его усыновили.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I won't mince words anymore; your soul is as cheap as a gas station hot dog.",
-              "sentence_ru": "Я больше не буду подбирать выражения; твоя душа дешевле хот-дога на заправке.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 994386,
+          "due_tick": 994489,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T09:00:24.478422+00:00",
-          "pending_msg": 626,
+          "last_sent_at": "2026-09-21T12:30:27.566149+00:00",
+          "pending_msg": 696,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994440,
+      "last_deliver_tick": 994441,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,6 +806,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop discussing Aunt Klava's lover, your gossip is eroding the entire building's Wi-Fi.",
+              "sentence_ru": "Хватит обсуждать любовника тети Клавьи, ваши сплетни разъедают вайфай всего дома.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "I know you are awake, stop spreading gossip about my new sugar daddy and answer me.",
               "sentence_ru": "Я знаю, что ты не спишь, хватит распускать сплетни о моем новом папике и ответь мне.",
               "word_form": "gossip"
@@ -824,20 +829,15 @@
               "sentence": "Tomorrow your ex will start a toxic gossip about your new zodiac sign.",
               "sentence_ru": "Завтра твой бывший начнет токсичную сплетню про твой новый знак зодиака.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "My cat stopped eating wet food just to spread neighborhood gossip about the dog.",
-              "sentence_ru": "Мой кот перестал есть влажный корм только для того, чтобы распускать дворовые сплетни про собаку.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 994385,
+          "due_tick": 994489,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-19T08:30:23.273909+00:00",
-          "pending_msg": 625,
+          "last_sent_at": "2026-09-21T12:30:29.097681+00:00",
+          "pending_msg": 697,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994440,
+      "last_deliver_tick": 994441,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
