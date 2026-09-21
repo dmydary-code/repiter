@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will undermine your boss's career while you eat chips on the sofa.",
+              "sentence_ru": "Марс подорвет карьеру твоего босса, пока ты жрешь чипсы на диване.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "My talking hamster tried to undermine the living room floor with a tiny plastic spoon.",
               "sentence_ru": "Мой говорящий хомяк попытался подорвать пол в гостиной крошечной пластиковой ложкой.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Her secret midnight snacks constantly undermine my authority as the strict, terrifying household dictator.",
               "sentence_ru": "Её тайные ночные перекусы постоянно подрывают мой авторитет строгого, ужасающего домашнего диктатора.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "My emotional cat tried to undermine my marriage by whispering treason into my husband's ear.",
-              "sentence_ru": "Мой эмоциональный кот пытался подорвать мой брак, шепча измену на ухо моему мужу.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 994382,
+          "due_tick": 994485,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T07:21:20.751557+00:00",
-          "pending_msg": 618,
+          "last_sent_at": "2026-09-21T10:30:10.517027+00:00",
+          "pending_msg": 688,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994436,
+      "last_deliver_tick": 994437,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,6 +847,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local stray cats manage to flourish after eating pure plutonium found behind the reactor.",
+              "sentence_ru": "Местные бродячие коты ухитряются процветать после поедания чистого плутония, найденного за реактором.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "While our ceiling is leaking, the mold in the hallway continues to flourish.",
               "sentence_ru": "Пока у нас протекает потолок, плесень в коридоре продолжает процветать.",
               "word_form": "flourish"
@@ -865,20 +870,15 @@
               "sentence": "I see you continue to flourish while I am crying alone on the bathroom floor.",
               "sentence_ru": "Я вижу, ты продолжаешь процветать, пока я плачу в одиночестве на полу в ванной.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "I see you continue to flourish while I am crying alone on the bathroom floor.",
-              "sentence_ru": "Я вижу, ты продолжаешь процветать, пока я плачу в одиночестве на полу в ванной.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 994341,
+          "due_tick": 994485,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-18T10:30:23.765398+00:00",
-          "pending_msg": 615,
+          "last_sent_at": "2026-09-21T10:30:11.811790+00:00",
+          "pending_msg": 689,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994436,
+      "last_deliver_tick": 994437,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
