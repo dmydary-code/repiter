@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The raccoon set heart on stealing my grandma's explosive dentures tonight.",
+              "sentence_ru": "Этот енот сегодня твердо нацелился украсть бабушкину взрывоопасную вставную челюсть.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Karen has set her heart on stealing the last gluten-free muffin from the breakroom.",
               "sentence_ru": "Карен твердо нацелилась украсть последний безглютеновый маффин из комнаты отдыха.",
               "word_form": "set her heart on"
@@ -478,20 +483,15 @@
               "sentence": "Aries, you set heart on stealing your boss's chair, but you will just sit on a thumbtack.",
               "sentence_ru": "Овен, ты страстно желаешь украсть стул твоего босса, но просто сядешь на канцелярскую кнопку.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "I set heart on ruining your new wedding, just like you ruined my crypto portfolio.",
-              "sentence_ru": "Я страстно желаю испортить твою новую свадьбу, прямо как ты испортил мой криптопортфель.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 994385,
+          "due_tick": 994482,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-19T08:30:22.163144+00:00",
-          "pending_msg": 624,
+          "last_sent_at": "2026-09-21T09:00:17.667598+00:00",
+          "pending_msg": 680,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994433,
+      "last_deliver_tick": 994434,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Attention! The suspicious cat must undergo an urgent exorcism behind dumpster number 4.",
+              "sentence_ru": "Внимание! Этот подозрительный кот должен срочно подвергнуться изгнанию бесов за мусоркой номер 4.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "My ex-boyfriend had to undergo emergency therapy after reading my brutal review about his cooking.",
               "sentence_ru": "Моему бывшему парню пришлось пройти экстренную терапию после чтения моего жесткого отзыва о его стряпне.",
               "word_form": "undergo"
@@ -947,20 +952,15 @@
               "sentence": "My lazy neighbor finally has to undergo a psychiatric evaluation after barking at the elevator.",
               "sentence_ru": "Мой ленивый сосел наконец должен пройти психиатрическое освидетельствование после лая на лифт.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
-              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить мое имя.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 994384,
+          "due_tick": 994482,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-19T08:00:20.584481+00:00",
-          "pending_msg": 623,
+          "last_sent_at": "2026-09-21T09:00:18.918763+00:00",
+          "pending_msg": 681,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994433,
+      "last_deliver_tick": 994434,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
