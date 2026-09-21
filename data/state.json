@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Don't let my new sugar daddy discorage you from sending me rent money.",
+              "sentence_ru": "Пусть мой новый папик не отговаривает тебя присылать мне деньги за аренду.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Don't let my new sugar daddy discorage you from loving me at 3 AM.",
               "sentence_ru": "Не позволяй моему новому папику отговаривать тебя любить меня в три часа ночи.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Trying to diet when my grandma bakes pies will totally discorage me.",
               "sentence_ru": "Пытаться сидеть на диете, когда бабушка печет пироги, меня полностью разочарует.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Please do not discorage our stray cat from sleeping on the lobby rug.",
-              "sentence_ru": "Пожалуйста, не отговаривайте нашего бродячего кота спать на коврике в вестибюле.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994341,
+          "due_tick": 994478,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-18T10:30:22.593303+00:00",
-          "pending_msg": 614,
+          "last_sent_at": "2026-09-21T07:00:05.082136+00:00",
+          "pending_msg": 672,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994402,
+      "last_deliver_tick": 994430,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -723,6 +723,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "My soul is as drab as a soggy cardboard box in the rain.",
+              "sentence_ru": "Моя душа такая же унылая, как раскисшая картонная коробка под дождем.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My ex's soul is less drab than this hideous beige hoodie from Zara.",
               "sentence_ru": "Душа моего бывшего менее унылая, чем эта отвратительная бежевая худи из Зары.",
@@ -742,20 +747,15 @@
               "sentence": "My ex's personality is so drab that even a wall paint feels suicidal.",
               "sentence_ru": "Характер моего бывшего настолько унылый, что даже краска на стене хочет покончить с собой.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Why are our hallway walls painted in such a drab color that makes me want to cry?",
-              "sentence_ru": "Почему стены нашего коридора покрашены в такой унылый цвет, от которого хочется плакать?",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994340,
+          "due_tick": 994478,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-09-18T10:00:14.457172+00:00",
-          "pending_msg": 613,
+          "last_sent_at": "2026-09-21T07:00:06.224159+00:00",
+          "pending_msg": 673,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994402,
+      "last_deliver_tick": 994430,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-21",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
