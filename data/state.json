@@ -173,8 +173,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Tomorrow you will accidentally trap your ex inside a concrete compound.",
-              "sentence_ru": "Завтра ты случайно замуруешь бывшего в бетонном укрепрайоне.",
+              "sentence": "My therapists hidden bunker is a secret compound filled with stolen tears and cheap gin.",
+              "sentence_ru": "Скрытый бункер моего психотерапевта — это секретный компаунд, наполненный крадеными слезами и дешевым джином.",
               "word_form": "compound"
             },
             {
@@ -199,12 +199,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994536,
+          "due_tick": 994541,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T12:00:35.128716+00:00",
-          "pending_msg": 726,
+          "last_sent_at": "2026-09-22T14:48:26.538348+00:00",
+          "pending_msg": 730,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -213,11 +213,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Mars in Taurus will devastate your ex's new bank account and your leftover pizza.",
-              "sentence_ru": "Марс в Тельце опустошит банковский счет твоего бывшего и твою остатки пиццы.",
-              "word_form": "devastate"
-            },
             {
               "sentence": "My ex's new haircut managed to completely devastate my last remaining shreds of faith in humanity.",
               "sentence_ru": "Новая стрижка моего бывшего умудрилась полностью опустошить мои последние оставшиеся крохи веры в человечество.",
@@ -237,15 +232,20 @@
               "sentence": "Karen will totally devastate the office fridge if someone touches her oat milk again.",
               "sentence_ru": "Карен полностью разнесет офисный холодильник, если кто-нибудь снова тронет ее овсяное молоко.",
               "word_form": "devastate"
+            },
+            {
+              "sentence": "A rogue raccoon with a chainsaw can devastate your kitchen in three minutes.",
+              "sentence_ru": "Безумный енот с бензопилой может полностью разнести вашу кухню за три минуты.",
+              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 994537,
+          "due_tick": 994445,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T12:30:16.503833+00:00",
-          "pending_msg": 728,
+          "last_sent_at": "2026-09-20T14:30:26.620485+00:00",
+          "pending_msg": 668,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,8 +1462,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Management will ramp up the noise of drills at 6 AM because your hangover is too quiet.",
-              "sentence_ru": "Управляющая компания усилит шум дрелей в 6 утра, потому что ваше похмелье слишком тихое.",
+              "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
+              "sentence_ru": "Чел был вынужден нарастить дозу кофеина, просто чтобы выжить в понедельник утром.",
               "word_form": "ramp up"
             },
             {
@@ -1488,12 +1488,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994536,
+          "due_tick": 994541,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-22T12:00:36.840629+00:00",
-          "pending_msg": 727,
+          "last_sent_at": "2026-09-22T14:49:44.353749+00:00",
+          "pending_msg": 731,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1502,11 +1502,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "My cat tried to impose a strict meat-only tax on my paycheck.",
-              "sentence_ru": "Мой кот попытался наложить строгий мясолютный налог на мою зарплату.",
-              "word_form": "impose"
-            },
             {
               "sentence": "Do not impose your weird vegan rules on neighbors, or we will glue your doors shut.",
               "sentence_ru": "Не навязывайте соседям свои странные веганские правила, иначе мы заклеим вам двери.",
@@ -1526,15 +1521,20 @@
               "sentence": "My cat tried to impose a strict meat-only tax on my paycheck.",
               "sentence_ru": "Мой кот попытался навязать строгий мясной налог на мою зарплату.",
               "word_form": "impose"
+            },
+            {
+              "sentence": "Why must the universe constantly impose its idiotic destiny upon my bleeding soul?",
+              "sentence_ru": "Почему вселенная постоянно навязывает свою идиотскую судьбу моей кровоточащей душе?",
+              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 994537,
+          "due_tick": 994444,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-22T12:30:18.218722+00:00",
-          "pending_msg": 729,
+          "last_sent_at": "2026-09-20T14:00:15.331472+00:00",
+          "pending_msg": 667,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1548,7 +1548,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
