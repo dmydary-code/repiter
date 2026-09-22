@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you will accidentally trap your ex inside a concrete compound.",
+              "sentence_ru": "Завтра ты случайно замуруешь бывшего в бетонном укрепрайоне.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Stop crying in the compound, Dwight, or I will feed you to the warehouse cats.",
               "sentence_ru": "Хватит плакать на территории комплекса, Дуайт, а то я скормлю тебя складским котам.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My terrible choices compound daily into a fortress of pure, magnificent regret.",
               "sentence_ru": "Мои ужасные выборы ежедневно усугубляются в крепость чистого, величественного сожаления.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Your broken washing machine in this compound is flooding my ceiling with pure misery!",
-              "sentence_ru": "Ваша сломанная стиралка в этом жилом комплексе затопляет мой потолок чистейшим несчастьем!",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994444,
+          "due_tick": 994536,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-20T14:00:13.925531+00:00",
-          "pending_msg": 666,
+          "last_sent_at": "2026-09-22T12:00:35.128716+00:00",
+          "pending_msg": 726,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994487,
+      "last_deliver_tick": 994488,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Management will ramp up the noise of drills at 6 AM because your hangover is too quiet.",
+              "sentence_ru": "Управляющая компания усилит шум дрелей в 6 утра, потому что ваше похмелье слишком тихое.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "We need to ramp up production before the boss finds out we haven't done shit.",
               "sentence_ru": "Нам нужно нарастить производство, пока босс не узнал, что мы ни хрена не сделали.",
               "word_form": "ramp up"
@@ -1480,20 +1485,15 @@
               "sentence": "I need to ramp up my therapy so I stop texting you at 3 AM.",
               "sentence_ru": "Мне нужно усилить терапию, чтобы перестать писать тебе в три часа ночи.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Human, ramp up production of my salmon paté immediately or face my wrath.",
-              "sentence_ru": "Человек, немедленно наращивай производство моего лососевого паштета, иначе столкнешься с моим гневом.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994443,
+          "due_tick": 994536,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-20T13:30:24.809382+00:00",
-          "pending_msg": 665,
+          "last_sent_at": "2026-09-22T12:00:36.840629+00:00",
+          "pending_msg": 727,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994487,
+      "last_deliver_tick": 994488,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
