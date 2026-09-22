@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky cat stole my wig while I was sleeping and wore it like a crown.",
+              "sentence_ru": "Этот дерзкий кот украл мой парик, пока я спал, и надел его как корону.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "A cheeky raccoon stole the pope's hat and posted a selfie on TikTok.",
               "sentence_ru": "Наглый енот украл шляпу папы римского и выложил селфи в TikTok.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "The cheeky raccoon stole my toupee and wore it like a tiny majestic crown.",
               "sentence_ru": "Этот дерзкий енот украл мой парик и носил его как крошечную величественную корону.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "A cheeky raccoon steals nuclear launch codes and demands endless pizza.",
-              "sentence_ru": "Наглый енот крадет коды ядерного запуска и требует бесконечную пиццу.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 994443,
+          "due_tick": 994535,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-20T13:30:23.573914+00:00",
-          "pending_msg": 664,
+          "last_sent_at": "2026-09-22T11:30:21.350310+00:00",
+          "pending_msg": 724,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994486,
+      "last_deliver_tick": 994487,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your brain will seize up if you buy me cheap food again.",
+              "sentence_ru": "Твой мозг заклинит, если ты опять купишь мне дешёвую еду.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My elevator door decided to seize up right when I was holding three heavy pizza boxes.",
               "sentence_ru": "Дверь моего лифта решила заклинить как раз тогда, когда я держал три тяжелые коробки с пиццей.",
               "word_form": "to seize up"
@@ -1439,20 +1444,15 @@
               "sentence": "My grandfather tried to break into his own safe, but his brain completely seized up.",
               "sentence_ru": "Мой дед попытался взломать собственный сейф, но его мозг окончательно заклинило.",
               "word_form": "seized up"
-            },
-            {
-              "sentence": "Your ex's brain will totally seize up when they see you winning at life tomorrow.",
-              "sentence_ru": "Мозг твоего бывшего полностью заклинит, когда он увидит завтра, как ты преуспеваешь.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 994442,
+          "due_tick": 994535,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-20T13:00:12.177697+00:00",
-          "pending_msg": 663,
+          "last_sent_at": "2026-09-22T11:30:22.698861+00:00",
+          "pending_msg": 725,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994486,
+      "last_deliver_tick": 994487,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
