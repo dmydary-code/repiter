@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Just acquired a rare skull on black market, feeling cute, might delete later.",
+              "sentence_ru": "Только что приобрел редкий череп на черном рынке, чувствую себя милашно, может удалю позже.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That acquired taste in cheap scotch makes you look like a desperate divorcee.",
               "sentence_ru": "Этот приобретенный вкус к дешевому виски делает тебя похожим на отчаявшуюся разведенку.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "Your acquired taste for expensive booze will finally ruin your ex's credit card.",
               "sentence_ru": "Твой приобретенный вкус к дорогому бухлу наконец-то разорит кредитку твоего бывшего.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Your acquired paranoia will finally help you dodge a falling piano tomorrow.",
-              "sentence_ru": "Твоя приобретенная паранойя завтра наконец-то поможет тебе увернуться от падающего пианино.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 994439,
+          "due_tick": 994531,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-20T11:43:32.442312+00:00",
-          "pending_msg": 656,
+          "last_sent_at": "2026-09-22T09:30:16.364678+00:00",
+          "pending_msg": 716,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994482,
+      "last_deliver_tick": 994483,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, Scorpio, tomorrow you will accidentally overthrow a small government before your morning coffee.",
+              "sentence_ru": "В общем и целом, Скорпион, завтра ты случайно свергнешь небольшое правительство еще до утреннего кофе.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, my stolen TV still smells like your weird roommate's armpits.",
               "sentence_ru": "В целом, мой украденный телевизор до сих пор пахнет подмышками твоего странного соседа по комнате.",
               "word_form": "By and large"
@@ -1111,20 +1116,15 @@
               "sentence": "By and large, my stolen toaster enjoyed its bath in the neighbor's soup.",
               "sentence_ru": "В общем и целом, моему краденому тостеру понравилась ванна в супе у соседа.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, human, your pathetic attempts at cooking are almost edible today.",
-              "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки готовить сегодня почти съедобны.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 994396,
+          "due_tick": 994531,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-19T14:00:21.574572+00:00",
-          "pending_msg": 639,
+          "last_sent_at": "2026-09-22T09:30:18.095036+00:00",
+          "pending_msg": 717,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994482,
+      "last_deliver_tick": 994483,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
