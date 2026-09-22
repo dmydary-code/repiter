@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will encorage you to steal your boss's chair and howl at the moon tomorrow.",
+              "sentence_ru": "Марс подбодрит тебя украсть стул твоего босса и завыть на луну завтра.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My inner demons encorage me to burn this wretched diary and dance on the ashes.",
               "sentence_ru": "Мои внутренние демоны поощряют меня сжечь этот проклятый дневник и станцевать на пепле.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My inner demon will always encorage me to eat pizza at 3 AM.",
               "sentence_ru": "Мой внутренний демон всегда будет подбадривать меня сожрать пиццу в 3 часа ночи.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My inner demons encorage me to steal the entire bakery at 3 AM.",
-              "sentence_ru": "Мои внутренние демоны подбадривают меня украсть всю пекарню в три часа ночи.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 994440,
+          "due_tick": 994528,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-20T12:00:10.404705+00:00",
-          "pending_msg": 658,
+          "last_sent_at": "2026-09-22T08:00:16.610095+00:00",
+          "pending_msg": 708,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994479,
+      "last_deliver_tick": 994480,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that my exes are plotting world domination from a group chat.",
+              "sentence_ru": "Я склонен думать, что мои бывшие планируют захват мира из общего чата.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that my ex-cat is plotting my murder from space.",
               "sentence_ru": "Я склоняюсь к тому, что мой бывший кот планирует мое убийство из космоса.",
               "word_form": "I'm inclined to think that"
@@ -1275,20 +1280,15 @@
               "sentence": "I'm inclined to think that this wig was made from a stray cat.",
               "sentence_ru": "Я склоняюсь к мысли, что этот парик сделали из бродячего кота.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that my cat is plotting my murder while I sleep.",
-              "sentence_ru": "Я склонен думать, что мой кот планирует мое убийство, пока я сплю.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 994439,
+          "due_tick": 994528,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-20T11:43:33.898037+00:00",
-          "pending_msg": 657,
+          "last_sent_at": "2026-09-22T08:00:17.757186+00:00",
+          "pending_msg": 709,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994479,
+      "last_deliver_tick": 994480,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
