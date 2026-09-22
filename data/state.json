@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My toaster is slightly possessed, so it burns toast only while screaming.",
+              "sentence_ru": "Мой тостер слегка одержим, поэтому он сжигает хлеб только во время крика.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "Your favorite cashmere sweater is now slightly chewed, just like your dignity.",
               "sentence_ru": "Твой любимый кашемировый свитер теперь слегка погрызен, прямо как твое достоинство.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "My ex is looking slightly more miserable than me, success.",
               "sentence_ru": "Мой бывший выглядит слегка более несчастным, чем я, успех.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "I look like a homeless wizard, but my ego is only slightly bruised.",
-              "sentence_ru": "Я выгляжу как бездомный волшебник, но моё эго пострадало лишь слегка.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 994441,
+          "due_tick": 994533,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-20T12:30:23.549496+00:00",
-          "pending_msg": 660,
+          "last_sent_at": "2026-09-22T10:30:06.159613+00:00",
+          "pending_msg": 720,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994484,
+      "last_deliver_tick": 994485,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I lost my mind, my dignity, and my clothes altogether outside your window.",
+              "sentence_ru": "Я потерял рассудок, достоинство и всю одежду разом под твоим окном.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Tomorrow your ex and their new partner will ruin your life altogether, Aries.",
               "sentence_ru": "Завтра твой бывший и их новый партнер полностью разрушат твою жизнь, Овен.",
               "word_form": "altogether"
@@ -1357,20 +1362,15 @@
               "sentence": "If we lose this client, our department is altogether screwed.",
               "sentence_ru": "Если мы потеряем этого клиента, нашему отделу полный капец.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "We are losing clients, dignity, and sanity altogether thanks to your brilliant strategy.",
-              "sentence_ru": "Мы теряем клиентов, достоинство и рассудок в целом благодаря твоей блестящей стратегии.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994440,
+          "due_tick": 994533,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-20T12:00:11.726901+00:00",
-          "pending_msg": 659,
+          "last_sent_at": "2026-09-22T10:30:07.360451+00:00",
+          "pending_msg": 721,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994484,
+      "last_deliver_tick": 994485,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
