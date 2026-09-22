@@ -9,11 +9,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Even the most arrogant Scorpios must stay humble when their pants split at work.",
-              "sentence_ru": "Даже самым высокомерным Скорпионам придется стать скромнее, когда на работе у них треснут штаны.",
-              "word_form": "humble"
-            },
-            {
               "sentence": "He is so humble that he only brags about being the most modest guy alive.",
               "sentence_ru": "Он настолько скромен, что хвастается лишь тем, что он самый скромный чувак на свете.",
               "word_form": "humble"
@@ -32,15 +27,20 @@
               "sentence": "Even in our humble elevator, neighbor Oleg manages to leave royal stench of cheap beer.",
               "sentence_ru": "Даже в нашем скромном лифте сосед Олег умудряется оставлять королевское смрадье дешевого пива.",
               "word_form": "humble"
+            },
+            {
+              "sentence": "Be more humble, human, and maybe I won't puke in your shoes tonight.",
+              "sentence_ru": "Будь скромнее, кожаный, и, может быть, я не натошню тебе в туфли сегодня ночью.",
+              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 994530,
+          "due_tick": 994442,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T09:00:22.015888+00:00",
-          "pending_msg": 712,
+          "last_sent_at": "2026-09-20T13:00:10.808166+00:00",
+          "pending_msg": 662,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -91,11 +91,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "The sex doll arrived slightly used, but my grandma loved her anyway.",
-              "sentence_ru": "Кукла для секса прибыла слегка б/у, но бабушка все равно ее полюбила.",
-              "word_form": "slightly"
-            },
-            {
               "sentence": "Your favorite cashmere sweater is now slightly chewed, just like your dignity.",
               "sentence_ru": "Твой любимый кашемировый свитер теперь слегка погрызен, прямо как твое достоинство.",
               "word_form": "slightly"
@@ -114,15 +109,20 @@
               "sentence": "My ex is looking slightly more miserable than me, success.",
               "sentence_ru": "Мой бывший выглядит слегка более несчастным, чем я, успех.",
               "word_form": "slightly"
+            },
+            {
+              "sentence": "I look like a homeless wizard, but my ego is only slightly bruised.",
+              "sentence_ru": "Я выгляжу как бездомный волшебник, но моё эго пострадало лишь слегка.",
+              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 994529,
+          "due_tick": 994441,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T08:30:19.076124+00:00",
-          "pending_msg": 710,
+          "last_sent_at": "2026-09-20T12:30:23.549496+00:00",
+          "pending_msg": 660,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -296,11 +296,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Mars will encorage you to steal your boss's chair and howl at the moon tomorrow.",
-              "sentence_ru": "Марс подбодрит тебя украсть стул твоего босса и завыть на луну завтра.",
-              "word_form": "encorage"
-            },
-            {
               "sentence": "My inner demons encorage me to burn this wretched diary and dance on the ashes.",
               "sentence_ru": "Мои внутренние демоны поощряют меня сжечь этот проклятый дневник и станцевать на пепле.",
               "word_form": "encorage"
@@ -319,15 +314,20 @@
               "sentence": "My inner demon will always encorage me to eat pizza at 3 AM.",
               "sentence_ru": "Мой внутренний демон всегда будет подбадривать меня сожрать пиццу в 3 часа ночи.",
               "word_form": "encorage"
+            },
+            {
+              "sentence": "My inner demons encorage me to steal the entire bakery at 3 AM.",
+              "sentence_ru": "Мои внутренние демоны подбадривают меня украсть всю пекарню в три часа ночи.",
+              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 994528,
+          "due_tick": 994440,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T08:00:16.610095+00:00",
-          "pending_msg": 708,
+          "last_sent_at": "2026-09-20T12:00:10.404705+00:00",
+          "pending_msg": 658,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -378,11 +378,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Your acquired taste for expensive whiskey will finally impress a wealthy sugar daddy tomorrow.",
-              "sentence_ru": "Ваш приобретенный вкус к дорогому виски наконец-то впечатлит богатого спонсора завтра.",
-              "word_form": "acquired"
-            },
-            {
               "sentence": "That acquired taste in cheap scotch makes you look like a desperate divorcee.",
               "sentence_ru": "Этот приобретенный вкус к дешевому виски делает тебя похожим на отчаявшуюся разведенку.",
               "word_form": "acquired"
@@ -401,15 +396,20 @@
               "sentence": "Your acquired taste for expensive booze will finally ruin your ex's credit card.",
               "sentence_ru": "Твой приобретенный вкус к дорогому бухлу наконец-то разорит кредитку твоего бывшего.",
               "word_form": "acquired"
+            },
+            {
+              "sentence": "Your acquired paranoia will finally help you dodge a falling piano tomorrow.",
+              "sentence_ru": "Твоя приобретенная паранойя завтра наконец-то поможет тебе увернуться от падающего пианино.",
+              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 994527,
+          "due_tick": 994439,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T07:30:14.003103+00:00",
-          "pending_msg": 706,
+          "last_sent_at": "2026-09-20T11:43:32.442312+00:00",
+          "pending_msg": 656,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -624,8 +624,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Tomorrow you will be rolling in money, so buy a gold toilet and cry.",
-              "sentence_ru": "Завтра ты будешь купаться в деньгах, так что купи золотой унитаз и рыдай.",
+              "sentence": "I'm rolling in money now, but you still sleep alone in your mom's basement.",
+              "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё ещё спишь одна в подвале своей мамы.",
               "word_form": "rolling in money"
             },
             {
@@ -650,12 +650,12 @@
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 994526,
+          "due_tick": 994530,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T07:00:25.170171+00:00",
-          "pending_msg": 704,
+          "last_sent_at": "2026-09-22T09:06:30.587561+00:00",
+          "pending_msg": 714,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 5,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,8 +1052,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Mutant raccoons hijack the subway now and then to commute to their crystal meth lab.",
-              "sentence_ru": "Мутировавшие еноты время от времени угоняют метро, чтобы добраться до своей нарколаборатории.",
+              "sentence": "Chad vomits on the carpet now and then, but HR still won't let us fire him.",
+              "sentence_ru": "Чэд то и дело блещет на ковёр, но отдел кадров всё равно не разрешает нам его уволить.",
               "word_form": "now and then"
             },
             {
@@ -1078,12 +1078,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 994526,
+          "due_tick": 994530,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-22T07:01:03.440802+00:00",
-          "pending_msg": 705,
+          "last_sent_at": "2026-09-22T09:06:31.909749+00:00",
+          "pending_msg": 715,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1092,11 +1092,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "By and large, your new boyfriend looks like a thumb that I could easily crush.",
-              "sentence_ru": "В общем и целом, твой новый парень выглядит как большой палец, который я легко могу раздавить.",
-              "word_form": "By and large"
-            },
             {
               "sentence": "By and large, my stolen TV still smells like your weird roommate's armpits.",
               "sentence_ru": "В целом, мой украденный телевизор до сих пор пахнет подмышками твоего странного соседа по комнате.",
@@ -1116,15 +1111,20 @@
               "sentence": "By and large, my stolen toaster enjoyed its bath in the neighbor's soup.",
               "sentence_ru": "В общем и целом, моему краденому тостеру понравилась ванна в супе у соседа.",
               "word_form": "By and large"
+            },
+            {
+              "sentence": "By and large, human, your pathetic attempts at cooking are almost edible today.",
+              "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки готовить сегодня почти съедобны.",
+              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 994527,
+          "due_tick": 994396,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-22T07:30:15.053231+00:00",
-          "pending_msg": 707,
+          "last_sent_at": "2026-09-19T14:00:21.574572+00:00",
+          "pending_msg": 639,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1257,11 +1257,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I'm inclined to think that my exes are plotting world domination from a group chat.",
-              "sentence_ru": "Я склонен думать, что мои бывшие планируют захват мира из общего чата.",
-              "word_form": "I'm inclined to think that"
-            },
-            {
               "sentence": "I'm inclined to think that my ex-cat is plotting my murder from space.",
               "sentence_ru": "Я склоняюсь к тому, что мой бывший кот планирует мое убийство из космоса.",
               "word_form": "I'm inclined to think that"
@@ -1280,15 +1275,20 @@
               "sentence": "I'm inclined to think that this wig was made from a stray cat.",
               "sentence_ru": "Я склоняюсь к мысли, что этот парик сделали из бродячего кота.",
               "word_form": "I'm inclined to think that"
+            },
+            {
+              "sentence": "I'm inclined to think that my cat is plotting my murder while I sleep.",
+              "sentence_ru": "Я склонен думать, что мой кот планирует мое убийство, пока я сплю.",
+              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 994528,
+          "due_tick": 994439,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-22T08:00:17.757186+00:00",
-          "pending_msg": 709,
+          "last_sent_at": "2026-09-20T11:43:33.898037+00:00",
+          "pending_msg": 657,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1297,11 +1297,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I had to adjust my pants after Chad spilled boiling coffee on my lap.",
-              "sentence_ru": "Мне пришлось поправить штаны после того, как Чэд пролил кипящий кофе мне на колени.",
-              "word_form": "adjust"
-            },
             {
               "sentence": "Tomorrow you must urgently adjust your astrological sign before the universe bans you for bugs.",
               "sentence_ru": "Завтра вы должны срочно настроить свой астрологический знак, пока вселенная не забанила вас за баги.",
@@ -1321,15 +1316,20 @@
               "sentence": "I must adjust my crown while my enemies burn in hell.",
               "sentence_ru": "Я должна поправить корону, пока мои враги горят в аду.",
               "word_form": "adjust"
+            },
+            {
+              "sentence": "I had to adjust the straps so this cursed bra wouldn't choke my fat cats.",
+              "sentence_ru": "Мне пришлось отрегулировать лямки, чтобы этот проклятый лифчик не душил моих жирных котов.",
+              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 994530,
+          "due_tick": 994441,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-22T09:00:23.180210+00:00",
-          "pending_msg": 713,
+          "last_sent_at": "2026-09-20T12:30:25.125984+00:00",
+          "pending_msg": 661,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1338,11 +1338,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "The wig caught fire and my dignity vanished altogether.",
-              "sentence_ru": "Парик загорелся, и мое достоинство испарилось окончательно.",
-              "word_form": "altogether"
-            },
             {
               "sentence": "Tomorrow your ex and their new partner will ruin your life altogether, Aries.",
               "sentence_ru": "Завтра твой бывший и их новый партнер полностью разрушат твою жизнь, Овен.",
@@ -1362,15 +1357,20 @@
               "sentence": "If we lose this client, our department is altogether screwed.",
               "sentence_ru": "Если мы потеряем этого клиента, нашему отделу полный капец.",
               "word_form": "altogether"
+            },
+            {
+              "sentence": "We are losing clients, dignity, and sanity altogether thanks to your brilliant strategy.",
+              "sentence_ru": "Мы теряем клиентов, достоинство и рассудок в целом благодаря твоей блестящей стратегии.",
+              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994529,
+          "due_tick": 994440,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-22T08:30:20.596620+00:00",
-          "pending_msg": 711,
+          "last_sent_at": "2026-09-20T12:00:11.726901+00:00",
+          "pending_msg": 659,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1548,7 +1548,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 5,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
