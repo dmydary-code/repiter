@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars in Taurus will devastate your ex's new bank account and your leftover pizza.",
+              "sentence_ru": "Марс в Тельце опустошит банковский счет твоего бывшего и твою остатки пиццы.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "My ex's new haircut managed to completely devastate my last remaining shreds of faith in humanity.",
               "sentence_ru": "Новая стрижка моего бывшего умудрилась полностью опустошить мои последние оставшиеся крохи веры в человечество.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Karen will totally devastate the office fridge if someone touches her oat milk again.",
               "sentence_ru": "Карен полностью разнесет офисный холодильник, если кто-нибудь снова тронет ее овсяное молоко.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "A rogue raccoon with a chainsaw can devastate your kitchen in three minutes.",
-              "sentence_ru": "Безумный енот с бензопилой может полностью разнести вашу кухню за три минуты.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 994445,
+          "due_tick": 994537,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-20T14:30:26.620485+00:00",
-          "pending_msg": 668,
+          "last_sent_at": "2026-09-22T12:30:16.503833+00:00",
+          "pending_msg": 728,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994488,
+      "last_deliver_tick": 994489,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat tried to impose a strict meat-only tax on my paycheck.",
+              "sentence_ru": "Мой кот попытался наложить строгий мясолютный налог на мою зарплату.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Do not impose your weird vegan rules on neighbors, or we will glue your doors shut.",
               "sentence_ru": "Не навязывайте соседям свои странные веганские правила, иначе мы заклеим вам двери.",
               "word_form": "impose"
@@ -1521,20 +1526,15 @@
               "sentence": "My cat tried to impose a strict meat-only tax on my paycheck.",
               "sentence_ru": "Мой кот попытался навязать строгий мясной налог на мою зарплату.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Why must the universe constantly impose its idiotic destiny upon my bleeding soul?",
-              "sentence_ru": "Почему вселенная постоянно навязывает свою идиотскую судьбу моей кровоточащей душе?",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 994444,
+          "due_tick": 994537,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-20T14:00:15.331472+00:00",
-          "pending_msg": 667,
+          "last_sent_at": "2026-09-22T12:30:18.218722+00:00",
+          "pending_msg": 729,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994488,
+      "last_deliver_tick": 994489,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-22",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
