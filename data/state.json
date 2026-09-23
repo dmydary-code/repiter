@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You buy expensive fish, whenever you feel guilty for ignoring me all day.",
+              "sentence_ru": "Ты покупаешь дорогую рыбу всякий раз, когда чувствуешь вину за то, что игнорировала меня весь день.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever you throw garbage out the window, a stray cat loses its last shred of dignity.",
               "sentence_ru": "Всякий раз, когда вы выбрасываете мусор в окно, бездомный кот теряет последние крохи достоинства.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever you block me, I just create a new fake account to stalk you.",
               "sentence_ru": "Всякий раз, когда ты меня блокируешь, я просто создаю новый фейковый аккаунт, чтобы следить за тобой.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "Whenever Chad speaks in meetings, my soul slowly crawls out of my pants.",
-              "sentence_ru": "Всякий раз, когда Чад говорит на совещаниях, моя душа медленно вылезает из штанов.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 994487,
+          "due_tick": 994579,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-21T11:30:03.871121+00:00",
-          "pending_msg": 692,
+          "last_sent_at": "2026-09-23T09:30:11.947377+00:00",
+          "pending_msg": 746,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994530,
+      "last_deliver_tick": 994531,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who dared to demolish my balcony just to build a giant slide for their fat corgi?",
+              "sentence_ru": "Кто осмелился снести мой балкон только ради того, чтобы построить гигантскую горку для своего толстого корги?",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Attention! We will demolish apartment 42 tomorrow because your loud techno music violates all laws of physics and good taste.",
               "sentence_ru": "Внимание! Завтра мы снесем квартиру 42, потому что ваша громкая техно-музыка нарушает все законы физики и хорошего вкуса.",
               "word_form": "demolish"
@@ -906,20 +911,15 @@
               "sentence": "I'm going to demolish your new boyfriend's house while you're sleeping, babe.",
               "sentence_ru": "Я собираюсь снести дом твоего нового бойфренда, пока ты спишь, детка.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Attention! We will demolish apartment 48 tonight because your cat's singing is illegal.",
-              "sentence_ru": "Внимание! Сегодня ночью мы снесем квартиру 48, потому что пение вашего кота незаконно.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 994486,
+          "due_tick": 994579,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-21T11:00:21.187821+00:00",
-          "pending_msg": 691,
+          "last_sent_at": "2026-09-23T09:30:13.635718+00:00",
+          "pending_msg": 747,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994530,
+      "last_deliver_tick": 994531,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
