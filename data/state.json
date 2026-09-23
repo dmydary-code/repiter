@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words at 3 AM: your new boyfriend's face looks like a squashed potato.",
+              "sentence_ru": "Я не буду церемониться в выражениях в 3 ночи: лицо твоего нового парня похоже на мятую картошку.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "Chad didn't mince words when he told HR why he was stealing staplers.",
               "sentence_ru": "Чад не подбирал выражения, когда объяснял кадрам, почему он ворует степлеры.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I didn't mince words when telling my ex his new haircut looks like a dead ferret.",
               "sentence_ru": "Я не стал церемониться в выражениях, когда сказал бывшему, что его новая стрижка похожа на мертвого хорька.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "He didn't mince words when he told the cat it was adopted.",
-              "sentence_ru": "Он не стал подбирать выражения, когда сказал коту, что его усыновили.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 994489,
+          "due_tick": 994581,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-21T12:30:27.566149+00:00",
-          "pending_msg": 696,
+          "last_sent_at": "2026-09-23T10:30:25.191829+00:00",
+          "pending_msg": 750,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994532,
+      "last_deliver_tick": 994533,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad had to undergo emergency therapy after seeing our Q3 budget report.",
+              "sentence_ru": "Чеду пришлось пройти экстренную терапию после просмотра нашего отчета по бюджету за третий квартал.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "Attention! The suspicious cat must undergo an urgent exorcism behind trash bin number three.",
               "sentence_ru": "Внимание! Подозреваемый кот должен срочно подвергнуться экзорцизму за мусорным баком номер три.",
               "word_form": "undergo"
@@ -947,20 +952,15 @@
               "sentence": "Local politician had to undergo brain removal to finally understand the budget report.",
               "sentence_ru": "Местному политику пришлось перенести удаление мозга, чтобы наконец понять отчет о бюджете.",
               "word_form": "to undergo"
-            },
-            {
-              "sentence": "My lazy neighbor finally has to undergo a psychiatric evaluation after barking at the elevator.",
-              "sentence_ru": "Мой ленивый сосел наконец должен пройти психиатрическое освидетельствование после лая на лифт.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 994488,
+          "due_tick": 994581,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-21T12:00:14.515757+00:00",
-          "pending_msg": 695,
+          "last_sent_at": "2026-09-23T10:30:26.479317+00:00",
+          "pending_msg": 751,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994532,
+      "last_deliver_tick": 994533,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
