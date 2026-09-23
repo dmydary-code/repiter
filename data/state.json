@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still remember every single detail about the aforementioned mistake you made in bed.",
+              "sentence_ru": "Я до сих пор помню каждую детальку про вышеупомянутый косяк, который ты совершил в постели.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "The aforementioned degenerate who keeps pissing in the elevator will be sacrificed to Satan tonight.",
               "sentence_ru": "Вышеупомянутый дегенерат, который продолжает ссать в лифте, сегодня ночью будет принесен в жертву Сатане.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "My ex blocked me after I tagged him in a meme about the aforementioned commitment issues.",
               "sentence_ru": "Мой бывший заблокировал меня после того, как я отметила его на меме про вышеупомянутые проблемы с обязательствами.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I still hear the screams of the aforementioned betrayal echoing in my empty skull.",
-              "sentence_ru": "Я всё еще слышу крики вышеупомянутого предательства, эхом отдающиеся в моем пустом черепе.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994446,
+          "due_tick": 994574,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-20T15:00:14.067061+00:00",
-          "pending_msg": 670,
+          "last_sent_at": "2026-09-23T07:00:24.306291+00:00",
+          "pending_msg": 734,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994494,
+      "last_deliver_tick": 994526,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that raccoons are just fat ninjas stealing our trash.",
+              "sentence_ru": "Я придерживаюсь мнения, что еноты — это просто толстые ниндзя, ворующие наш мусор.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that my ex-wife's new husband is secretly a lizard.",
               "sentence_ru": "Я придерживаюсь мнения, что новый муж моей бывшей жены тайком рептилоид.",
               "word_form": "I hold the view that"
@@ -1193,20 +1198,15 @@
               "sentence": "I hold the view that whoever lit the trash chute on fire needs therapy.",
               "sentence_ru": "Я придерживаюсь мнения, что тот, кто поджег мусоропровод, нуждается в терапии.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that my exes belong in a museum of mistakes.",
-              "sentence_ru": "Я придерживаюсь мнения, что мои бывшие должны висеть в музее ошибок.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 994445,
+          "due_tick": 994574,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-20T14:30:28.330191+00:00",
-          "pending_msg": 669,
+          "last_sent_at": "2026-09-23T07:00:25.912596+00:00",
+          "pending_msg": 735,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994494,
+      "last_deliver_tick": 994526,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
