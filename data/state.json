@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He set heart on stealing the queen's wig to wear it in the bathtub.",
+              "sentence_ru": "Он страстно возжелал украсть парик королевы, чтобы носить его в ванне.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Neighbor Igor set heart on stealing my Wi-Fi, but I blocked his cursed smart fridge.",
               "sentence_ru": "Сосед Игорь страстно возжелал украсть мой вайфай, но я заблокировал его проклятый умный холодильник.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "If you set heart on stealing neighbor's Wi-Fi, at least change your router name from 'Loser'.",
               "sentence_ru": "Если вы страстно желаете украсть соседский вай-фай, хотя бы смените название роутера с «Лузера».",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Aries, you set heart on stealing your boss's chair, but you will just sit on a thumbtack.",
-              "sentence_ru": "Овен, ты страстно желаешь украсть стул твоего босса, но просто сядешь на канцелярскую кнопку.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 994488,
+          "due_tick": 994580,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-21T12:00:13.218550+00:00",
-          "pending_msg": 694,
+          "last_sent_at": "2026-09-23T10:00:18.704307+00:00",
+          "pending_msg": 748,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994531,
+      "last_deliver_tick": 994532,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me you forgot to put shrimps in my bowl again.",
+              "sentence_ru": "Мне кажется, ты опять забыла положить креветки в мою миску.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that mutant pigeons have successfully seized control of the local mayor.",
               "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили контроль над местным мэром.",
               "word_form": "It seems to me"
@@ -1234,20 +1239,15 @@
               "sentence": "It seems to me someone is breeding mutant raccoons in the basement again!",
               "sentence_ru": "Мне кажется, кто-то снова разводит мутировавших енотов в подвале!",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that someone is stealing cat food from the porch again.",
-              "sentence_ru": "Мне кажется, что кто-то снова ворует кошачий корм из подъезда.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 994487,
+          "due_tick": 994580,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-21T11:30:05.068206+00:00",
-          "pending_msg": 693,
+          "last_sent_at": "2026-09-23T10:00:20.082056+00:00",
+          "pending_msg": 749,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994531,
+      "last_deliver_tick": 994532,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
