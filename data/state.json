@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "These cheap Chinese pants undermine my confidence every time I bend over in public.",
+              "sentence_ru": "Эти дешевые китайские штаны подрывают мою уверенность каждый раз, когда я нагибаюсь на людях.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Mars will undermine your boss's career while you eat chips on the sofa.",
               "sentence_ru": "Марс подорвет карьеру твоего босса, пока ты жрешь чипсы на диване.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Your constant midnight screaming will definitely undermine my authority in this house, human.",
               "sentence_ru": "Твой постоянный ночной ор определенно подорвет мой авторитет в этом доме, кожаная.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Her secret midnight snacks constantly undermine my authority as the strict, terrifying household dictator.",
-              "sentence_ru": "Её тайные ночные перекусы постоянно подрывают мой авторитет строгого, ужасающего домашнего диктатора.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 994485,
+          "due_tick": 994577,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-21T10:30:10.517027+00:00",
-          "pending_msg": 688,
+          "last_sent_at": "2026-09-23T08:30:21.967310+00:00",
+          "pending_msg": 742,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994528,
+      "last_deliver_tick": 994529,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -723,6 +723,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Stop painting the hallway in this drab gray color, we live in a morgue now!",
+              "sentence_ru": "Хватит красить коридор в этот унылый серый цвет, мы теперь живем как в морге!",
+              "word_form": "drab"
+            },
             {
               "sentence": "Your soul is as drab as this office coffee, Karen.",
               "sentence_ru": "Твоя душа такая же унылая, как этот офисный кофе, Карен.",
@@ -742,20 +747,15 @@
               "sentence": "Your new personality is just as drab as your ex's cooking at 3 AM.",
               "sentence_ru": "Твоя новая личность такая же унылая, как стряпня твоего бывшего в три часа ночи.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My ex's personality is so drab that even a wall paint feels suicidal.",
-              "sentence_ru": "Характер моего бывшего настолько унылый, что даже краска на стене хочет покончить с собой.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994484,
+          "due_tick": 994577,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-09-21T10:25:01.842219+00:00",
-          "pending_msg": 687,
+          "last_sent_at": "2026-09-23T08:30:25.001702+00:00",
+          "pending_msg": 743,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994528,
+      "last_deliver_tick": 994529,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
