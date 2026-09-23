@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Do not discorage the stray cats by leaving empty vodka bottles instead of fish.",
+              "sentence_ru": "Не обескураживайте бродячих котов, оставляя пустые бутылки из-под водки вместо рыбы.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "I tried to discourage my grandma from knitting sweaters for our local stray crocodiles.",
               "sentence_ru": "Я пытался отговорить бабушку вязать свитера для местных бродячих крокодилов.",
               "word_form": "discourage"
@@ -273,20 +278,15 @@
               "sentence": "My inner demons try to discorage me from eating ice cream straight from the tub.",
               "sentence_ru": "Мои внутренние демоны пытаются отговорить меня жрать мороженое прямо из ведра.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Trying to diet when my grandma bakes pies will totally discorage me.",
-              "sentence_ru": "Пытаться сидеть на диете, когда бабушка печет пироги, меня полностью разочарует.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994484,
+          "due_tick": 994575,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-21T10:25:00.683205+00:00",
-          "pending_msg": 686,
+          "last_sent_at": "2026-09-23T07:30:08.247762+00:00",
+          "pending_msg": 736,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994526,
+      "last_deliver_tick": 994527,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -765,6 +765,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I run through the dark backstreets while my past finally catches up to me.",
+              "sentence_ru": "Я бегу по темным переулкам, пока мое прошлое наконец догоняет меня.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "Stop dumping your weird cult statues in the dark backstreets behind our dumpster!",
               "sentence_ru": "Хватит сбрасывать свои странные культовые статуи в темных задворках за нашим мусорным контейнером!",
               "word_form": "backstreets"
@@ -783,20 +788,15 @@
               "sentence": "Lost my dignity and a left boot in these sketchy backstreets after buying sketchy skincare.",
               "sentence_ru": "Потеряла достоинство и левый ботинок в этих сомнительных переулках после покупки сомнительной уходовой косметики.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Bro, my ex lives in these backstreets so I literally had to Naruto-run past her window.",
-              "sentence_ru": "Бро, моя бывшая живет в этих переулках, так что мне пришлось буквально пробежать мимо ее окна в стиле Наруто.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 994446,
+          "due_tick": 994575,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-20T15:00:15.442643+00:00",
-          "pending_msg": 671,
+          "last_sent_at": "2026-09-23T07:30:11.431753+00:00",
+          "pending_msg": 737,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994526,
+      "last_deliver_tick": 994527,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
