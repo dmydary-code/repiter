@@ -255,11 +255,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Do not discorage the stray cats by leaving empty vodka bottles instead of fish.",
-              "sentence_ru": "Не обескураживайте бродячих котов, оставляя пустые бутылки из-под водки вместо рыбы.",
-              "word_form": "discorage"
-            },
-            {
               "sentence": "I tried to discourage my grandma from knitting sweaters for our local stray crocodiles.",
               "sentence_ru": "Я пытался отговорить бабушку вязать свитера для местных бродячих крокодилов.",
               "word_form": "discourage"
@@ -278,15 +273,20 @@
               "sentence": "My inner demons try to discorage me from eating ice cream straight from the tub.",
               "sentence_ru": "Мои внутренние демоны пытаются отговорить меня жрать мороженое прямо из ведра.",
               "word_form": "discorage"
+            },
+            {
+              "sentence": "Trying to diet when my grandma bakes pies will totally discorage me.",
+              "sentence_ru": "Пытаться сидеть на диете, когда бабушка печет пироги, меня полностью разочарует.",
+              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994575,
+          "due_tick": 994484,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-23T07:30:08.247762+00:00",
-          "pending_msg": 736,
+          "last_sent_at": "2026-09-21T10:25:00.683205+00:00",
+          "pending_msg": 686,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -665,8 +665,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I still remember every single detail about the aforementioned mistake you made in bed.",
-              "sentence_ru": "Я до сих пор помню каждую детальку про вышеупомянутый косяк, который ты совершил в постели.",
+              "sentence": "The aforementioned raccoon was finally elected mayor after biting all rival candidates.",
+              "sentence_ru": "Вышеназванный енот наконец-то был избран мэром после того, как покусал всех соперников.",
               "word_form": "aforementioned"
             },
             {
@@ -691,12 +691,12 @@
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994574,
+          "due_tick": 994575,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-23T07:00:24.306291+00:00",
-          "pending_msg": 734,
+          "last_sent_at": "2026-09-23T07:47:28.812888+00:00",
+          "pending_msg": 738,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 2,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -765,11 +765,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I run through the dark backstreets while my past finally catches up to me.",
-              "sentence_ru": "Я бегу по темным переулкам, пока мое прошлое наконец догоняет меня.",
-              "word_form": "backstreets"
-            },
-            {
               "sentence": "Stop dumping your weird cult statues in the dark backstreets behind our dumpster!",
               "sentence_ru": "Хватит сбрасывать свои странные культовые статуи в темных задворках за нашим мусорным контейнером!",
               "word_form": "backstreets"
@@ -788,15 +783,20 @@
               "sentence": "Lost my dignity and a left boot in these sketchy backstreets after buying sketchy skincare.",
               "sentence_ru": "Потеряла достоинство и левый ботинок в этих сомнительных переулках после покупки сомнительной уходовой косметики.",
               "word_form": "backstreets"
+            },
+            {
+              "sentence": "Bro, my ex lives in these backstreets so I literally had to Naruto-run past her window.",
+              "sentence_ru": "Бро, моя бывшая живет в этих переулках, так что мне пришлось буквально пробежать мимо ее окна в стиле Наруто.",
+              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 994575,
+          "due_tick": 994446,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-23T07:30:11.431753+00:00",
-          "pending_msg": 737,
+          "last_sent_at": "2026-09-20T15:00:15.442643+00:00",
+          "pending_msg": 671,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1175,8 +1175,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I hold the view that raccoons are just fat ninjas stealing our trash.",
-              "sentence_ru": "Я придерживаюсь мнения, что еноты — это просто толстые ниндзя, ворующие наш мусор.",
+              "sentence": "I hold the view that talking to my toaster makes my burnt bread taste better.",
+              "sentence_ru": "Я придерживаюсь мнения, что разговоры с тостером делают мой подгоревший хлеб вкуснее.",
               "word_form": "I hold the view that"
             },
             {
@@ -1201,12 +1201,12 @@
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 994574,
+          "due_tick": 994575,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-23T07:00:25.912596+00:00",
-          "pending_msg": 735,
+          "last_sent_at": "2026-09-23T07:47:30.210275+00:00",
+          "pending_msg": 739,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1548,7 +1548,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 2,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
