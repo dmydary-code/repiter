@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I knew the new HR and the stapler thief would hit it off instantly.",
+              "sentence_ru": "Я знал, что новая кадровичка и вор степлеров сразу найдут общий язык.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "My stolen vacuum cleaner and the thief's cat really hit it off immediately.",
               "sentence_ru": "Мой украденный пылесос и кота вора сразу же отлично поладили.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Me and my therapist hit it off so well she started crying first.",
               "sentence_ru": "Я и мой психотерапевт так быстро сошлись, что она первая начала плакать.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Me and the new vacuum cleaner hit it off immediately, screaming in terror together.",
-              "sentence_ru": "Я и новый пылесос сразу сошлись, визжа от ужаса вдвоем.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 994490,
+          "due_tick": 994582,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-21T13:00:12.488735+00:00",
-          "pending_msg": 698,
+          "last_sent_at": "2026-09-23T11:00:06.495116+00:00",
+          "pending_msg": 752,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994533,
+      "last_deliver_tick": 994534,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,6 +806,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop spreading gossip about Grandma Rosa, or she will curse your Wi-Fi.",
+              "sentence_ru": "Хватит распускать сплетни о бабушке Розе, а то она проклянет ваш вайфай.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop discussing Aunt Klava's lover, your gossip is eroding the entire building's Wi-Fi.",
               "sentence_ru": "Хватит обсуждать любовника тети Клавьи, ваши сплетни разъедают вайфай всего дома.",
               "word_form": "gossip"
@@ -824,20 +829,15 @@
               "sentence": "Stop the gossip, human, and fill my bowl before I ruin your shoes.",
               "sentence_ru": "Хватит сплетен, кожаная, и наполни мою миску, пока я не испортил твои туфли.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Tomorrow your ex will start a toxic gossip about your new zodiac sign.",
-              "sentence_ru": "Завтра твой бывший начнет токсичную сплетню про твой новый знак зодиака.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 994489,
+          "due_tick": 994582,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-21T12:30:29.097681+00:00",
-          "pending_msg": 697,
+          "last_sent_at": "2026-09-23T11:00:08.056281+00:00",
+          "pending_msg": 753,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994533,
+      "last_deliver_tick": 994534,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-23",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
