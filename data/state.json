@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons whisper sweet lies and encourage me to burn this miserable world down.",
+              "sentence_ru": "Мои внутренние демоны шепчут сладкую ложь и подбадривают меня сжечь этот мерзкий мир дотла.",
+              "word_form": "encourage"
+            },
+            {
               "sentence": "My therapist had to encorage me just to look at my ex's new ugly haircut.",
               "sentence_ru": "Моему терапевту пришлось подбадривать меня, чтобы я просто посмотрел на новую уродливую стрижку моего бывшего.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "You must encorage my chaos, human, or I will vomit in your designer boots.",
               "sentence_ru": "Ты должна поощрять мой хаос, кожаная, иначе я блювану в твои брендовые ботинки.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My inner demon will always encorage me to eat pizza at 3 AM.",
-              "sentence_ru": "Мой внутренний демон всегда будет подбадривать меня сожрать пиццу в 3 часа ночи.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 994532,
+          "due_tick": 994625,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T10:00:22.862206+00:00",
-          "pending_msg": 718,
+          "last_sent_at": "2026-09-24T08:30:21.423292+00:00",
+          "pending_msg": 760,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994576,
+      "last_deliver_tick": 994577,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, human, your pathetic attempts at cooking this steak are acceptable.",
+              "sentence_ru": "В общем и целом, кожаная, твои жалкиe попытки приготовить этот стейк вполне сойдут.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, Scorpio, tomorrow you will accidentally overthrow a small government before your morning coffee.",
               "sentence_ru": "В общем и целом, Скорпион, завтра ты случайно свергнешь небольшое правительство еще до утреннего кофе.",
               "word_form": "By and large"
@@ -1111,20 +1116,15 @@
               "sentence": "By and large, my life is just a circus fire fueled by bad decisions.",
               "sentence_ru": "В общем и целом, моя жизнь — это цирковой пожар, подпитываемый дурацкими решениями.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, my stolen toaster enjoyed its bath in the neighbor's soup.",
-              "sentence_ru": "В общем и целом, моему краденому тостеру понравилась ванна в супе у соседа.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 994531,
+          "due_tick": 994625,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-22T09:30:18.095036+00:00",
-          "pending_msg": 717,
+          "last_sent_at": "2026-09-24T08:30:22.565182+00:00",
+          "pending_msg": 761,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994576,
+      "last_deliver_tick": 994577,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
