@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow your ex will look slightly pathetic crying into a bucket of cheap mayonnaise.",
+              "sentence_ru": "Завтра твой бывший будет выглядеть слегка жалко, рыдая в ведро дешевого майонеза.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My toaster is slightly possessed, so it burns toast only while screaming.",
               "sentence_ru": "Мой тостер слегка одержим, поэтому он сжигает хлеб только во время крика.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "I am slightly outside your window and I brought a dead raccoon.",
               "sentence_ru": "Я слегка за твоим окном и я принес мертвого енота.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My ex is looking slightly more miserable than me, success.",
-              "sentence_ru": "Мой бывший выглядит слегка более несчастным, чем я, успех.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 994533,
+          "due_tick": 994626,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T10:30:06.159613+00:00",
-          "pending_msg": 720,
+          "last_sent_at": "2026-09-24T09:00:21.533984+00:00",
+          "pending_msg": 762,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994577,
+      "last_deliver_tick": 994578,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that my cat secretly plots world domination.",
+              "sentence_ru": "Я склонен думать, что моя кошка тайком планирует захват мира.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that Greg stole my vegan protein from the office fridge.",
               "sentence_ru": "Я склоняюсь к мысли, что Грег спщирил мой веганский протеин из офисного холодильника.",
               "word_form": "I'm inclined to think that"
@@ -1275,20 +1280,15 @@
               "sentence": "I'm inclined to think that this vibrator was used before me, gross.",
               "sentence_ru": "Я склоняюсь к тому, что этот вибратор использовали до меня, фу.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that this wig was made from a stray cat.",
-              "sentence_ru": "Я склоняюсь к мысли, что этот парик сделали из бродячего кота.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 994532,
+          "due_tick": 994626,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-22T10:00:24.370479+00:00",
-          "pending_msg": 719,
+          "last_sent_at": "2026-09-24T09:00:22.861484+00:00",
+          "pending_msg": 763,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994577,
+      "last_deliver_tick": 994578,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
