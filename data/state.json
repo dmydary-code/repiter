@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even the humble janitor knows your shameful secrets, so pay for the elevator.",
+              "sentence_ru": "Даже скромный дворник знает ваши позорные секреты, так что платите за лифт.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Jim tried to act humble while wearing a golden crown to the budget meeting.",
               "sentence_ru": "Джим попытался вести себя скромно, надев золотую корону на совещание по бюджету.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even the local pigeons shit on my humble car, so stop crying about your life.",
               "sentence_ru": "Даже местные голуби гадят на мою скромную машину, так что хватит ныть насчет своей жизни.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even in our humble elevator, neighbor Oleg manages to leave royal stench of cheap beer.",
-              "sentence_ru": "Даже в нашем скромном лифте сосед Олег умудряется оставлять королевское смрадье дешевого пива.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 994534,
+          "due_tick": 994627,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T11:00:13.548199+00:00",
-          "pending_msg": 722,
+          "last_sent_at": "2026-09-24T09:30:21.653436+00:00",
+          "pending_msg": 764,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994578,
+      "last_deliver_tick": 994579,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The noise from apartment 42 is altogether unbearable and my nerves are fried.",
+              "sentence_ru": "Шум из квартиры 42 совершенно невыносим, и мои нервы на пределе.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "I lost my mind, my dignity, and my clothes altogether outside your window.",
               "sentence_ru": "Я потерял рассудок, достоинство и всю одежду разом под твоим окном.",
               "word_form": "altogether"
@@ -1357,20 +1362,15 @@
               "sentence": "That weird guy from the third floor is altogether losing his mind over my parking spot.",
               "sentence_ru": "Этот странный чувак с третьего этажа совсем сходит с ума из-за моего парковочного места.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "If we lose this client, our department is altogether screwed.",
-              "sentence_ru": "Если мы потеряем этого клиента, нашему отделу полный капец.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994533,
+          "due_tick": 994627,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-22T10:30:07.360451+00:00",
-          "pending_msg": 721,
+          "last_sent_at": "2026-09-24T09:30:22.781489+00:00",
+          "pending_msg": 765,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994578,
+      "last_deliver_tick": 994579,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
