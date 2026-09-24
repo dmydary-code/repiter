@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That taste for expensive caviar is an acquired luxury you cannot afford, human.",
+              "sentence_ru": "Эта тяга к дорогой икре — приобретенная роскошь, которую ты не можешь себе позволить, человек.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Just acquired a rare skull on black market, feeling cute, might delete later.",
               "sentence_ru": "Только что приобрел редкий череп на черном рынке, чувствую себя милашно, может удалю позже.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "Pam, this acquired taste for expensive scotch is ruining our department budget.",
               "sentence_ru": "Пэм, этот приобретенный вкус к дорогому виски разоряет бюджет нашего отдела.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Your acquired taste for expensive booze will finally ruin your ex's credit card.",
-              "sentence_ru": "Твой приобретенный вкус к дорогому бухлу наконец-то разорит кредитку твоего бывшего.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 994531,
+          "due_tick": 994624,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T09:30:16.364678+00:00",
-          "pending_msg": 716,
+          "last_sent_at": "2026-09-24T08:00:21.656644+00:00",
+          "pending_msg": 758,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994575,
+      "last_deliver_tick": 994576,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This weird guy from reviews screams at his toaster now and then, but the blender works fine.",
+              "sentence_ru": "Этот странный чувак из отзывов время от времени орёт на свой тостер, но блендер работает нормально.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Chad vomits on the carpet now and then, but HR still won't let us fire him.",
               "sentence_ru": "Чэд то и дело блещет на ковёр, но отдел кадров всё равно не разрешает нам его уволить.",
               "word_form": "now and then"
@@ -1070,20 +1075,15 @@
               "sentence": "I knock your expensive vase off the shelf now and then just to test gravity.",
               "sentence_ru": "Я сбрасываю твою дорогую вазу с полки время от времени просто чтобы проверить гравитацию.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Suspicious cats gather in the hallway now and then to plot the murder of the janitor.",
-              "sentence_ru": "Подозрительные коты время от времени собираются в прихожей, чтобы спланировать убийство дворника.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 994530,
+          "due_tick": 994624,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-22T09:06:31.909749+00:00",
-          "pending_msg": 715,
+          "last_sent_at": "2026-09-24T08:00:22.892627+00:00",
+          "pending_msg": 759,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994575,
+      "last_deliver_tick": 994576,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
