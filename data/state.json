@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm rolling in money now while you're still crying into your cheap instant ramen.",
+              "sentence_ru": "Я теперь купаюсь в деньгах, пока ты всё ещё плачешь в свой дешёвый быстрорастворимый рамен.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "I'm rolling in money now, but you still sleep alone in your mom's basement.",
               "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё ещё спишь одна в подвале своей мамы.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "Stop eating cheap whiskas from the floor, human, we are rolling in money now!",
               "sentence_ru": "Хватит жрать дешёвый вискас с пола, человек, мы теперь купаемся в деньгах!",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "Stop eating cheap canned food, human, we are rolling in money now buy me lobsters!",
-              "sentence_ru": "Хватит жрать дешёвые консервы, кожаная, мы теперь купаемся в деньгах, купи мне лобстеров!",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 994530,
+          "due_tick": 994623,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T09:06:30.587561+00:00",
-          "pending_msg": 714,
+          "last_sent_at": "2026-09-24T07:30:21.984927+00:00",
+          "pending_msg": 756,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994574,
+      "last_deliver_tick": 994575,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An unexpected influx of aggressive badgers ruined my grandma's tea party.",
+              "sentence_ru": "Неожиданный наплыв агрессивных барсуков испортил чаепитие моей бабули.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "This sudden influx of my exes' new partners into my brain is driving me insane.",
               "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в мой мозг сводит меня с ума.",
               "word_form": "influx"
@@ -1029,20 +1034,15 @@
               "sentence": "An influx of my regrets can't wake you up at 3 AM, but here I am.",
               "sentence_ru": "Наплыв моих сожалений не может разбудить тебя в 3 ночи, но вот он я.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "Due to an influx of feral gopniks, the elevator smells like cheap beer and despair.",
-              "sentence_ru": "Из-за наплыва диких гопников в лифте пахнет дешевым пивом и отчаянием.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994496,
+          "due_tick": 994623,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-21T16:05:21.653422+00:00",
-          "pending_msg": 703,
+          "last_sent_at": "2026-09-24T07:30:23.121403+00:00",
+          "pending_msg": 757,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994574,
+      "last_deliver_tick": 994575,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-24",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
