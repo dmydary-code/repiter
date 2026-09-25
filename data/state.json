@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever you cry, my new girlfriend laughs so hard she snorts.",
+              "sentence_ru": "Всякий раз, когда ты плачешь, моя новая девушка смеется так громко, что хрюкает.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "You buy expensive fish, whenever you feel guilty for ignoring me all day.",
               "sentence_ru": "Ты покупаешь дорогую рыбу всякий раз, когда чувствуешь вину за то, что игнорировала меня весь день.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "You buy expensive fish, whenever you feel guilty for ignoring me all day.",
               "sentence_ru": "Ты покупаешь дорогую рыбу всякий раз, когда чувствуешь себя виноватой за то, что игнорировала меня весь день.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "Whenever you block me, I just create a new fake account to stalk you.",
-              "sentence_ru": "Всякий раз, когда ты меня блокируешь, я просто создаю новый фейковый аккаунт, чтобы следить за тобой.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 994579,
+          "due_tick": 994682,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-23T09:30:11.947377+00:00",
-          "pending_msg": 746,
+          "last_sent_at": "2026-09-25T13:00:06.763953+00:00",
+          "pending_msg": 796,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994633,
+      "last_deliver_tick": 994634,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,6 +847,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow your ex will finally flourish in a toxic waste dump.",
+              "sentence_ru": "Завтра твой бывший наконец-то расцветет на токсичной свалке.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My ex-boyfriend's new business somehow continues to flourish despite his total incompetence.",
               "sentence_ru": "Бизнес моего бывшего каким-то образом продолжает процветать вопреки его полной некомпетентности.",
               "word_form": "flourish"
@@ -865,20 +870,15 @@
               "sentence": "Our illegal meth lab in the basement tends to flourish despite the HOA complaints.",
               "sentence_ru": "Наша нелегальная нарколаборатория в подвале имеет свойство процветать вопреки жалобам ТСЖ.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Aries, your bank account will flourish tomorrow, unlike your dignity after that tequila.",
-              "sentence_ru": "Овен, твой банковский счет завтра будет процветать, в отличие от твоего достоинства после той текилы.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 994578,
+          "due_tick": 994682,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-23T09:00:06.096737+00:00",
-          "pending_msg": 745,
+          "last_sent_at": "2026-09-25T13:00:34.082109+00:00",
+          "pending_msg": 797,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994633,
+      "last_deliver_tick": 994634,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
