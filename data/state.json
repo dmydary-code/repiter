@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That wild party in apartment 42 completely did devastate our lobby and my last nerve.",
+              "sentence_ru": "Эта дикая вечеринка в квартире 42 полностью опустошила наш вестибюль и мои последние нервы.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "My ex's new haircut managed to completely devastate my last remaining shreds of faith in humanity.",
               "sentence_ru": "Новая стрижка моего бывшего умудрилась полностью опустошить мои последние оставшиеся крохи веры в человечество.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Karen will totally devastate the office fridge if someone touches her oat milk again.",
               "sentence_ru": "Карен полностью разнесет офисный холодильник, если кто-нибудь снова тронет ее овсяное молоко.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "A rogue raccoon with a chainsaw can devastate your kitchen in three minutes.",
-              "sentence_ru": "Безумный енот с бензопилой может полностью разнести вашу кухню за три минуты.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 994542,
+          "due_tick": 994670,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-22T15:00:40.881755+00:00",
-          "pending_msg": 732,
+          "last_sent_at": "2026-09-25T07:00:04.784749+00:00",
+          "pending_msg": 770,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994595,
+      "last_deliver_tick": 994622,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Management will ramp up the noise of the nightly drills if you keep stealing brooms.",
+              "sentence_ru": "Администрация усилит шум ночных учений, если вы продолжите воровать мётлы.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
               "sentence_ru": "Чел был вынужден нарастить дозу кофеина, просто чтобы выжить в понедельник утром.",
               "word_form": "ramp up"
@@ -1480,20 +1485,15 @@
               "sentence": "Management will ramp up the noise with techno music at 6 AM because you didn't pay for garbage.",
               "sentence_ru": "Управляющая компания врубит техно в 6 утра на полную катушку, потому что вы не заплатили за мусор.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "I need to ramp up my therapy so I stop texting you at 3 AM.",
-              "sentence_ru": "Мне нужно усилить терапию, чтобы перестать писать тебе в три часа ночи.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994541,
+          "due_tick": 994670,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-22T14:49:44.353749+00:00",
-          "pending_msg": 731,
+          "last_sent_at": "2026-09-25T07:00:05.972189+00:00",
+          "pending_msg": 771,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994595,
+      "last_deliver_tick": 994622,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
