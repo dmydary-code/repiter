@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Do not discorage my hunting skills just because I caught a dusty sock.",
+              "sentence_ru": "Не отговаривай меня от охоты только потому, что я поймал пыльный носок.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Please do not discorage our weird neighbors from howling at the moon in the hallway.",
               "sentence_ru": "Пожалуйста, не отговаривайте наших странных соседей завывать на луну в коридоре.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Mars will discorage you from wearing trousers, so go to the office naked and proud.",
               "sentence_ru": "Марс отговорит тебя надевать штаны, так что иди в офис голым и гордым.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "My inner demons try to discorage me from eating ice cream straight from the tub.",
-              "sentence_ru": "Мои внутренние демоны пытаются отговорить меня жрать мороженое прямо из ведра.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994576,
+          "due_tick": 994672,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-23T08:00:15.359052+00:00",
-          "pending_msg": 740,
+          "last_sent_at": "2026-09-25T08:00:09.448602+00:00",
+          "pending_msg": 774,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994623,
+      "last_deliver_tick": 994624,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that my ex is a lizard, and my therapist agrees.",
+              "sentence_ru": "Я придерживаюсь мнения, что моя бывшая — ящерица, и мой психотерапевт согласен.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that talking to my toaster makes my burnt bread taste better.",
               "sentence_ru": "Я придерживаюсь мнения, что разговоры с тостером делают мой подгоревший хлеб вкуснее.",
               "word_form": "I hold the view that"
@@ -1193,20 +1198,15 @@
               "sentence": "I hold the view that pineapple on pizza is a hate crime against Italy.",
               "sentence_ru": "Я придерживаюсь мнения, что ананасы на пицце — это преступление на почве ненависти против Италии.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that whoever lit the trash chute on fire needs therapy.",
-              "sentence_ru": "Я придерживаюсь мнения, что тот, кто поджег мусоропровод, нуждается в терапии.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 994575,
+          "due_tick": 994672,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-23T07:47:30.210275+00:00",
-          "pending_msg": 739,
+          "last_sent_at": "2026-09-25T08:00:10.665235+00:00",
+          "pending_msg": 775,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994623,
+      "last_deliver_tick": 994624,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
