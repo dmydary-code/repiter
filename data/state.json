@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I set my heart on ruining your new wedding, babe.",
+              "sentence_ru": "Я страстно желаю испортить твою новую свадьбу, детка.",
+              "word_form": "set my heart on"
+            },
+            {
               "sentence": "He set heart on stealing the queen's wig to wear it in the bathtub.",
               "sentence_ru": "Он страстно возжелал украсть парик королевы, чтобы носить его в ванне.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "I set heart on this vibrator, but it arrived broken and smelled like old fish.",
               "sentence_ru": "Я страстно желала этот вибратор, но он пришел сломанным и пах старой рыбой.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "If you set heart on stealing neighbor's Wi-Fi, at least change your router name from 'Loser'.",
-              "sentence_ru": "Если вы страстно желаете украсть соседский вай-фай, хотя бы смените название роутера с «Лузера».",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 994580,
+          "due_tick": 994683,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-23T10:00:18.704307+00:00",
-          "pending_msg": 748,
+          "last_sent_at": "2026-09-25T13:30:27.125796+00:00",
+          "pending_msg": 798,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994634,
+      "last_deliver_tick": 994635,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I watched the wrecking ball demolish my toxic ex's favorite mega-mansion with pure malicious joy.",
+              "sentence_ru": "Я с чистой злорадной радостью смотрел, как шар-баба сносит любимый мегаособняк моего токсичного бывшего.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Who dared to demolish my balcony just to build a giant slide for their fat corgi?",
               "sentence_ru": "Кто осмелился снести мой балкон только ради того, чтобы построить гигантскую горку для своего толстого корги?",
               "word_form": "demolish"
@@ -906,20 +911,15 @@
               "sentence": "Neighbor's feral kids tried to demolish the elevator with a hammer again!",
               "sentence_ru": "Дикие дети соседа снова попытались разнести лифт молотком!",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "I'm going to demolish your new boyfriend's house while you're sleeping, babe.",
-              "sentence_ru": "Я собираюсь снести дом твоего нового бойфренда, пока ты спишь, детка.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 994579,
+          "due_tick": 994683,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-23T09:30:13.635718+00:00",
-          "pending_msg": 747,
+          "last_sent_at": "2026-09-25T13:30:32.343534+00:00",
+          "pending_msg": 799,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994634,
+      "last_deliver_tick": 994635,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
