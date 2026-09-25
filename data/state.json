@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still try to wash away the blood, but my hands only get redder.",
+              "sentence_ru": "Я всё еще пытаюсь смыть кровь, но мои руки становятся только краснее.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Tomorrow you will try to steal a taco from a stray dog and fail.",
               "sentence_ru": "Завтра ты попытаешься украсть тако у бродячей собаки и облажаешься.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Tomorrow you will try to seduce your boss using a rotten banana.",
               "sentence_ru": "Завтра вы попытаетесь соблазнить своего босса с помощью гнилого банана.",
               "word_form": "try"
-            },
-            {
-              "sentence": "I still try to wash away the blood, knowing the stain is inside me.",
-              "sentence_ru": "Я всё еще пытаюсь смыть кровь, зная, что это пятно внутри меня.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 994578,
+          "due_tick": 994681,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-23T09:00:04.810694+00:00",
-          "pending_msg": 744,
+          "last_sent_at": "2026-09-25T12:30:11.007493+00:00",
+          "pending_msg": 794,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994632,
+      "last_deliver_tick": 994633,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -723,6 +723,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Your soul is just as drab as this beige cubicle wall, Todd.",
+              "sentence_ru": "Твоя душа такая же унылая, как эта бежевая стена кабинки, Тодд.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Stop painting the hallway in this drab gray color, we live in a morgue now!",
               "sentence_ru": "Хватит красить коридор в этот унылый серый цвет, мы теперь живем как в морге!",
@@ -742,20 +747,15 @@
               "sentence": "Mars in your sign makes your ex's outfit look totally drab, so flex your Gucci.",
               "sentence_ru": "Марс в вашем знаке делает наряд вашего бывшего совершенно унылым, так что выгуливайте свой Гуччи.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Your new personality is just as drab as your ex's cooking at 3 AM.",
-              "sentence_ru": "Твоя новая личность такая же унылая, как стряпня твоего бывшего в три часа ночи.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994577,
+          "due_tick": 994681,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-09-23T08:30:25.001702+00:00",
-          "pending_msg": 743,
+          "last_sent_at": "2026-09-25T12:30:18.035105+00:00",
+          "pending_msg": 795,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994632,
+      "last_deliver_tick": 994633,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
