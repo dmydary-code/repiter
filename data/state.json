@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Don't mince words, human, just admit my food tastes like absolute garbage.",
+              "sentence_ru": "Не подбирай выражения, двуногий, просто признай, что моя еда на вкус как абсолютное говно.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I won't mince words at 3 AM: your new boyfriend's face looks like a squashed potato.",
               "sentence_ru": "Я не буду церемониться в выражениях в 3 ночи: лицо твоего нового парня похоже на мятую картошку.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I will not mince words: whoever keeps dumping cat carcasses in the elevator is a psycho.",
               "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает скидывать трупы кошек в лифте — психопат.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I didn't mince words when telling my ex his new haircut looks like a dead ferret.",
-              "sentence_ru": "Я не стал церемониться в выражениях, когда сказал бывшему, что его новая стрижка похожа на мертвого хорька.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 994581,
+          "due_tick": 994677,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-23T10:30:25.191829+00:00",
-          "pending_msg": 750,
+          "last_sent_at": "2026-09-25T10:30:24.562555+00:00",
+          "pending_msg": 784,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994628,
+      "last_deliver_tick": 994629,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that mutant pigeons have successfully seized control of the Pentagon.",
+              "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили контроль над Пентагоном.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me you forgot to put shrimps in my bowl again.",
               "sentence_ru": "Мне кажется, ты опять забыла положить креветки в мою миску.",
               "word_form": "It seems to me"
@@ -1234,20 +1239,15 @@
               "sentence": "It seems to me that mutant pigeons are plotting a tax revolt in Soho.",
               "sentence_ru": "Мне кажется, что голуби-мутанты замышляют налоговый бунт в Сохо.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me someone is breeding mutant raccoons in the basement again!",
-              "sentence_ru": "Мне кажется, кто-то снова разводит мутировавших енотов в подвале!",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 994580,
+          "due_tick": 994677,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-23T10:00:20.082056+00:00",
-          "pending_msg": 749,
+          "last_sent_at": "2026-09-25T10:30:25.855487+00:00",
+          "pending_msg": 785,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994628,
+      "last_deliver_tick": 994629,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-25",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
