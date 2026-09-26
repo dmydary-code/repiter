@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky neighbor stole my Wi-Fi and left a note saying 'Thanks, loser!' in the chat.",
+              "sentence_ru": "Этот наглый сосед украл мой вайфай и оставил в чате записку «Сенкс, лузер!».",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That raccoon made a cheeky escape with my entire birthday cake.",
               "sentence_ru": "Этот енот совершил дерзкий побег с моим праздничным тортом целиком.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky grin while my world burned just broke the final thread of my sanity.",
               "sentence_ru": "Эта дерзкая ухмылка, пока мой мир горел, оборвала последнюю нить моего здравого смысла.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky text at 3 AM won't bring me back, but nice try.",
-              "sentence_ru": "Это наглое сообщение в три часа ночи не вернет меня, но попытка засчитана.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 994628,
+          "due_tick": 994729,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-24T10:00:21.104545+00:00",
-          "pending_msg": 766,
+          "last_sent_at": "2026-09-26T12:30:24.401471+00:00",
+          "pending_msg": 834,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994680,
+      "last_deliver_tick": 994681,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local pigeons went rogue, stealing fifty luxury cars altogether during the rush hour.",
+              "sentence_ru": "Местные голуби взбунтовались, украв аж пятьдесят роскошных машин в час пик.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "The noise from apartment 42 is altogether unbearable and my nerves are fried.",
               "sentence_ru": "Шум из квартиры 42 совершенно невыносим, и мои нервы на пределе.",
               "word_form": "altogether"
@@ -1357,20 +1362,15 @@
               "sentence": "Tomorrow your boss and your ex will vanish altogether, leaving you alone with infinite pizza.",
               "sentence_ru": "Завтра твой босс и твой бывший полностью исчезнут, оставив тебя наедине с бесконечной пиццей.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "That weird guy from the third floor is altogether losing his mind over my parking spot.",
-              "sentence_ru": "Этот странный чувак с третьего этажа совсем сходит с ума из-за моего парковочного места.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994627,
+          "due_tick": 994729,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-24T09:30:22.781489+00:00",
-          "pending_msg": 765,
+          "last_sent_at": "2026-09-26T12:30:25.714112+00:00",
+          "pending_msg": 835,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994680,
+      "last_deliver_tick": 994681,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
