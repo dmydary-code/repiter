@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat acquired a taste for expensive jewelry and now swallows my earrings.",
+              "sentence_ru": "Мой кот приобрел вкус к дорогой ювелирке и теперь сглатывает мои серёжки.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That taste for expensive caviar is an acquired luxury you cannot afford, human.",
               "sentence_ru": "Эта тяга к дорогой икре — приобретенная роскошь, которую ты не можешь себе позволить, человек.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That expensive smoked salmon was acquired through illegal midnight raids on the fridge.",
               "sentence_ru": "Этот дорогой копченый лосось был добыт путем ночных незаконных набегов на холодильник.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Pam, this acquired taste for expensive scotch is ruining our department budget.",
-              "sentence_ru": "Пэм, этот приобретенный вкус к дорогому виски разоряет бюджет нашего отдела.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 994624,
+          "due_tick": 994721,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-24T08:00:21.656644+00:00",
-          "pending_msg": 758,
+          "last_sent_at": "2026-09-26T08:30:11.355594+00:00",
+          "pending_msg": 816,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994672,
+      "last_deliver_tick": 994673,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow’s influx of your annoying exes will test your patience and your heavy drinking.",
+              "sentence_ru": "Завтрашний наплыв ваших надоедливых бывших испытает ваше терпение и тягу к выпивке.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "An unexpected influx of aggressive badgers ruined my grandma's tea party.",
               "sentence_ru": "Неожиданный наплыв агрессивных барсуков испортил чаепитие моей бабули.",
               "word_form": "influx"
@@ -1029,20 +1034,15 @@
               "sentence": "Because of this insane influx of weirdos in our lobby, I can't even order a normal pizza.",
               "sentence_ru": "Из-за этого безумного наплыва фриков в нашем лобби я даже не могу заказать нормальную пиццу.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An influx of my regrets can't wake you up at 3 AM, but here I am.",
-              "sentence_ru": "Наплыв моих сожалений не может разбудить тебя в 3 ночи, но вот он я.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994623,
+          "due_tick": 994721,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-24T07:30:23.121403+00:00",
-          "pending_msg": 757,
+          "last_sent_at": "2026-09-26T08:30:12.609301+00:00",
+          "pending_msg": 817,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994672,
+      "last_deliver_tick": 994673,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
