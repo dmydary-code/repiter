@@ -91,11 +91,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My grandpa is slightly glowing in the dark after eating uranium cereal.",
-              "sentence_ru": "Мой дедушка слегка светится в темноте после того, как поел урановых хлопьев.",
-              "word_form": "slightly"
-            },
-            {
               "sentence": "Tomorrow your ex will look slightly pathetic crying into a bucket of cheap mayonnaise.",
               "sentence_ru": "Завтра твой бывший будет выглядеть слегка жалко, рыдая в ведро дешевого майонеза.",
               "word_form": "slightly"
@@ -114,15 +109,20 @@
               "sentence": "Your favorite cashmere sweater is now slightly chewed, just like your dignity.",
               "sentence_ru": "Твой любимый кашемировый свитер теперь слегка пожеван, прямо как твое достоинство.",
               "word_form": "slightly"
+            },
+            {
+              "sentence": "I am slightly outside your window and I brought a dead raccoon.",
+              "sentence_ru": "Я слегка за твоим окном и я принес мертвого енота.",
+              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 994723,
+          "due_tick": 994626,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-26T09:30:12.034083+00:00",
-          "pending_msg": 820,
+          "last_sent_at": "2026-09-24T09:00:21.533984+00:00",
+          "pending_msg": 762,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -296,11 +296,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Stop to encorage these mutant pigeons to nest on my balcony with your stale bread!",
-              "sentence_ru": "Хватит поощрять этих мутантских голубей гнездиться на моем балконе своим черствым хлебом!",
-              "word_form": "encorage"
-            },
-            {
               "sentence": "My inner demons whisper sweet lies and encourage me to burn this miserable world down.",
               "sentence_ru": "Мои внутренние демоны шепчут сладкую ложь и подбадривают меня сжечь этот мерзкий мир дотла.",
               "word_form": "encourage"
@@ -319,15 +314,20 @@
               "sentence": "Stop trying to encourage my plant by yelling motivational quotes at its dirt.",
               "sentence_ru": "Хватит пытаться подбадривать мое растение, выкрикивая мотивационные цитаты в его землю.",
               "word_form": "encourage"
+            },
+            {
+              "sentence": "You must encorage my chaos, human, or I will vomit in your designer boots.",
+              "sentence_ru": "Ты должна поощрять мой хаос, кожаная, иначе я блювану в твои брендовые ботинки.",
+              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 994722,
+          "due_tick": 994625,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-26T09:00:23.539372+00:00",
-          "pending_msg": 818,
+          "last_sent_at": "2026-09-24T08:30:21.423292+00:00",
+          "pending_msg": 760,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -378,11 +378,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My cat acquired a taste for expensive jewelry and now swallows my earrings.",
-              "sentence_ru": "Мой кот приобрел вкус к дорогой ювелирке и теперь сглатывает мои серёжки.",
-              "word_form": "acquired"
-            },
-            {
               "sentence": "That taste for expensive caviar is an acquired luxury you cannot afford, human.",
               "sentence_ru": "Эта тяга к дорогой икре — приобретенная роскошь, которую ты не можешь себе позволить, человек.",
               "word_form": "acquired"
@@ -401,15 +396,20 @@
               "sentence": "That expensive smoked salmon was acquired through illegal midnight raids on the fridge.",
               "sentence_ru": "Этот дорогой копченый лосось был добыт путем ночных незаконных набегов на холодильник.",
               "word_form": "acquired"
+            },
+            {
+              "sentence": "Pam, this acquired taste for expensive scotch is ruining our department budget.",
+              "sentence_ru": "Пэм, этот приобретенный вкус к дорогому виски разоряет бюджет нашего отдела.",
+              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 994721,
+          "due_tick": 994624,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-26T08:30:11.355594+00:00",
-          "pending_msg": 816,
+          "last_sent_at": "2026-09-24T08:00:21.656644+00:00",
+          "pending_msg": 758,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -583,8 +583,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My lazy roommate never lifts a finger in the house while I drown in chores.",
-              "sentence_ru": "Мой ленивый соседяка никогда не ударит палец о палец по дому, пока я тону в рутине.",
+              "sentence": "Ancient vampire king refuses that he ever lifts a finger in the house, demands servant ghouls.",
+              "sentence_ru": "Древний король-вампир отказывается хоть палец о палец ударить по дому и требует слуг-упырей.",
               "word_form": "lifts a finger in the house"
             },
             {
@@ -609,12 +609,12 @@
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 994719,
+          "due_tick": 994723,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-26T07:30:08.453191+00:00",
-          "pending_msg": 812,
+          "last_sent_at": "2026-09-26T09:32:34.193118+00:00",
+          "pending_msg": 822,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -623,11 +623,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "A resurrected goblin is rolling in money after winning a goblin lottery.",
-              "sentence_ru": "Воскресший гоблин купается в деньгах после выигрыша в гоблинской лотерее.",
-              "word_form": "rolling in money"
-            },
             {
               "sentence": "I'm rolling in money now while you're still crying into your cheap instant ramen.",
               "sentence_ru": "Я теперь купаюсь в деньгах, пока ты всё ещё плачешь в свой дешёвый быстрорастворимый рамен.",
@@ -647,15 +642,20 @@
               "sentence": "I'm rolling in money now, but you still sleep with your cat, loser.",
               "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё ещё спишь со своим котом, неудачник.",
               "word_form": "rolling in money"
+            },
+            {
+              "sentence": "Stop eating cheap whiskas from the floor, human, we are rolling in money now!",
+              "sentence_ru": "Хватит жрать дешёвый вискас с пола, человек, мы теперь купаемся в деньгах!",
+              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 994720,
+          "due_tick": 994623,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-26T08:00:24.460674+00:00",
-          "pending_msg": 814,
+          "last_sent_at": "2026-09-24T07:30:21.984927+00:00",
+          "pending_msg": 756,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 6,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -806,8 +806,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My cat started sharing neighborhood gossip right into my ear while I was hungover.",
-              "sentence_ru": "Мой кот начал делиться районными сплетнями прямо мне в ухо, пока я страдал с похмелья.",
+              "sentence": "My cat started to gossip with the toaster about my dating life.",
+              "sentence_ru": "Мой кот начал сплетничать с тостером о моей личной жизни.",
               "word_form": "gossip"
             },
             {
@@ -832,12 +832,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 994719,
+          "due_tick": 994723,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-26T07:30:13.314432+00:00",
-          "pending_msg": 813,
+          "last_sent_at": "2026-09-26T09:32:35.470315+00:00",
+          "pending_msg": 823,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -970,11 +970,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Mutant lobsters emerged from the nuclear toaster demanding immediate citizenship and vodka.",
-              "sentence_ru": "Мутантные омары вылезли из ядерного тостера, требуя немедленного гражданства и водки.",
-              "word_form": "emerged"
-            },
-            {
               "sentence": "My ex had to emerge from the dumpster just to steal this cheap blender.",
               "sentence_ru": "Моему бывшему пришлось вылезти из мусорного бака только для того, чтобы украсть этот дешевый блендер.",
               "word_form": "emerge"
@@ -993,15 +988,20 @@
               "sentence": "When I emerge from my blanket cocoon, society instantly regrets demanding my presence.",
               "sentence_ru": "Когда я вылезаю из своего одеяльного кокона, общество тут же жалеет, что потребовало моего присутствия.",
               "word_form": "emerge"
+            },
+            {
+              "sentence": "I had to emerge from the shadows at 3 AM just to ask for your Netflix password.",
+              "sentence_ru": "Мне пришлось выползти из тени в 3 часа ночи просто чтобы попросить пароль от твоего Netflix.",
+              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 994720,
+          "due_tick": 994622,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-09-26T08:00:25.846709+00:00",
-          "pending_msg": 815,
+          "last_sent_at": "2026-09-24T07:00:22.476826+00:00",
+          "pending_msg": 755,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1010,11 +1010,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Tomorrow’s influx of your annoying exes will test your patience and your heavy drinking.",
-              "sentence_ru": "Завтрашний наплыв ваших надоедливых бывших испытает ваше терпение и тягу к выпивке.",
-              "word_form": "influx"
-            },
             {
               "sentence": "An unexpected influx of aggressive badgers ruined my grandma's tea party.",
               "sentence_ru": "Неожиданный наплыв агрессивных барсуков испортил чаепитие моей бабули.",
@@ -1034,15 +1029,20 @@
               "sentence": "Because of this insane influx of weirdos in our lobby, I can't even order a normal pizza.",
               "sentence_ru": "Из-за этого безумного наплыва фриков в нашем лобби я даже не могу заказать нормальную пиццу.",
               "word_form": "influx"
+            },
+            {
+              "sentence": "An influx of my regrets can't wake you up at 3 AM, but here I am.",
+              "sentence_ru": "Наплыв моих сожалений не может разбудить тебя в 3 ночи, но вот он я.",
+              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994721,
+          "due_tick": 994623,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-26T08:30:12.609301+00:00",
-          "pending_msg": 817,
+          "last_sent_at": "2026-09-24T07:30:23.121403+00:00",
+          "pending_msg": 757,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1051,11 +1051,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Mutated pigeons overthrow the local government now and then, just to keep politicians humble.",
-              "sentence_ru": "Мутировавшие голуби время от времени свергают местное правительство, просто чтобы держать политиков в тонусе.",
-              "word_form": "now and then"
-            },
             {
               "sentence": "This weird guy from reviews screams at his toaster now and then, but the blender works fine.",
               "sentence_ru": "Этот странный чувак из отзывов время от времени орёт на свой тостер, но блендер работает нормально.",
@@ -1075,15 +1070,20 @@
               "sentence": "My talking toaster screams obscenities at me now and then, but we have an understanding.",
               "sentence_ru": "Мой говорящий тостер время от времени орёт на меня матом, но мы нашли общий язык.",
               "word_form": "now and then"
+            },
+            {
+              "sentence": "I knock your expensive vase off the shelf now and then just to test gravity.",
+              "sentence_ru": "Я сбрасываю твою дорогую вазу с полки время от времени просто чтобы проверить гравитацию.",
+              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 994722,
+          "due_tick": 994624,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-26T09:00:24.872334+00:00",
-          "pending_msg": 819,
+          "last_sent_at": "2026-09-24T08:00:22.892627+00:00",
+          "pending_msg": 759,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1092,11 +1092,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "By and large, my life is just a trash fire wearing a cute little hat.",
-              "sentence_ru": "В общем и целом, моя жизнь — это просто помойная яма в миленькой шляпке.",
-              "word_form": "By and large"
-            },
             {
               "sentence": "By and large, human, your pathetic attempts at cooking this steak are acceptable.",
               "sentence_ru": "В общем и целом, кожаная, твои жалкиe попытки приготовить этот стейк вполне сойдут.",
@@ -1116,15 +1111,20 @@
               "sentence": "By and large, my stolen TV still works even after the raccoon bathed it in gravy.",
               "sentence_ru": "В общем и целом, мой украденный телевизор всё еще работает, даже после того как енот искупал его в подливе.",
               "word_form": "By and large"
+            },
+            {
+              "sentence": "By and large, my life is just a circus fire fueled by bad decisions.",
+              "sentence_ru": "В общем и целом, моя жизнь — это цирковой пожар, подпитываемый дурацкими решениями.",
+              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 994723,
+          "due_tick": 994625,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-26T09:30:13.398128+00:00",
-          "pending_msg": 821,
+          "last_sent_at": "2026-09-24T08:30:22.565182+00:00",
+          "pending_msg": 761,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1548,7 +1548,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 6,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
