@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My therapist tries to encorage my weird habit of licking frozen fence posts.",
+              "sentence_ru": "Мой психотерапевт пытается поощрять мою странную привычку лизать замерзшие столбы забора.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My inner demons whisper sweet lies and encourage me to burn this miserable world down.",
               "sentence_ru": "Мои внутренние демоны шепчут сладкую ложь и подбадривают меня сжечь этот мерзкий мир дотла.",
               "word_form": "encourage"
@@ -314,20 +319,15 @@
               "sentence": "Stop trying to encourage my plant by yelling motivational quotes at its dirt.",
               "sentence_ru": "Хватит пытаться подбадривать мое растение, выкрикивая мотивационные цитаты в его землю.",
               "word_form": "encourage"
-            },
-            {
-              "sentence": "You must encorage my chaos, human, or I will vomit in your designer boots.",
-              "sentence_ru": "Ты должна поощрять мой хаос, кожаная, иначе я блювану в твои брендовые ботинки.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 994625,
+          "due_tick": 994726,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-24T08:30:21.423292+00:00",
-          "pending_msg": 760,
+          "last_sent_at": "2026-09-26T11:00:25.536154+00:00",
+          "pending_msg": 828,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994677,
+      "last_deliver_tick": 994678,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My sanity crumbles completely every single day, but now and then I pretend to be fine.",
+              "sentence_ru": "Мой рассудок трещит по швам каждый грёбаный день, но время от времени я притворяюсь нормальным.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "This weird guy from reviews screams at his toaster now and then, but the blender works fine.",
               "sentence_ru": "Этот странный чувак из отзывов время от времени орёт на свой тостер, но блендер работает нормально.",
               "word_form": "now and then"
@@ -1070,20 +1075,15 @@
               "sentence": "My talking toaster screams obscenities at me now and then, but we have an understanding.",
               "sentence_ru": "Мой говорящий тостер время от времени орёт на меня матом, но мы нашли общий язык.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "I knock your expensive vase off the shelf now and then just to test gravity.",
-              "sentence_ru": "Я сбрасываю твою дорогую вазу с полки время от времени просто чтобы проверить гравитацию.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 994624,
+          "due_tick": 994726,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-24T08:00:22.892627+00:00",
-          "pending_msg": 759,
+          "last_sent_at": "2026-09-26T11:00:26.869052+00:00",
+          "pending_msg": 829,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994677,
+      "last_deliver_tick": 994678,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
