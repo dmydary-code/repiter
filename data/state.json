@@ -50,8 +50,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "That cheeky neighbor stole my Wi-Fi and left a note saying 'Thanks, loser!' in the chat.",
-              "sentence_ru": "Этот наглый сосед украл мой вайфай и оставил в чате записку «Сенкс, лузер!».",
+              "sentence": "That cheeky text at 3 AM won't bring me back, but nice try.",
+              "sentence_ru": "Твоё наглое сообщение в три часа ночи не вернет меня, но попытка засчитана.",
               "word_form": "cheeky"
             },
             {
@@ -76,12 +76,12 @@
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 994729,
+          "due_tick": 994734,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-26T12:30:24.401471+00:00",
-          "pending_msg": 834,
+          "last_sent_at": "2026-09-26T15:13:30.428928+00:00",
+          "pending_msg": 836,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -1339,8 +1339,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Local pigeons went rogue, stealing fifty luxury cars altogether during the rush hour.",
-              "sentence_ru": "Местные голуби взбунтовались, украв аж пятьдесят роскошных машин в час пик.",
+              "sentence": "This weird sex-doll smells like old fish and I am altogether disgusted.",
+              "sentence_ru": "От этой странной резиновой куклы воняет старой рыбой, и я в целом в полном отвращении.",
               "word_form": "altogether"
             },
             {
@@ -1365,12 +1365,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994729,
+          "due_tick": 994734,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-26T12:30:25.714112+00:00",
-          "pending_msg": 835,
+          "last_sent_at": "2026-09-26T15:13:31.649483+00:00",
+          "pending_msg": 837,
           "reps": 0,
           "step": 0,
           "word": "altogether",
