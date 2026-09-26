@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even the most arrogant drug dealer in this building must humble himself and recycle bottles.",
+              "sentence_ru": "Даже самый заносчивый барыга в этом подъезде должен смириться и сдавать бутылки.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even the humble janitor knows your shameful secrets, so pay for the elevator.",
               "sentence_ru": "Даже скромный дворник знает ваши позорные секреты, так что платите за лифт.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "My absolute genius must somehow fit into this humble cardboard box.",
               "sentence_ru": "Мой абсолютный гений должен как-то поместиться в эту скромную картонную коробку.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even the local pigeons shit on my humble car, so stop crying about your life.",
-              "sentence_ru": "Даже местные голуби гадят на мою скромную машину, так что хватит ныть насчет своей жизни.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 994627,
+          "due_tick": 994728,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-24T09:30:21.653436+00:00",
-          "pending_msg": 764,
+          "last_sent_at": "2026-09-26T12:00:07.769073+00:00",
+          "pending_msg": 832,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994679,
+      "last_deliver_tick": 994680,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that Greg stole my yogurt because he has purple lips.",
+              "sentence_ru": "Я склонен думать, что Грег украл мой йогурт, потому что у него фиолетовые губы.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that my cat secretly plots world domination.",
               "sentence_ru": "Я склонен думать, что моя кошка тайком планирует захват мира.",
               "word_form": "I'm inclined to think that"
@@ -1275,20 +1280,15 @@
               "sentence": "I'm inclined to think that your ex will crash your new Ferrari tomorrow.",
               "sentence_ru": "Я склоняюсь к мысли, что твой бывший разобьет твой новый феррари завтра.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that this vibrator was used before me, gross.",
-              "sentence_ru": "Я склоняюсь к тому, что этот вибратор использовали до меня, фу.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 994626,
+          "due_tick": 994728,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-24T09:00:22.861484+00:00",
-          "pending_msg": 763,
+          "last_sent_at": "2026-09-26T12:00:08.990561+00:00",
+          "pending_msg": 833,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994679,
+      "last_deliver_tick": 994680,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-26",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
