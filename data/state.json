@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your loud techno music in the compound is literally rotting my brain cells.",
+              "sentence_ru": "Ваша громкая техно-музыка в жилом комплексе буквально разлагает мои клетки мозга.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My crazy aunt tried to compound cat hair and mayonnaise into a facial mask.",
               "sentence_ru": "Моя безумная тетя попыталась смешать кошачью шерсть и майонез в маску для лица.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Mutated raccoons built a secret compound under the nuclear brewery to brew chaos.",
               "sentence_ru": "Мутировавшие еноты построили секретный комплекс под ядерной пивоварней, чтобы варить хаос.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "I broke into your new compound just to steal my hoodie back, psycho.",
-              "sentence_ru": "Я взломал твое новое заграждение, просто чтобы забрать свою худи обратно, психопатка.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994629,
+          "due_tick": 994766,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-24T10:30:20.675901+00:00",
-          "pending_msg": 768,
+          "last_sent_at": "2026-09-27T07:00:10.996052+00:00",
+          "pending_msg": 838,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994686,
+      "last_deliver_tick": 994718,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to adjust my ex's face on the family photo after the divorce.",
+              "sentence_ru": "Мне пришлось отрегулировать лицо бывшей на семейном фото после развода.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Tomorrow you must adjust your astral GPS so you don't accidentally teleport into a trash can.",
               "sentence_ru": "Завтра вы должны настроить свой астральный GPS, чтобы случайно не телепортироваться в мусорный бак.",
               "word_form": "adjust"
@@ -1316,20 +1321,15 @@
               "sentence": "Mutants must urgently adjust their alien tentacles before the intergalactic tax inspection arrives.",
               "sentence_ru": "Мутантам нужно срочно настроить свои инопланетные щупальца до прихода межгалактической налоговой инспекции.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "I had to adjust the rearview mirror to avoid seeing my own pathetic tears.",
-              "sentence_ru": "Мне пришлось настроить зеркало заднего вида, чтобы не видеть собственные жалкие слёзы.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 994628,
+          "due_tick": 994766,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-24T10:00:22.300314+00:00",
-          "pending_msg": 767,
+          "last_sent_at": "2026-09-27T07:00:12.586051+00:00",
+          "pending_msg": 839,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994686,
+      "last_deliver_tick": 994718,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
