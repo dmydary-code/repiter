@@ -173,8 +173,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Your loud techno music in the compound is literally rotting my brain cells.",
-              "sentence_ru": "Ваша громкая техно-музыка в жилом комплексе буквально разлагает мои клетки мозга.",
+              "sentence": "I broke into a secret chemical compound just to sniff your old shampoo.",
+              "sentence_ru": "Я взломал секретное химическое соединение только чтобы понюхать твой старый шампунь.",
               "word_form": "compound"
             },
             {
@@ -199,12 +199,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994766,
+          "due_tick": 994768,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-27T07:00:10.996052+00:00",
-          "pending_msg": 838,
+          "last_sent_at": "2026-09-27T08:14:24.412400+00:00",
+          "pending_msg": 844,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -213,11 +213,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I will totally devastate this expensive sofa if you do not give me salmon right now.",
-              "sentence_ru": "Я полностью разгромлю этот дорогой диван, если ты не дашь мне лосося прямо сейчас.",
-              "word_form": "devastate"
-            },
             {
               "sentence": "I will devastate your new boyfriend's entire wardrobe while you are asleep.",
               "sentence_ru": "Я опустошу весь гардероб твоего нового бойфренда, пока ты будешь спать.",
@@ -237,15 +232,20 @@
               "sentence": "Your wild party animals completely devastate the lobby every single Friday night, you degenerates!",
               "sentence_ru": "Ваши дикие тусовщики полностью разносят лобби каждую пятницу, вы дегенераты!",
               "word_form": "devastate"
+            },
+            {
+              "sentence": "Karen will totally devastate the office fridge if someone touches her oat milk again.",
+              "sentence_ru": "Карен полностью разнесет офисный холодильник, если кто-нибудь снова тронет ее овсяное молоко.",
+              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 994767,
+          "due_tick": 994677,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-27T07:30:23.453673+00:00",
-          "pending_msg": 840,
+          "last_sent_at": "2026-09-25T10:51:19.966069+00:00",
+          "pending_msg": 786,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -665,11 +665,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Who keeps stealing the aforementioned raw salmon from the lobby fridge at 3 AM?",
-              "sentence_ru": "Кто продолжает воровать вышеупомянутый сырой лосось из холла в 3 часа ночи?",
-              "word_form": "aforementioned"
-            },
-            {
               "sentence": "Bring me the aforementioned salmon, human, or the sofa bleeds tonight.",
               "sentence_ru": "Принеси мне вышеупомянутый лосось, двуногая, иначе диван сегодня истечет кровью.",
               "word_form": "aforementioned"
@@ -688,15 +683,20 @@
               "sentence": "I still remember the aforementioned betrayal, especially while drinking tequila at 3 AM.",
               "sentence_ru": "Я до сих пор помню вышеупомянутое предательство, особенно попивая текилу в 3 часа ночи.",
               "word_form": "aforementioned"
+            },
+            {
+              "sentence": "Chad blamed the aforementioned ghost for deleting his spreadsheet, but HR knows he just can't use Excel.",
+              "sentence_ru": "Чэд обвинил вышеупомянутого призрака в удалении своей таблицы, но HR знает, что он просто не умеет пользоваться Excel.",
+              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994768,
+          "due_tick": 994678,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-27T08:00:10.310102+00:00",
-          "pending_msg": 842,
+          "last_sent_at": "2026-09-25T11:00:21.193809+00:00",
+          "pending_msg": 788,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -710,7 +710,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 3,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,8 +1298,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I had to adjust my ex's face on the family photo after the divorce.",
-              "sentence_ru": "Мне пришлось отрегулировать лицо бывшей на семейном фото после развода.",
+              "sentence": "He had to adjust the cat's VR headset so the demon slayers looked more realistic.",
+              "sentence_ru": "Ему пришлось настроить кошачий VR-шлем, чтобы убийцы демонов выглядели реалистичнее.",
               "word_form": "adjust"
             },
             {
@@ -1324,12 +1324,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 994766,
+          "due_tick": 994768,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-27T07:00:12.586051+00:00",
-          "pending_msg": 839,
+          "last_sent_at": "2026-09-27T08:14:25.613224+00:00",
+          "pending_msg": 845,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1421,11 +1421,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "The elevator doors decided to seize up right when I had three bags of heavy beer.",
-              "sentence_ru": "Двери лифта решили заклинить как раз тогда, когда у меня было три пакета тяжелого пива.",
-              "word_form": "seize up"
-            },
-            {
               "sentence": "My elevator door decided to seize up right when I was holding three heavy pizza boxes.",
               "sentence_ru": "Дверь моего лифта решила заклинить как раз тогда, когда я держал три тяжелые коробки с пиццей.",
               "word_form": "to seize up"
@@ -1444,15 +1439,20 @@
               "sentence": "My brain started to seize up the exact second my toxic ex asked me for life advice.",
               "sentence_ru": "Мой мозг начал клинить в ту самую секунду, когда мой токсичный бывший попросил совета по жизни.",
               "word_form": "to seize up"
+            },
+            {
+              "sentence": "The dictator's robotic pelvis began to seize up mid-dance during the military parade.",
+              "sentence_ru": "Роботизированный таз диктатора начал заклинивать прямо во время танца на военном параде.",
+              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 994767,
+          "due_tick": 994629,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-27T07:30:24.790551+00:00",
-          "pending_msg": 841,
+          "last_sent_at": "2026-09-24T10:30:21.849718+00:00",
+          "pending_msg": 769,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1461,11 +1461,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Aries, ramp up your chaos levels tomorrow or the universe will get bored.",
-              "sentence_ru": "Овны, завтра наращивайте уровень хаоса, иначе вселенная соскучится.",
-              "word_form": "ramp up"
-            },
             {
               "sentence": "Aries, ramp up your chaos tomorrow by stealing traffic cones for your altar.",
               "sentence_ru": "Овны, завтра наращивайте свой хаос, воруя дорожные конусы для своего алтаря.",
@@ -1485,15 +1480,20 @@
               "sentence": "Management will ramp up the noise from drills if you don't pay your utility bills.",
               "sentence_ru": "Управляющая компания начнет наращивать шум от дрелей, если вы не заплатите за коммуналку.",
               "word_form": "ramp up"
+            },
+            {
+              "sentence": "Management will ramp up the noise with techno music at 6 AM because you didn't pay for garbage.",
+              "sentence_ru": "Управляющая компания врубит техно в 6 утра на полную катушку, потому что вы не заплатили за мусор.",
+              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994768,
+          "due_tick": 994677,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-27T08:00:11.573802+00:00",
-          "pending_msg": 843,
+          "last_sent_at": "2026-09-25T10:51:21.364440+00:00",
+          "pending_msg": 787,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1548,7 +1548,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 3,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
