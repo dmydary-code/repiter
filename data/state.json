@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to look mysterious while eating a massive burrito is my daily cardio.",
+              "sentence_ru": "Пытаться выглядеть загадочно, уплетая гигантский буррито — это мое ежедневное кардио.",
+              "word_form": "Trying"
+            },
+            {
               "sentence": "If you try to steal this elevator again, I will glue your fingers to the buttons.",
               "sentence_ru": "Если вы попытаетесь снова украсть этот лифт, я приклею ваши пальцы к кнопкам.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "I tried to cook this cursed soup, and now my cat is judging my life choices.",
               "sentence_ru": "Я попытался приготовить этот проклятый суп, и теперь мой кот осуждает мой выбор.",
               "word_form": "tried"
-            },
-            {
-              "sentence": "Tomorrow you will try to seduce your boss using a rotten banana.",
-              "sentence_ru": "Завтра вы попытаетесь соблазнить своего босса с помощью гнилого банана.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 994689,
+          "due_tick": 994773,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-25T16:31:32.182370+00:00",
-          "pending_msg": 802,
+          "last_sent_at": "2026-09-27T10:30:03.663413+00:00",
+          "pending_msg": 854,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994724,
+      "last_deliver_tick": 994725,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -765,6 +765,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Cats are partying in the backstreets because dumpster diving is finally legal.",
+              "sentence_ru": "Коты тусуются на задворках, потому что копаться в мусорках наконец-то легально.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "Running through sketchy backstreets because my ex and his new girlfriend just walked into the bar.",
               "sentence_ru": "Убегаю через сомнительные задворки, потому что мой бывший с новой девчонкой только что завалились в бар.",
               "word_form": "backstreets"
@@ -783,20 +788,15 @@
               "sentence": "I ran through the dark backstreets while my past chased me with a butcher knife.",
               "sentence_ru": "Я бежал по темным задворкам, пока мое прошлое преследовало меня с мясницким ножом.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "He fled through dark backstreets after stealing a massive wheel of parmesan cheese.",
-              "sentence_ru": "Он сбежал через темные переулки после кражи огромной головки пармезана.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 994680,
+          "due_tick": 994773,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-25T12:00:17.778544+00:00",
-          "pending_msg": 793,
+          "last_sent_at": "2026-09-27T10:30:04.994572+00:00",
+          "pending_msg": 855,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994724,
+      "last_deliver_tick": 994725,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
