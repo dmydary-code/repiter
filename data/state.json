@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still think about the aforementioned mistake we made in that cheap motel.",
+              "sentence_ru": "Я все еще думаю о вышеупомянутой ошибке, которую мы совершили в том дешевом мотеле.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "Bring me the aforementioned salmon, human, or the sofa bleeds tonight.",
               "sentence_ru": "Принеси мне вышеупомянутый лосось, двуногая, иначе диван сегодня истечет кровью.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I still remember the aforementioned betrayal, especially while drinking tequila at 3 AM.",
               "sentence_ru": "Я до сих пор помню вышеупомянутое предательство, особенно попивая текилу в 3 часа ночи.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "Chad blamed the aforementioned ghost for deleting his spreadsheet, but HR knows he just can't use Excel.",
-              "sentence_ru": "Чэд обвинил вышеупомянутого призрака в удалении своей таблицы, но HR знает, что он просто не умеет пользоваться Excel.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994678,
+          "due_tick": 994770,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-25T11:00:21.193809+00:00",
-          "pending_msg": 788,
+          "last_sent_at": "2026-09-27T09:00:03.737835+00:00",
+          "pending_msg": 848,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994721,
+      "last_deliver_tick": 994722,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Bro had to ramp up his flexing after seeing my new gym gains.",
+              "sentence_ru": "Чел был вынужден усилить свои понты после того, как увидел мои новые успехи в качалке.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Aries, ramp up your chaos tomorrow by stealing traffic cones for your altar.",
               "sentence_ru": "Овны, завтра наращивайте свой хаос, воруя дорожные конусы для своего алтаря.",
               "word_form": "ramp up"
@@ -1480,20 +1485,15 @@
               "sentence": "Management will ramp up the noise from drills if you don't pay your utility bills.",
               "sentence_ru": "Управляющая компания начнет наращивать шум от дрелей, если вы не заплатите за коммуналку.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Management will ramp up the noise with techno music at 6 AM because you didn't pay for garbage.",
-              "sentence_ru": "Управляющая компания врубит техно в 6 утра на полную катушку, потому что вы не заплатили за мусор.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994677,
+          "due_tick": 994770,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-25T10:51:21.364440+00:00",
-          "pending_msg": 787,
+          "last_sent_at": "2026-09-27T09:00:05.070098+00:00",
+          "pending_msg": 849,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994721,
+      "last_deliver_tick": 994722,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
