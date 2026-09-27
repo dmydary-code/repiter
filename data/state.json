@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If you set heart on stealing the lobby cactus again, Nina will curse your ancestors.",
+              "sentence_ru": "Если вы снова страстно захотите украсть подъездный кактус, Нина проклянет ваших предков.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Human, you set your heart on that salmon, but I will knock it off the table.",
               "sentence_ru": "Человек, ты страстно желала этого лосося, но я сброшу его со стола.",
               "word_form": "set your heart on"
@@ -478,20 +483,15 @@
               "sentence": "Karen has set her heart on stealing the last gluten-free muffin from the breakroom.",
               "sentence_ru": "Карен твердо нацелилась украсть последний безглютеновый маффин из комнаты отдыха.",
               "word_form": "set her heart on"
-            },
-            {
-              "sentence": "I set heart on this vibrator, but it arrived broken and smelled like old fish.",
-              "sentence_ru": "Я страстно желала этот вибратор, но он пришел сломанным и пах старой рыбой.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 994691,
+          "due_tick": 994775,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-25T17:31:02.649604+00:00",
-          "pending_msg": 806,
+          "last_sent_at": "2026-09-27T11:30:07.889979+00:00",
+          "pending_msg": 858,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994726,
+      "last_deliver_tick": 994727,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, wire up my scratching post to the socket or I will murder your shoes.",
+              "sentence_ru": "Человек, подключи мою когтеточку к розетке, иначе я убью твои туфли.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "If you try to wire up the elevator yourself again, I will glue your fingers to the wall.",
               "sentence_ru": "Если вы снова попытаетесь сами подключить лифт, я приклею ваши пальцы к стене.",
               "word_form": "wire up"
@@ -1398,20 +1403,15 @@
               "sentence": "Who decided to wire up the intercom to my doorbell while on heavy drugs?",
               "sentence_ru": "Кто додумался подключить домофон к моему звонку под тяжелыми наркотиками?",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Cyborg pigeons wire up the stolen nuclear launch codes to local pigeons.",
-              "sentence_ru": "Киборги-голуби подключают украденные ядерные коды к местным голубям.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 994684,
+          "due_tick": 994775,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-12T13:00:05.489908+00:00",
-          "pending_msg": null,
+          "last_sent_at": "2026-09-27T11:30:09.243487+00:00",
+          "pending_msg": 859,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994726,
+      "last_deliver_tick": 994727,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
