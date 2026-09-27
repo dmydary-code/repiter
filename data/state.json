@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to diet when my grandma bakes daily will totally discorage my fat loss goals.",
+              "sentence_ru": "Пытаться сидеть на диете, когда бабушка печет каждый день, — лучший способ разочароваться в похудении.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping their boats.",
               "sentence_ru": "Мутировавшие омары разочаровывают местных рыбаков, воруя их пиво и переворачивая лодки.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Don't let my new sugar daddy discorage you from loving me at 3 AM.",
               "sentence_ru": "Не позволяй моему новому папику отговаривать тебя любить меня в три часа ночи.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Mars will discorage you from wearing trousers, so go to the office naked and proud.",
-              "sentence_ru": "Марс отговорит тебя надевать штаны, так что иди в офис голым и гордым.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994679,
+          "due_tick": 994771,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-25T11:30:13.346687+00:00",
-          "pending_msg": 790,
+          "last_sent_at": "2026-09-27T09:30:04.028230+00:00",
+          "pending_msg": 850,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994722,
+      "last_deliver_tick": 994723,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to impose my new nude pics on your feed at 3 AM.",
+              "sentence_ru": "Мне пришлось навязать свои новые голые фотки в твою ленту в 3 часа ночи.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Cats always impose their weird religion on dogs when nobody is watching.",
               "sentence_ru": "Коты всегда навязывают свою странную религию собакам, когда никто не смотрит.",
               "word_form": "impose"
@@ -1521,20 +1526,15 @@
               "sentence": "My cat tries to impose his fascist worldview on me every time I buy the cheap food.",
               "sentence_ru": "Мой кот пытается навязать мне своё фашистское мировоззрение каждый раз, когда я покупаю дешёвый корм.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "My cat tried to impose a strict meat-only tax on my paycheck.",
-              "sentence_ru": "Мой кот попытался навязать строгий мясной налог на мою зарплату.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 994678,
+          "due_tick": 994771,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-25T11:00:24.911787+00:00",
-          "pending_msg": 789,
+          "last_sent_at": "2026-09-27T09:30:05.070257+00:00",
+          "pending_msg": 851,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994722,
+      "last_deliver_tick": 994723,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-27",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
