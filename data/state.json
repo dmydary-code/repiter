@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words: this dildo vibrates so hard my fillings fell out. Five stars!",
+              "sentence_ru": "Я не буду подбирать выражения: этот фаллоимитатор вибрирует так сильно, что у меня пломбы выпали. Пять звезд!",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I won't mince words at 3 AM: your new boyfriend's face looks like a squashed potato.",
               "sentence_ru": "Я не буду церемониться в выражениях в 3 ночи: лицо твоего нового парня похоже на мятую картошку.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I will not mince words: whoever keeps dumping cat carcasses in the elevator is a psycho.",
               "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает скидывать трупы кошек в лифте — психопат.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I didn't mince words when telling my ex his new haircut looks like a dead ferret.",
-              "sentence_ru": "Я не стал церемониться в выражениях, когда сказал бывшему, что его новая стрижка похожа на мертвого хорька.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 994692,
+          "due_tick": 994814,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-25T18:00:40.345865+00:00",
-          "pending_msg": 808,
+          "last_sent_at": "2026-09-28T07:00:22.558178+00:00",
+          "pending_msg": 860,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994741,
+      "last_deliver_tick": 994766,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-28",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -723,6 +723,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "My ex-boyfriend's soul is just as drab as these overpriced beige curtains.",
+              "sentence_ru": "Душа моего бывшего такая же унылая, как эти переоцененные бежевые занавески.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Your soul matches this drab corporate cubicle, Chad.",
               "sentence_ru": "Твоя душа идеально совпадает с этим унылым корпоративным чуланом, Чад.",
@@ -742,20 +747,15 @@
               "sentence": "My ex's soul is less drab than this hideous beige hoodie from Zara.",
               "sentence_ru": "Душа моего бывшего менее унылая, чем эта отвратительная бежевая худи из Зары.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Mars in your sign makes your ex's outfit look totally drab, so flex your Gucci.",
-              "sentence_ru": "Марс в вашем знаке делает наряд вашего бывшего совершенно унылым, так что выгуливайте свой Гуччи.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994689,
+          "due_tick": 994814,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-09-25T16:31:33.252289+00:00",
-          "pending_msg": 803,
+          "last_sent_at": "2026-09-28T07:00:55.777077+00:00",
+          "pending_msg": 861,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994741,
+      "last_deliver_tick": 994766,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-28",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
