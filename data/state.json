@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-09-28",
-  "offset": 71487649,
+  "offset": 71487650,
   "users": {
     "1090554427": {
       "cards": [
@@ -714,6 +714,20 @@
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
+          "word_ru": ""
+        },
+        {
+          "archived": false,
+          "cache": [],
+          "created_at": "2026-09-28T13:28:56.647193+00:00",
+          "due_tick": 994780,
+          "id": "3679df0451",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "profoundly",
           "word_ru": ""
         }
       ],
