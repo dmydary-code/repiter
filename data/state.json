@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Jim claims he is humble, but he framed Dwight with a fake Nobel prize.",
+              "sentence_ru": "Джим утверждает, что он скромный, но он подставил Дуайта с фальшивой Нобелевской премией.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even the most arrogant drug dealer in this building must humble himself and recycle bottles.",
               "sentence_ru": "Даже самый заносчивый барыга в этом подъезде должен смириться и сдавать бутылки.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "He is so humble that he only brags about being the most modest guy alive.",
               "sentence_ru": "Он настолько скромен, что хвастается лишь тем, что он самый скромный чувак на свете.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "My absolute genius must somehow fit into this humble cardboard box.",
-              "sentence_ru": "Мой абсолютный гений должен как-то поместиться в эту скромную картонную коробку.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 994728,
+          "due_tick": 994821,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-26T12:00:07.769073+00:00",
-          "pending_msg": 832,
+          "last_sent_at": "2026-09-28T10:30:38.040023+00:00",
+          "pending_msg": 874,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994772,
+      "last_deliver_tick": 994773,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-28",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An unexpected influx of aggressive badgers caused total chaos at the downtown stock exchange.",
+              "sentence_ru": "Неожиданный наплыв агрессивных барсуков вызвал полный хаос на бирже в центре города.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "This sudden influx of my exes' new partners into my brain is driving me insane.",
               "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в мой мозг сводит меня с ума.",
               "word_form": "influx"
@@ -1029,20 +1034,15 @@
               "sentence": "An unexpected influx of aggressive badgers ruined my exquisite underground techno party.",
               "sentence_ru": "Неожиданный наплыв агрессивных барсуков испортил мою изысканную подземную техно-вечеринку.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "Because of this insane influx of weirdos in our lobby, I can't even order a normal pizza.",
-              "sentence_ru": "Из-за этого безумного наплыва фриков в нашем лобби я даже не могу заказать нормальную пиццу.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994725,
+          "due_tick": 994821,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-26T10:30:09.894659+00:00",
-          "pending_msg": 827,
+          "last_sent_at": "2026-09-28T10:30:39.297518+00:00",
+          "pending_msg": 875,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994772,
+      "last_deliver_tick": 994773,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-28",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
