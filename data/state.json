@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy roommate never lifts a finger in the house, even when zombies attack.",
+              "sentence_ru": "Мой ленивый соседик никогда не ударит палец о палец по дому, даже когда нападают зомби.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "Ancient vampire king refuses that he ever lifts a finger in the house, demands servant ghouls.",
               "sentence_ru": "Древний король-вампир отказывается хоть палец о палец ударить по дому и требует слуг-упырей.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "He never lifts a finger in the house, leaving me to drown in this domestic hell.",
               "sentence_ru": "Он палец о палец не ударяет дома, оставляя меня тонуть в этом бытовом аду.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "You never lifts a finger in the house, but now you want my attention at 3 AM?",
-              "sentence_ru": "Ты никогда не ударял палец о палец по дому, но теперь хочешь моего внимания в 3 часа ночи?",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 994723,
+          "due_tick": 994816,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-26T09:32:34.193118+00:00",
-          "pending_msg": 822,
+          "last_sent_at": "2026-09-28T08:00:08.666458+00:00",
+          "pending_msg": 864,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -706,11 +706,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994767,
+      "last_deliver_tick": 994768,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-28",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
+              "sentence_ru": "Человек, если ты снова купишь дешевый сухой корм, я снесу этот тупой диван.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Who dared to demolish my balcony just to build a giant slide for their fat corgi?",
               "sentence_ru": "Кто осмелился снести мой балкон только ради того, чтобы построить гигантскую горку для своего толстого корги?",
               "word_form": "demolish"
@@ -906,20 +911,15 @@
               "sentence": "Neighbor's feral kids tried to demolish the elevator with a hammer again!",
               "sentence_ru": "Дикие дети соседа снова попытались разнести лифт молотком!",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "I'm going to demolish your new boyfriend's house while you're sleeping, babe.",
-              "sentence_ru": "Я собираюсь снести дом твоего нового бойфренда, пока ты спишь, детка.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 994691,
+          "due_tick": 994816,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-25T17:32:17.435808+00:00",
-          "pending_msg": 807,
+          "last_sent_at": "2026-09-28T08:00:09.987870+00:00",
+          "pending_msg": 865,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1544,11 +1544,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994767,
+      "last_deliver_tick": 994768,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-28",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
