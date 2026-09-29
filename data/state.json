@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons tried to discourage me from eating the raw sausage off the floor.",
+              "sentence_ru": "Мои внутренние демоны пытались отговорить меня сожрать сырую сосиску с пола.",
+              "word_form": "discourage"
+            },
+            {
               "sentence": "Trying to diet when my grandma bakes daily will totally discorage my fat loss goals.",
               "sentence_ru": "Пытаться сидеть на диете, когда бабушка печет каждый день, — лучший способ разочароваться в похудении.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "I tried to discourage my grandma from knitting sweaters for our local stray crocodiles.",
               "sentence_ru": "Я пытался отговорить бабушку вязать свитера для местных бродячих крокодилов.",
               "word_form": "discourage"
-            },
-            {
-              "sentence": "Don't let my new sugar daddy discorage you from loving me at 3 AM.",
-              "sentence_ru": "Не позволяй моему новому папику отговаривать тебя любить меня в три часа ночи.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994771,
+          "due_tick": 994866,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-27T09:30:04.028230+00:00",
-          "pending_msg": 850,
+          "last_sent_at": "2026-09-29T09:00:14.815196+00:00",
+          "pending_msg": 900,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -734,11 +734,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994817,
+      "last_deliver_tick": 994818,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1326,6 +1326,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please adjust your screaming volume before entering the elevator, or the babushka will curse you.",
+              "sentence_ru": "Пожалуйста, отрегулируйте громкость своего ора перед входом в лифт, иначе бабулька вас проклянет.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "He had to adjust the cat's VR headset so the demon slayers looked more realistic.",
               "sentence_ru": "Ему пришлось настроить кошачий VR-шлем, чтобы убийцы демонов выглядели реалистичнее.",
               "word_form": "adjust"
@@ -1344,20 +1349,15 @@
               "sentence": "Tomorrow you must urgently adjust your astrological sign before the universe bans you for bugs.",
               "sentence_ru": "Завтра вы должны срочно настроить свой астрологический знак, пока вселенная не забанила вас за баги.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Mutants must urgently adjust their alien tentacles before the intergalactic tax inspection arrives.",
-              "sentence_ru": "Мутантам нужно срочно настроить свои инопланетные щупальца до прихода межгалактической налоговой инспекции.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 994768,
+          "due_tick": 994866,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-27T08:14:25.613224+00:00",
-          "pending_msg": 845,
+          "last_sent_at": "2026-09-29T09:00:16.129523+00:00",
+          "pending_msg": 901,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1572,11 +1572,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994817,
+      "last_deliver_tick": 994818,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
