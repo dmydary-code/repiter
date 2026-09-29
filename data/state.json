@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant moles hired by the mafia continue to undermine the city's central bank.",
+              "sentence_ru": "Мутантные кроты, нанятые мафией, продолжают подкапывать центральный банк города.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Mars will undermine your boss's career while you are eating donuts.",
               "sentence_ru": "Марс подорвет карьеру твоего начальника, пока ты будешь жрать пончики.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Mars will undermine your boss's career while you eat chips on the sofa.",
               "sentence_ru": "Марс подорвет карьеру твоего босса, пока ты жрешь чипсы на диване.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "My talking hamster tried to undermine the living room floor with a tiny plastic spoon.",
-              "sentence_ru": "Мой говорящий хомяк попытался подорвать пол в гостиной крошечной пластиковой ложкой.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 994772,
+          "due_tick": 994867,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-27T10:00:03.315827+00:00",
-          "pending_msg": 852,
+          "last_sent_at": "2026-09-29T09:30:15.887722+00:00",
+          "pending_msg": 902,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -734,11 +734,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994818,
+      "last_deliver_tick": 994819,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1449,6 +1449,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My brain tends to seize up whenever you try to explain your weird diets.",
+              "sentence_ru": "Мой мозг обычно заклинивает, когда ты пытаешься объяснить свои странные диеты.",
+              "word_form": "to seize up"
+            },
+            {
               "sentence": "My cheap blender started smoking and decided to seize up right during my morning protein shake.",
               "sentence_ru": "Мой дешевый блендер задымился и решил заклинить прямо во время утреннего протеинового коктейля.",
               "word_form": "seize up"
@@ -1467,20 +1472,15 @@
               "sentence": "My elevator door decided to seize up right when I was holding three heavy pizza boxes.",
               "sentence_ru": "Дверь моего лифта решила заклинить как раз тогда, когда я держал три тяжелые коробки с пиццей.",
               "word_form": "to seize up"
-            },
-            {
-              "sentence": "My brain started to seize up the exact second my toxic ex asked me for life advice.",
-              "sentence_ru": "Мой мозг начал клинить в ту самую секунду, когда мой токсичный бывший попросил совета по жизни.",
-              "word_form": "to seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 994769,
+          "due_tick": 994867,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-27T08:30:05.637774+00:00",
-          "pending_msg": 847,
+          "last_sent_at": "2026-09-29T09:30:17.317765+00:00",
+          "pending_msg": 903,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1572,11 +1572,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994818,
+      "last_deliver_tick": 994819,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
