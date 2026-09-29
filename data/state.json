@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "When you try to impress your cat, but it just looks at you with absolute disgust.",
+              "sentence_ru": "Когда ты пытаешься произвести впечатление на своего кота, но он просто смотрит на тебя с абсолютным отвращением.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Trying to look mysterious while eating a massive burrito is my daily cardio.",
               "sentence_ru": "Пытаться выглядеть загадочно, уплетая гигантский буррито — это мое ежедневное кардио.",
               "word_form": "Trying"
@@ -355,20 +360,15 @@
               "sentence": "Cats always try to murder you while you are sleeping.",
               "sentence_ru": "Коты всегда пытаются тебя убить, пока ты спишь.",
               "word_form": "try"
-            },
-            {
-              "sentence": "I tried to cook this cursed soup, and now my cat is judging my life choices.",
-              "sentence_ru": "Я попытался приготовить этот проклятый суп, и теперь мой кот осуждает мой выбор.",
-              "word_form": "tried"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 994773,
+          "due_tick": 994872,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-27T10:30:03.663413+00:00",
-          "pending_msg": 854,
+          "last_sent_at": "2026-09-29T12:00:14.615488+00:00",
+          "pending_msg": 912,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -734,11 +734,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994823,
+      "last_deliver_tick": 994824,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1490,6 +1490,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to ramp up my threats to get a refund from this cursed seller.",
+              "sentence_ru": "Мне пришлось усилить свои угрозы, чтобы получить возврат денег от этого проклятого продавца.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Bro had to ramp up his flexing after seeing my new gym gains.",
               "sentence_ru": "Чел был вынужден усилить свои понты после того, как увидел мои новые успехи в качалке.",
               "word_form": "ramp up"
@@ -1508,20 +1513,15 @@
               "sentence": "We need to ramp up production before the boss finds out we haven't done shit.",
               "sentence_ru": "Нам нужно нарастить производство, пока босс не узнал, что мы ни хрена не сделали.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Management will ramp up the noise from drills if you don't pay your utility bills.",
-              "sentence_ru": "Управляющая компания начнет наращивать шум от дрелей, если вы не заплатите за коммуналку.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994770,
+          "due_tick": 994872,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-27T09:00:05.070098+00:00",
-          "pending_msg": 849,
+          "last_sent_at": "2026-09-29T12:00:16.575674+00:00",
+          "pending_msg": 913,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1572,11 +1572,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994823,
+      "last_deliver_tick": 994824,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
