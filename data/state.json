@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You scream whenever I try to sleep on your face.",
+              "sentence_ru": "Ты вечно орёшь, когда бы я ни пытался поспать у тебя на морде.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever you cry, my new girlfriend laughs so loud I can't even sleep.",
               "sentence_ru": "Всякий раз, когда ты плачешь, моя новая девушка смеется так громко, что я даже уснуть не могу.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever you throw garbage out the window, a stray cat loses its last shred of dignity.",
               "sentence_ru": "Всякий раз, когда вы выбрасываете мусор в окно, бездомный кот теряет последние крохи достоинства.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "This weird guy stares at me through the window whenever I eat mayonnaise with a spoon.",
-              "sentence_ru": "Этот странный чувак пялится на меня в окно всякий раз, когда я ем майонез ложкой.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 994774,
+          "due_tick": 994869,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-27T11:00:05.462489+00:00",
-          "pending_msg": 856,
+          "last_sent_at": "2026-09-29T10:30:19.469237+00:00",
+          "pending_msg": 906,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -734,11 +734,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994820,
+      "last_deliver_tick": 994821,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1531,6 +1531,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please don't impose your weird vegan diet on my desk fridge, Todd.",
+              "sentence_ru": "Пожалуйста, не навязывай свою странную веганскую диету моему офисному холодильнику, Тодд.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "I had to impose my new nude pics on your feed at 3 AM.",
               "sentence_ru": "Мне пришлось навязать свои новые голые фотки в твою ленту в 3 часа ночи.",
               "word_form": "impose"
@@ -1549,20 +1554,15 @@
               "sentence": "Don't try to impose your weird vegan diet on me, human.",
               "sentence_ru": "Не пытайся навязывать мне свою странную веганскую диету, человек.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "My cat tries to impose his fascist worldview on me every time I buy the cheap food.",
-              "sentence_ru": "Мой кот пытается навязать мне своё фашистское мировоззрение каждый раз, когда я покупаю дешёвый корм.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 994771,
+          "due_tick": 994869,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-27T09:30:05.070257+00:00",
-          "pending_msg": 851,
+          "last_sent_at": "2026-09-29T10:30:20.706444+00:00",
+          "pending_msg": 907,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1572,11 +1572,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994820,
+      "last_deliver_tick": 994821,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
