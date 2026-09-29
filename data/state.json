@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still hear the screams of the aforementioned betrayal echoing in my empty skull.",
+              "sentence_ru": "Я всё еще слышу крики вышеупомянутого предательства, эхом отдающиеся в моем пустом черепе.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "I still think about the aforementioned mistake we made in that cheap motel.",
               "sentence_ru": "Я все еще думаю о вышеупомянутой ошибке, которую мы совершили в том дешевом мотеле.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "The aforementioned degenerate who keeps pissing in the elevator will be sacrificed to Satan tonight.",
               "sentence_ru": "Вышеупомянутый дегенерат, который продолжает ссать в лифте, сегодня ночью будет принесен в жертву Сатане.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I still remember the aforementioned betrayal, especially while drinking tequila at 3 AM.",
-              "sentence_ru": "Я до сих пор помню вышеупомянутое предательство, особенно попивая текилу в 3 часа ночи.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994770,
+          "due_tick": 994865,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-27T09:00:03.737835+00:00",
-          "pending_msg": 848,
+          "last_sent_at": "2026-09-29T08:30:14.742117+00:00",
+          "pending_msg": 898,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -734,11 +734,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994816,
+      "last_deliver_tick": 994817,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1367,6 +1367,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If we lose this client, Dwight's sanity is going to snap altogether.",
+              "sentence_ru": "Если мы потеряем этого клиента, рассудок Дуайта окончательно рухнет.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "This weird sex-doll smells like old fish and I am altogether disgusted.",
               "sentence_ru": "От этой странной резиновой куклы воняет старой рыбой, и я в целом в полном отвращении.",
               "word_form": "altogether"
@@ -1385,20 +1390,15 @@
               "sentence": "Tomorrow your ex and their new partner will ruin your life altogether, Aries.",
               "sentence_ru": "Завтра твой бывший и их новый партнер полностью разрушат твою жизнь, Овен.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "Tomorrow your boss and your ex will vanish altogether, leaving you alone with infinite pizza.",
-              "sentence_ru": "Завтра твой босс и твой бывший полностью исчезнут, оставив тебя наедине с бесконечной пиццей.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994734,
+          "due_tick": 994865,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-26T15:13:31.649483+00:00",
-          "pending_msg": 837,
+          "last_sent_at": "2026-09-29T08:30:16.063828+00:00",
+          "pending_msg": 899,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1572,11 +1572,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994816,
+      "last_deliver_tick": 994817,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
