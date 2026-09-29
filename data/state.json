@@ -132,11 +132,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Mutant moles hired by the mafia continue to undermine the city's central bank.",
-              "sentence_ru": "Мутантные кроты, нанятые мафией, продолжают подкапывать центральный банк города.",
-              "word_form": "undermine"
-            },
-            {
               "sentence": "Mars will undermine your boss's career while you are eating donuts.",
               "sentence_ru": "Марс подорвет карьеру твоего начальника, пока ты будешь жрать пончики.",
               "word_form": "undermine"
@@ -155,15 +150,20 @@
               "sentence": "Mars will undermine your boss's career while you eat chips on the sofa.",
               "sentence_ru": "Марс подорвет карьеру твоего босса, пока ты жрешь чипсы на диване.",
               "word_form": "undermine"
+            },
+            {
+              "sentence": "My talking hamster tried to undermine the living room floor with a tiny plastic spoon.",
+              "sentence_ru": "Мой говорящий хомяк попытался подорвать пол в гостиной крошечной пластиковой ложкой.",
+              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 994867,
+          "due_tick": 994772,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-29T09:30:15.887722+00:00",
-          "pending_msg": 902,
+          "last_sent_at": "2026-09-27T10:00:03.315827+00:00",
+          "pending_msg": 852,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -255,9 +255,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My inner demons tried to discourage me from eating the raw sausage off the floor.",
-              "sentence_ru": "Мои внутренние демоны пытались отговорить меня сожрать сырую сосиску с пола.",
-              "word_form": "discourage"
+              "sentence": "Mars will discorage your boss from firing you, mostly because your weirdness amuses him.",
+              "sentence_ru": "Марс отговорит твоего босса увольнять тебя, в основном потому, что твоя странность его забавляет.",
+              "word_form": "discorage"
             },
             {
               "sentence": "Trying to diet when my grandma bakes daily will totally discorage my fat loss goals.",
@@ -281,12 +281,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994866,
+          "due_tick": 994870,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-29T09:00:14.815196+00:00",
-          "pending_msg": 900,
+          "last_sent_at": "2026-09-29T11:16:58.523109+00:00",
+          "pending_msg": 908,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -337,11 +337,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I still try to wash away the blood, knowing the stain is my soul.",
-              "sentence_ru": "Я всё еще пытаюсь смыть кровь, зная, что это пятно — моя душа.",
-              "word_form": "try"
-            },
-            {
               "sentence": "Trying to look mysterious while eating a massive burrito is my daily cardio.",
               "sentence_ru": "Пытаться выглядеть загадочно, уплетая гигантский буррито — это мое ежедневное кардио.",
               "word_form": "Trying"
@@ -360,15 +355,20 @@
               "sentence": "Cats always try to murder you while you are sleeping.",
               "sentence_ru": "Коты всегда пытаются тебя убить, пока ты спишь.",
               "word_form": "try"
+            },
+            {
+              "sentence": "I tried to cook this cursed soup, and now my cat is judging my life choices.",
+              "sentence_ru": "Я попытался приготовить этот проклятый суп, и теперь мой кот осуждает мой выбор.",
+              "word_form": "tried"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 994868,
+          "due_tick": 994773,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-29T10:00:18.464351+00:00",
-          "pending_msg": 904,
+          "last_sent_at": "2026-09-27T10:30:03.663413+00:00",
+          "pending_msg": 854,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -419,11 +419,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "You scream whenever I try to sleep on your face.",
-              "sentence_ru": "Ты вечно орёшь, когда бы я ни пытался поспать у тебя на морде.",
-              "word_form": "whenever"
-            },
-            {
               "sentence": "Whenever you cry, my new girlfriend laughs so loud I can't even sleep.",
               "sentence_ru": "Всякий раз, когда ты плачешь, моя новая девушка смеется так громко, что я даже уснуть не могу.",
               "word_form": "Whenever"
@@ -442,15 +437,20 @@
               "sentence": "Whenever you throw garbage out the window, a stray cat loses its last shred of dignity.",
               "sentence_ru": "Всякий раз, когда вы выбрасываете мусор в окно, бездомный кот теряет последние крохи достоинства.",
               "word_form": "whenever"
+            },
+            {
+              "sentence": "This weird guy stares at me through the window whenever I eat mayonnaise with a spoon.",
+              "sentence_ru": "Этот странный чувак пялится на меня в окно всякий раз, когда я ем майонез ложкой.",
+              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 994869,
+          "due_tick": 994774,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-29T10:30:19.469237+00:00",
-          "pending_msg": 906,
+          "last_sent_at": "2026-09-27T11:00:05.462489+00:00",
+          "pending_msg": 856,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -738,7 +738,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 8,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1326,8 +1326,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Please adjust your screaming volume before entering the elevator, or the babushka will curse you.",
-              "sentence_ru": "Пожалуйста, отрегулируйте громкость своего ора перед входом в лифт, иначе бабулька вас проклянет.",
+              "sentence": "Trying to adjust my crown while my ex cries in the background.",
+              "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший плачет на заднем плане.",
               "word_form": "adjust"
             },
             {
@@ -1352,12 +1352,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 994866,
+          "due_tick": 994870,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-09-29T09:00:16.129523+00:00",
-          "pending_msg": 901,
+          "last_sent_at": "2026-09-29T11:16:59.693270+00:00",
+          "pending_msg": 909,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1449,11 +1449,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My brain tends to seize up whenever you try to explain your weird diets.",
-              "sentence_ru": "Мой мозг обычно заклинивает, когда ты пытаешься объяснить свои странные диеты.",
-              "word_form": "to seize up"
-            },
-            {
               "sentence": "My cheap blender started smoking and decided to seize up right during my morning protein shake.",
               "sentence_ru": "Мой дешевый блендер задымился и решил заклинить прямо во время утреннего протеинового коктейля.",
               "word_form": "seize up"
@@ -1472,15 +1467,20 @@
               "sentence": "My elevator door decided to seize up right when I was holding three heavy pizza boxes.",
               "sentence_ru": "Дверь моего лифта решила заклинить как раз тогда, когда я держал три тяжелые коробки с пиццей.",
               "word_form": "to seize up"
+            },
+            {
+              "sentence": "My brain started to seize up the exact second my toxic ex asked me for life advice.",
+              "sentence_ru": "Мой мозг начал клинить в ту самую секунду, когда мой токсичный бывший попросил совета по жизни.",
+              "word_form": "to seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 994867,
+          "due_tick": 994769,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-29T09:30:17.317765+00:00",
-          "pending_msg": 903,
+          "last_sent_at": "2026-09-27T08:30:05.637774+00:00",
+          "pending_msg": 847,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1489,11 +1489,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Management will ramp up the noise of drills at 6 AM because your sleep is weak.",
-              "sentence_ru": "Управляющая компания нарастит шум дрелей в 6 утра, потому что ваш сон слишком слабый.",
-              "word_form": "ramp up"
-            },
             {
               "sentence": "Bro had to ramp up his flexing after seeing my new gym gains.",
               "sentence_ru": "Чел был вынужден усилить свои понты после того, как увидел мои новые успехи в качалке.",
@@ -1513,15 +1508,20 @@
               "sentence": "We need to ramp up production before the boss finds out we haven't done shit.",
               "sentence_ru": "Нам нужно нарастить производство, пока босс не узнал, что мы ни хрена не сделали.",
               "word_form": "ramp up"
+            },
+            {
+              "sentence": "Management will ramp up the noise from drills if you don't pay your utility bills.",
+              "sentence_ru": "Управляющая компания начнет наращивать шум от дрелей, если вы не заплатите за коммуналку.",
+              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994868,
+          "due_tick": 994770,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-29T10:00:20.855520+00:00",
-          "pending_msg": 905,
+          "last_sent_at": "2026-09-27T09:00:05.070098+00:00",
+          "pending_msg": 849,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1530,11 +1530,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Please don't impose your weird vegan diet on my desk fridge, Todd.",
-              "sentence_ru": "Пожалуйста, не навязывай свою странную веганскую диету моему офисному холодильнику, Тодд.",
-              "word_form": "impose"
-            },
             {
               "sentence": "I had to impose my new nude pics on your feed at 3 AM.",
               "sentence_ru": "Мне пришлось навязать свои новые голые фотки в твою ленту в 3 часа ночи.",
@@ -1554,15 +1549,20 @@
               "sentence": "Don't try to impose your weird vegan diet on me, human.",
               "sentence_ru": "Не пытайся навязывать мне свою странную веганскую диету, человек.",
               "word_form": "impose"
+            },
+            {
+              "sentence": "My cat tries to impose his fascist worldview on me every time I buy the cheap food.",
+              "sentence_ru": "Мой кот пытается навязать мне своё фашистское мировоззрение каждый раз, когда я покупаю дешёвый корм.",
+              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 994869,
+          "due_tick": 994771,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-29T10:30:20.706444+00:00",
-          "pending_msg": 907,
+          "last_sent_at": "2026-09-27T09:30:05.070257+00:00",
+          "pending_msg": 851,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1576,7 +1576,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-29",
-      "sent_today": 8,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
