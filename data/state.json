@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy husband never lifts a finger in the house, even when our cat vomits on the rug.",
+              "sentence_ru": "Мой ленивый муж никогда палец о палец не ударяет по дому, даже когда наш кот блевет на ковер.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "My lazy roommate never lifts a finger in the house, even when zombies attack.",
               "sentence_ru": "Мой ленивый соседик никогда не ударит палец о палец по дому, даже когда нападают зомби.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "Paranoid android refuses that he ever lifts a finger in the house, demanding a union lawyer.",
               "sentence_ru": "Параноидальный андроидов отказывается признавать, что он хоть палец о палец ударил по дому, требуя профсоюзного адвоката.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "He never lifts a finger in the house, leaving me to drown in this domestic hell.",
-              "sentence_ru": "Он палец о палец не ударяет дома, оставляя меня тонуть в этом бытовом аду.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 994816,
+          "due_tick": 994915,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-28T08:00:08.666458+00:00",
-          "pending_msg": 864,
+          "last_sent_at": "2026-09-30T09:30:05.306966+00:00",
+          "pending_msg": 926,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994866,
+      "last_deliver_tick": 994867,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -889,6 +889,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I flourish on the expensive carpets you cry about while I sharpen my claws.",
+              "sentence_ru": "Я процветаю на тех дорогих коврах, над которыми ты рыдаешь, пока я точу когти.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My ex's new relationship is bound to flourish just like a plastic cactus in a microwave.",
               "sentence_ru": "Новые отношения моего бывшего обязательно расцветут, прямо как пластиковый кактус в микроволновке.",
               "word_form": "flourish"
@@ -907,20 +912,15 @@
               "sentence": "Local stray cats manage to flourish after eating pure plutonium found behind the reactor.",
               "sentence_ru": "Местные бродячие коты ухитряются процветать после поедания чистого плутония, найденного за реактором.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "While our ceiling is leaking, the mold in the hallway continues to flourish.",
-              "sentence_ru": "Пока у нас протекает потолок, плесень в коридоре продолжает процветать.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 994815,
+          "due_tick": 994915,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-28T07:30:22.374051+00:00",
-          "pending_msg": 863,
+          "last_sent_at": "2026-09-30T09:30:06.453941+00:00",
+          "pending_msg": 927,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994866,
+      "last_deliver_tick": 994867,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
