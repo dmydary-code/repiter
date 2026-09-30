@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We hit it off immediately when I knocked her expensive vase off the shelf.",
+              "sentence_ru": "Мы сразу подружились, когда я смахнул её дорогущую вазу с полки.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Me and my therapist really hit it off after I blamed my ex for my bad vibes.",
               "sentence_ru": "Я и мой психотерапевт сразу отлично поладили после того, как я свалил вину за свои плохие вайбы на бывшую.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "My stolen vacuum cleaner and the thief's cat really hit it off immediately.",
               "sentence_ru": "Мой украденный пылесос и кота вора сразу же отлично поладили.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Tomorrow you and a stray raccoon will hit it off and rob a bank together.",
-              "sentence_ru": "Завтра ты и бродячий енот сразу поладите и вместе ограбите банк.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 994815,
+          "due_tick": 994914,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-28T07:30:21.034809+00:00",
-          "pending_msg": 862,
+          "last_sent_at": "2026-09-30T09:00:05.528639+00:00",
+          "pending_msg": 924,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994865,
+      "last_deliver_tick": 994866,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -765,6 +765,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Your soul is just as drab as this beige office carpet, Greg.",
+              "sentence_ru": "Твоя душа такая же унылая, как этот бежевый офисный ковер, Грег.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My ex-boyfriend's soul is just as drab as these overpriced beige curtains.",
               "sentence_ru": "Душа моего бывшего такая же унылая, как эти переоцененные бежевые занавески.",
@@ -784,20 +789,15 @@
               "sentence": "Your soul is as drab as this office coffee, Karen.",
               "sentence_ru": "Твоя душа такая же унылая, как этот офисный кофе, Карен.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My ex's soul is less drab than this hideous beige hoodie from Zara.",
-              "sentence_ru": "Душа моего бывшего менее унылая, чем эта отвратительная бежевая худи из Зары.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 994814,
+          "due_tick": 994914,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-09-28T07:00:55.777077+00:00",
-          "pending_msg": 861,
+          "last_sent_at": "2026-09-30T09:00:06.539934+00:00",
+          "pending_msg": 925,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994865,
+      "last_deliver_tick": 994866,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
