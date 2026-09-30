@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words: whoever keeps dumping trash in the elevator is a absolute degenerate.",
+              "sentence_ru": "Я не буду церемониться в выражениях: тот, кто продолжает сваливать мусор в лифте — абсолютный дегенерат.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I won't mince words: this dildo vibrates so hard my fillings fell out. Five stars!",
               "sentence_ru": "Я не буду подбирать выражения: этот фаллоимитатор вибрирует так сильно, что у меня пломбы выпали. Пять звезд!",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I won't mince words at 3 AM: your new boyfriend looks like a toasted potato.",
               "sentence_ru": "Я не буду церемониться в три часа ночи: твой новый парень выглядит как подгорелая картошка.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I will not mince words: whoever keeps dumping cat carcasses in the elevator is a psycho.",
-              "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает скидывать трупы кошек в лифте — психопат.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 994814,
+          "due_tick": 994913,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-28T07:00:22.558178+00:00",
-          "pending_msg": 860,
+          "last_sent_at": "2026-09-30T08:30:05.632867+00:00",
+          "pending_msg": 922,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994864,
+      "last_deliver_tick": 994865,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1422,6 +1422,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who decided to wire up the intercom to my doorbell while on heavy drugs?",
+              "sentence_ru": "Кто додумался подключить домофон к моему звонку под тяжелыми наркотиками?",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Human, wire up my scratching post to the socket or I will murder your shoes.",
               "sentence_ru": "Человек, подключи мою когтеточку к розетке, иначе я убью твои туфли.",
               "word_form": "wire up"
@@ -1440,20 +1445,15 @@
               "sentence": "Trying to wire up my smart home before the toaster takes over the Wi-Fi.",
               "sentence_ru": "Пытаюсь подключить свой умный дом, пока тостер не захватил вайфай.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Who decided to wire up the intercom to my doorbell while on heavy drugs?",
-              "sentence_ru": "Кто додумался подключить домофон к моему звонку под тяжелыми наркотиками?",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 994775,
+          "due_tick": 994913,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-27T11:30:09.243487+00:00",
-          "pending_msg": 859,
+          "last_sent_at": "2026-09-30T08:30:06.811764+00:00",
+          "pending_msg": 923,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994864,
+      "last_deliver_tick": 994865,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
