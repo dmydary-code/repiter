@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If you set heart on stealing the hallway cactus, know that it's cursed with diarrhea.",
+              "sentence_ru": "Если вы твердо нацелились украсть подъездный кактус, знайте, что он проклят на диарею.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "If you set heart on stealing the lobby cactus again, Nina will curse your ancestors.",
               "sentence_ru": "Если вы снова страстно захотите украсть подъездный кактус, Нина проклянет ваших предков.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "Neighbor Igor set heart on stealing my Wi-Fi, but I blocked his cursed smart fridge.",
               "sentence_ru": "Сосед Игорь страстно возжелал украсть мой вайфай, но я заблокировал его проклятый умный холодильник.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Karen has set her heart on stealing the last gluten-free muffin from the breakroom.",
-              "sentence_ru": "Карен твердо нацелилась украсть последний безглютеновый маффин из комнаты отдыха.",
-              "word_form": "set her heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 994775,
+          "due_tick": 994910,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-27T11:30:07.889979+00:00",
-          "pending_msg": 858,
+          "last_sent_at": "2026-09-30T07:00:05.579529+00:00",
+          "pending_msg": 916,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -734,11 +734,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994833,
+      "last_deliver_tick": 994862,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1203,6 +1203,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that pineapple on pizza is a crime against humanity.",
+              "sentence_ru": "Я придерживаюсь мнения, что ананасы на пицце — это преступление против человечества.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that my talking cat should pay rent or sleep on the balcony.",
               "sentence_ru": "Я придерживаюсь мнения, что мой говорящий кот должен платить за аренду или спать на балконе.",
               "word_form": "I hold the view that"
@@ -1221,20 +1226,15 @@
               "sentence": "I hold the view that my ex-wife's new husband is secretly a lizard.",
               "sentence_ru": "Я придерживаюсь мнения, что новый муж моей бывшей жены тайком рептилоид.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that my exes belong in a museum of mistakes.",
-              "sentence_ru": "Я придерживаюсь мнения, что мои бывшие должны висеть в музее ошибок.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 994772,
+          "due_tick": 994910,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-27T10:00:04.703791+00:00",
-          "pending_msg": 853,
+          "last_sent_at": "2026-09-30T07:00:06.955257+00:00",
+          "pending_msg": 917,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1572,11 +1572,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994833,
+      "last_deliver_tick": 994862,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
