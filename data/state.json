@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The local pigeon is officially rolling in money after stealing a bag of crypto-wallet keys.",
+              "sentence_ru": "Местный голубь официально купается в деньгах после кражи мешка с ключами от криптокошельков.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "Bought this golden toilet brush and now I feel like I am rolling in money.",
               "sentence_ru": "Купил этот золотой ершик для унитаза и теперь чувствую, что купаюсь в деньгах.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "He laughs at my tears while rolling in money on his golden yacht.",
               "sentence_ru": "Он смеется над моими слезами, купаясь в деньгах на своей золотой яхте.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "I'm rolling in money now, but you still sleep with your cat, loser.",
-              "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё ещё спишь со своим котом, неудачник.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 994825,
+          "due_tick": 994916,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-28T12:38:14.373118+00:00",
-          "pending_msg": 876,
+          "last_sent_at": "2026-09-30T10:24:05.131214+00:00",
+          "pending_msg": 928,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994867,
+      "last_deliver_tick": 994868,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -930,6 +930,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I ordered this diet shake, but it completely demolished my toilet at 3 AM.",
+              "sentence_ru": "Я заказал этот диетический коктейль, но он полностью снес мой унитаз в 3 часа ночи.",
+              "word_form": "demolished"
+            },
+            {
               "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
               "sentence_ru": "Человек, если ты снова купишь дешевый сухой корм, я снесу этот тупой диван.",
               "word_form": "demolish"
@@ -948,20 +953,15 @@
               "sentence": "Bro tried to cook eggs and accidentally demolished the entire kitchen.",
               "sentence_ru": "Бро пытался пожарить яйца и случайно снёс к чертям всю кухню.",
               "word_form": "demolished"
-            },
-            {
-              "sentence": "Neighbor's feral kids tried to demolish the elevator with a hammer again!",
-              "sentence_ru": "Дикие дети соседа снова попытались разнести лифт молотком!",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 994816,
+          "due_tick": 994916,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-28T08:00:09.987870+00:00",
-          "pending_msg": 865,
+          "last_sent_at": "2026-09-30T10:24:06.729590+00:00",
+          "pending_msg": 929,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994867,
+      "last_deliver_tick": 994868,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-09-30",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
