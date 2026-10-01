@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A cheeky Aries will steal the office printer tomorrow and blame it on the cat.",
+              "sentence_ru": "Завтра дерзкий Овен украдет офисный принтер и свалит все на кота.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky raccoon stole my last taco and didn't even regret it.",
               "sentence_ru": "Этот наглый енот украл мой последний тако и даже не пожалел об этом.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky cat stole my wig while I was sleeping and wore it like a crown.",
               "sentence_ru": "Этот дерзкий кот украл мой парик, пока я спал, и надел его как корону.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "A cheeky raccoon stole the pope's hat and posted a selfie on TikTok.",
-              "sentence_ru": "Наглый енот украл шляпу папы римского и выложил селфи в TikTok.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 994862,
+          "due_tick": 994966,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-29T07:00:13.202545+00:00",
-          "pending_msg": 892,
+          "last_sent_at": "2026-10-01T11:00:16.606077+00:00",
+          "pending_msg": 950,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994917,
+      "last_deliver_tick": 994918,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-01",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1053,6 +1053,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An unexpected influx of aggressive mutant badgers forces the prime minister to wear chainmail.",
+              "sentence_ru": "Неожиданный наплыв агрессивных барсуков-мутантов заставляет премьер-министра носить кольчугу.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "This sudden influx of my exes' new partners into my brain is driving me insane.",
               "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в мой мозг сводит меня с ума.",
               "word_form": "influx"
@@ -1071,20 +1076,15 @@
               "sentence": "An unexpected influx of aggressive badgers ruined my exquisite underground techno party.",
               "sentence_ru": "Неожиданный наплыв агрессивных барсуков испортил мою изысканную подземную техно-вечеринку.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "Because of this insane influx of weirdos in our lobby, I can't even order a normal pizza.",
-              "sentence_ru": "Из-за этого безумного наплыва фриков в нашем лобби я даже не могу заказать нормальную пиццу.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994829,
+          "due_tick": 994966,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-28T14:30:49.250328+00:00",
-          "pending_msg": 891,
+          "last_sent_at": "2026-10-01T11:00:18.077444+00:00",
+          "pending_msg": 951,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994917,
+      "last_deliver_tick": 994918,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-01",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
