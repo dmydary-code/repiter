@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My sanity is slightly frying while watching your endless betrayal.",
+              "sentence_ru": "Мой рассудок слегка подгорает от наблюдения за твоим бесконечным предательством.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "Tomorrow your ex will look slightly pathetic while crying into a bowl of cheap soup.",
               "sentence_ru": "Завтра твой бывший будет выглядеть слегка жалко, рыдая в тарелку дешевого супа.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "Your favorite cashmere sweater is now slightly chewed, just like your dignity.",
               "sentence_ru": "Твой любимый кашемировый свитер теперь слегка погрызен, прямо как твое достоинство.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "Your favorite cashmere sweater is now slightly chewed, just like your dignity.",
-              "sentence_ru": "Твой любимый кашемировый свитер теперь слегка пожеван, прямо как твое достоинство.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 994828,
+          "due_tick": 994959,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-28T14:00:26.611604+00:00",
-          "pending_msg": 888,
+          "last_sent_at": "2026-10-01T07:30:09.645243+00:00",
+          "pending_msg": 934,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994910,
+      "last_deliver_tick": 994911,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-01",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -848,6 +848,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop spreading gossip about Babushka Zina, or she will curse your Wi-Fi.",
+              "sentence_ru": "Хватит распускать сплетни о бабке Зине, иначе она проклянет ваш вайфай.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "My cat started to gossip with the toaster about my dating life.",
               "sentence_ru": "Мой кот начал сплетничать с тостером о моей личной жизни.",
               "word_form": "gossip"
@@ -866,20 +871,15 @@
               "sentence": "I know you are awake, stop spreading gossip about my new sugar daddy and answer me.",
               "sentence_ru": "Я знаю, что ты не спишь, хватит распускать сплетни о моем новом папике и ответь мне.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop the gossip about Jim and Pam, or HR will fire us all.",
-              "sentence_ru": "Хватит сплетничать о Джиме и Пэм, а то кадры нас всех уволят.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 994827,
+          "due_tick": 994959,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-28T13:30:32.799709+00:00",
-          "pending_msg": 887,
+          "last_sent_at": "2026-10-01T07:30:10.903058+00:00",
+          "pending_msg": 935,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994910,
+      "last_deliver_tick": 994911,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-01",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
