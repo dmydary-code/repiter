@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Drinking cheap tequila in this corporate compound is definitely going to compound my hangover.",
+              "sentence_ru": "Пить дешёвую текилу на этой корпоративной территории точно усугубит моё похмелье.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Every lie I told was just another brick in this toxic compound of my soul.",
               "sentence_ru": "Каждая моя ложь была лишь еще одним кирпичом в этом ядовитом компаунде моей души.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My therapists hidden bunker is a secret compound filled with stolen tears and cheap gin.",
               "sentence_ru": "Скрытый бункер моего психотерапевта — это секретный компаунд, наполненный крадеными слезами и дешевым джином.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Stop crying in the compound, Dwight, or I will feed you to the warehouse cats.",
-              "sentence_ru": "Хватит плакать на территории комплекса, Дуайт, а то я скормлю тебя складским котам.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994863,
+          "due_tick": 994967,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-29T07:30:13.152701+00:00",
-          "pending_msg": 894,
+          "last_sent_at": "2026-10-01T11:30:16.768574+00:00",
+          "pending_msg": 952,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994918,
+      "last_deliver_tick": 994919,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-01",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1094,6 +1094,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex's ghost haunts my kitchen now and then, judging my burnt midnight toast.",
+              "sentence_ru": "Призрак моей бывшей время от времени преследует мою кухню, осуждая мои подгоревшие полуночные тосты.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "I knock your expensive vase off the table now and then just to test gravity.",
               "sentence_ru": "Я сбрасываю твою дорогую вазу со стола время от времени, просто чтобы проверить гравитацию.",
               "word_form": "now and then"
@@ -1112,20 +1117,15 @@
               "sentence": "Chad vomits on the carpet now and then, but HR still won't let us fire him.",
               "sentence_ru": "Чэд то и дело блещет на ковёр, но отдел кадров всё равно не разрешает нам его уволить.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Now and then someone steals the doormat, so please chain your grandmothers to the radiator.",
-              "sentence_ru": "Время от времени кто-то крадет коврик, поэтому, пожалуйста, пристегивайте своих бабушек цепями к батарее.",
-              "word_form": "Now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 994862,
+          "due_tick": 994967,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-29T07:00:14.443778+00:00",
-          "pending_msg": 893,
+          "last_sent_at": "2026-10-01T11:30:26.846020+00:00",
+          "pending_msg": 953,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994918,
+      "last_deliver_tick": 994919,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-01",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
