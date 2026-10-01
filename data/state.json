@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen will totally devastate the office fridge if someone touches her oat milk again.",
+              "sentence_ru": "Карен полностью разнесет офисный холодильник, если кто-нибудь снова тронет ее овсяное молоко.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "A single aggressive pigeon can devastate an entire wedding cake in three seconds.",
               "sentence_ru": "Один агрессивный голубь может уничтожить весь свадебный торт за три секунды.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "My ex's new haircut managed to completely devastate my last remaining shreds of faith in humanity.",
               "sentence_ru": "Новая стрижка моего бывшего умудрилась полностью опустошить мои последние оставшиеся крохи веры в человечество.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "Mars in Taurus will devastate your ex's new credit card by noon.",
-              "sentence_ru": "Марс в Тельце к полудню опустошит новую кредитку твоего бывшего.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 994864,
+          "due_tick": 994968,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-29T08:00:13.407576+00:00",
-          "pending_msg": 896,
+          "last_sent_at": "2026-10-01T12:00:13.158681+00:00",
+          "pending_msg": 954,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994919,
+      "last_deliver_tick": 994920,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-01",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1135,6 +1135,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, human, your pathetic attempts at cooking this steak are acceptable.",
+              "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки приготовить этот стейк сойдут.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, my sleep paralysis demons are much better roommates than my actual ex.",
               "sentence_ru": "В целом, мои демоны сонного паралича — гораздо лучшие соседи по комнате, чем мой реальный бывший.",
               "word_form": "By and large"
@@ -1153,20 +1158,15 @@
               "sentence": "By and large, Scorpio, tomorrow you will accidentally overthrow a small government before your morning coffee.",
               "sentence_ru": "В общем и целом, Скорпион, завтра ты случайно свергнешь небольшое правительство еще до утреннего кофе.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, my stolen TV still smells like your weird roommate's armpits.",
-              "sentence_ru": "В целом, мой украденный телевизор до сих пор пахнет подмышками твоего странного соседа по комнате.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 994863,
+          "due_tick": 994968,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-29T07:30:14.366778+00:00",
-          "pending_msg": 895,
+          "last_sent_at": "2026-10-01T12:00:14.753634+00:00",
+          "pending_msg": 955,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994919,
+      "last_deliver_tick": 994920,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-01",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
