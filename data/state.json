@@ -501,11 +501,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "The Satan didn't mince words before roasting the corrupt politicians on live TV.",
-              "sentence_ru": "Сатана не стал подбирать выражения перед тем, как зажарить коррумпированных политиков в прямом эфире.",
-              "word_form": "didn't mince words"
-            },
-            {
               "sentence": "I won't mince words: whoever keeps dumping trash in the elevator is a absolute degenerate.",
               "sentence_ru": "Я не буду церемониться в выражениях: тот, кто продолжает сваливать мусор в лифте — абсолютный дегенерат.",
               "word_form": "mince words"
@@ -524,15 +519,20 @@
               "sentence": "Chad didn't mince words when he told HR why he was stealing staplers.",
               "sentence_ru": "Чад не подбирал выражения, когда объяснял кадрам, почему он ворует степлеры.",
               "word_form": "mince words"
+            },
+            {
+              "sentence": "I won't mince words at 3 AM: your new boyfriend looks like a toasted potato.",
+              "sentence_ru": "Я не буду церемониться в три часа ночи: твой новый парень выглядит как подгорелая картошка.",
+              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995012,
+          "due_tick": 994913,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T10:00:23.706994+00:00",
-          "pending_msg": 972,
+          "last_sent_at": "2026-09-30T08:30:05.632867+00:00",
+          "pending_msg": 922,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -541,11 +541,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "That stray ginger tomcat and I hit it off the second he stole my salmon.",
-              "sentence_ru": "Тот бродячий рыжий котяра и я сразу подружились в ту секунду, когда он украл моего лосося.",
-              "word_form": "hit it off"
-            },
             {
               "sentence": "We hit it off immediately when I knocked her expensive vase off the shelf.",
               "sentence_ru": "Мы сразу подружились, когда я смахнул её дорогущую вазу с полки.",
@@ -565,15 +560,20 @@
               "sentence": "I knew the new HR and the stapler thief would hit it off instantly.",
               "sentence_ru": "Я знал, что новая кадровичка и вор степлеров сразу найдут общий язык.",
               "word_form": "hit it off"
+            },
+            {
+              "sentence": "My stolen vacuum cleaner and the thief's cat really hit it off immediately.",
+              "sentence_ru": "Мой украденный пылесос и кота вора сразу же отлично поладили.",
+              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 995013,
+          "due_tick": 994914,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T10:30:01.650487+00:00",
-          "pending_msg": 974,
+          "last_sent_at": "2026-09-30T09:00:05.528639+00:00",
+          "pending_msg": 924,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -706,8 +706,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Stop trying to perpetuate this corporate cult by making us wear matching beige vests.",
-              "sentence_ru": "Хватит пытаться увековечить этот корпоративный культ, заставляя нас носить одинаковые бежевые жилетки.",
+              "sentence": "I keep texting you just to perpetuate this toxic mess at 3 AM.",
+              "sentence_ru": "Я продолжаю писать тебе только для того, чтобы увековечить этот токсичный пиздец в 3 часа ночи.",
               "word_form": "perpetuate"
             },
             {
@@ -717,12 +717,12 @@
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995010,
+          "due_tick": 995016,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T09:00:12.143874+00:00",
-          "pending_msg": 968,
+          "last_sent_at": "2026-10-02T12:17:33.654314+00:00",
+          "pending_msg": 976,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -732,23 +732,18 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I was profoundly offended when this cursed vibrator broke during the first date.",
-              "sentence_ru": "Я была глубоко оскорблена, когда этот проклятый вибромассажер сломался на первом же свидании.",
-              "word_form": "profoundly"
-            },
-            {
               "sentence": "Tomorrow you will be profoundly disappointed when your horoscope lies about your billionaire ex.",
               "sentence_ru": "Завтра вы будете глубоко разочарованы, когда ваш гороскоп соврет про вашего бывшего-миллиардера.",
               "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995011,
+          "due_tick": 994912,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T09:30:19.099025+00:00",
-          "pending_msg": 970,
+          "last_sent_at": "2026-09-30T08:00:05.721515+00:00",
+          "pending_msg": 920,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -762,7 +757,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 8,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -817,11 +812,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Who keeps dumping old sofas in the dark backstreets behind our dumpster?",
-              "sentence_ru": "Кто продолжает сваливать старые диваны в темных переулках за нашим мусорным контейнером?",
-              "word_form": "backstreets"
-            },
-            {
               "sentence": "My naked grandma escapes the police through the dark backstreets while riding a stolen goat.",
               "sentence_ru": "Моя голая бабуля улепётывает от полиции по темным задворкам верхом на ворованном козле.",
               "word_form": "backstreets"
@@ -840,15 +830,20 @@
               "sentence": "I steal your expensive sausages and run away through the dark backstreets, human.",
               "sentence_ru": "Я краду твои дорогие сосиски и убегаю через темные задворки, кожаная.",
               "word_form": "backstreets"
+            },
+            {
+              "sentence": "Stop dumping your weird cult statues in the dark backstreets behind our dumpster!",
+              "sentence_ru": "Хватит сбрасывать свои странные культовые статуи в темных задворках за нашим мусорным контейнером!",
+              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 995011,
+          "due_tick": 994911,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-02T09:30:20.389191+00:00",
-          "pending_msg": 971,
+          "last_sent_at": "2026-09-30T07:30:07.117298+00:00",
+          "pending_msg": 919,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1186,11 +1181,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It would be hard to deny that my ex is crying into a pillow tonight.",
-              "sentence_ru": "Было бы трудно отрицать, что моя бывшая сегодня плачет в подушку.",
-              "word_form": "It would be hard to deny that"
-            },
-            {
               "sentence": "It would be hard to deny that I ate the whole cake while crying.",
               "sentence_ru": "Трудно отрицать, что я сожрал весь торт, пока рыдал.",
               "word_form": "It would be hard to deny that"
@@ -1209,15 +1199,20 @@
               "sentence": "It would be hard to deny that my new boyfriend is way hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый парень намного горячее тебя.",
               "word_form": "It would be hard to deny that"
+            },
+            {
+              "sentence": "It would be hard to deny that this cursed dildo woke up my dead ancestors.",
+              "sentence_ru": "Трудно отрицать, что этот проклятый фаллоимитатор разбудил моих мертвых предков.",
+              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 995012,
+          "due_tick": 994912,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T10:00:24.800353+00:00",
-          "pending_msg": 973,
+          "last_sent_at": "2026-09-30T08:00:06.821330+00:00",
+          "pending_msg": 921,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1227,8 +1222,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I hold the view that radioactive pigeons should pay taxes for shitting on statues.",
-              "sentence_ru": "Я придерживаюсь мнения, что радиоактивные голуби должны платить налоги за гадство на статуях.",
+              "sentence": "I hold the view that this cursed cat toy is possessed by demons.",
+              "sentence_ru": "Я придерживаюсь мнения, что эта проклятая игрушка для кота одержима демонами.",
               "word_form": "I hold the view that"
             },
             {
@@ -1253,12 +1248,12 @@
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995010,
+          "due_tick": 995016,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-02T09:00:13.330646+00:00",
-          "pending_msg": 969,
+          "last_sent_at": "2026-10-02T12:17:34.760746+00:00",
+          "pending_msg": 977,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1432,11 +1427,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Neighbors, if you try to wire up the elevator to your flat again, I will personally fry your brains.",
-              "sentence_ru": "Соседи, если вы снова попытаетесь подключить лифт к своей квартире, я лично поджарю ваши мозги.",
-              "word_form": "wire up"
-            },
-            {
               "sentence": "Who decided to wire up the intercom to my doorbell while on heavy drugs?",
               "sentence_ru": "Кто додумался подключить домофон к моему звонку под тяжелыми наркотиками?",
               "word_form": "wire up"
@@ -1455,15 +1445,20 @@
               "sentence": "Trying to wire up my smart fridge before it eats my cat.",
               "sentence_ru": "Пытаюсь подключить свой умный холодильник, пока он не сожрал моего кота.",
               "word_form": "wire up"
+            },
+            {
+              "sentence": "Trying to wire up my smart home before the toaster takes over the Wi-Fi.",
+              "sentence_ru": "Пытаюсь подключить свой умный дом, пока тостер не захватил вайфай.",
+              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 995013,
+          "due_tick": 994913,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-02T10:30:02.808745+00:00",
-          "pending_msg": 975,
+          "last_sent_at": "2026-09-30T08:30:06.811764+00:00",
+          "pending_msg": 923,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1600,7 +1595,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 8,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
