@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat and the serial killer hiding in my closet totally hit it off immediately.",
+              "sentence_ru": "Мой кот и серийный убийца, прячущийся в шкафу, сразу же нашли общий язык.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "We hit it off immediately when I knocked her expensive vase off the shelf.",
               "sentence_ru": "Мы сразу подружились, когда я смахнул её дорогущую вазу с полки.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "I knew the new HR and the stapler thief would hit it off instantly.",
               "sentence_ru": "Я знал, что новая кадровичка и вор степлеров сразу найдут общий язык.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "My stolen vacuum cleaner and the thief's cat really hit it off immediately.",
-              "sentence_ru": "Мой украденный пылесос и кота вора сразу же отлично поладили.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 994914,
+          "due_tick": 995019,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-30T09:00:05.528639+00:00",
-          "pending_msg": 924,
+          "last_sent_at": "2026-10-02T13:30:12.085282+00:00",
+          "pending_msg": 982,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994970,
+      "last_deliver_tick": 994971,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1432,6 +1432,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I tried to wire up my ex's toaster to the car battery just for science.",
+              "sentence_ru": "Я попытался подключить тостер своей бывшей к автомобильному аккумулятору чисто ради науки.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Who decided to wire up the intercom to my doorbell while on heavy drugs?",
               "sentence_ru": "Кто додумался подключить домофон к моему звонку под тяжелыми наркотиками?",
               "word_form": "wire up"
@@ -1450,20 +1455,15 @@
               "sentence": "Trying to wire up my smart fridge before it eats my cat.",
               "sentence_ru": "Пытаюсь подключить свой умный холодильник, пока он не сожрал моего кота.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Trying to wire up my smart home before the toaster takes over the Wi-Fi.",
-              "sentence_ru": "Пытаюсь подключить свой умный дом, пока тостер не захватил вайфай.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 994913,
+          "due_tick": 995019,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-30T08:30:06.811764+00:00",
-          "pending_msg": 923,
+          "last_sent_at": "2026-10-02T13:30:13.233786+00:00",
+          "pending_msg": 983,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994970,
+      "last_deliver_tick": 994971,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
