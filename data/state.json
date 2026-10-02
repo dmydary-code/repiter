@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The Satan didn't mince words before roasting the corrupt politicians on live TV.",
+              "sentence_ru": "Сатана не стал подбирать выражения перед тем, как зажарить коррумпированных политиков в прямом эфире.",
+              "word_form": "didn't mince words"
+            },
+            {
               "sentence": "I won't mince words: whoever keeps dumping trash in the elevator is a absolute degenerate.",
               "sentence_ru": "Я не буду церемониться в выражениях: тот, кто продолжает сваливать мусор в лифте — абсолютный дегенерат.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "Chad didn't mince words when he told HR why he was stealing staplers.",
               "sentence_ru": "Чад не подбирал выражения, когда объяснял кадрам, почему он ворует степлеры.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I won't mince words at 3 AM: your new boyfriend looks like a toasted potato.",
-              "sentence_ru": "Я не буду церемониться в три часа ночи: твой новый парень выглядит как подгорелая картошка.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 994913,
+          "due_tick": 995012,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-30T08:30:05.632867+00:00",
-          "pending_msg": 922,
+          "last_sent_at": "2026-10-02T10:00:23.706994+00:00",
+          "pending_msg": 972,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994963,
+      "last_deliver_tick": 994964,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1186,6 +1186,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that my ex is crying into a pillow tonight.",
+              "sentence_ru": "Было бы трудно отрицать, что моя бывшая сегодня плачет в подушку.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that I ate the whole cake while crying.",
               "sentence_ru": "Трудно отрицать, что я сожрал весь торт, пока рыдал.",
               "word_form": "It would be hard to deny that"
@@ -1204,20 +1209,15 @@
               "sentence": "It would be hard to deny that my new boyfriend is way hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый парень намного горячее тебя.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that this cursed dildo woke up my dead ancestors.",
-              "sentence_ru": "Трудно отрицать, что этот проклятый фаллоимитатор разбудил моих мертвых предков.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 994912,
+          "due_tick": 995012,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-30T08:00:06.821330+00:00",
-          "pending_msg": 921,
+          "last_sent_at": "2026-10-02T10:00:24.800353+00:00",
+          "pending_msg": 973,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994963,
+      "last_deliver_tick": 994964,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
