@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Aries, you set your heart on stealing the neighbor's prize-winning cat, but destiny has other chaotic plans.",
+              "sentence_ru": "Овен, ты страстно желаешь украсть призового кота соседа, но у судьбы на тебя другие хаотичные планы.",
+              "word_form": "set your heart on"
+            },
+            {
               "sentence": "If you set heart on stealing the hallway cactus, know that it's cursed with diarrhea.",
               "sentence_ru": "Если вы твердо нацелились украсть подъездный кактус, знайте, что он проклят на диарею.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "He set heart on stealing the queen's wig to wear it in the bathtub.",
               "sentence_ru": "Он страстно возжелал украсть парик королевы, чтобы носить его в ванне.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Neighbor Igor set heart on stealing my Wi-Fi, but I blocked his cursed smart fridge.",
-              "sentence_ru": "Сосед Игорь страстно возжелал украсть мой вайфай, но я заблокировал его проклятый умный холодильник.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 994910,
+          "due_tick": 995009,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-30T07:00:05.579529+00:00",
-          "pending_msg": 916,
+          "last_sent_at": "2026-10-02T08:30:09.590895+00:00",
+          "pending_msg": 966,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994960,
+      "last_deliver_tick": 994961,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1545,6 +1545,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I didn't mean to impose by showing up at your window at 3 AM with tequila.",
+              "sentence_ru": "Я не хотел навязываться, заявляясь к тебе под окно в 3 ночи с текилой.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "My cat tried to impose a strict meat tax on my vegan sandwich.",
               "sentence_ru": "Мой кот попытался навязать строгий мясной налог на мой веганский бутерброд.",
               "word_form": "impose"
@@ -1563,20 +1568,15 @@
               "sentence": "Do not impose your weird vegan rules on neighbors, or we will glue your doors shut.",
               "sentence_ru": "Не навязывайте соседям свои странные веганские правила, иначе мы заклеим вам двери.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Don't try to impose your weird vegan diet on me, human.",
-              "sentence_ru": "Не пытайся навязывать мне свою странную веганскую диету, человек.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 994873,
+          "due_tick": 995009,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-29T12:30:21.105810+00:00",
-          "pending_msg": 915,
+          "last_sent_at": "2026-10-02T08:30:33.497337+00:00",
+          "pending_msg": 967,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994960,
+      "last_deliver_tick": 994961,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
