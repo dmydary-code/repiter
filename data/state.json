@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If you try to glue your trash to my door again, I will superglue your eyes.",
+              "sentence_ru": "Если вы попытаетесь снова приклеить свой мусор к моей двери, я суперклеем залеплю вам глаза.",
+              "word_form": "try"
+            },
+            {
               "sentence": "When you try to impress your cat, but it just looks at you with absolute disgust.",
               "sentence_ru": "Когда ты пытаешься произвести впечатление на своего кота, но он просто смотрит на тебя с абсолютным отвращением.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Tomorrow you will try to steal a taco from a stray dog and fail.",
               "sentence_ru": "Завтра ты попытаешься украсть тако у бродячей собаки и облажаешься.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Cats always try to murder you while you are sleeping.",
-              "sentence_ru": "Коты всегда пытаются тебя убить, пока ты спишь.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 994872,
+          "due_tick": 995007,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-29T12:00:14.615488+00:00",
-          "pending_msg": 912,
+          "last_sent_at": "2026-10-02T07:30:19.171535+00:00",
+          "pending_msg": 962,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994958,
+      "last_deliver_tick": 994959,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1463,6 +1463,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The elevator doors always seize up when my neighbor tries to push them with his fat face.",
+              "sentence_ru": "Двери лифта вечно заедают, когда мой сосед пытается толкать их своей жирной мордой.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "Your brain will seize up if you don't give me more salmon right now, human.",
               "sentence_ru": "Твой мозг заклинит, если ты не дашь мне еще лосося прямо сейчас, человек.",
               "word_form": "seize up"
@@ -1481,20 +1486,15 @@
               "sentence": "Your brain will seize up if you buy me cheap food again.",
               "sentence_ru": "Твой мозг заклинит, если ты опять купишь мне дешёвую еду.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My elevator door decided to seize up right when I was holding three heavy pizza boxes.",
-              "sentence_ru": "Дверь моего лифта решила заклинить как раз тогда, когда я держал три тяжелые коробки с пиццей.",
-              "word_form": "to seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 994871,
+          "due_tick": 995007,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-29T11:30:10.809511+00:00",
-          "pending_msg": 911,
+          "last_sent_at": "2026-10-02T07:30:20.506641+00:00",
+          "pending_msg": 963,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994958,
+      "last_deliver_tick": 994959,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
