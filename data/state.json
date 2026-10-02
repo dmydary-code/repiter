@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever I puke on your expensive rug, you scream like a boiling kettle.",
+              "sentence_ru": "Всякий раз, когда я блевую на твой дорогой ковер, ты орешь как кипящий чайник.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "Whenever my ex breathes, my eye starts twitching with pure, unadulterated rage.",
               "sentence_ru": "Всякий раз, когда бывшая дышит, мой глаз начинает дергаться от чистой, неподдельной ярости.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "You buy expensive fish, whenever you feel guilty for ignoring me all day.",
               "sentence_ru": "Ты покупаешь дорогую рыбу всякий раз, когда чувствуешь вину за то, что игнорировала меня весь день.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "Whenever you throw garbage out the window, a stray cat loses its last shred of dignity.",
-              "sentence_ru": "Всякий раз, когда вы выбрасываете мусор в окно, бездомный кот теряет последние крохи достоинства.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 994873,
+          "due_tick": 995008,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-29T12:30:19.879350+00:00",
-          "pending_msg": 914,
+          "last_sent_at": "2026-10-02T08:00:01.547503+00:00",
+          "pending_msg": 964,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -748,11 +748,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994959,
+      "last_deliver_tick": 994960,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1504,6 +1504,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to ramp up my ex-boyfriend stalking after he blocked me everywhere.",
+              "sentence_ru": "Мне пришлось нарастить масштабы слежки за бывшим после того, как он заблокировал меня везде.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "I had to ramp up my threats to get a refund from this cursed seller.",
               "sentence_ru": "Мне пришлось усилить свои угрозы, чтобы получить возврат денег от этого проклятого продавца.",
               "word_form": "ramp up"
@@ -1522,20 +1527,15 @@
               "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
               "sentence_ru": "Чел был вынужден нарастить дозу кофеина, просто чтобы выжить в понедельник утром.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "We need to ramp up production before the boss finds out we haven't done shit.",
-              "sentence_ru": "Нам нужно нарастить производство, пока босс не узнал, что мы ни хрена не сделали.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 994872,
+          "due_tick": 995008,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-09-29T12:00:16.575674+00:00",
-          "pending_msg": 913,
+          "last_sent_at": "2026-10-02T08:00:02.733186+00:00",
+          "pending_msg": 965,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1586,11 +1586,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994959,
+      "last_deliver_tick": 994960,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
