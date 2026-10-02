@@ -732,18 +732,23 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I was profoundly offended when this cursed vibrator broke during the first date.",
+              "sentence_ru": "Я была глубоко оскорблена, когда этот проклятый вибромассажер сломался на первом же свидании.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "Tomorrow you will be profoundly disappointed when your horoscope lies about your billionaire ex.",
               "sentence_ru": "Завтра вы будете глубоко разочарованы, когда ваш гороскоп соврет про вашего бывшего-миллиардера.",
               "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 994912,
+          "due_tick": 995011,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-30T08:00:05.721515+00:00",
-          "pending_msg": 920,
+          "last_sent_at": "2026-10-02T09:30:19.099025+00:00",
+          "pending_msg": 970,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -753,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 994962,
+      "last_deliver_tick": 994963,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -812,6 +817,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who keeps dumping old sofas in the dark backstreets behind our dumpster?",
+              "sentence_ru": "Кто продолжает сваливать старые диваны в темных переулках за нашим мусорным контейнером?",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "My naked grandma escapes the police through the dark backstreets while riding a stolen goat.",
               "sentence_ru": "Моя голая бабуля улепётывает от полиции по темным задворкам верхом на ворованном козле.",
               "word_form": "backstreets"
@@ -830,20 +840,15 @@
               "sentence": "I steal your expensive sausages and run away through the dark backstreets, human.",
               "sentence_ru": "Я краду твои дорогие сосиски и убегаю через темные задворки, кожаная.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Stop dumping your weird cult statues in the dark backstreets behind our dumpster!",
-              "sentence_ru": "Хватит сбрасывать свои странные культовые статуи в темных задворках за нашим мусорным контейнером!",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 994911,
+          "due_tick": 995011,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-09-30T07:30:07.117298+00:00",
-          "pending_msg": 919,
+          "last_sent_at": "2026-10-02T09:30:20.389191+00:00",
+          "pending_msg": 971,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1591,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 994962,
+      "last_deliver_tick": 994963,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-02",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
