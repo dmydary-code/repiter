@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our boss is rolling in money, yet we still use staplers from the last century.",
+              "sentence_ru": "Наш босс купается в деньгах, но мы до сих пор пользуемся степлерами прошлого века.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "The local pigeon is officially rolling in money after stealing a bag of crypto-wallet keys.",
               "sentence_ru": "Местный голубь официально купается в деньгах после кражи мешка с ключами от криптокошельков.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "I'm rolling in money now, but you still sleep alone in your mom's basement.",
               "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё ещё спишь одна в подвале своей мамы.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "He laughs at my tears while rolling in money on his golden yacht.",
-              "sentence_ru": "Он смеется над моими слезами, купаясь в деньгах на своей золотой яхте.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 994916,
+          "due_tick": 995055,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-30T10:24:05.131214+00:00",
-          "pending_msg": 928,
+          "last_sent_at": "2026-10-03T07:30:19.455021+00:00",
+          "pending_msg": 986,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995006,
+      "last_deliver_tick": 995007,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -899,6 +899,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner psychopath started to flourish after I watched three tutorial videos in a row.",
+              "sentence_ru": "Мой внутренний психопат начал процветать после того, как я посмотрел три обучающих видео подряд.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "I flourish on the expensive carpets you cry about while I sharpen my claws.",
               "sentence_ru": "Я процветаю на тех дорогих коврах, над которыми ты рыдаешь, пока я точу когти.",
               "word_form": "flourish"
@@ -917,20 +922,15 @@
               "sentence": "My ex-boyfriend's new business somehow continues to flourish despite his total incompetence.",
               "sentence_ru": "Бизнес моего бывшего каким-то образом продолжает процветать вопреки его полной некомпетентности.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Local stray cats manage to flourish after eating pure plutonium found behind the reactor.",
-              "sentence_ru": "Местные бродячие коты ухитряются процветать после поедания чистого плутония, найденного за реактором.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 994915,
+          "due_tick": 995055,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-09-30T09:30:06.453941+00:00",
-          "pending_msg": 927,
+          "last_sent_at": "2026-10-03T07:30:20.722270+00:00",
+          "pending_msg": 987,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995006,
+      "last_deliver_tick": 995007,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
