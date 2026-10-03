@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My dealer tried to encorage me to buy more crystal meth, but I prefer organic weed.",
+              "sentence_ru": "Мой дилер пытался подбодрить меня купить больше метамфетамина, но я предпочитаю органическую травку.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My inner demon will always encorage me to eat pizza in bed.",
               "sentence_ru": "Мой внутренний демон всегда будет поощрять меня есть пиццу в постели.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My therapist had to encorage me just to look at my ex's new ugly haircut.",
               "sentence_ru": "Моему терапевту пришлось подбадривать меня, чтобы я просто посмотрел на новую уродливую стрижку моего бывшего.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My inner demons encorage me to burn this wretched diary and dance on the ashes.",
-              "sentence_ru": "Мои внутренние демоны поощряют меня сжечь этот проклятый дневник и станцевать на пепле.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 994963,
+          "due_tick": 995057,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-01T09:31:19.060184+00:00",
-          "pending_msg": 944,
+          "last_sent_at": "2026-10-03T08:30:16.965103+00:00",
+          "pending_msg": 990,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995008,
+      "last_deliver_tick": 995009,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1268,6 +1268,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that my talking cat is plotting a murder.",
+              "sentence_ru": "Мне кажется, что мой говорящий кот замышляет убийство.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that mutant pigeons have successfully seized the central bank.",
               "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили центральный банк.",
               "word_form": "It seems to me"
@@ -1286,20 +1291,15 @@
               "sentence": "It seems to me that mutant pigeons have successfully seized control of the local mayor's office.",
               "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили контроль над мэрией.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that mutant pigeons are plotting a tax revolt in Soho.",
-              "sentence_ru": "Мне кажется, что голуби-мутанты замышляют налоговый бунт в Сохо.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 994917,
+          "due_tick": 995057,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-09-30T10:30:06.550894+00:00",
-          "pending_msg": 931,
+          "last_sent_at": "2026-10-03T08:30:18.033485+00:00",
+          "pending_msg": 991,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995008,
+      "last_deliver_tick": 995009,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
