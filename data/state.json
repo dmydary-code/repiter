@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Eating expired Taco Bell didn't just ruin my night, it completely compounded my toilet issues.",
+              "sentence_ru": "Поедание просроченного Тако Белл не просто испортило мне ночь, оно полностью усугубило мои проблемы с унитазом.",
+              "word_form": "compounded"
+            },
+            {
               "sentence": "Drinking cheap tequila in this corporate compound is definitely going to compound my hangover.",
               "sentence_ru": "Пить дешёвую текилу на этой корпоративной территории точно усугубит моё похмелье.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My crazy aunt tried to compound cat hair and mayonnaise into a facial mask.",
               "sentence_ru": "Моя безумная тетя попыталась смешать кошачью шерсть и майонез в маску для лица.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My therapists hidden bunker is a secret compound filled with stolen tears and cheap gin.",
-              "sentence_ru": "Скрытый бункер моего психотерапевта — это секретный компаунд, наполненный крадеными слезами и дешевым джином.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 994967,
+          "due_tick": 995065,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-01T11:30:16.768574+00:00",
-          "pending_msg": 952,
+          "last_sent_at": "2026-10-03T12:30:06.593197+00:00",
+          "pending_msg": 1008,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995016,
+      "last_deliver_tick": 995017,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1063,6 +1063,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This influx of stray cats in our kitchen is getting out of hand, human.",
+              "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, двуногая.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "An unexpected influx of aggressive mutant badgers forces the prime minister to wear chainmail.",
               "sentence_ru": "Неожиданный наплыв агрессивных барсуков-мутантов заставляет премьер-министра носить кольчугу.",
               "word_form": "influx"
@@ -1081,20 +1086,15 @@
               "sentence": "This sudden influx of my exes' new partners into my brain is driving me insane.",
               "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в мой мозг сводит меня с ума.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An unexpected influx of aggressive badgers ruined my exquisite underground techno party.",
-              "sentence_ru": "Неожиданный наплыв агрессивных барсуков испортил мою изысканную подземную техно-вечеринку.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 994966,
+          "due_tick": 995065,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-01T11:00:18.077444+00:00",
-          "pending_msg": 951,
+          "last_sent_at": "2026-10-03T12:30:07.623474+00:00",
+          "pending_msg": 1009,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995016,
+      "last_deliver_tick": 995017,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
