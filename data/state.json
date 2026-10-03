@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even a humble cockroach will survive your pathetic attempts at feng shui tomorrow.",
+              "sentence_ru": "Даже скромный таракан переживет твои жалкие попытки заняться фэн-шуем завтра.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even the universe's most humble goat will accidentally butt a billionaire tomorrow.",
               "sentence_ru": "Завтра даже самый скромный козел во вселенной случайно боднет миллиардера.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Jim tried to act humble while wearing a golden crown to the budget meeting.",
               "sentence_ru": "Джим попытался вести себя скромно, надев золотую корону на совещание по бюджету.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "He is so humble that he only brags about being the most modest guy alive.",
-              "sentence_ru": "Он настолько скромен, что хвастается лишь тем, что он самый скромный чувак на свете.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 994965,
+          "due_tick": 995063,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-01T10:30:03.532538+00:00",
-          "pending_msg": 948,
+          "last_sent_at": "2026-10-03T11:30:03.111363+00:00",
+          "pending_msg": 1004,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995014,
+      "last_deliver_tick": 995015,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -858,6 +858,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will force your ex to choke on fresh gossip about your wild weekend.",
+              "sentence_ru": "Марс заставит твоего бывшего подавиться свежими сплетнями о твоих диких выходных.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "I know you are awake, so stop sleeping and tell me the latest gossip about our mutual ex.",
               "sentence_ru": "Я знаю, что ты не спишь, так что хватит спать и выкладывай последние сплетни о нашем общем бывшем.",
               "word_form": "gossip"
@@ -876,20 +881,15 @@
               "sentence": "Stop discussing Aunt Klava's lover, your gossip is eroding the entire building's Wi-Fi.",
               "sentence_ru": "Хватит обсуждать любовника тети Клавьи, ваши сплетни разъедают вайфай всего дома.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "I know you are awake, stop spreading gossip about my new sugar daddy and answer me.",
-              "sentence_ru": "Я знаю, что ты не спишь, хватит распускать сплетни о моем новом папике и ответь мне.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 994964,
+          "due_tick": 995063,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-01T10:00:17.174264+00:00",
-          "pending_msg": 947,
+          "last_sent_at": "2026-10-03T11:30:04.228410+00:00",
+          "pending_msg": 1005,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995014,
+      "last_deliver_tick": 995015,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
