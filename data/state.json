@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky cat stole my salmon fillet and winked at me.",
+              "sentence_ru": "Этот наглый кот украл мое филе лосося и подмигнул мне.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "A cheeky Aries will steal the office printer tomorrow and blame it on the cat.",
               "sentence_ru": "Завтра дерзкий Овен украдет офисный принтер и свалит все на кота.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That raccoon made a cheeky escape with my entire birthday cake.",
               "sentence_ru": "Этот енот совершил дерзкий побег с моим праздничным тортом целиком.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky cat stole my wig while I was sleeping and wore it like a crown.",
-              "sentence_ru": "Этот дерзкий кот украл мой парик, пока я спал, и надел его как корону.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 994966,
+          "due_tick": 995060,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-01T11:00:16.606077+00:00",
-          "pending_msg": 950,
+          "last_sent_at": "2026-10-03T10:00:15.023175+00:00",
+          "pending_msg": 996,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995011,
+      "last_deliver_tick": 995012,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1022,6 +1022,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Did Kevin just emerge from the office vending machine covered in cheese dust?",
+              "sentence_ru": "Кевин только что вылез из офисного торгового автомата, весь в сырной пыли?",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "I had to emerge from my blanket cocoon before my sanity completely rotted away.",
               "sentence_ru": "Мне пришлось выползти из моего кокона-одеяла, пока мой рассудок окончательно не сгнил.",
               "word_form": "emerge"
@@ -1040,20 +1045,15 @@
               "sentence": "Please do not emerge from your disgusting apartments while I am mopping the floor.",
               "sentence_ru": "Пожалуйста, не вылезайте из своих отвратительных квартир, пока я мою пол.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "Did Kevin just emerge from the ceiling tiles with a half-eaten burrito?",
-              "sentence_ru": "Кевин только что вылез из потолочной плитки с наполовину съеденным буррито?",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 994965,
+          "due_tick": 995060,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-10-01T10:30:05.011198+00:00",
-          "pending_msg": 949,
+          "last_sent_at": "2026-10-03T10:00:16.323537+00:00",
+          "pending_msg": 997,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995011,
+      "last_deliver_tick": 995012,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
