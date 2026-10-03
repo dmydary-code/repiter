@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He got fired after stealing an acquired coffee machine from the breakroom.",
+              "sentence_ru": "Его уволили после того, как он украл приобретенную кофемашину из комнаты отдыха.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Local billionaire has acquired a private moon just to dump his garbage there.",
               "sentence_ru": "Местный миллиардер приобрел личную луну только для того, чтобы сваливать туда свой мусор.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "Just acquired a rare skull on black market, feeling cute, might delete later.",
               "sentence_ru": "Только что приобрел редкий череп на черном рынке, чувствую себя милашно, может удалю позже.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "That acquired taste in cheap scotch makes you look like a desperate divorcee.",
-              "sentence_ru": "Этот приобретенный вкус к дешевому виски делает тебя похожим на отчаявшуюся разведенку.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 994917,
+          "due_tick": 995056,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-09-30T10:30:04.580566+00:00",
-          "pending_msg": 930,
+          "last_sent_at": "2026-10-03T08:00:18.177341+00:00",
+          "pending_msg": 988,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995007,
+      "last_deliver_tick": 995008,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -940,6 +940,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I will demolish your new boyfriend just like I demolished my sobriety tonight.",
+              "sentence_ru": "Я снесу твоего нового бойфренда точно так же, как я уничтожил свою трезвость сегодня ночью.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "I ordered this diet shake, but it completely demolished my toilet at 3 AM.",
               "sentence_ru": "Я заказал этот диетический коктейль, но он полностью снес мой унитаз в 3 часа ночи.",
               "word_form": "demolished"
@@ -958,20 +963,15 @@
               "sentence": "Attention! We will demolish apartment 42 tomorrow because your loud techno music violates all laws of physics and good taste.",
               "sentence_ru": "Внимание! Завтра мы снесем квартиру 42, потому что ваша громкая техно-музыка нарушает все законы физики и хорошего вкуса.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Bro tried to cook eggs and accidentally demolished the entire kitchen.",
-              "sentence_ru": "Бро пытался пожарить яйца и случайно снёс к чертям всю кухню.",
-              "word_form": "demolished"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 994916,
+          "due_tick": 995056,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-09-30T10:24:06.729590+00:00",
-          "pending_msg": 929,
+          "last_sent_at": "2026-10-03T08:00:19.356222+00:00",
+          "pending_msg": 989,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995007,
+      "last_deliver_tick": 995008,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-03",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
