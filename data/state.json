@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Posting my third blurry mirror selfie to perpetuate my status as a local disaster.",
+              "sentence_ru": "Выкладываю третье мутное селфи в зеркале, чтобы увековечить свой статус местного бедствия.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "I keep texting you just to perpetuate this toxic mess at 3 AM.",
               "sentence_ru": "Я продолжаю писать тебе только для того, чтобы увековечить этот токсичный пиздец в 3 часа ночи.",
               "word_form": "perpetuate"
@@ -717,12 +722,12 @@
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995016,
+          "due_tick": 995109,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T12:17:33.654314+00:00",
-          "pending_msg": 976,
+          "last_sent_at": "2026-10-04T10:30:18.558822+00:00",
+          "pending_msg": 1026,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -758,11 +763,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995060,
+      "last_deliver_tick": 995061,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1555,6 +1560,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will impose a strict tax on your ex's new pathetic hairstyle.",
+              "sentence_ru": "Марс навяжет строгий налог на новую жалкую прическу твоего бывшего.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "I didn't mean to impose by showing up at your window at 3 AM with tequila.",
               "sentence_ru": "Я не хотел навязываться, заявляясь к тебе под окно в 3 ночи с текилой.",
               "word_form": "impose"
@@ -1573,20 +1583,15 @@
               "sentence": "Cats always impose their weird religion on dogs when nobody is watching.",
               "sentence_ru": "Коты всегда навязывают свою странную религию собакам, когда никто не смотрит.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Do not impose your weird vegan rules on neighbors, or we will glue your doors shut.",
-              "sentence_ru": "Не навязывайте соседям свои странные веганские правила, иначе мы заклеим вам двери.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 995009,
+          "due_tick": 995109,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-02T08:30:33.497337+00:00",
-          "pending_msg": 967,
+          "last_sent_at": "2026-10-04T10:30:19.752568+00:00",
+          "pending_msg": 1027,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1596,11 +1601,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995060,
+      "last_deliver_tick": 995061,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
