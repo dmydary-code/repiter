@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chaos goblin has set heart on stealing the moon and wearing it as a monocle.",
+              "sentence_ru": "Гоблин-хаосит твердо нацелился украсть луну и носить ее как монокль.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Aries, you set your heart on stealing the neighbor's prize-winning cat, but destiny has other chaotic plans.",
               "sentence_ru": "Овен, ты страстно желаешь украсть призового кота соседа, но у судьбы на тебя другие хаотичные планы.",
               "word_form": "set your heart on"
@@ -478,20 +483,15 @@
               "sentence": "Human, you set your heart on that salmon, but I will knock it off the table.",
               "sentence_ru": "Человек, ты страстно желала этого лосося, но я сброшу его со стола.",
               "word_form": "set your heart on"
-            },
-            {
-              "sentence": "He set heart on stealing the queen's wig to wear it in the bathtub.",
-              "sentence_ru": "Он страстно возжелал украсть парик королевы, чтобы носить его в ванне.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 995009,
+          "due_tick": 995108,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T08:30:09.590895+00:00",
-          "pending_msg": 966,
+          "last_sent_at": "2026-10-04T10:00:13.300186+00:00",
+          "pending_msg": 1024,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995059,
+      "last_deliver_tick": 995060,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1514,6 +1514,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Neighbors, please ramp up your music volume, my insomnia isn't terminal yet!",
+              "sentence_ru": "Соседи, пожалуйста, врубите музыку погромче, моя бессонница еще не смертельна!",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "I had to ramp up my ex-boyfriend stalking after he blocked me everywhere.",
               "sentence_ru": "Мне пришлось нарастить масштабы слежки за бывшим после того, как он заблокировал меня везде.",
               "word_form": "ramp up"
@@ -1532,20 +1537,15 @@
               "sentence": "Aries, ramp up your chaos tomorrow by stealing traffic cones for your altar.",
               "sentence_ru": "Овны, завтра наращивайте свой хаос, воруя дорожные конусы для своего алтаря.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
-              "sentence_ru": "Чел был вынужден нарастить дозу кофеина, просто чтобы выжить в понедельник утром.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995008,
+          "due_tick": 995108,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-02T08:00:02.733186+00:00",
-          "pending_msg": 965,
+          "last_sent_at": "2026-10-04T10:00:14.672343+00:00",
+          "pending_msg": 1025,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995059,
+      "last_deliver_tick": 995060,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
