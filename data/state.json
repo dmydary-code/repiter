@@ -419,9 +419,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "You scream like a dying seal whenever I sharpen my claws on your wallpaper.",
-              "sentence_ru": "Ты орешь как дохлый тюлень, всякий раз когда я точу когти о твои обои.",
-              "word_form": "whenever"
+              "sentence": "Whenever you blast techno at 3 AM, local gopniks organize a hardcore rave on the stairs.",
+              "sentence_ru": "Всякий раз, когда вы включаете техно в 3 часа ночи, местные гопники устраивают хардкор-рейв на лестнице.",
+              "word_form": "Whenever"
             },
             {
               "sentence": "Whenever I puke on your expensive rug, you scream like a boiling kettle.",
@@ -449,8 +449,8 @@
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-04T09:30:22.640984+00:00",
-          "pending_msg": 1020,
+          "last_sent_at": "2026-10-04T09:40:16.769064+00:00",
+          "pending_msg": 1022,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -1473,9 +1473,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Your brain will seize up if you try to buy me cheap food again.",
-              "sentence_ru": "Твой мозг заклинит, если ты снова попытаешься купить мне дешевую еду.",
-              "word_form": "seize up"
+              "sentence": "My grandpa tried to twerk at the wedding, and his knees suddenly seized up.",
+              "sentence_ru": "Мой дедушка попытался тверкнуть на свадьбе, и его колени внезапно заклинило.",
+              "word_form": "seized up"
             },
             {
               "sentence": "The elevator doors always seize up when my neighbor tries to push them with his fat face.",
@@ -1503,8 +1503,8 @@
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-04T09:30:24.106297+00:00",
-          "pending_msg": 1021,
+          "last_sent_at": "2026-10-04T09:40:18.211894+00:00",
+          "pending_msg": 1023,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
