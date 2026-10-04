@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop trying to undermine my authority just because I stole your yogurt from the fridge.",
+              "sentence_ru": "Хватит пытаться подорвать мой авторитет только потому, что я украл твой йогурт из холодильника.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "You undermine my authority by serving me cheap Whiskas.",
               "sentence_ru": "Ты подрываешь мой авторитет, подавая мне дешевый Вискас.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Who keeps trying to undermine the lobby floor with their cheap illegal hot tub?",
               "sentence_ru": "Кто постоянно пытается подрывать пол в вестибюле своим дешёвым нелегальным джакузи?",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "These cheap Chinese pants undermine my confidence every time I bend over in public.",
-              "sentence_ru": "Эти дешевые китайские штаны подрывают мою уверенность каждый раз, когда я нагибаюсь на людях.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 995006,
+          "due_tick": 995105,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T07:00:35.672560+00:00",
-          "pending_msg": 960,
+          "last_sent_at": "2026-10-04T08:30:23.889841+00:00",
+          "pending_msg": 1016,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995056,
+      "last_deliver_tick": 995057,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1391,6 +1391,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your expensive leather sofa is altogether ruined, human, and I refuse to feel sorry.",
+              "sentence_ru": "Твой дорогой кожаный диван совсем испорчен, кожаный, и я отказываюсь чувствовать вину.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "We lost our dignity, our clothes, and our minds altogether at the corporate party.",
               "sentence_ru": "Мы потеряли достоинство, одежду и рассудок в придачу на корпоративе.",
               "word_form": "altogether"
@@ -1409,20 +1414,15 @@
               "sentence": "The noise from apartment 42 is altogether unbearable and my nerves are fried.",
               "sentence_ru": "Шум из квартиры 42 совершенно невыносим, и мои нервы на пределе.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "I lost my mind, my dignity, and my clothes altogether outside your window.",
-              "sentence_ru": "Я потерял рассудок, достоинство и всю одежду разом под твоим окном.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 994970,
+          "due_tick": 995105,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-01T13:00:28.260031+00:00",
-          "pending_msg": 959,
+          "last_sent_at": "2026-10-04T08:30:24.997149+00:00",
+          "pending_msg": 1017,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995056,
+      "last_deliver_tick": 995057,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
