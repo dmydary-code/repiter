@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I tried to cook this disgusting soup, but even my cat refused to lick the bowl.",
+              "sentence_ru": "Я попытался приготовить этот отвратительный суп, но даже мой кот отказался лизать миску.",
+              "word_form": "tried"
+            },
+            {
               "sentence": "If you try to glue your trash to my door again, I will superglue your eyes.",
               "sentence_ru": "Если вы попытаетесь снова приклеить свой мусор к моей двери, я суперклеем залеплю вам глаза.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "If you try to steal this elevator again, I will glue your fingers to the buttons.",
               "sentence_ru": "Если вы попытаетесь снова украсть этот лифт, я приклею ваши пальцы к кнопкам.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Tomorrow you will try to steal a taco from a stray dog and fail.",
-              "sentence_ru": "Завтра ты попытаешься украсть тако у бродячей собаки и облажаешься.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 995007,
+          "due_tick": 995106,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T07:30:19.171535+00:00",
-          "pending_msg": 962,
+          "last_sent_at": "2026-10-04T09:00:23.364355+00:00",
+          "pending_msg": 1018,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995057,
+      "last_deliver_tick": 995058,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1350,6 +1350,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to adjust the office webcam so nobody could see me sleeping.",
+              "sentence_ru": "Мне пришлось настроить офисную веб-камеру, чтобы никто не видел, как я сплю.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Tomorrow you must adjust your astral GPS so you don't accidentally teleport into a garbage dumpster.",
               "sentence_ru": "Завтра ты должен настроить свой астральный GPS, чтобы случайно не телепортироваться в мусорный контейнер.",
               "word_form": "adjust"
@@ -1368,20 +1373,15 @@
               "sentence": "Tomorrow you must adjust your astral GPS so you don't accidentally teleport into a trash can.",
               "sentence_ru": "Завтра вы должны настроить свой астральный GPS, чтобы случайно не телепортироваться в мусорный бак.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "I had to adjust my expectations after seeing your new sugar daddy.",
-              "sentence_ru": "Мне пришлось скорректировать свои ожидания после того, как я увидела твоего нового папика.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 995006,
+          "due_tick": 995106,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-02T07:00:38.576513+00:00",
-          "pending_msg": 961,
+          "last_sent_at": "2026-10-04T09:00:24.458442+00:00",
+          "pending_msg": 1019,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995057,
+      "last_deliver_tick": 995058,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
