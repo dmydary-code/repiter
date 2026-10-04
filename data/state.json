@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Terrible pants, they discorage every single girl within a five-mile radius instantly.",
+              "sentence_ru": "Ужасные штаны, они мгновенно отталкивают каждую девушку в радиусе пяти миль.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Please discorage neighbors from feeding stray raccoons with leftover pizza in the elevator.",
               "sentence_ru": "Пожалуйста, отговаривайте соседей кормить бродячих енотов остатками пиццы в лифте.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping their boats.",
               "sentence_ru": "Мутировавшие омары разочаровывают местных рыбаков, воруя их пиво и переворачивая лодки.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Please do not discorage our weird neighbors from howling at the moon in the hallway.",
-              "sentence_ru": "Пожалуйста, не отговаривайте наших странных соседей завывать на луну в коридоре.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 994970,
+          "due_tick": 995104,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-01T13:00:23.843718+00:00",
-          "pending_msg": 958,
+          "last_sent_at": "2026-10-04T08:00:24.039926+00:00",
+          "pending_msg": 1014,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995055,
+      "last_deliver_tick": 995056,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1309,6 +1309,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that my cat is plotting a brutal murder while I sleep.",
+              "sentence_ru": "Я склонен думать, что мой кот планирует жестокое убийство, пока я сплю.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that you bought this cheap fish just to spite me.",
               "sentence_ru": "Я склонен думать, что ты купила эту дешевую рыбу просто назло мне.",
               "word_form": "I'm inclined to think that"
@@ -1327,20 +1332,15 @@
               "sentence": "I'm inclined to think that my cat secretly plots world domination.",
               "sentence_ru": "Я склонен думать, что моя кошка тайком планирует захват мира.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that Greg stole my vegan protein from the office fridge.",
-              "sentence_ru": "Я склоняюсь к мысли, что Грег спщирил мой веганский протеин из офисного холодильника.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 994969,
+          "due_tick": 995104,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-01T12:30:26.544326+00:00",
-          "pending_msg": 957,
+          "last_sent_at": "2026-10-04T08:00:25.161309+00:00",
+          "pending_msg": 1015,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995055,
+      "last_deliver_tick": 995056,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
