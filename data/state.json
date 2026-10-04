@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You scream like a dying seal whenever I sharpen my claws on your wallpaper.",
+              "sentence_ru": "Ты орешь как дохлый тюлень, всякий раз когда я точу когти о твои обои.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever I puke on your expensive rug, you scream like a boiling kettle.",
               "sentence_ru": "Всякий раз, когда я блевую на твой дорогой ковер, ты орешь как кипящий чайник.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever your ex texts tomorrow, reply with a photo of a shaved goat.",
               "sentence_ru": "Всякий раз, когда твой бывший напишет завтра, ответь ему фото побритой козы.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "You buy expensive fish, whenever you feel guilty for ignoring me all day.",
-              "sentence_ru": "Ты покупаешь дорогую рыбу всякий раз, когда чувствуешь вину за то, что игнорировала меня весь день.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995008,
+          "due_tick": 995107,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T08:00:01.547503+00:00",
-          "pending_msg": 964,
+          "last_sent_at": "2026-10-04T09:30:22.640984+00:00",
+          "pending_msg": 1020,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995058,
+      "last_deliver_tick": 995059,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1473,6 +1473,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your brain will seize up if you try to buy me cheap food again.",
+              "sentence_ru": "Твой мозг заклинит, если ты снова попытаешься купить мне дешевую еду.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "The elevator doors always seize up when my neighbor tries to push them with his fat face.",
               "sentence_ru": "Двери лифта вечно заедают, когда мой сосед пытается толкать их своей жирной мордой.",
               "word_form": "seize up"
@@ -1491,20 +1496,15 @@
               "sentence": "My elevator door decided to seize up right when I was holding three heavy pizza boxes.",
               "sentence_ru": "Дверь моего лифта решила заклинить как раз тогда, когда я держал три тяжелые коробки с пиццей.",
               "word_form": "to seize up"
-            },
-            {
-              "sentence": "Your brain will seize up if you buy me cheap food again.",
-              "sentence_ru": "Твой мозг заклинит, если ты опять купишь мне дешёвую еду.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 995007,
+          "due_tick": 995107,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-02T07:30:20.506641+00:00",
-          "pending_msg": 963,
+          "last_sent_at": "2026-10-04T09:30:24.106297+00:00",
+          "pending_msg": 1021,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995058,
+      "last_deliver_tick": 995059,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
