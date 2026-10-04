@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm still drunk and I'm thinking about the aforementioned mistake we made in 2021.",
+              "sentence_ru": "Я всё еще пьян и думаю о вышеупомянутой ошибке, которую мы совершили в 2021 году.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "I still hear the screams of the aforementioned bastard echoing in my empty skull.",
               "sentence_ru": "Я до сих пор слышу крики вышеупомянутого ублюдка, эхом отдающиеся в моем пустом черепе.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "Bring me the aforementioned salmon, human, or the sofa bleeds tonight.",
               "sentence_ru": "Принеси мне вышеупомянутый лосось, двуногая, иначе диван сегодня истечет кровью.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "The aforementioned raccoon was finally elected mayor after biting all rival candidates.",
-              "sentence_ru": "Вышеназванный енот наконец-то был избран мэром после того, как покусал всех соперников.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 994969,
+          "due_tick": 995103,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-01T12:30:12.949818+00:00",
-          "pending_msg": 956,
+          "last_sent_at": "2026-10-04T07:30:24.384004+00:00",
+          "pending_msg": 1012,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -758,11 +758,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995054,
+      "last_deliver_tick": 995055,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1145,6 +1145,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, our neighbors are freaks who throw trash right from their balconies.",
+              "sentence_ru": "В целом, наши соседи — уроды, которые кидают мусор прямо с балконов.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, human, your pathetic attempts at cooking this steak are acceptable.",
               "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки приготовить этот стейк сойдут.",
               "word_form": "By and large"
@@ -1163,20 +1168,15 @@
               "sentence": "By and large, human, your pathetic attempts at cooking this steak are acceptable.",
               "sentence_ru": "В общем и целом, кожаная, твои жалкиe попытки приготовить этот стейк вполне сойдут.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, Scorpio, tomorrow you will accidentally overthrow a small government before your morning coffee.",
-              "sentence_ru": "В общем и целом, Скорпион, завтра ты случайно свергнешь небольшое правительство еще до утреннего кофе.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 994968,
+          "due_tick": 995103,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-01T12:00:14.753634+00:00",
-          "pending_msg": 955,
+          "last_sent_at": "2026-10-04T07:30:25.567082+00:00",
+          "pending_msg": 1013,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1596,11 +1596,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995054,
+      "last_deliver_tick": 995055,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-04",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
