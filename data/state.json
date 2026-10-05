@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I encourage my pet raccoon to steal shiny watches from sleeping tourists.",
+              "sentence_ru": "Я поощряю своего ручного енота воровать блестящие часы у спящих туристов.",
+              "word_form": "encourage"
+            },
+            {
               "sentence": "I fully encorage you to cry into your pillow while I'm marrying your mom.",
               "sentence_ru": "Я всячески поощряю тебя поплакать в подушку, пока я женюсь на твоей маме.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My inner demons whisper sweet lies and encourage me to burn this miserable world down.",
               "sentence_ru": "Мои внутренние демоны шепчут сладкую ложь и подбадривают меня сжечь этот мерзкий мир дотла.",
               "word_form": "encourage"
-            },
-            {
-              "sentence": "My therapist had to encorage me just to look at my ex's new ugly haircut.",
-              "sentence_ru": "Моему терапевту пришлось подбадривать меня, чтобы я просто посмотрел на новую уродливую стрижку моего бывшего.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 995061,
+          "due_tick": 995158,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-03T10:59:05.731560+00:00",
-          "pending_msg": 1000,
+          "last_sent_at": "2026-10-05T11:00:23.304972+00:00",
+          "pending_msg": 1046,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995109,
+      "last_deliver_tick": 995110,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -950,6 +950,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We will demolish apartment 42 tomorrow because your cat's singing violates all Geneva conventions.",
+              "sentence_ru": "Завтра мы снесем квартиру 42, потому что пение твоего кота нарушает все женевские конвенции.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "I will demolish your new boyfriend just like I demolished my sobriety tonight.",
               "sentence_ru": "Я снесу твоего нового бойфренда точно так же, как я уничтожил свою трезвость сегодня ночью.",
               "word_form": "demolish"
@@ -968,20 +973,15 @@
               "sentence": "Who dared to demolish my balcony just to build a giant slide for their fat corgi?",
               "sentence_ru": "Кто осмелился снести мой балкон только ради того, чтобы построить гигантскую горку для своего толстого корги?",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Attention! We will demolish apartment 42 tomorrow because your loud techno music violates all laws of physics and good taste.",
-              "sentence_ru": "Внимание! Завтра мы снесем квартиру 42, потому что ваша громкая техно-музыка нарушает все законы физики и хорошего вкуса.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 995056,
+          "due_tick": 995158,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-10-03T08:00:19.356222+00:00",
-          "pending_msg": 989,
+          "last_sent_at": "2026-10-05T11:00:25.042016+00:00",
+          "pending_msg": 1047,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995109,
+      "last_deliver_tick": 995110,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
