@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words tonight, while I shove this truth down their hypocritical throats.",
+              "sentence_ru": "Сегодня я не буду подбирать выражения, запихивая эту правду в их лицемерные глотки.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "Aries won't mince words tomorrow when telling your boss his new toupee looks like a dead raccoon.",
               "sentence_ru": "Завтра Овен не станет подбирать выражения, объясняя твоему боссу, что его новый парик похож на мертвого енота.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I won't mince words at 3 AM: your new boyfriend's face looks like a squashed potato.",
               "sentence_ru": "Я не буду церемониться в выражениях в 3 ночи: лицо твоего нового парня похоже на мятую картошку.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "Chad didn't mince words when he told HR why he was stealing staplers.",
-              "sentence_ru": "Чад не подбирал выражения, когда объяснял кадрам, почему он ворует степлеры.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995018,
+          "due_tick": 995153,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T13:00:17.050084+00:00",
-          "pending_msg": 980,
+          "last_sent_at": "2026-10-05T08:30:04.348551+00:00",
+          "pending_msg": 1036,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995104,
+      "last_deliver_tick": 995105,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -827,6 +827,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Lost my dignity and my last brain cells chasing a sketchy dealer through the dark backstreets.",
+              "sentence_ru": "Потерял своё достоинство и последние мозговые клетки, гоняясь за сомнительным дилером по тёмным задворкам.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "I steal fish from the rich and eat it in dark backstreets.",
               "sentence_ru": "Я ворую рыбу у богачей и жру её в тёмных переулках.",
               "word_form": "backstreets"
@@ -845,20 +850,15 @@
               "sentence": "Running through sketchy backstreets because my ex and his new girlfriend just walked into the bar.",
               "sentence_ru": "Убегаю через сомнительные задворки, потому что мой бывший с новой девчонкой только что завалились в бар.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "I steal your expensive sausages and run away through the dark backstreets, human.",
-              "sentence_ru": "Я краду твои дорогие сосиски и убегаю через темные задворки, кожаная.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 995017,
+          "due_tick": 995153,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-02T12:30:18.138735+00:00",
-          "pending_msg": 979,
+          "last_sent_at": "2026-10-05T08:30:05.644576+00:00",
+          "pending_msg": 1037,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995104,
+      "last_deliver_tick": 995105,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
