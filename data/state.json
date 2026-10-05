@@ -737,6 +737,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I stared profoundly into the fridge, waiting for a pizza to magically appear.",
+              "sentence_ru": "Я глубоко уставился в холодильник, ожидая, пока пицца волшебным образом появится.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "I was profoundly offended when this cursed vibrator broke during the first use.",
               "sentence_ru": "Я был глубоко оскорблен, когда эта проклятая штука сломалась при первом же использовании.",
               "word_form": "profoundly"
@@ -748,12 +753,12 @@
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995017,
+          "due_tick": 995150,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-02T12:30:16.949801+00:00",
-          "pending_msg": 978,
+          "last_sent_at": "2026-10-05T07:00:11.902705+00:00",
+          "pending_msg": 1028,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -763,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995070,
+      "last_deliver_tick": 995102,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1232,6 +1237,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that this cursed cat litter smells worse than my ex's soul.",
+              "sentence_ru": "Я придерживаюсь мнения, что этот проклятый наполнитель для кошачьего туалета воняет хуже, чем душа моего бывшего.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that this cursed cat toy is possessed by demons.",
               "sentence_ru": "Я придерживаюсь мнения, что эта проклятая игрушка для кота одержима демонами.",
               "word_form": "I hold the view that"
@@ -1250,20 +1260,15 @@
               "sentence": "I hold the view that pineapple on pizza is a crime against Italian grandmas.",
               "sentence_ru": "Я придерживаюсь мнения, что ананасы на пицце — это преступление против итальянских бабушек.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that talking to my toaster makes my burnt bread taste better.",
-              "sentence_ru": "Я придерживаюсь мнения, что разговоры с тостером делают мой подгоревший хлеб вкуснее.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995016,
+          "due_tick": 995150,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-02T12:17:34.760746+00:00",
-          "pending_msg": 977,
+          "last_sent_at": "2026-10-05T07:00:13.285941+00:00",
+          "pending_msg": 1029,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1601,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995070,
+      "last_deliver_tick": 995102,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
