@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My sanity was slightly compromised the moment she started singing opera in the burning elevator.",
+              "sentence_ru": "Мой рассудок был слегка нарушен в тот момент, когда она запела оперу в горящем лифте.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "I am slightly outside your window and I brought a dead fish.",
               "sentence_ru": "Я слегка за твоим окном и я принес мертвую рыбу.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "Tomorrow your ex will look slightly pathetic crying into a bucket of cheap mayonnaise.",
               "sentence_ru": "Завтра твой бывший будет выглядеть слегка жалко, рыдая в ведро дешевого майонеза.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My toaster is slightly possessed, so it burns toast only while screaming.",
-              "sentence_ru": "Мой тостер слегка одержим, поэтому он сжигает хлеб только во время крика.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 995062,
+          "due_tick": 995159,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-03T11:00:25.815629+00:00",
-          "pending_msg": 1002,
+          "last_sent_at": "2026-10-05T11:30:28.030345+00:00",
+          "pending_msg": 1048,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995110,
+      "last_deliver_tick": 995111,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1278,6 +1278,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that Greg is stealing printer ink to dye his weird beard.",
+              "sentence_ru": "Мне кажется, что Грег ворует чернила для принтера, чтобы покрасить свою странную бороду.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me someone is frying rats in the shared kitchen again!",
               "sentence_ru": "Мне кажется, кто-то снова жарит крыс на общей кухне!",
               "word_form": "It seems to me"
@@ -1296,20 +1301,15 @@
               "sentence": "It seems to me that mutant pigeons have successfully seized control of the local mayor.",
               "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили контроль над местным мэром.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that mutant pigeons have successfully seized control of the local mayor's office.",
-              "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили контроль над мэрией.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 995061,
+          "due_tick": 995159,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-03T10:59:06.809856+00:00",
-          "pending_msg": 1001,
+          "last_sent_at": "2026-10-05T11:30:30.642237+00:00",
+          "pending_msg": 1049,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995110,
+      "last_deliver_tick": 995111,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
