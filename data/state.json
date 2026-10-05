@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That acquired taste for loud bass at 3 AM must be evicted immediately.",
+              "sentence_ru": "Эту приобретенную привычку слушать громкий бас в 3 часа ночи нужно срочно выселить.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "He got fired after stealing an acquired coffee machine from the breakroom.",
               "sentence_ru": "Его уволили после того, как он украл приобретенную кофемашину из комнаты отдыха.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That taste for expensive caviar is an acquired luxury you cannot afford, human.",
               "sentence_ru": "Эта тяга к дорогой икре — приобретенная роскошь, которую ты не можешь себе позволить, человек.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Just acquired a rare skull on black market, feeling cute, might delete later.",
-              "sentence_ru": "Только что приобрел редкий череп на черном рынке, чувствую себя милашно, может удалю позже.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995056,
+          "due_tick": 995157,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-03T08:00:18.177341+00:00",
-          "pending_msg": 988,
+          "last_sent_at": "2026-10-05T10:30:20.383004+00:00",
+          "pending_msg": 1044,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995108,
+      "last_deliver_tick": 995109,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -909,6 +909,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex's new business began to flourish right after I cursed their warehouse.",
+              "sentence_ru": "Новый бизнес моего бывшего начал процветать сразу после того, как я проклял их склад.",
+              "word_form": "to flourish"
+            },
+            {
               "sentence": "My inner psychopath started to flourish after I watched three tutorial videos in a row.",
               "sentence_ru": "Мой внутренний психопат начал процветать после того, как я посмотрел три обучающих видео подряд.",
               "word_form": "flourish"
@@ -927,20 +932,15 @@
               "sentence": "Notice: the mold in the hallway will continue to flourish if you keep ignoring the leaks.",
               "sentence_ru": "Объявление: плесень в коридоре продолжит процветать, если вы продолжите игнорировать протечки.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "My ex-boyfriend's new business somehow continues to flourish despite his total incompetence.",
-              "sentence_ru": "Бизнес моего бывшего каким-то образом продолжает процветать вопреки его полной некомпетентности.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 995055,
+          "due_tick": 995157,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-03T07:30:20.722270+00:00",
-          "pending_msg": 987,
+          "last_sent_at": "2026-10-05T10:30:21.518055+00:00",
+          "pending_msg": 1045,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995108,
+      "last_deliver_tick": 995109,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-05",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
