@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A humble pigeon single-handedly overthrew the corrupt local government using only strategic bird poop.",
+              "sentence_ru": "Скромный голубь в одиночку сверг коррумпированное местное правительство, используя лишь стратегический птичий помет.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even a humble cockroach will survive your pathetic attempts at feng shui tomorrow.",
               "sentence_ru": "Даже скромный таракан переживет твои жалкие попытки заняться фэн-шуем завтра.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even the humble janitor knows your shameful secrets, so pay for the elevator.",
               "sentence_ru": "Даже скромный дворник знает ваши позорные секреты, так что платите за лифт.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Jim tried to act humble while wearing a golden crown to the budget meeting.",
-              "sentence_ru": "Джим попытался вести себя скромно, надев золотую корону на совещание по бюджету.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 995063,
+          "due_tick": 995198,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-03T11:30:03.111363+00:00",
-          "pending_msg": 1004,
+          "last_sent_at": "2026-10-06T07:00:34.902503+00:00",
+          "pending_msg": 1050,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995125,
+      "last_deliver_tick": 995150,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -991,6 +991,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to undergo a full brain transplant just to remember my birthday.",
+              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить мой день рождения.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "Attention! The suspicious cat in the 4th flat must undergo an immediate exorcism tonight.",
               "sentence_ru": "Внимание! Подозреваемый кот из 4-й квартиры должен пройти срочный экзорцизм сегодня ночью.",
               "word_form": "undergo"
@@ -1009,20 +1014,15 @@
               "sentence": "Chad had to undergo emergency therapy after seeing our Q3 budget report.",
               "sentence_ru": "Чеду пришлось пройти экстренную терапию после просмотра нашего отчета по бюджету за третий квартал.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "Attention! The suspicious cat must undergo an urgent exorcism behind trash bin number three.",
-              "sentence_ru": "Внимание! Подозреваемый кот должен срочно подвергнуться экзорцизму за мусорным баком номер три.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 995062,
+          "due_tick": 995198,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-03T11:00:27.105084+00:00",
-          "pending_msg": 1003,
+          "last_sent_at": "2026-10-06T07:01:00.901199+00:00",
+          "pending_msg": 1051,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995125,
+      "last_deliver_tick": 995150,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
