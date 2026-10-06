@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Gary tried to undermine my authority by stapling my coffee mug to the ceiling.",
+              "sentence_ru": "Гэри попытался подорвать мой авторитет, пристепплеров мою кружку с кофе к потолку.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Stop trying to undermine my authority just because I stole your yogurt from the fridge.",
               "sentence_ru": "Хватит пытаться подорвать мой авторитет только потому, что я украл твой йогурт из холодильника.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Mars will undermine your boss's career while you are eating donuts.",
               "sentence_ru": "Марс подорвет карьеру твоего начальника, пока ты будешь жрать пончики.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Who keeps trying to undermine the lobby floor with their cheap illegal hot tub?",
-              "sentence_ru": "Кто постоянно пытается подрывать пол в вестибюле своим дешёвым нелегальным джакузи?",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 995105,
+          "due_tick": 995204,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-04T08:30:23.889841+00:00",
-          "pending_msg": 1016,
+          "last_sent_at": "2026-10-06T10:00:13.643337+00:00",
+          "pending_msg": 1062,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995155,
+      "last_deliver_tick": 995156,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1319,6 +1319,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that your new boyfriend is just a potato in a wig.",
+              "sentence_ru": "Я склоняюсь к мысли, что твой новый парень — просто картофелина в парике.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that my cat is plotting a brutal murder while I sleep.",
               "sentence_ru": "Я склонен думать, что мой кот планирует жестокое убийство, пока я сплю.",
               "word_form": "I'm inclined to think that"
@@ -1337,20 +1342,15 @@
               "sentence": "I'm inclined to think that Greg stole my yogurt because he has purple lips.",
               "sentence_ru": "Я склонен думать, что Грег украл мой йогурт, потому что у него фиолетовые губы.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that my cat secretly plots world domination.",
-              "sentence_ru": "Я склонен думать, что моя кошка тайком планирует захват мира.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995104,
+          "due_tick": 995204,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-04T08:00:25.161309+00:00",
-          "pending_msg": 1015,
+          "last_sent_at": "2026-10-06T10:00:14.962363+00:00",
+          "pending_msg": 1063,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995155,
+      "last_deliver_tick": 995156,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
