@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky mirror showed me my own betrayal while I cried.",
+              "sentence_ru": "Это наглое зеркало показало мне мое собственное предательство, пока я рыдал.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "A cheeky raccoon stole the pope's hat and live-streamed a robbery from a limo.",
               "sentence_ru": "Наглый енот украл папскую шляпу и провел стрим грабежа из лимузина.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky text at 3 AM won't bring me back, but nice try.",
               "sentence_ru": "Твоё наглое сообщение в три часа ночи не вернет меня, но попытка засчитана.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That raccoon made a cheeky escape with my entire birthday cake.",
-              "sentence_ru": "Этот енот совершил дерзкий побег с моим праздничным тортом целиком.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 995064,
+          "due_tick": 995199,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-03T12:00:04.599575+00:00",
-          "pending_msg": 1006,
+          "last_sent_at": "2026-10-06T07:30:18.763024+00:00",
+          "pending_msg": 1052,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995150,
+      "last_deliver_tick": 995151,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -868,6 +868,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I know you are awake, so stop the gossip and come over to my place.",
+              "sentence_ru": "Я знаю, что ты не спишь, так что прекращай сплетничать и приезжай ко мне.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Mars will force your ex to choke on fresh gossip about your wild weekend.",
               "sentence_ru": "Марс заставит твоего бывшего подавиться свежими сплетнями о твоих диких выходных.",
               "word_form": "gossip"
@@ -886,20 +891,15 @@
               "sentence": "Stop spreading gossip about Grandma Rosa, or she will curse your Wi-Fi.",
               "sentence_ru": "Хватит распускать сплетни о бабушке Розе, а то она проклянет ваш вайфай.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop discussing Aunt Klava's lover, your gossip is eroding the entire building's Wi-Fi.",
-              "sentence_ru": "Хватит обсуждать любовника тети Клавьи, ваши сплетни разъедают вайфай всего дома.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 995063,
+          "due_tick": 995199,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-03T11:30:04.228410+00:00",
-          "pending_msg": 1005,
+          "last_sent_at": "2026-10-06T07:30:20.117163+00:00",
+          "pending_msg": 1053,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995150,
+      "last_deliver_tick": 995151,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
