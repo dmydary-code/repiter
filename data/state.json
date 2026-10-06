@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He tried to hide his bald spot with a compound of mud and squirrel fur.",
+              "sentence_ru": "Он попытался скрыть свою лысину с помощью смеси из грязи и беличьего меха.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Eating expired Taco Bell didn't just ruin my night, it completely compounded my toilet issues.",
               "sentence_ru": "Поедание просроченного Тако Белл не просто испортило мне ночь, оно полностью усугубило мои проблемы с унитазом.",
               "word_form": "compounded"
@@ -191,20 +196,15 @@
               "sentence": "I broke into a secret chemical compound just to sniff your old shampoo.",
               "sentence_ru": "Я взломал секретное химическое соединение только чтобы понюхать твой старый шампунь.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My crazy aunt tried to compound cat hair and mayonnaise into a facial mask.",
-              "sentence_ru": "Моя безумная тетя попыталась смешать кошачью шерсть и майонез в маску для лица.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 995065,
+          "due_tick": 995200,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-03T12:30:06.593197+00:00",
-          "pending_msg": 1008,
+          "last_sent_at": "2026-10-06T08:00:03.193322+00:00",
+          "pending_msg": 1054,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995151,
+      "last_deliver_tick": 995152,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1032,6 +1032,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please do not emerge from your disgusting apartments while the gopniks are dancing.",
+              "sentence_ru": "Пожалуйста, не появляйтесь из своих мерзких квартир, пока гопники танцуют.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "I had to emerge from the closet when the tuna can was opened.",
               "sentence_ru": "Мне пришлось вылезти из шкафа, когда открыли банку с тунцом.",
               "word_form": "emerge"
@@ -1050,20 +1055,15 @@
               "sentence": "My ex had to emerge from the dumpster just to steal this cheap blender.",
               "sentence_ru": "Моему бывшему пришлось вылезти из мусорного бака только для того, чтобы украсть этот дешевый блендер.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "Please do not emerge from your disgusting apartments while I am mopping the floor.",
-              "sentence_ru": "Пожалуйста, не вылезайте из своих отвратительных квартир, пока я мою пол.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 995064,
+          "due_tick": 995200,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-10-03T12:00:05.568433+00:00",
-          "pending_msg": 1007,
+          "last_sent_at": "2026-10-06T08:00:04.789129+00:00",
+          "pending_msg": 1055,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995151,
+      "last_deliver_tick": 995152,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
