@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I know I blocked you, but please try to understand my midnight vodka cravings.",
+              "sentence_ru": "Я знаю, что заблокировал тебя, но пожалуйста, попробуй понять мою ночную тягу к водке.",
+              "word_form": "try"
+            },
+            {
               "sentence": "I tried to cook this disgusting soup, but even my cat refused to lick the bowl.",
               "sentence_ru": "Я попытался приготовить этот отвратительный суп, но даже мой кот отказался лизать миску.",
               "word_form": "tried"
@@ -355,20 +360,15 @@
               "sentence": "Trying to look mysterious while eating a massive burrito is my daily cardio.",
               "sentence_ru": "Пытаться выглядеть загадочно, уплетая гигантский буррито — это мое ежедневное кардио.",
               "word_form": "Trying"
-            },
-            {
-              "sentence": "If you try to steal this elevator again, I will glue your fingers to the buttons.",
-              "sentence_ru": "Если вы попытаетесь снова украсть этот лифт, я приклею ваши пальцы к кнопкам.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 995106,
+          "due_tick": 995205,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-04T09:00:23.364355+00:00",
-          "pending_msg": 1018,
+          "last_sent_at": "2026-10-06T10:30:15.004284+00:00",
+          "pending_msg": 1064,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995156,
+      "last_deliver_tick": 995157,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1401,6 +1401,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you will lose your mind and your pants altogether during a business meeting.",
+              "sentence_ru": "Завтра вы сойдете с ума и полностью потеряете штаны во время деловой встречи.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Your expensive leather sofa is altogether ruined, human, and I refuse to feel sorry.",
               "sentence_ru": "Твой дорогой кожаный диван совсем испорчен, кожаный, и я отказываюсь чувствовать вину.",
               "word_form": "altogether"
@@ -1419,20 +1424,15 @@
               "sentence": "This weird sex-doll smells like old fish and I am altogether disgusted.",
               "sentence_ru": "От этой странной резиновой куклы воняет старой рыбой, и я в целом в полном отвращении.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "The noise from apartment 42 is altogether unbearable and my nerves are fried.",
-              "sentence_ru": "Шум из квартиры 42 совершенно невыносим, и мои нервы на пределе.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 995105,
+          "due_tick": 995205,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-04T08:30:24.997149+00:00",
-          "pending_msg": 1017,
+          "last_sent_at": "2026-10-06T10:30:16.229909+00:00",
+          "pending_msg": 1065,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995156,
+      "last_deliver_tick": 995157,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
