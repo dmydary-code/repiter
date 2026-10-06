@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant raccoons devastate the city's entire whiskey reserve in one wild night.",
+              "sentence_ru": "Еноты-мутанты опустошают весь запас виски города за одну дикую ночь.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Your wild party will devastate this lobby, and I will personally fine every single degenerate.",
               "sentence_ru": "Ваша дикая вечеринка разнесет это лобби, и я лично оштрафую каждого ублюдка.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "A massive hangover will devastate your fridge and your dignity tomorrow morning.",
               "sentence_ru": "Сильное похмелье опустошит ваш холодильник и вашу гордость завтра утром.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "I will devastate your new boyfriend's entire wardrobe while you are asleep.",
-              "sentence_ru": "Я опустошу весь гардероб твоего нового бойфренда, пока ты будешь спать.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 995102,
+          "due_tick": 995201,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-04T07:00:24.641109+00:00",
-          "pending_msg": 1010,
+          "last_sent_at": "2026-10-06T08:30:15.157200+00:00",
+          "pending_msg": 1056,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995152,
+      "last_deliver_tick": 995153,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1073,6 +1073,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Due to an influx of weird ghouls in the lobby, the elevator is officially canceled.",
+              "sentence_ru": "Из-за наплыва странных упырей в вестибюле лифт официально отменяется.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "This influx of stray cats in our kitchen is getting out of hand, human.",
               "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, двуногая.",
               "word_form": "influx"
@@ -1091,20 +1096,15 @@
               "sentence": "An unexpected influx of aggressive badgers ruined my grandma's tea party.",
               "sentence_ru": "Неожиданный наплыв агрессивных барсуков испортил чаепитие моей бабули.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "This sudden influx of my exes' new partners into my brain is driving me insane.",
-              "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в мой мозг сводит меня с ума.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 995065,
+          "due_tick": 995201,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-03T12:30:07.623474+00:00",
-          "pending_msg": 1009,
+          "last_sent_at": "2026-10-06T08:30:16.447955+00:00",
+          "pending_msg": 1057,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995152,
+      "last_deliver_tick": 995153,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
