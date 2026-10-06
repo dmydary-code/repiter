@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I vomited inside your Gucci shoe, exactly as the aforementioned hairball demanded.",
+              "sentence_ru": "Я блеванул в твою туфлю Gucci, ровно как и требовал вышеупомянутый комок шерсти.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "I'm still drunk and I'm thinking about the aforementioned mistake we made in 2021.",
               "sentence_ru": "Я всё еще пьян и думаю о вышеупомянутой ошибке, которую мы совершили в 2021 году.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I still think about the aforementioned mistake we made in that cheap motel.",
               "sentence_ru": "Я все еще думаю о вышеупомянутой ошибке, которую мы совершили в том дешевом мотеле.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "Bring me the aforementioned salmon, human, or the sofa bleeds tonight.",
-              "sentence_ru": "Принеси мне вышеупомянутый лосось, двуногая, иначе диван сегодня истечет кровью.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 995103,
+          "due_tick": 995202,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-04T07:30:24.384004+00:00",
-          "pending_msg": 1012,
+          "last_sent_at": "2026-10-06T09:00:25.567313+00:00",
+          "pending_msg": 1058,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995153,
+      "last_deliver_tick": 995154,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1114,6 +1114,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow the stars advise you to scream at pigeons now and then so they respect your aura.",
+              "sentence_ru": "Завтра звезды советуют вам время от времени орать на голубей, чтобы они уважали вашу ауру.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Chad cries in the supply closet now and then, but his spreadsheets are still garbage.",
               "sentence_ru": "Чэд время от времени плачет в подсобке, но его таблички всё равно полное дерьмо.",
               "word_form": "now and then"
@@ -1132,20 +1137,15 @@
               "sentence": "My sanity crumbles completely every single day, but now and then I pretend to be fine.",
               "sentence_ru": "Мой рассудок трещит по швам каждый грёбаный день, но время от времени я притворяюсь нормальным.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "This weird guy from reviews screams at his toaster now and then, but the blender works fine.",
-              "sentence_ru": "Этот странный чувак из отзывов время от времени орёт на свой тостер, но блендер работает нормально.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995102,
+          "due_tick": 995202,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-04T07:00:26.056654+00:00",
-          "pending_msg": 1011,
+          "last_sent_at": "2026-10-06T09:00:26.709917+00:00",
+          "pending_msg": 1059,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995153,
+      "last_deliver_tick": 995154,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
