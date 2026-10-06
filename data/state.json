@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons tried to discorage me from eating this whole pizza, but I won.",
+              "sentence_ru": "Мои внутренние демоны пытались отговорить меня сожрать эту пиццу целиком, но я победил.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Terrible pants, they discorage every single girl within a five-mile radius instantly.",
               "sentence_ru": "Ужасные штаны, они мгновенно отталкивают каждую девушку в радиусе пяти миль.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Trying to diet when my grandma bakes daily will totally discorage my fat loss goals.",
               "sentence_ru": "Пытаться сидеть на диете, когда бабушка печет каждый день, — лучший способ разочароваться в похудении.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Mutant lobsters discorage local fishermen by stealing their beer and flipping their boats.",
-              "sentence_ru": "Мутировавшие омары разочаровывают местных рыбаков, воруя их пиво и переворачивая лодки.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 995104,
+          "due_tick": 995203,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-04T08:00:24.039926+00:00",
-          "pending_msg": 1014,
+          "last_sent_at": "2026-10-06T09:30:12.683920+00:00",
+          "pending_msg": 1060,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995154,
+      "last_deliver_tick": 995155,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1155,6 +1155,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, tomorrow you will still be broke, but at least your cat respects you.",
+              "sentence_ru": "В общем и целом, завтра ты всё ещё будешь на мели, но твой кот хотя бы тебя уважает.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, our neighbors are freaks who throw trash right from their balconies.",
               "sentence_ru": "В целом, наши соседи — уроды, которые кидают мусор прямо с балконов.",
               "word_form": "By and large"
@@ -1173,20 +1178,15 @@
               "sentence": "By and large, our new boss is just a caffeinated potato who yells at printers.",
               "sentence_ru": "В целом, наш новый босс — это просто напичканный кофеином картофель, который орет на принтеры.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, human, your pathetic attempts at cooking this steak are acceptable.",
-              "sentence_ru": "В общем и целом, кожаная, твои жалкиe попытки приготовить этот стейк вполне сойдут.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 995103,
+          "due_tick": 995203,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-04T07:30:25.567082+00:00",
-          "pending_msg": 1013,
+          "last_sent_at": "2026-10-06T09:30:15.168255+00:00",
+          "pending_msg": 1061,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995154,
+      "last_deliver_tick": 995155,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-06",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
