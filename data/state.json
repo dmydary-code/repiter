@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local cultists plan to perpetuate the annual festival of screaming badgers forever.",
+              "sentence_ru": "Местные сектанты планируют вечно увековечивать ежегодный фестиваль орущих барсуков.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "Posting my third blurry mirror selfie to perpetuate my status as a local disaster.",
               "sentence_ru": "Выкладываю третье мутное селфи в зеркале, чтобы увековечить свой статус местного бедствия.",
               "word_form": "perpetuate"
@@ -722,12 +727,12 @@
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995109,
+          "due_tick": 995252,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-04T10:30:18.558822+00:00",
-          "pending_msg": 1026,
+          "last_sent_at": "2026-10-07T10:00:23.200002+00:00",
+          "pending_msg": 1080,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -768,11 +773,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995203,
+      "last_deliver_tick": 995204,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1524,6 +1529,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I need to ramp up my caffeine intake just to tolerate these corporate demons.",
+              "sentence_ru": "Мне нужно нарастить дозу кофеина, только чтобы терпеть этих корпоративных демонов.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Neighbors, please ramp up your music volume, my insomnia isn't terminal yet!",
               "sentence_ru": "Соседи, пожалуйста, врубите музыку погромче, моя бессонница еще не смертельна!",
               "word_form": "ramp up"
@@ -1542,20 +1552,15 @@
               "sentence": "Bro had to ramp up his flexing after seeing my new gym gains.",
               "sentence_ru": "Чел был вынужден усилить свои понты после того, как увидел мои новые успехи в качалке.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Aries, ramp up your chaos tomorrow by stealing traffic cones for your altar.",
-              "sentence_ru": "Овны, завтра наращивайте свой хаос, воруя дорожные конусы для своего алтаря.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995108,
+          "due_tick": 995252,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-04T10:00:14.672343+00:00",
-          "pending_msg": 1025,
+          "last_sent_at": "2026-10-07T10:00:24.921016+00:00",
+          "pending_msg": 1081,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1606,11 +1611,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995203,
+      "last_deliver_tick": 995204,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
