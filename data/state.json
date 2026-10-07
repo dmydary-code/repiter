@@ -742,6 +742,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A naked CEO was profoundly confused after a goat stole his pants live on CNN.",
+              "sentence_ru": "Голый генеральный директор был глубоко сбит с толку после того, как коза украла его штаны в прямом эфире CNN.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "Chad was profoundly stupid, yet somehow he got promoted over us all.",
               "sentence_ru": "Чад был глубоко туп, но почему-то его повысили над всеми нами.",
               "word_form": "profoundly"
@@ -758,12 +763,12 @@
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995152,
+          "due_tick": 995253,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-05T08:21:57.658020+00:00",
-          "pending_msg": 1034,
+          "last_sent_at": "2026-10-07T10:30:14.543933+00:00",
+          "pending_msg": 1082,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -773,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995204,
+      "last_deliver_tick": 995205,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1570,6 +1575,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please do not impose your weird vegan cult rules on our Friday pizza party.",
+              "sentence_ru": "Пожалуйста, не навязывай свои странные правила веганского культа на нашей пятничной пицца-вечеринке.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Mars will impose a strict tax on your ex's new pathetic hairstyle.",
               "sentence_ru": "Марс навяжет строгий налог на новую жалкую прическу твоего бывшего.",
               "word_form": "impose"
@@ -1588,20 +1598,15 @@
               "sentence": "I had to impose my new nude pics on your feed at 3 AM.",
               "sentence_ru": "Мне пришлось навязать свои новые голые фотки в твою ленту в 3 часа ночи.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Cats always impose their weird religion on dogs when nobody is watching.",
-              "sentence_ru": "Коты всегда навязывают свою странную религию собакам, когда никто не смотрит.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 995109,
+          "due_tick": 995253,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-04T10:30:19.752568+00:00",
-          "pending_msg": 1027,
+          "last_sent_at": "2026-10-07T10:30:16.146389+00:00",
+          "pending_msg": 1083,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1611,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995204,
+      "last_deliver_tick": 995205,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
