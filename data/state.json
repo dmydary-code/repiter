@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You scream like a dying seal whenever I try to sleep on your face.",
+              "sentence_ru": "Ты орешь как дохлый тюлень, всякий раз когда я пытаюсь поспать на твоем лице.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever you blast techno at 3 AM, local gopniks organize a hardcore rave on the stairs.",
               "sentence_ru": "Всякий раз, когда вы включаете техно в 3 часа ночи, местные гопники устраивают хардкор-рейв на лестнице.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever you cry, my new girlfriend laughs so loud I can't even sleep.",
               "sentence_ru": "Всякий раз, когда ты плачешь, моя новая девушка смеется так громко, что я даже уснуть не могу.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "Whenever your ex texts tomorrow, reply with a photo of a shaved goat.",
-              "sentence_ru": "Всякий раз, когда твой бывший напишет завтра, ответь ему фото побритой козы.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995107,
+          "due_tick": 995246,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-04T09:40:16.769064+00:00",
-          "pending_msg": 1022,
+          "last_sent_at": "2026-10-07T07:00:09.182655+00:00",
+          "pending_msg": 1066,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995168,
+      "last_deliver_tick": 995198,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1360,6 +1360,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to adjust my crown so the peasants could see my superiority better.",
+              "sentence_ru": "Мне пришлось поправить свою корону, чтобы крестьяне лучше видели моё превосходство.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I had to adjust the office webcam so nobody could see me sleeping.",
               "sentence_ru": "Мне пришлось настроить офисную веб-камеру, чтобы никто не видел, как я сплю.",
               "word_form": "adjust"
@@ -1378,20 +1383,15 @@
               "sentence": "He had to adjust the cat's VR headset so the demon slayers looked more realistic.",
               "sentence_ru": "Ему пришлось настроить кошачий VR-шлем, чтобы убийцы демонов выглядели реалистичнее.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Tomorrow you must adjust your astral GPS so you don't accidentally teleport into a trash can.",
-              "sentence_ru": "Завтра вы должны настроить свой астральный GPS, чтобы случайно не телепортироваться в мусорный бак.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 995106,
+          "due_tick": 995246,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-04T09:00:24.458442+00:00",
-          "pending_msg": 1019,
+          "last_sent_at": "2026-10-07T07:00:10.294604+00:00",
+          "pending_msg": 1067,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995168,
+      "last_deliver_tick": 995198,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
