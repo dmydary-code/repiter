@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex said I'd die broke, but now I'm rolling in money and buying islands.",
+              "sentence_ru": "Бывший говорил, что я умру в нищете, но теперь я купаюсь в деньгах и скупаю острова.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "My ex said I'd never make it, now I'm rolling in money and buying islands.",
               "sentence_ru": "Мой бывший говорил, что я ничего не добьюсь, а теперь я купаюсь в деньгах и скупаю острова.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "Bought this golden toilet brush and now I feel like I am rolling in money.",
               "sentence_ru": "Купил этот золотой ершик для унитаза и теперь чувствую, что купаюсь в деньгах.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "I'm rolling in money now while you're still crying into your cheap instant ramen.",
-              "sentence_ru": "Я теперь купаюсь в деньгах, пока ты всё ещё плачешь в свой дешёвый быстрорастворимый рамен.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 995156,
+          "due_tick": 995257,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-05T10:00:15.804310+00:00",
-          "pending_msg": 1042,
+          "last_sent_at": "2026-10-07T12:30:06.430326+00:00",
+          "pending_msg": 1090,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995208,
+      "last_deliver_tick": 995209,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1452,6 +1452,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, wire up my fish tank laser or I'm peeing on your Gucci shoes.",
+              "sentence_ru": "Человек, подключи лазер в моем аквариуме, или я нассу на твои туфли Gucci.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Human, wire up my fish tank laser or I will puke in your shoes.",
               "sentence_ru": "Человек, подключи лазер к моему аквариуму, или я наблеваю тебе в туфли.",
               "word_form": "wire up"
@@ -1470,20 +1475,15 @@
               "sentence": "Human, wire up my scratching post to the socket or I will murder your shoes.",
               "sentence_ru": "Человек, подключи мою когтеточку к розетке, иначе я убью твои туфли.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "If you try to wire up the elevator yourself again, I will glue your fingers to the wall.",
-              "sentence_ru": "Если вы снова попытаетесь сами подключить лифт, я приклею ваши пальцы к стене.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 995155,
+          "due_tick": 995257,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-05T09:30:14.296274+00:00",
-          "pending_msg": 1041,
+          "last_sent_at": "2026-10-07T12:30:08.127583+00:00",
+          "pending_msg": 1091,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995208,
+      "last_deliver_tick": 995209,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
