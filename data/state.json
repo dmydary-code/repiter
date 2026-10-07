@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You set your heart on my salmon, but you will eat cheap kibble.",
+              "sentence_ru": "Ты страстно желаешь моего лосося, но будешь жрать дешёвые сухари.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Chaos goblin has set heart on stealing the moon and wearing it as a monocle.",
               "sentence_ru": "Гоблин-хаосит твердо нацелился украсть луну и носить ее как монокль.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "If you set heart on stealing the lobby cactus again, Nina will curse your ancestors.",
               "sentence_ru": "Если вы снова страстно захотите украсть подъездный кактус, Нина проклянет ваших предков.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Human, you set your heart on that salmon, but I will knock it off the table.",
-              "sentence_ru": "Человек, ты страстно желала этого лосося, но я сброшу его со стола.",
-              "word_form": "set your heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 995108,
+          "due_tick": 995247,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-04T10:00:13.300186+00:00",
-          "pending_msg": 1024,
+          "last_sent_at": "2026-10-07T07:30:12.667303+00:00",
+          "pending_msg": 1068,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -768,11 +768,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995198,
+      "last_deliver_tick": 995199,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1483,6 +1483,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If the elevator doors seize up again, fatty, you are walking to the ninth floor.",
+              "sentence_ru": "Если двери лифта снова заклинит, жиртрест, ты пойдешь пешком на девятый этаж.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My grandpa tried to twerk at the wedding, and his knees suddenly seized up.",
               "sentence_ru": "Мой дедушка попытался тверкнуть на свадьбе, и его колени внезапно заклинило.",
               "word_form": "seized up"
@@ -1501,20 +1506,15 @@
               "sentence": "My cheap blender started smoking and decided to seize up right during my morning protein shake.",
               "sentence_ru": "Мой дешевый блендер задымился и решил заклинить прямо во время утреннего протеинового коктейля.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My elevator door decided to seize up right when I was holding three heavy pizza boxes.",
-              "sentence_ru": "Дверь моего лифта решила заклинить как раз тогда, когда я держал три тяжелые коробки с пиццей.",
-              "word_form": "to seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 995107,
+          "due_tick": 995247,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-04T09:40:18.211894+00:00",
-          "pending_msg": 1023,
+          "last_sent_at": "2026-10-07T07:30:13.827341+00:00",
+          "pending_msg": 1069,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1606,11 +1606,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995198,
+      "last_deliver_tick": 995199,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
