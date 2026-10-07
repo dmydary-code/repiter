@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I didn't mince words when I told my ex his new haircut looks like a dead ferret.",
+              "sentence_ru": "Я не стала подбирать выражения, когда сказала бывшему, что его новая стрижка похожа на мертвого хорька.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I won't mince words tonight, while I shove this truth down their hypocritical throats.",
               "sentence_ru": "Сегодня я не буду подбирать выражения, запихивая эту правду в их лицемерные глотки.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I won't mince words: this dildo vibrates so hard my fillings fell out. Five stars!",
               "sentence_ru": "Я не буду подбирать выражения: этот фаллоимитатор вибрирует так сильно, что у меня пломбы выпали. Пять звезд!",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I won't mince words at 3 AM: your new boyfriend's face looks like a squashed potato.",
-              "sentence_ru": "Я не буду церемониться в выражениях в 3 ночи: лицо твоего нового парня похоже на мятую картошку.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995153,
+          "due_tick": 995254,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-05T08:30:04.348551+00:00",
-          "pending_msg": 1036,
+          "last_sent_at": "2026-10-07T11:00:03.701902+00:00",
+          "pending_msg": 1084,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995205,
+      "last_deliver_tick": 995206,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1247,6 +1247,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that your barking dog should be evicted from this building.",
+              "sentence_ru": "Я придерживаюсь мнения, что вашу лающую собаку нужно выселить из этого дома.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that cyborg pigeons are secretly plotting global domination from power lines.",
               "sentence_ru": "Я придерживаюсь мнения, что голуби-киборги тайно замышляют мировое господство с высоковольтных проводов.",
               "word_form": "I hold the view that"
@@ -1265,20 +1270,15 @@
               "sentence": "I hold the view that my talking cat should pay rent or sleep on the balcony.",
               "sentence_ru": "Я придерживаюсь мнения, что мой говорящий кот должен платить за аренду или спать на балконе.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that pineapple on pizza is a crime against Italian grandmas.",
-              "sentence_ru": "Я придерживаюсь мнения, что ананасы на пицце — это преступление против итальянских бабушек.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995152,
+          "due_tick": 995254,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-05T08:21:59.163765+00:00",
-          "pending_msg": 1035,
+          "last_sent_at": "2026-10-07T11:00:05.142443+00:00",
+          "pending_msg": 1085,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995205,
+      "last_deliver_tick": 995206,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-07",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
