@@ -296,11 +296,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I know you hate me, but I encourage you to ruin your new relationship tonight.",
-              "sentence_ru": "Я знаю, что ты меня ненавидишь, но я поощряю тебя разрушить твои новые отношения сегодня ночью.",
-              "word_form": "encourage"
-            },
-            {
               "sentence": "I encourage my pet raccoon to steal shiny watches from sleeping tourists.",
               "sentence_ru": "Я поощряю своего ручного енота воровать блестящие часы у спящих туристов.",
               "word_form": "encourage"
@@ -319,15 +314,20 @@
               "sentence": "My therapist tries to encorage my weird habit of licking frozen fence posts.",
               "sentence_ru": "Мой психотерапевт пытается поощрять мою странную привычку лизать замерзшие столбы забора.",
               "word_form": "encorage"
+            },
+            {
+              "sentence": "My inner demons whisper sweet lies and encourage me to burn this miserable world down.",
+              "sentence_ru": "Мои внутренние демоны шепчут сладкую ложь и подбадривают меня сжечь этот мерзкий мир дотла.",
+              "word_form": "encourage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 995295,
+          "due_tick": 995158,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-08T07:30:20.901037+00:00",
-          "pending_msg": 1094,
+          "last_sent_at": "2026-10-05T11:00:23.304972+00:00",
+          "pending_msg": 1046,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -378,8 +378,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I finally acquired your Netflix password just to watch you cry alone.",
-              "sentence_ru": "Я наконец-то раздобыл твой пароль от Netflix, просто чтобы посмотреть, как ты плачешь в одиночестве.",
+              "sentence": "Your acquired taste for expensive booze will finally ruin your broke ex.",
+              "sentence_ru": "Твой приобретенный вкус к дорогому бухлу окончательно разорит твоего нищего бывшего.",
               "word_form": "acquired"
             },
             {
@@ -404,12 +404,12 @@
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995294,
+          "due_tick": 995295,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-08T07:00:05.794532+00:00",
-          "pending_msg": 1092,
+          "last_sent_at": "2026-10-08T07:42:29.944266+00:00",
+          "pending_msg": 1096,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -782,7 +782,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 2,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -796,8 +796,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My ex-girlfriend's ghost looked so drab that even the alley cats refused to hiss at her.",
-              "sentence_ru": "Призрак моей бывшей выглядел настолько унылым, что даже помойные коты отказались на нее шипеть.",
+              "sentence": "Extraterrestrial dictator bans all neon colors, making the entire galaxy look aggressively drab.",
+              "sentence_ru": "Внеземной диктатор запретил все неoновые цвета, из-за чего вся галактика выглядит агрессивно уныло.",
               "word_form": "drab"
             },
             {
@@ -822,12 +822,12 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 995294,
+          "due_tick": 995295,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-08T07:00:08.327655+00:00",
-          "pending_msg": 1093,
+          "last_sent_at": "2026-10-08T07:42:31.170656+00:00",
+          "pending_msg": 1097,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -919,11 +919,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My evil plans to destroy your favorite sofa will flourish tonight, human.",
-              "sentence_ru": "Мои коварные планы уничтожить твой любимый диван расцветут сегодня ночью, кожаная.",
-              "word_form": "flourish"
-            },
-            {
               "sentence": "My ex's new business began to flourish right after I cursed their warehouse.",
               "sentence_ru": "Новый бизнес моего бывшего начал процветать сразу после того, как я проклял их склад.",
               "word_form": "to flourish"
@@ -942,15 +937,20 @@
               "sentence": "My ex's new relationship is bound to flourish just like a plastic cactus in a microwave.",
               "sentence_ru": "Новые отношения моего бывшего обязательно расцветут, прямо как пластиковый кактус в микроволновке.",
               "word_form": "flourish"
+            },
+            {
+              "sentence": "Notice: the mold in the hallway will continue to flourish if you keep ignoring the leaks.",
+              "sentence_ru": "Объявление: плесень в коридоре продолжит процветать, если вы продолжите игнорировать протечки.",
+              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 995295,
+          "due_tick": 995157,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-08T07:30:22.062697+00:00",
-          "pending_msg": 1095,
+          "last_sent_at": "2026-10-05T10:30:21.518055+00:00",
+          "pending_msg": 1045,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1620,7 +1620,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 2,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
