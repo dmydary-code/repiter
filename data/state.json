@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky bastard stole my last yogurt from the shared office fridge again.",
+              "sentence_ru": "Этот наглый ублюдок снова украл мой последний йогурт из общего офисного холодильника.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky mirror showed me my own betrayal while I cried.",
               "sentence_ru": "Это наглое зеркало показало мне мое собственное предательство, пока я рыдал.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky raccoon stole my last taco and didn't even regret it.",
               "sentence_ru": "Этот наглый енот украл мой последний тако и даже не пожалел об этом.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky text at 3 AM won't bring me back, but nice try.",
-              "sentence_ru": "Твоё наглое сообщение в три часа ночи не вернет меня, но попытка засчитана.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 995199,
+          "due_tick": 995299,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-06T07:30:18.763024+00:00",
-          "pending_msg": 1052,
+          "last_sent_at": "2026-10-08T09:30:26.488365+00:00",
+          "pending_msg": 1104,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995250,
+      "last_deliver_tick": 995251,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1001,6 +1001,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
+              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить мое имя.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "My ex had to undergo a full brain transplant just to remember my birthday.",
               "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить мой день рождения.",
               "word_form": "undergo"
@@ -1019,20 +1024,15 @@
               "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
               "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, просто чтобы вспомнить мое имя.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "Chad had to undergo emergency therapy after seeing our Q3 budget report.",
-              "sentence_ru": "Чеду пришлось пройти экстренную терапию после просмотра нашего отчета по бюджету за третий квартал.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 995198,
+          "due_tick": 995299,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-06T07:01:00.901199+00:00",
-          "pending_msg": 1051,
+          "last_sent_at": "2026-10-08T09:30:27.635593+00:00",
+          "pending_msg": 1105,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995250,
+      "last_deliver_tick": 995251,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
