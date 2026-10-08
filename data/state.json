@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My therapist had to encorage my weird habit of eating raw onions in public.",
+              "sentence_ru": "Моему терапевту пришлось поощрять мою странную привычку есть сырой лук на публике.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "I encourage my pet raccoon to steal shiny watches from sleeping tourists.",
               "sentence_ru": "Я поощряю своего ручного енота воровать блестящие часы у спящих туристов.",
               "word_form": "encourage"
@@ -314,20 +319,15 @@
               "sentence": "My therapist tries to encorage my weird habit of licking frozen fence posts.",
               "sentence_ru": "Мой психотерапевт пытается поощрять мою странную привычку лизать замерзшие столбы забора.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My inner demons whisper sweet lies and encourage me to burn this miserable world down.",
-              "sentence_ru": "Мои внутренние демоны шепчут сладкую ложь и подбадривают меня сжечь этот мерзкий мир дотла.",
-              "word_form": "encourage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 995158,
+          "due_tick": 995296,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-05T11:00:23.304972+00:00",
-          "pending_msg": 1046,
+          "last_sent_at": "2026-10-08T08:00:23.862350+00:00",
+          "pending_msg": 1098,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995247,
+      "last_deliver_tick": 995248,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -919,6 +919,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I see you continue to flourish while my life is a dumpster fire at 3 AM.",
+              "sentence_ru": "Я вижу, ты продолжаешь процветать, пока моя жизнь в три часа ночи — просто помойка в огне.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My ex's new business began to flourish right after I cursed their warehouse.",
               "sentence_ru": "Новый бизнес моего бывшего начал процветать сразу после того, как я проклял их склад.",
               "word_form": "to flourish"
@@ -937,20 +942,15 @@
               "sentence": "My ex's new relationship is bound to flourish just like a plastic cactus in a microwave.",
               "sentence_ru": "Новые отношения моего бывшего обязательно расцветут, прямо как пластиковый кактус в микроволновке.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Notice: the mold in the hallway will continue to flourish if you keep ignoring the leaks.",
-              "sentence_ru": "Объявление: плесень в коридоре продолжит процветать, если вы продолжите игнорировать протечки.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 995157,
+          "due_tick": 995296,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-05T10:30:21.518055+00:00",
-          "pending_msg": 1045,
+          "last_sent_at": "2026-10-08T08:00:25.028956+00:00",
+          "pending_msg": 1099,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995247,
+      "last_deliver_tick": 995248,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
