@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I finally acquired your Netflix password just to watch you cry alone.",
+              "sentence_ru": "Я наконец-то раздобыл твой пароль от Netflix, просто чтобы посмотреть, как ты плачешь в одиночестве.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That acquired taste for loud bass at 3 AM must be evicted immediately.",
               "sentence_ru": "Эту приобретенную привычку слушать громкий бас в 3 часа ночи нужно срочно выселить.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That acquired taste in cheap tequila is why HR is firing you today.",
               "sentence_ru": "Этот приобретенный вкус к дешевой текиле — причина, почему HR увольняет тебя сегодня.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "That taste for expensive caviar is an acquired luxury you cannot afford, human.",
-              "sentence_ru": "Эта тяга к дорогой икре — приобретенная роскошь, которую ты не можешь себе позволить, человек.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995157,
+          "due_tick": 995294,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-05T10:30:20.383004+00:00",
-          "pending_msg": 1044,
+          "last_sent_at": "2026-10-08T07:00:05.794532+00:00",
+          "pending_msg": 1092,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995221,
+      "last_deliver_tick": 995246,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -795,6 +795,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "My ex-girlfriend's ghost looked so drab that even the alley cats refused to hiss at her.",
+              "sentence_ru": "Призрак моей бывшей выглядел настолько унылым, что даже помойные коты отказались на нее шипеть.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My ex-boyfriend's new life looks as drab and soul-crushing as his grey socks.",
               "sentence_ru": "Новая жизнь моего бывшего выглядит такой же унылой и душно-безнадежной, как его серые носки.",
@@ -814,20 +819,15 @@
               "sentence": "My ex-boyfriend's soul is just as drab as these overpriced beige curtains.",
               "sentence_ru": "Душа моего бывшего такая же унылая, как эти переоцененные бежевые занавески.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Your soul matches this drab corporate cubicle, Chad.",
-              "sentence_ru": "Твоя душа идеально совпадает с этим унылым корпоративным чуланом, Чад.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 995156,
+          "due_tick": 995294,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-05T10:00:17.928954+00:00",
-          "pending_msg": 1043,
+          "last_sent_at": "2026-10-08T07:00:08.327655+00:00",
+          "pending_msg": 1093,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995221,
+      "last_deliver_tick": 995246,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
