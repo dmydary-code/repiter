@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A single sneeze from the mutant cat managed to devastate my entire living room.",
+              "sentence_ru": "Одиночный чих мутировавшего кота умудрился опустошить всю мою гостиную.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Mutant raccoons devastate the city's entire whiskey reserve in one wild night.",
               "sentence_ru": "Еноты-мутанты опустошают весь запас виски города за одну дикую ночь.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "A single aggressive pigeon can devastate an entire wedding cake in three seconds.",
               "sentence_ru": "Один агрессивный голубь может уничтожить весь свадебный торт за три секунды.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "A massive hangover will devastate your fridge and your dignity tomorrow morning.",
-              "sentence_ru": "Сильное похмелье опустошит ваш холодильник и вашу гордость завтра утром.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 995201,
+          "due_tick": 995301,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-06T08:30:15.157200+00:00",
-          "pending_msg": 1056,
+          "last_sent_at": "2026-10-08T10:30:20.157866+00:00",
+          "pending_msg": 1108,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995252,
+      "last_deliver_tick": 995253,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1042,6 +1042,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant lobsters plan to emerge from the sewers and demand voting rights.",
+              "sentence_ru": "Мутантные омары планируют вылезти из канализации и потребовать избирательные права.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "Please do not emerge from your disgusting apartments while the gopniks are dancing.",
               "sentence_ru": "Пожалуйста, не появляйтесь из своих мерзких квартир, пока гопники танцуют.",
               "word_form": "emerge"
@@ -1060,20 +1065,15 @@
               "sentence": "I had to emerge from the darkness just to ask if you're single now.",
               "sentence_ru": "Мне пришлось выползти из темноты только чтобы спросить, ты теперь свободна?",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "My ex had to emerge from the dumpster just to steal this cheap blender.",
-              "sentence_ru": "Моему бывшему пришлось вылезти из мусорного бака только для того, чтобы украсть этот дешевый блендер.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 995200,
+          "due_tick": 995301,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-10-06T08:00:04.789129+00:00",
-          "pending_msg": 1055,
+          "last_sent_at": "2026-10-08T10:30:21.442350+00:00",
+          "pending_msg": 1109,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995252,
+      "last_deliver_tick": 995253,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
