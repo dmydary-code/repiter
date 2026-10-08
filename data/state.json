@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I vomited this mysterious chemical compound right inside your expensive designer Gucci shoe.",
+              "sentence_ru": "Я блеванул этим таинственным химическим компаундом прямо в твой дорогой дизайнерский туфель Gucci.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "He tried to hide his bald spot with a compound of mud and squirrel fur.",
               "sentence_ru": "Он попытался скрыть свою лысину с помощью смеси из грязи и беличьего меха.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Every lie I told was just another brick in this toxic compound of my soul.",
               "sentence_ru": "Каждая моя ложь была лишь еще одним кирпичом в этом ядовитом компаунде моей души.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "I broke into a secret chemical compound just to sniff your old shampoo.",
-              "sentence_ru": "Я взломал секретное химическое соединение только чтобы понюхать твой старый шампунь.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 995200,
+          "due_tick": 995300,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-06T08:00:03.193322+00:00",
-          "pending_msg": 1054,
+          "last_sent_at": "2026-10-08T10:00:10.550041+00:00",
+          "pending_msg": 1106,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995251,
+      "last_deliver_tick": 995252,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -878,6 +878,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop spreading toxic gossip in our building chat or I will leak your browser history.",
+              "sentence_ru": "Хватит распространять токсичные сплетни в нашем домовом чате, а то я сливаю историю вашего браузера.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "I know you are awake, so stop the gossip and come over to my place.",
               "sentence_ru": "Я знаю, что ты не спишь, так что прекращай сплетничать и приезжай ко мне.",
               "word_form": "gossip"
@@ -896,20 +901,15 @@
               "sentence": "My cat started to gossip with the toaster about my dating life.",
               "sentence_ru": "Мой кот начал сплетничать с тостером о моей личной жизни.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop spreading gossip about Grandma Rosa, or she will curse your Wi-Fi.",
-              "sentence_ru": "Хватит распускать сплетни о бабушке Розе, а то она проклянет ваш вайфай.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 995199,
+          "due_tick": 995300,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-06T07:30:20.117163+00:00",
-          "pending_msg": 1053,
+          "last_sent_at": "2026-10-08T10:00:11.754485+00:00",
+          "pending_msg": 1107,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995251,
+      "last_deliver_tick": 995252,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
