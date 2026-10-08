@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our boss is so humble he only steals office supplies at night.",
+              "sentence_ru": "Наш босс такой скромный, что ворует канцелярку только по ночам.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "A humble pigeon single-handedly overthrew the corrupt local government using only strategic bird poop.",
               "sentence_ru": "Скромный голубь в одиночку сверг коррумпированное местное правительство, используя лишь стратегический птичий помет.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even the most arrogant drug dealer in this building must humble himself and recycle bottles.",
               "sentence_ru": "Даже самый заносчивый барыга в этом подъезде должен смириться и сдавать бутылки.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even the humble janitor knows your shameful secrets, so pay for the elevator.",
-              "sentence_ru": "Даже скромный дворник знает ваши позорные секреты, так что платите за лифт.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 995198,
+          "due_tick": 995298,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-06T07:00:34.902503+00:00",
-          "pending_msg": 1050,
+          "last_sent_at": "2026-10-08T09:00:16.798754+00:00",
+          "pending_msg": 1102,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995249,
+      "last_deliver_tick": 995250,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1288,6 +1288,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that my entire life is just a bad sitcom.",
+              "sentence_ru": "Мне кажется, что вся моя жизнь — это просто паршивый ситком.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that Greg is stealing printer ink to dye his weird beard.",
               "sentence_ru": "Мне кажется, что Грег ворует чернила для принтера, чтобы покрасить свою странную бороду.",
               "word_form": "It seems to me"
@@ -1306,20 +1311,15 @@
               "sentence": "It seems to me you forgot to put shrimps in my bowl again.",
               "sentence_ru": "Мне кажется, ты опять забыла положить креветки в мою миску.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that mutant pigeons have successfully seized control of the local mayor.",
-              "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили контроль над местным мэром.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 995159,
+          "due_tick": 995298,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-05T11:30:30.642237+00:00",
-          "pending_msg": 1049,
+          "last_sent_at": "2026-10-08T09:00:17.937028+00:00",
+          "pending_msg": 1103,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995249,
+      "last_deliver_tick": 995250,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
