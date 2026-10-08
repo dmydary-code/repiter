@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My neighbor's corpse is starting to smell slightly, can someone check on him?",
+              "sentence_ru": "Труп моего соседа начинает слегка пахнуть, может кто-нибудь проверить его?",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My sanity was slightly compromised the moment she started singing opera in the burning elevator.",
               "sentence_ru": "Мой рассудок был слегка нарушен в тот момент, когда она запела оперу в горящем лифте.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "Tomorrow your ex will look slightly pathetic while crying into a bowl of cheap soup.",
               "sentence_ru": "Завтра твой бывший будет выглядеть слегка жалко, рыдая в тарелку дешевого супа.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "Tomorrow your ex will look slightly pathetic crying into a bucket of cheap mayonnaise.",
-              "sentence_ru": "Завтра твой бывший будет выглядеть слегка жалко, рыдая в ведро дешевого майонеза.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 995159,
+          "due_tick": 995297,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-05T11:30:28.030345+00:00",
-          "pending_msg": 1048,
+          "last_sent_at": "2026-10-08T08:30:07.953258+00:00",
+          "pending_msg": 1100,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995248,
+      "last_deliver_tick": 995249,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -960,6 +960,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If Greg eats my leftover pizza again, I am going to demolish his entire cubicle with a baseball bat.",
+              "sentence_ru": "Если Грег снова сожрет мою оставшуюся пиццу, я сровняю с землей весь его гребаный отсек бейсбольной битой.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "We will demolish apartment 42 tomorrow because your cat's singing violates all Geneva conventions.",
               "sentence_ru": "Завтра мы снесем квартиру 42, потому что пение твоего кота нарушает все женевские конвенции.",
               "word_form": "demolish"
@@ -978,20 +983,15 @@
               "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
               "sentence_ru": "Человек, если ты снова купишь дешевый сухой корм, я снесу этот тупой диван.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Who dared to demolish my balcony just to build a giant slide for their fat corgi?",
-              "sentence_ru": "Кто осмелился снести мой балкон только ради того, чтобы построить гигантскую горку для своего толстого корги?",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 995158,
+          "due_tick": 995297,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-10-05T11:00:25.042016+00:00",
-          "pending_msg": 1047,
+          "last_sent_at": "2026-10-08T08:30:09.141277+00:00",
+          "pending_msg": 1101,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995248,
+      "last_deliver_tick": 995249,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-08",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
