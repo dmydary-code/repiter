@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I stared into the empty fridge and felt profoundly betrayed by my past self.",
+              "sentence_ru": "Я заглянул в пустой холодильник и почувствовал себя глубоко преданным своим прошлым я.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "A naked CEO was profoundly confused after a goat stole his pants live on CNN.",
               "sentence_ru": "Голый генеральный директор был глубоко сбит с толку после того, как коза украла его штаны в прямом эфире CNN.",
               "word_form": "profoundly"
@@ -768,12 +773,12 @@
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995253,
+          "due_tick": 995348,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-07T10:30:14.543933+00:00",
-          "pending_msg": 1082,
+          "last_sent_at": "2026-10-09T10:00:20.618781+00:00",
+          "pending_msg": 1124,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -783,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995299,
+      "last_deliver_tick": 995300,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1539,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Time to ramp up the chaos and steal my ex's Netflix.",
+              "sentence_ru": "Пора наращивать хаос и украсть Netflix у моего бывшего.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "I need to ramp up my caffeine intake just to tolerate these corporate demons.",
               "sentence_ru": "Мне нужно нарастить дозу кофеина, только чтобы терпеть этих корпоративных демонов.",
               "word_form": "ramp up"
@@ -1557,20 +1567,15 @@
               "sentence": "I had to ramp up my threats to get a refund from this cursed seller.",
               "sentence_ru": "Мне пришлось усилить свои угрозы, чтобы получить возврат денег от этого проклятого продавца.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Bro had to ramp up his flexing after seeing my new gym gains.",
-              "sentence_ru": "Чел был вынужден усилить свои понты после того, как увидел мои новые успехи в качалке.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995252,
+          "due_tick": 995348,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-07T10:00:24.921016+00:00",
-          "pending_msg": 1081,
+          "last_sent_at": "2026-10-09T10:00:21.826798+00:00",
+          "pending_msg": 1125,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1621,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995299,
+      "last_deliver_tick": 995300,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
