@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Cats always try to knock your cup off the table while making direct eye contact.",
+              "sentence_ru": "Коты всегда пытаются смахнуть твою чашку со стола, глядя тебе прямо в глаза.",
+              "word_form": "try"
+            },
+            {
               "sentence": "I know I blocked you, but please try to understand my midnight vodka cravings.",
               "sentence_ru": "Я знаю, что заблокировал тебя, но пожалуйста, попробуй понять мою ночную тягу к водке.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "When you try to impress your cat, but it just looks at you with absolute disgust.",
               "sentence_ru": "Когда ты пытаешься произвести впечатление на своего кота, но он просто смотрит на тебя с абсолютным отвращением.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Trying to look mysterious while eating a massive burrito is my daily cardio.",
-              "sentence_ru": "Пытаться выглядеть загадочно, уплетая гигантский буррито — это мое ежедневное кардио.",
-              "word_form": "Trying"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 995205,
+          "due_tick": 995344,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-06T10:30:15.004284+00:00",
-          "pending_msg": 1064,
+          "last_sent_at": "2026-10-09T08:00:10.377670+00:00",
+          "pending_msg": 1116,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995295,
+      "last_deliver_tick": 995296,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1329,6 +1329,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that the psycho who drills walls at 3 AM is actually your mutant dog.",
+              "sentence_ru": "Я склонен думать, что психопат, сверлящий стены в 3 часа ночи — это вообще-то ваша мутантская собака.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that your new boyfriend is just a potato in a wig.",
               "sentence_ru": "Я склоняюсь к мысли, что твой новый парень — просто картофелина в парике.",
               "word_form": "I'm inclined to think that"
@@ -1347,20 +1352,15 @@
               "sentence": "I'm inclined to think that this exploding blender was a terrible birthday gift from my ex.",
               "sentence_ru": "Я склонен думать, что этот взрывающийся блендер был ужасным подарком на день рождения от моей бывшей.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that Greg stole my yogurt because he has purple lips.",
-              "sentence_ru": "Я склонен думать, что Грег украл мой йогурт, потому что у него фиолетовые губы.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995204,
+          "due_tick": 995344,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-06T10:00:14.962363+00:00",
-          "pending_msg": 1063,
+          "last_sent_at": "2026-10-09T08:00:11.956056+00:00",
+          "pending_msg": 1117,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995295,
+      "last_deliver_tick": 995296,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
