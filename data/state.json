@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You try to undermine my new relationship by sending the goats to her porch.",
+              "sentence_ru": "Ты пытаешься подорвать мои новые отношения, отправляя козлов на её крыльцо.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Gary tried to undermine my authority by stapling my coffee mug to the ceiling.",
               "sentence_ru": "Гэри попытался подорвать мой авторитет, пристепплеров мою кружку с кофе к потолку.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Stop trying to undermine my authority just because I have the better stapler.",
               "sentence_ru": "Хватит пытаться подрывать мой авторитет только потому, что у меня степлер круче.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Mars will undermine your boss's career while you are eating donuts.",
-              "sentence_ru": "Марс подорвет карьеру твоего начальника, пока ты будешь жрать пончики.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 995204,
+          "due_tick": 995343,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-06T10:00:13.643337+00:00",
-          "pending_msg": 1062,
+          "last_sent_at": "2026-10-09T07:30:22.562429+00:00",
+          "pending_msg": 1114,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995294,
+      "last_deliver_tick": 995295,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1165,6 +1165,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, my cat’s life goal is to ruin my sleep and my favorite rug.",
+              "sentence_ru": "В общем и целом, жизненная цель моего кота — разрушить мой сон и мой любимый ковер.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, tomorrow you will still be broke, but at least your cat respects you.",
               "sentence_ru": "В общем и целом, завтра ты всё ещё будешь на мели, но твой кот хотя бы тебя уважает.",
               "word_form": "By and large"
@@ -1183,20 +1188,15 @@
               "sentence": "By and large, my sleep paralysis demons are much better roommates than my actual ex.",
               "sentence_ru": "В целом, мои демоны сонного паралича — гораздо лучшие соседи по комнате, чем мой реальный бывший.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, our new boss is just a caffeinated potato who yells at printers.",
-              "sentence_ru": "В целом, наш новый босс — это просто напичканный кофеином картофель, который орет на принтеры.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 995203,
+          "due_tick": 995343,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-06T09:30:15.168255+00:00",
-          "pending_msg": 1061,
+          "last_sent_at": "2026-10-09T07:30:23.804812+00:00",
+          "pending_msg": 1115,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995294,
+      "last_deliver_tick": 995295,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
