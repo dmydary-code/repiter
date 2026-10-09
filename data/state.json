@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons try to discorage me, but I already ate their snacks.",
+              "sentence_ru": "Мои внутренние демоны пытаются меня разочаровать, но я уже сожрал их снеки.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "My inner demons tried to discorage me from eating this whole pizza, but I won.",
               "sentence_ru": "Мои внутренние демоны пытались отговорить меня сожрать эту пиццу целиком, но я победил.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Mars will discorage your boss from firing you, mostly because your weirdness amuses him.",
               "sentence_ru": "Марс отговорит твоего босса увольнять тебя, в основном потому, что твоя странность его забавляет.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Trying to diet when my grandma bakes daily will totally discorage my fat loss goals.",
-              "sentence_ru": "Пытаться сидеть на диете, когда бабушка печет каждый день, — лучший способ разочароваться в похудении.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 995203,
+          "due_tick": 995342,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-06T09:30:12.683920+00:00",
-          "pending_msg": 1060,
+          "last_sent_at": "2026-10-09T07:00:09.120089+00:00",
+          "pending_msg": 1112,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995269,
+      "last_deliver_tick": 995294,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1124,6 +1124,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I use this vibrator now and then when my lazy boyfriend falls asleep instantly.",
+              "sentence_ru": "Я пользуюсь этим вибратором время от времени, когда мой ленивый парень моментально засыпает.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Tomorrow the stars advise you to scream at pigeons now and then so they respect your aura.",
               "sentence_ru": "Завтра звезды советуют вам время от времени орать на голубей, чтобы они уважали вашу ауру.",
               "word_form": "now and then"
@@ -1142,20 +1147,15 @@
               "sentence": "I knock your expensive vase off the table now and then just to test gravity.",
               "sentence_ru": "Я сбрасываю твою дорогую вазу со стола время от времени, просто чтобы проверить гравитацию.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "My sanity crumbles completely every single day, but now and then I pretend to be fine.",
-              "sentence_ru": "Мой рассудок трещит по швам каждый грёбаный день, но время от времени я притворяюсь нормальным.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995202,
+          "due_tick": 995342,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-06T09:00:26.709917+00:00",
-          "pending_msg": 1059,
+          "last_sent_at": "2026-10-09T07:00:10.338761+00:00",
+          "pending_msg": 1113,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995269,
+      "last_deliver_tick": 995294,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
