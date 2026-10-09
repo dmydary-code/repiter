@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A chaotic goblin set heart on stealing the entire moon for his weird ex.",
+              "sentence_ru": "Безумный гоблин твердо нацелился украсть всю луну для своей странной бывшей.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Local raccoon sets heart on stealing the mayor's toupee and achieves it.",
               "sentence_ru": "Местный енот страстно желает украсть парик мэра и добивается своего.",
               "word_form": "sets heart on"
@@ -478,20 +483,15 @@
               "sentence": "If you set heart on stealing the hallway cactus, know that it's cursed with diarrhea.",
               "sentence_ru": "Если вы твердо нацелились украсть подъездный кактус, знайте, что он проклят на диарею.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "If you set heart on stealing the lobby cactus again, Nina will curse your ancestors.",
-              "sentence_ru": "Если вы снова страстно захотите украсть подъездный кактус, Нина проклянет ваших предков.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 995251,
+          "due_tick": 995346,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-07T09:30:03.672352+00:00",
-          "pending_msg": 1078,
+          "last_sent_at": "2026-10-09T09:00:14.892466+00:00",
+          "pending_msg": 1120,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995297,
+      "last_deliver_tick": 995298,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1370,6 +1370,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to adjust my crown while my ex cries in the VIP section.",
+              "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший рыдает в VIP-зоне.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Human, adjust my laser collar or I will vaporize your favorite slippers tonight.",
               "sentence_ru": "Человек, настрой мой лазерный ошейник, или я испарю твои любимые тапочки сегодня ночью.",
               "word_form": "adjust"
@@ -1388,20 +1393,15 @@
               "sentence": "Trying to adjust my crown while my ex cries in the background.",
               "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший плачет на заднем плане.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "He had to adjust the cat's VR headset so the demon slayers looked more realistic.",
-              "sentence_ru": "Ему пришлось настроить кошачий VR-шлем, чтобы убийцы демонов выглядели реалистичнее.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 995250,
+          "due_tick": 995346,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-07T09:01:04.807085+00:00",
-          "pending_msg": 1077,
+          "last_sent_at": "2026-10-09T09:00:15.993137+00:00",
+          "pending_msg": 1121,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995297,
+      "last_deliver_tick": 995298,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
