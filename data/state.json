@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The seller didn't mince words and told me my face looked like a fried potato in reality.",
+              "sentence_ru": "Продавец не стал подбирать выражения и сказал, что в реальности мое лицо похоже на жареную картошку.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I didn't mince words when I told my ex his new haircut looks like a dead ferret.",
               "sentence_ru": "Я не стала подбирать выражения, когда сказала бывшему, что его новая стрижка похожа на мертвого хорька.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I won't mince words: whoever keeps dumping trash in the elevator is a absolute degenerate.",
               "sentence_ru": "Я не буду церемониться в выражениях: тот, кто продолжает сваливать мусор в лифте — абсолютный дегенерат.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I won't mince words: this dildo vibrates so hard my fillings fell out. Five stars!",
-              "sentence_ru": "Я не буду подбирать выражения: этот фаллоимитатор вибрирует так сильно, что у меня пломбы выпали. Пять звезд!",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995254,
+          "due_tick": 995349,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-07T11:00:03.701902+00:00",
-          "pending_msg": 1084,
+          "last_sent_at": "2026-10-09T10:30:09.285883+00:00",
+          "pending_msg": 1126,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995300,
+      "last_deliver_tick": 995301,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to impose my weird pet collection rules on my roommate went terribly wrong.",
+              "sentence_ru": "Пытаться навязать соседу по комнате мои странные правила коллекции питомцев прошло ужасно.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Please do not impose your weird vegan cult rules on our Friday pizza party.",
               "sentence_ru": "Пожалуйста, не навязывай свои странные правила веганского культа на нашей пятничной пицца-вечеринке.",
               "word_form": "impose"
@@ -1603,20 +1608,15 @@
               "sentence": "My cat tried to impose a strict meat tax on my vegan sandwich.",
               "sentence_ru": "Мой кот попытался навязать строгий мясной налог на мой веганский бутерброд.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "I had to impose my new nude pics on your feed at 3 AM.",
-              "sentence_ru": "Мне пришлось навязать свои новые голые фотки в твою ленту в 3 часа ночи.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 995253,
+          "due_tick": 995349,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-07T10:30:16.146389+00:00",
-          "pending_msg": 1083,
+          "last_sent_at": "2026-10-09T10:30:10.550256+00:00",
+          "pending_msg": 1127,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995300,
+      "last_deliver_tick": 995301,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
