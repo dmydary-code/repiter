@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever my ex cries, I pop champagne and start a TikTok live.",
+              "sentence_ru": "Всякий раз когда плачет мой бывший, я открываю шампанское и запускаю прямой эфир в TikTok.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "I cry into my ramen whenever these cheap leggings rip at the crotch.",
               "sentence_ru": "Я рыдаю в рамен всякий раз, когда эти дешевые легинсы рвутся по шву.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever my ex breathes, my eye starts twitching with pure, unadulterated rage.",
               "sentence_ru": "Всякий раз, когда бывшая дышит, мой глаз начинает дергаться от чистой, неподдельной ярости.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "Whenever you cry, my new girlfriend laughs so loud I can't even sleep.",
-              "sentence_ru": "Всякий раз, когда ты плачешь, моя новая девушка смеется так громко, что я даже уснуть не могу.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995250,
+          "due_tick": 995345,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-07T09:01:03.615064+00:00",
-          "pending_msg": 1076,
+          "last_sent_at": "2026-10-09T08:30:26.372170+00:00",
+          "pending_msg": 1118,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -778,11 +778,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995296,
+      "last_deliver_tick": 995297,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1411,6 +1411,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We lost our dignity, our pants, and our minds altogether at the corporate party.",
+              "sentence_ru": "Мы потеряли достоинство, штаны и рассудок разом на корпоративе.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Tomorrow you will lose your mind and your pants altogether during a business meeting.",
               "sentence_ru": "Завтра вы сойдете с ума и полностью потеряете штаны во время деловой встречи.",
               "word_form": "altogether"
@@ -1429,20 +1434,15 @@
               "sentence": "If we lose this client, Dwight's sanity is going to snap altogether.",
               "sentence_ru": "Если мы потеряем этого клиента, рассудок Дуайта окончательно рухнет.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "This weird sex-doll smells like old fish and I am altogether disgusted.",
-              "sentence_ru": "От этой странной резиновой куклы воняет старой рыбой, и я в целом в полном отвращении.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 995205,
+          "due_tick": 995345,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-06T10:30:16.229909+00:00",
-          "pending_msg": 1065,
+          "last_sent_at": "2026-10-09T08:30:27.613841+00:00",
+          "pending_msg": 1119,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1616,11 +1616,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995296,
+      "last_deliver_tick": 995297,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-09",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
