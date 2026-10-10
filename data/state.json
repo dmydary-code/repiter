@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex tried to encorage my new therapist to prescribe me industrial-strength sedatives.",
+              "sentence_ru": "Бывший попытался подбить моего нового терапевта выписать мне мощнейшие успокоительные.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My therapist had to encorage my weird habit of eating raw onions in public.",
               "sentence_ru": "Моему терапевту пришлось поощрять мою странную привычку есть сырой лук на публике.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My inner demon will always encorage me to eat pizza in bed.",
               "sentence_ru": "Мой внутренний демон всегда будет поощрять меня есть пиццу в постели.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My therapist tries to encorage my weird habit of licking frozen fence posts.",
-              "sentence_ru": "Мой психотерапевт пытается поощрять мою странную привычку лизать замерзшие столбы забора.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 995296,
+          "due_tick": 995400,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-08T08:00:23.862350+00:00",
-          "pending_msg": 1098,
+          "last_sent_at": "2026-10-10T12:00:19.922293+00:00",
+          "pending_msg": 1148,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995351,
+      "last_deliver_tick": 995352,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -805,6 +805,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Your soul is just as drab as this beige cubicle, Kevin.",
+              "sentence_ru": "Твоя душа такая же унылая, как этот бежевый опепенный бокс, Кевин.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Extraterrestrial dictator bans all neon colors, making the entire galaxy look aggressively drab.",
               "sentence_ru": "Внеземной диктатор запретил все неoновые цвета, из-за чего вся галактика выглядит агрессивно уныло.",
@@ -824,20 +829,15 @@
               "sentence": "Your soul is just as drab as this beige office carpet, Greg.",
               "sentence_ru": "Твоя душа такая же унылая, как этот бежевый офисный ковер, Грег.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My ex-boyfriend's soul is just as drab as these overpriced beige curtains.",
-              "sentence_ru": "Душа моего бывшего такая же унылая, как эти переоцененные бежевые занавески.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 995295,
+          "due_tick": 995400,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-08T07:42:31.170656+00:00",
-          "pending_msg": 1097,
+          "last_sent_at": "2026-10-10T12:00:21.194973+00:00",
+          "pending_msg": 1149,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995351,
+      "last_deliver_tick": 995352,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
