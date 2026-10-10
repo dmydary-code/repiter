@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky cat who keeps stealing sausages from flat 14 must be stopped immediately.",
+              "sentence_ru": "Того наглого кота, который продолжает воровать сосиски из 14-й квартиры, нужно немедленно остановить.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky bastard stole my last yogurt from the shared office fridge again.",
               "sentence_ru": "Этот наглый ублюдок снова украл мой последний йогурт из общего офисного холодильника.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "A cheeky Aries will steal the office printer tomorrow and blame it on the cat.",
               "sentence_ru": "Завтра дерзкий Овен украдет офисный принтер и свалит все на кота.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky raccoon stole my last taco and didn't even regret it.",
-              "sentence_ru": "Этот наглый енот украл мой последний тако и даже не пожалел об этом.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 995299,
+          "due_tick": 995397,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-08T09:30:26.488365+00:00",
-          "pending_msg": 1104,
+          "last_sent_at": "2026-10-10T10:30:24.059738+00:00",
+          "pending_msg": 1142,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995348,
+      "last_deliver_tick": 995349,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that someone is stealing pickled cucumbers from the third floor again.",
+              "sentence_ru": "Мне кажется, что кто-то опять ворует соленые огурцы с третьего этажа.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that my entire life is just a bad sitcom.",
               "sentence_ru": "Мне кажется, что вся моя жизнь — это просто паршивый ситком.",
               "word_form": "It seems to me"
@@ -1316,20 +1321,15 @@
               "sentence": "It seems to me that mutant pigeons have successfully seized the central bank.",
               "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили центральный банк.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me you forgot to put shrimps in my bowl again.",
-              "sentence_ru": "Мне кажется, ты опять забыла положить креветки в мою миску.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 995298,
+          "due_tick": 995397,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-08T09:00:17.937028+00:00",
-          "pending_msg": 1103,
+          "last_sent_at": "2026-10-10T10:30:25.118352+00:00",
+          "pending_msg": 1143,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995348,
+      "last_deliver_tick": 995349,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
