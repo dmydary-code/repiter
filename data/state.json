@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy husband never lifts a finger in the house, even when our cat barfs on his face.",
+              "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец по дому, даже когда наш кот блевит ему на лицо.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "My lazy roommate never lifts a finger in the house, so our cat had to vacuum the living room.",
               "sentence_ru": "Мой ленивый сосед по комнате никогда не ударяет палец о палец дома, поэтому нашему коту пришлось пылесосить гостиную.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "My lazy husband never lifts a finger in the house, even when our cat vomits on the rug.",
               "sentence_ru": "Мой ленивый муж никогда палец о палец не ударяет по дому, даже когда наш кот блевет на ковер.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "My lazy roommate never lifts a finger in the house, even when zombies attack.",
-              "sentence_ru": "Мой ленивый соседик никогда не ударит палец о палец по дому, даже когда нападают зомби.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 995256,
+          "due_tick": 995391,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-07T12:00:26.971645+00:00",
-          "pending_msg": 1088,
+          "last_sent_at": "2026-10-10T07:30:10.471079+00:00",
+          "pending_msg": 1130,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995342,
+      "last_deliver_tick": 995343,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,6 +847,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "HR had to drag my drunk ass out of the backstreets before the quarterly review.",
+              "sentence_ru": "Эйчару пришлось вытаскивать мою пьяную задницу из трущоб прямо перед квартальным отчетом.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "Running from my tax collector through the darkest backstreets in designer heels.",
               "sentence_ru": "Убегаю от налогового инспектора по самым темным переулкам на дизайнерских каблуках.",
               "word_form": "backstreets"
@@ -865,20 +870,15 @@
               "sentence": "My naked grandma escapes the police through the dark backstreets while riding a stolen goat.",
               "sentence_ru": "Моя голая бабуля улепётывает от полиции по темным задворкам верхом на ворованном козле.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Cats are partying in the backstreets because dumpster diving is finally legal.",
-              "sentence_ru": "Коты тусуются на задворках, потому что копаться в мусорках наконец-то легально.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 995255,
+          "due_tick": 995391,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-07T11:30:20.795623+00:00",
-          "pending_msg": 1087,
+          "last_sent_at": "2026-10-10T07:30:11.553253+00:00",
+          "pending_msg": 1131,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995342,
+      "last_deliver_tick": 995343,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
