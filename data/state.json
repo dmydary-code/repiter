@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He acquired a rare taste for eating spicy soap during his prison years.",
+              "sentence_ru": "За годы в тюрьме у него выработался странный вкус к поеданию острого мыла.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Your acquired taste for expensive booze will finally ruin your broke ex.",
               "sentence_ru": "Твой приобретенный вкус к дорогому бухлу окончательно разорит твоего нищего бывшего.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "Local billionaire has acquired a private moon just to dump his garbage there.",
               "sentence_ru": "Местный миллиардер приобрел личную луну только для того, чтобы сваливать туда свой мусор.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "That acquired taste in cheap tequila is why HR is firing you today.",
-              "sentence_ru": "Этот приобретенный вкус к дешевой текиле — причина, почему HR увольняет тебя сегодня.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995295,
+          "due_tick": 995399,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-08T07:42:29.944266+00:00",
-          "pending_msg": 1096,
+          "last_sent_at": "2026-10-10T11:30:13.537006+00:00",
+          "pending_msg": 1146,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995350,
+      "last_deliver_tick": 995351,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I tried to wire up my cat to the Wi-Fi, now it runs at five gigahertz.",
+              "sentence_ru": "Я попытался подключить своего кота к вай-ваю, теперь он бегает на пяти гигагерцах.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Human, wire up my fish tank laser or I'm peeing on your Gucci shoes.",
               "sentence_ru": "Человек, подключи лазер в моем аквариуме, или я нассу на твои туфли Gucci.",
               "word_form": "wire up"
@@ -1480,20 +1485,15 @@
               "sentence": "Who decided to wire up the intercom to my doorbell while on heavy drugs?",
               "sentence_ru": "Кто додумался подключить домофон к моему звонку под тяжелыми наркотиками?",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Human, wire up my scratching post to the socket or I will murder your shoes.",
-              "sentence_ru": "Человек, подключи мою когтеточку к розетке, иначе я убью твои туфли.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 995257,
+          "due_tick": 995399,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-07T12:30:08.127583+00:00",
-          "pending_msg": 1091,
+          "last_sent_at": "2026-10-10T11:30:14.909255+00:00",
+          "pending_msg": 1147,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995350,
+      "last_deliver_tick": 995351,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
