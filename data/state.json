@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated swamp goblins hit it off instantly while devouring the mayor's expensive Tesla.",
+              "sentence_ru": "Мутировавшие болотные гоблины сразу подружились, пожирая дорогой электрокар мэра.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "We hit it off so fast, and now I have to hide his body.",
               "sentence_ru": "Мы так быстро сошлись, а теперь мне приходится прятать его тело.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "We hit it off immediately when I knocked her expensive vase off the shelf.",
               "sentence_ru": "Мы сразу подружились, когда я смахнул её дорогущую вазу с полки.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Me and my therapist really hit it off after I blamed my ex for my bad vibes.",
-              "sentence_ru": "Я и мой психотерапевт сразу отлично поладили после того, как я свалил вину за свои плохие вайбы на бывшую.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 995255,
+          "due_tick": 995390,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-07T11:30:19.327763+00:00",
-          "pending_msg": 1086,
+          "last_sent_at": "2026-10-10T07:00:10.092939+00:00",
+          "pending_msg": 1128,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995316,
+      "last_deliver_tick": 995342,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that sentient pigeons should pay taxes for bombing statues.",
+              "sentence_ru": "Я придерживаюсь мнения, что разумные голуби должны платить налоги за бомбежку статуй.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that your barking dog should be evicted from this building.",
               "sentence_ru": "Я придерживаюсь мнения, что вашу лающую собаку нужно выселить из этого дома.",
               "word_form": "I hold the view that"
@@ -1275,20 +1280,15 @@
               "sentence": "I hold the view that pineapple on pizza is a crime against humanity.",
               "sentence_ru": "Я придерживаюсь мнения, что ананасы на пицце — это преступление против человечества.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that my talking cat should pay rent or sleep on the balcony.",
-              "sentence_ru": "Я придерживаюсь мнения, что мой говорящий кот должен платить за аренду или спать на балконе.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995254,
+          "due_tick": 995390,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-07T11:00:05.142443+00:00",
-          "pending_msg": 1085,
+          "last_sent_at": "2026-10-10T07:00:11.173135+00:00",
+          "pending_msg": 1129,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995316,
+      "last_deliver_tick": 995342,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
