@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even in his solid gold Gucci diaper, billionaire Elon still tries to act humble on Twitter.",
+              "sentence_ru": "Даже в своем золотом подгузнике от Gucci миллиардер Илон все еще пытается казаться скромным в Твиттере.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Our boss is so humble he only steals office supplies at night.",
               "sentence_ru": "Наш босс такой скромный, что ворует канцелярку только по ночам.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even the universe's most humble goat will accidentally butt a billionaire tomorrow.",
               "sentence_ru": "Завтра даже самый скромный козел во вселенной случайно боднет миллиардера.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even the most arrogant drug dealer in this building must humble himself and recycle bottles.",
-              "sentence_ru": "Даже самый заносчивый барыга в этом подъезде должен смириться и сдавать бутылки.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 995298,
+          "due_tick": 995402,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-08T09:00:16.798754+00:00",
-          "pending_msg": 1102,
+          "last_sent_at": "2026-10-10T13:00:18.266823+00:00",
+          "pending_msg": 1152,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995353,
+      "last_deliver_tick": 995354,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Me and the boys ready to demolish that entire buffet after one joint.",
+              "sentence_ru": "Я и пацаны готовы снести этот гребаный шведский стол после одного косяка.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "If Greg eats my leftover pizza again, I am going to demolish his entire cubicle with a baseball bat.",
               "sentence_ru": "Если Грег снова сожрет мою оставшуюся пиццу, я сровняю с землей весь его гребаный отсек бейсбольной битой.",
               "word_form": "demolish"
@@ -988,20 +993,15 @@
               "sentence": "I ordered this diet shake, but it completely demolished my toilet at 3 AM.",
               "sentence_ru": "Я заказал этот диетический коктейль, но он полностью снес мой унитаз в 3 часа ночи.",
               "word_form": "demolished"
-            },
-            {
-              "sentence": "Human, if you buy cheap kibble again, I will demolish this stupid couch.",
-              "sentence_ru": "Человек, если ты снова купишь дешевый сухой корм, я снесу этот тупой диван.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 995297,
+          "due_tick": 995402,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-10-08T08:30:09.141277+00:00",
-          "pending_msg": 1101,
+          "last_sent_at": "2026-10-10T13:00:20.043154+00:00",
+          "pending_msg": 1153,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995353,
+      "last_deliver_tick": 995354,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
