@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I am slightly outside your window and I miss you.",
+              "sentence_ru": "Я слегка за твоим окном и я скучаю.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My neighbor's corpse is starting to smell slightly, can someone check on him?",
               "sentence_ru": "Труп моего соседа начинает слегка пахнуть, может кто-нибудь проверить его?",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "My anarchist hamster looks slightly disappointed that I survived his tiny bomb.",
               "sentence_ru": "Мой хомяк-анархист выглядит слегка разочарованным тем, что я пережил его крошечную бомбу.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "Tomorrow your ex will look slightly pathetic while crying into a bowl of cheap soup.",
-              "sentence_ru": "Завтра твой бывший будет выглядеть слегка жалко, рыдая в тарелку дешевого супа.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 995297,
+          "due_tick": 995395,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-08T08:30:07.953258+00:00",
-          "pending_msg": 1100,
+          "last_sent_at": "2026-10-10T09:30:21.061511+00:00",
+          "pending_msg": 1138,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995346,
+      "last_deliver_tick": 995347,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons continue to flourish while my bank account screams in agony.",
+              "sentence_ru": "Мои внутренние демоны продолжают процветать, пока мой банковский счет кричит в агонии.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "I see you continue to flourish while my life is a dumpster fire at 3 AM.",
               "sentence_ru": "Я вижу, ты продолжаешь процветать, пока моя жизнь в три часа ночи — просто помойка в огне.",
               "word_form": "flourish"
@@ -947,20 +952,15 @@
               "sentence": "I flourish on the expensive carpets you cry about while I sharpen my claws.",
               "sentence_ru": "Я процветаю на тех дорогих коврах, над которыми ты рыдаешь, пока я точу когти.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "My ex's new relationship is bound to flourish just like a plastic cactus in a microwave.",
-              "sentence_ru": "Новые отношения моего бывшего обязательно расцветут, прямо как пластиковый кактус в микроволновке.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 995296,
+          "due_tick": 995395,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-08T08:00:25.028956+00:00",
-          "pending_msg": 1099,
+          "last_sent_at": "2026-10-10T09:30:22.135045+00:00",
+          "pending_msg": 1139,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995346,
+      "last_deliver_tick": 995347,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-10",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
