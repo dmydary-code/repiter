@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This cursed vacuum cleaner tries to eat my cat whenever I turn it on.",
+              "sentence_ru": "Этот проклятый пылесос пытается сожрать моего кота всякий раз, когда я его включаю.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever my ex cries, I pop champagne and start a TikTok live.",
               "sentence_ru": "Всякий раз когда плачет мой бывший, я открываю шампанское и запускаю прямой эфир в TikTok.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever I puke on your expensive rug, you scream like a boiling kettle.",
               "sentence_ru": "Всякий раз, когда я блевую на твой дорогой ковер, ты орешь как кипящий чайник.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "Whenever my ex breathes, my eye starts twitching with pure, unadulterated rage.",
-              "sentence_ru": "Всякий раз, когда бывшая дышит, мой глаз начинает дергаться от чистой, неподдельной ярости.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995345,
+          "due_tick": 995448,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-09T08:30:26.372170+00:00",
-          "pending_msg": 1118,
+          "last_sent_at": "2026-10-11T12:00:13.288030+00:00",
+          "pending_msg": 1178,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995399,
+      "last_deliver_tick": 995400,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that whoever keeps drilling at 3 AM hates all of us.",
+              "sentence_ru": "Я склонен думать, что тот, кто продолжает сверлить в 3 часа ночи, ненавидит всех нас.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that the psycho who drills walls at 3 AM is actually your mutant dog.",
               "sentence_ru": "Я склонен думать, что психопат, сверлящий стены в 3 часа ночи — это вообще-то ваша мутантская собака.",
               "word_form": "I'm inclined to think that"
@@ -1357,20 +1362,15 @@
               "sentence": "I'm inclined to think that you bought this cheap fish just to spite me.",
               "sentence_ru": "Я склонен думать, что ты купила эту дешевую рыбу просто назло мне.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that this exploding blender was a terrible birthday gift from my ex.",
-              "sentence_ru": "Я склонен думать, что этот взрывающийся блендер был ужасным подарком на день рождения от моей бывшей.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995344,
+          "due_tick": 995448,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-09T08:00:11.956056+00:00",
-          "pending_msg": 1117,
+          "last_sent_at": "2026-10-11T12:00:14.451128+00:00",
+          "pending_msg": 1179,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995399,
+      "last_deliver_tick": 995400,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
