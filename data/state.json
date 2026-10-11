@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your constant midnight howling is just a plot to undermine my sanity.",
+              "sentence_ru": "Твой постоянный ночной вой — это просто заговор с целью подорвать мой рассудок.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "You try to undermine my new relationship by sending the goats to her porch.",
               "sentence_ru": "Ты пытаешься подорвать мои новые отношения, отправляя козлов на её крыльцо.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "You undermine my authority by serving me cheap Whiskas.",
               "sentence_ru": "Ты подрываешь мой авторитет, подавая мне дешевый Вискас.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Stop trying to undermine my authority just because I have the better stapler.",
-              "sentence_ru": "Хватит пытаться подрывать мой авторитет только потому, что у меня степлер круче.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 995343,
+          "due_tick": 995446,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-09T07:30:22.562429+00:00",
-          "pending_msg": 1114,
+          "last_sent_at": "2026-10-11T11:00:08.726208+00:00",
+          "pending_msg": 1174,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995397,
+      "last_deliver_tick": 995398,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated stray cats steal nuclear launch codes now and then.",
+              "sentence_ru": "Мутировавшие бродячие коты время от времени крадут коды ядерного запуска.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "I use this vibrator now and then when my lazy boyfriend falls asleep instantly.",
               "sentence_ru": "Я пользуюсь этим вибратором время от времени, когда мой ленивый парень моментально засыпает.",
               "word_form": "now and then"
@@ -1152,20 +1157,15 @@
               "sentence": "My ex's ghost haunts my kitchen now and then, judging my burnt midnight toast.",
               "sentence_ru": "Призрак моей бывшей время от времени преследует мою кухню, осуждая мои подгоревшие полуночные тосты.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "I knock your expensive vase off the table now and then just to test gravity.",
-              "sentence_ru": "Я сбрасываю твою дорогую вазу со стола время от времени, просто чтобы проверить гравитацию.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995342,
+          "due_tick": 995446,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-09T07:00:10.338761+00:00",
-          "pending_msg": 1113,
+          "last_sent_at": "2026-10-11T11:00:10.274173+00:00",
+          "pending_msg": 1175,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995397,
+      "last_deliver_tick": 995398,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
