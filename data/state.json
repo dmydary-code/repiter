@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Don't even try to hide the good fish behind your back, human.",
+              "sentence_ru": "Даже не пытайся спрятать хорошую рыбу за спиной, кожаная.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Cats always try to knock your cup off the table while making direct eye contact.",
               "sentence_ru": "Коты всегда пытаются смахнуть твою чашку со стола, глядя тебе прямо в глаза.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "If you try to glue your trash to my door again, I will superglue your eyes.",
               "sentence_ru": "Если вы попытаетесь снова приклеить свой мусор к моей двери, я суперклеем залеплю вам глаза.",
               "word_form": "try"
-            },
-            {
-              "sentence": "When you try to impress your cat, but it just looks at you with absolute disgust.",
-              "sentence_ru": "Когда ты пытаешься произвести впечатление на своего кота, но он просто смотрит на тебя с абсолютным отвращением.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 995344,
+          "due_tick": 995447,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-09T08:00:10.377670+00:00",
-          "pending_msg": 1116,
+          "last_sent_at": "2026-10-11T11:30:15.586774+00:00",
+          "pending_msg": 1176,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995398,
+      "last_deliver_tick": 995399,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, my life is a tragicomedy written by a drunk and vengeful god.",
+              "sentence_ru": "В целом, моя жизнь — это трагикомедия, написанная пьяным и мстительным богом.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, my cat’s life goal is to ruin my sleep and my favorite rug.",
               "sentence_ru": "В общем и целом, жизненная цель моего кота — разрушить мой сон и мой любимый ковер.",
               "word_form": "By and large"
@@ -1193,20 +1198,15 @@
               "sentence": "By and large, human, your pathetic attempts at cooking this steak are acceptable.",
               "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки приготовить этот стейк сойдут.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, my sleep paralysis demons are much better roommates than my actual ex.",
-              "sentence_ru": "В целом, мои демоны сонного паралича — гораздо лучшие соседи по комнате, чем мой реальный бывший.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 995343,
+          "due_tick": 995447,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-09T07:30:23.804812+00:00",
-          "pending_msg": 1115,
+          "last_sent_at": "2026-10-11T11:30:41.703725+00:00",
+          "pending_msg": 1177,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995398,
+      "last_deliver_tick": 995399,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
