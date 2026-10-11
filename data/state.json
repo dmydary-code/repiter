@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant racoons will devastate downtown Chicago unless fed premium tequila immediately.",
+              "sentence_ru": "Еноты-мутанты опустошат центр Чикаго, если им немедленно не дать премиальной текилы.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "A single sneeze from the mutant cat managed to devastate my entire living room.",
               "sentence_ru": "Одиночный чих мутировавшего кота умудрился опустошить всю мою гостиную.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Karen will totally devastate the office fridge if someone touches her oat milk again.",
               "sentence_ru": "Карен полностью разнесет офисный холодильник, если кто-нибудь снова тронет ее овсяное молоко.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "A single aggressive pigeon can devastate an entire wedding cake in three seconds.",
-              "sentence_ru": "Один агрессивный голубь может уничтожить весь свадебный торт за три секунды.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 995301,
+          "due_tick": 995439,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-08T10:30:20.157866+00:00",
-          "pending_msg": 1108,
+          "last_sent_at": "2026-10-11T07:30:02.855970+00:00",
+          "pending_msg": 1158,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995390,
+      "last_deliver_tick": 995391,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My therapist says I should stop chewing on toxic gossip like it is my last supper.",
+              "sentence_ru": "Мой психотерапевт говорит, что мне пора перестать пережёвывать токсичные сплетни, словно это моя последняя вечеря.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop spreading toxic gossip in our building chat or I will leak your browser history.",
               "sentence_ru": "Хватит распространять токсичные сплетни в нашем домовом чате, а то я сливаю историю вашего браузера.",
               "word_form": "gossip"
@@ -906,20 +911,15 @@
               "sentence": "I know you are awake, so stop sleeping and tell me the latest gossip about our mutual ex.",
               "sentence_ru": "Я знаю, что ты не спишь, так что хватит спать и выкладывай последние сплетни о нашем общем бывшем.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "My cat started to gossip with the toaster about my dating life.",
-              "sentence_ru": "Мой кот начал сплетничать с тостером о моей личной жизни.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 995300,
+          "due_tick": 995439,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-08T10:00:11.754485+00:00",
-          "pending_msg": 1107,
+          "last_sent_at": "2026-10-11T07:30:04.308267+00:00",
+          "pending_msg": 1159,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995390,
+      "last_deliver_tick": 995391,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
