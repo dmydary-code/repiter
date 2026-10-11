@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex built a secret compound for his ego, but I just stole his Wi-Fi.",
+              "sentence_ru": "Мой бывший построил секретный бункер для своего эго, а я просто украла его вай-фай.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "I vomited this mysterious chemical compound right inside your expensive designer Gucci shoe.",
               "sentence_ru": "Я блеванул этим таинственным химическим компаундом прямо в твой дорогой дизайнерский туфель Gucci.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Drinking cheap tequila in this corporate compound is definitely going to compound my hangover.",
               "sentence_ru": "Пить дешёвую текилу на этой корпоративной территории точно усугубит моё похмелье.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Every lie I told was just another brick in this toxic compound of my soul.",
-              "sentence_ru": "Каждая моя ложь была лишь еще одним кирпичом в этом ядовитом компаунде моей души.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 995300,
+          "due_tick": 995438,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-08T10:00:10.550041+00:00",
-          "pending_msg": 1106,
+          "last_sent_at": "2026-10-11T07:00:19.397868+00:00",
+          "pending_msg": 1156,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995361,
+      "last_deliver_tick": 995390,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to undergo an exorcism just to forget your toxic text messages.",
+              "sentence_ru": "Мне пришлось пройти через экзорцизм, только чтобы забыть твои токсичные смски.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
               "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить мое имя.",
               "word_form": "undergo"
@@ -1029,20 +1034,15 @@
               "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
               "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить мое имя.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
-              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, просто чтобы вспомнить мое имя.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 995299,
+          "due_tick": 995438,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-08T09:30:27.635593+00:00",
-          "pending_msg": 1105,
+          "last_sent_at": "2026-10-11T07:00:20.668257+00:00",
+          "pending_msg": 1157,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995361,
+      "last_deliver_tick": 995390,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-11",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
