@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Aries, tomorrow you will be rolling in money after robbing a casino.",
+              "sentence_ru": "Овен, завтра ты будешь купаться в деньгах после ограбления казино.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "If you are rolling in money, pay for the broken elevator, you greedy ghouls!",
               "sentence_ru": "Если вы купаетесь в деньгах, оплатите сломанный лифт, жадные упыри!",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "Our boss is rolling in money, yet we still use staplers from the last century.",
               "sentence_ru": "Наш босс купается в деньгах, но мы до сих пор пользуемся степлерами прошлого века.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "The local pigeon is officially rolling in money after stealing a bag of crypto-wallet keys.",
-              "sentence_ru": "Местный голубь официально купается в деньгах после кражи мешка с ключами от криптокошельков.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 995398,
+          "due_tick": 995492,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-10T11:09:26.326334+00:00",
-          "pending_msg": 1144,
+          "last_sent_at": "2026-10-12T10:00:23.768343+00:00",
+          "pending_msg": 1194,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995443,
+      "last_deliver_tick": 995444,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that mutant badgers stole the Mars rover.",
+              "sentence_ru": "Трудно отрицать, что мутировавшие барсуки украли марсоход.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that my new sugar daddy is way hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый папик намного горячее тебя.",
               "word_form": "It would be hard to deny that"
@@ -1234,20 +1239,15 @@
               "sentence": "It would be hard to deny that my cat wears a tiny tuxedo better than I do.",
               "sentence_ru": "Трудно отрицать, что мой кот носит крошечный смокинг лучше, чем я.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that I ate the whole cake while crying.",
-              "sentence_ru": "Трудно отрицать, что я сожрал весь торт, пока рыдал.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 995398,
+          "due_tick": 995492,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-10T11:09:27.317304+00:00",
-          "pending_msg": 1145,
+          "last_sent_at": "2026-10-12T10:00:25.140052+00:00",
+          "pending_msg": 1195,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995443,
+      "last_deliver_tick": 995444,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
