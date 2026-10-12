@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I stared profoundly into the abyss of my fridge, but only found sadness and expired mayo.",
+              "sentence_ru": "Я глубоко вгляделся в бездну своего холодильника, но нашел лишь грусть и просроченный майонез.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "I stared into the empty fridge and felt profoundly betrayed by my past self.",
               "sentence_ru": "Я заглянул в пустой холодильник и почувствовал себя глубоко преданным своим прошлым я.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "I was profoundly offended when this cursed vibrator broke during the first use.",
               "sentence_ru": "Я был глубоко оскорблен, когда эта проклятая штука сломалась при первом же использовании.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "Tomorrow you will be profoundly disappointed when your horoscope lies about your billionaire ex.",
-              "sentence_ru": "Завтра вы будете глубоко разочарованы, когда ваш гороскоп соврет про вашего бывшего-миллиардера.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995348,
+          "due_tick": 995487,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-09T10:00:20.618781+00:00",
-          "pending_msg": 1124,
+          "last_sent_at": "2026-10-12T07:30:02.466406+00:00",
+          "pending_msg": 1184,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995438,
+      "last_deliver_tick": 995439,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex tried to talk to me and my brain just decided to seize up completely.",
+              "sentence_ru": "Мой бывший попытался заговорить со мной, и мой мозг просто решил окончательно заклинить.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My brain tends to seize up whenever I try to read our HOA rules.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда я пытаюсь прочитать правила нашего ТСЖ.",
               "word_form": "seize up"
@@ -1521,20 +1526,15 @@
               "sentence": "The elevator doors always seize up when my neighbor tries to push them with his fat face.",
               "sentence_ru": "Двери лифта вечно заедают, когда мой сосед пытается толкать их своей жирной мордой.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "Your brain will seize up if you don't give me more salmon right now, human.",
-              "sentence_ru": "Твой мозг заклинит, если ты не дашь мне еще лосося прямо сейчас, человек.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 995347,
+          "due_tick": 995487,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-09T09:30:06.303804+00:00",
-          "pending_msg": 1123,
+          "last_sent_at": "2026-10-12T07:30:03.768249+00:00",
+          "pending_msg": 1185,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995438,
+      "last_deliver_tick": 995439,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
