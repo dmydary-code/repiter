@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy husband never lifts a finger in the house, even when a raccoon steals the TV.",
+              "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец дома, даже когда енот ворует телевизор.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "My lazy husband never lifts a finger in the house, even when our cat barfs on his face.",
               "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец по дому, даже когда наш кот блевит ему на лицо.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "If anyone who never lifts a finger in the house touches my beer again, I'll evict them.",
               "sentence_ru": "Если кто-то из тех, кто палец о палец не ударяет дома, снова прикоснется к моему пиву, я их выселю.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "My lazy husband never lifts a finger in the house, even when our cat vomits on the rug.",
-              "sentence_ru": "Мой ленивый муж никогда палец о палец не ударяет по дому, даже когда наш кот блевет на ковер.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 995391,
+          "due_tick": 995491,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-10T07:30:10.471079+00:00",
-          "pending_msg": 1130,
+          "last_sent_at": "2026-10-12T09:30:11.380504+00:00",
+          "pending_msg": 1192,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995442,
+      "last_deliver_tick": 995443,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,6 +847,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Escaping my ex by sprinting through sketchy backstreets like a gremlin high on espresso.",
+              "sentence_ru": "Убегаю от бывшего, мчась через сомнительные задворки, как обдолбанный эспрессо гремлин.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "HR had to drag my drunk ass out of the backstreets before the quarterly review.",
               "sentence_ru": "Эйчару пришлось вытаскивать мою пьяную задницу из трущоб прямо перед квартальным отчетом.",
               "word_form": "backstreets"
@@ -865,20 +870,15 @@
               "sentence": "I steal fish from the rich and eat it in dark backstreets.",
               "sentence_ru": "Я ворую рыбу у богачей и жру её в тёмных переулках.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "My naked grandma escapes the police through the dark backstreets while riding a stolen goat.",
-              "sentence_ru": "Моя голая бабуля улепётывает от полиции по темным задворкам верхом на ворованном козле.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 995391,
+          "due_tick": 995491,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-10T07:30:11.553253+00:00",
-          "pending_msg": 1131,
+          "last_sent_at": "2026-10-12T09:30:12.746038+00:00",
+          "pending_msg": 1193,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995442,
+      "last_deliver_tick": 995443,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
