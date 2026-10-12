@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of humiliation.",
+              "sentence_ru": "Написывая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл унижения.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of misery.",
               "sentence_ru": "Написывая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл страданий.",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "I keep texting you just to perpetuate this toxic mess at 3 AM.",
               "sentence_ru": "Я продолжаю писать тебе только для того, чтобы увековечить этот токсичный пиздец в 3 часа ночи.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "Tomorrow you will stupidly perpetuate your ex's cursed bloodline by adopting six feral raccoons.",
-              "sentence_ru": "Завтра ты тупо увековечишь проклятый род твоего бывшего, усыновив шесть диких енотов.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995347,
+          "due_tick": 995486,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-09T09:30:04.543679+00:00",
-          "pending_msg": 1122,
+          "last_sent_at": "2026-10-12T07:00:33.169586+00:00",
+          "pending_msg": 1182,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995407,
+      "last_deliver_tick": 995438,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mafia boss has to adjust his titanium crown after the street shootout.",
+              "sentence_ru": "Босс мафии должен поправить свою титановую корону после уличной перестрелки.",
+              "word_form": "to adjust"
+            },
+            {
               "sentence": "Trying to adjust my crown while my ex cries in the VIP section.",
               "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший рыдает в VIP-зоне.",
               "word_form": "adjust"
@@ -1398,20 +1403,15 @@
               "sentence": "Tomorrow you must adjust your astral GPS so you don't accidentally teleport into a garbage dumpster.",
               "sentence_ru": "Завтра ты должен настроить свой астральный GPS, чтобы случайно не телепортироваться в мусорный контейнер.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Trying to adjust my crown while my ex cries in the background.",
-              "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший плачет на заднем плане.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 995346,
+          "due_tick": 995486,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-09T09:00:15.993137+00:00",
-          "pending_msg": 1121,
+          "last_sent_at": "2026-10-12T07:00:45.377615+00:00",
+          "pending_msg": 1183,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995407,
+      "last_deliver_tick": 995438,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
