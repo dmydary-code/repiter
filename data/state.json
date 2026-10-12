@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He didn't mince words and told the cat its singing sounds like dying bagpipes.",
+              "sentence_ru": "Он не стал подбирать выражения и сказал коту, что его пение похоже на умирающую волынку.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "The seller didn't mince words and told me my face looked like a fried potato in reality.",
               "sentence_ru": "Продавец не стал подбирать выражения и сказал, что в реальности мое лицо похоже на жареную картошку.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "Aries won't mince words tomorrow when telling your boss his new toupee looks like a dead raccoon.",
               "sentence_ru": "Завтра Овен не станет подбирать выражения, объясняя твоему боссу, что его новый парик похож на мертвого енота.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I won't mince words: whoever keeps dumping trash in the elevator is a absolute degenerate.",
-              "sentence_ru": "Я не буду церемониться в выражениях: тот, кто продолжает сваливать мусор в лифте — абсолютный дегенерат.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995349,
+          "due_tick": 995488,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-09T10:30:09.285883+00:00",
-          "pending_msg": 1126,
+          "last_sent_at": "2026-10-12T08:00:19.999599+00:00",
+          "pending_msg": 1186,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995439,
+      "last_deliver_tick": 995440,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Time to ramp up my conspiracy theories until the neighbors start hiding.",
+              "sentence_ru": "Пора наращивать обороты моих теорий заговора, пока соседи не начали прятаться.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Time to ramp up the chaos and steal my ex's Netflix.",
               "sentence_ru": "Пора наращивать хаос и украсть Netflix у моего бывшего.",
               "word_form": "ramp up"
@@ -1562,20 +1567,15 @@
               "sentence": "I had to ramp up my ex-boyfriend stalking after he blocked me everywhere.",
               "sentence_ru": "Мне пришлось нарастить масштабы слежки за бывшим после того, как он заблокировал меня везде.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "I had to ramp up my threats to get a refund from this cursed seller.",
-              "sentence_ru": "Мне пришлось усилить свои угрозы, чтобы получить возврат денег от этого проклятого продавца.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995348,
+          "due_tick": 995488,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-09T10:00:21.826798+00:00",
-          "pending_msg": 1125,
+          "last_sent_at": "2026-10-12T08:00:29.587600+00:00",
+          "pending_msg": 1187,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995439,
+      "last_deliver_tick": 995440,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-12",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
