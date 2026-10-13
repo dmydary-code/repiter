@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I broke into your new compound just to sniff your old shampoo, psycho.",
+              "sentence_ru": "Я проник в твой новый комплекс просто чтобы понюхать твой старый шампунь, психопатка.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My ex built a secret compound for his ego, but I just stole his Wi-Fi.",
               "sentence_ru": "Мой бывший построил секретный бункер для своего эго, а я просто украла его вай-фай.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Eating expired Taco Bell didn't just ruin my night, it completely compounded my toilet issues.",
               "sentence_ru": "Поедание просроченного Тако Белл не просто испортило мне ночь, оно полностью усугубило мои проблемы с унитазом.",
               "word_form": "compounded"
-            },
-            {
-              "sentence": "Drinking cheap tequila in this corporate compound is definitely going to compound my hangover.",
-              "sentence_ru": "Пить дешёвую текилу на этой корпоративной территории точно усугубит моё похмелье.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 995438,
+          "due_tick": 995538,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-11T07:00:19.397868+00:00",
-          "pending_msg": 1156,
+          "last_sent_at": "2026-10-13T09:00:08.400186+00:00",
+          "pending_msg": 1204,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995489,
+      "last_deliver_tick": 995490,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-13",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that my sanity finally checked out and slammed the door.",
+              "sentence_ru": "Мне кажется, что мой рассудок окончательно съехал и хлопнул дверью.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that your cat is plotting a bloody coup.",
               "sentence_ru": "Мне кажется, что твой кот замышляет кровавый переворот.",
               "word_form": "It seems to me"
@@ -1316,20 +1321,15 @@
               "sentence": "It seems to me someone is frying rats in the shared kitchen again!",
               "sentence_ru": "Мне кажется, кто-то снова жарит крыс на общей кухне!",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that mutant pigeons have successfully seized the central bank.",
-              "sentence_ru": "Мне кажется, что мутировавшие голуби успешно захватили центральный банк.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 995403,
+          "due_tick": 995538,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-10T13:30:25.911661+00:00",
-          "pending_msg": 1155,
+          "last_sent_at": "2026-10-13T09:00:09.408331+00:00",
+          "pending_msg": 1205,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995489,
+      "last_deliver_tick": 995490,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-13",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
