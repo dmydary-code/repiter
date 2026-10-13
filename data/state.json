@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who keeps trying to undermine the building foundation with a plastic spoon in the chat?",
+              "sentence_ru": "Кто тут в чате опять пытается подкопать фундамент здания пластиковой ложкой?",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Your constant midnight howling is just a plot to undermine my sanity.",
               "sentence_ru": "Твой постоянный ночной вой — это просто заговор с целью подорвать мой рассудок.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Stop trying to undermine my authority just because I stole your yogurt from the fridge.",
               "sentence_ru": "Хватит пытаться подорвать мой авторитет только потому, что я украл твой йогурт из холодильника.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "You undermine my authority by serving me cheap Whiskas.",
-              "sentence_ru": "Ты подрываешь мой авторитет, подавая мне дешевый Вискас.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 995446,
+          "due_tick": 995542,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-11T11:00:08.726208+00:00",
-          "pending_msg": 1174,
+          "last_sent_at": "2026-10-13T11:00:03.806401+00:00",
+          "pending_msg": 1212,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995493,
+      "last_deliver_tick": 995494,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-13",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An unexpected influx of aggressive badgers ruined our cozy underground poker tournament.",
+              "sentence_ru": "Неожиданный наплыв агрессивных барсуков сорвал наш уютный подпольный покерный турнир.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "This sudden influx of my exes' new partners into my brain is driving me insane.",
               "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в мой мозг сводит меня с ума.",
               "word_form": "influx"
@@ -1111,20 +1116,15 @@
               "sentence": "This influx of stray cats in our kitchen is getting out of hand, human.",
               "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, двуногая.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An unexpected influx of aggressive mutant badgers forces the prime minister to wear chainmail.",
-              "sentence_ru": "Неожиданный наплыв агрессивных барсуков-мутантов заставляет премьер-министра носить кольчугу.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 995445,
+          "due_tick": 995542,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-11T10:30:11.671650+00:00",
-          "pending_msg": 1173,
+          "last_sent_at": "2026-10-13T11:00:04.936559+00:00",
+          "pending_msg": 1213,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995493,
+      "last_deliver_tick": 995494,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-13",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
