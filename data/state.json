@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The aforementioned degenerate who keeps pissing in the elevator will be fed to feral cats.",
+              "sentence_ru": "Вышеупомянутый дегенерат, который продолжает ссать в лифте, будет скормлен диким котам.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "I still look better naked than the aforementioned new boyfriend of yours, honestly.",
               "sentence_ru": "Я всё еще выгляжу голым лучше, чем твой вышеупомянутый новый парень, если честно.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I'm still drunk and I'm thinking about the aforementioned mistake we made in 2021.",
               "sentence_ru": "Я всё еще пьян и думаю о вышеупомянутой ошибке, которую мы совершили в 2021 году.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I still hear the screams of the aforementioned bastard echoing in my empty skull.",
-              "sentence_ru": "Я до сих пор слышу крики вышеупомянутого ублюдка, эхом отдающиеся в моем пустом черепе.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 995444,
+          "due_tick": 995540,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-11T10:00:12.288802+00:00",
-          "pending_msg": 1170,
+          "last_sent_at": "2026-10-13T10:00:04.544018+00:00",
+          "pending_msg": 1208,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995491,
+      "last_deliver_tick": 995492,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-13",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,6 +888,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop spreading toxic gossip in our building chat, Brenda, or I'll expose your fake Gucci!",
+              "sentence_ru": "Хватит распространять токсичные сплетни в нашем домовом чате, Бренда, а то я разоблачу твой палёный Гуччи!",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop the gossip in our chat, Zina, or I leak your secret mortgage rates!",
               "sentence_ru": "Хватит сплетничать в нашем чате, Зина, а то я сливаю твои секретные ставки по ипотеке!",
               "word_form": "gossip"
@@ -906,20 +911,15 @@
               "sentence": "Mars will force your ex to choke on fresh gossip about your wild weekend.",
               "sentence_ru": "Марс заставит твоего бывшего подавиться свежими сплетнями о твоих диких выходных.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "I know you are awake, so stop sleeping and tell me the latest gossip about our mutual ex.",
-              "sentence_ru": "Я знаю, что ты не спишь, так что хватит спать и выкладывай последние сплетни о нашем общем бывшем.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 995443,
+          "due_tick": 995540,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-11T09:51:18.943947+00:00",
-          "pending_msg": 1169,
+          "last_sent_at": "2026-10-13T10:00:05.747566+00:00",
+          "pending_msg": 1209,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995491,
+      "last_deliver_tick": 995492,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-13",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
