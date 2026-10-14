@@ -337,8 +337,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Local cats try to overthrow the mayor using heavily armed pigeons.",
-              "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью вооруженных до зубов голубей.",
+              "sentence": "I try to forget the taste of her betrayal, but it lingers like cheap tequila.",
+              "sentence_ru": "Я пытаюсь забыть вкус ее предательства, но он держится, как дешевая текила.",
               "word_form": "try"
             },
             {
@@ -363,12 +363,12 @@
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 995582,
+          "due_tick": 995586,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T07:00:25.086851+00:00",
-          "pending_msg": 1214,
+          "last_sent_at": "2026-10-14T09:25:37.067961+00:00",
+          "pending_msg": 1224,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -419,11 +419,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Own your bizarre ex-es whenever they crawl back from the digital grave tomorrow.",
-              "sentence_ru": "Отрекись от своих странных бывших всякий раз, когда они завтра вылезут из цифровой могилы.",
-              "word_form": "whenever"
-            },
-            {
               "sentence": "This cursed vacuum cleaner tries to eat my cat whenever I turn it on.",
               "sentence_ru": "Этот проклятый пылесос пытается сожрать моего кота всякий раз, когда я его включаю.",
               "word_form": "whenever"
@@ -442,15 +437,20 @@
               "sentence": "Whenever you blast techno at 3 AM, local gopniks organize a hardcore rave on the stairs.",
               "sentence_ru": "Всякий раз, когда вы включаете техно в 3 часа ночи, местные гопники устраивают хардкор-рейв на лестнице.",
               "word_form": "Whenever"
+            },
+            {
+              "sentence": "Whenever I puke on your expensive rug, you scream like a boiling kettle.",
+              "sentence_ru": "Всякий раз, когда я блевую на твой дорогой ковер, ты орешь как кипящий чайник.",
+              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995583,
+          "due_tick": 995448,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T07:30:23.085101+00:00",
-          "pending_msg": 1216,
+          "last_sent_at": "2026-10-11T12:00:13.288030+00:00",
+          "pending_msg": 1178,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -459,11 +459,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Neighbor Igor has set heart on stealing my Wi-Fi router again!",
-              "sentence_ru": "Сосед Игорь снова страстно желает украсть мой вайфай-роутер!",
-              "word_form": "has set heart on"
-            },
             {
               "sentence": "I set heart on stealing my ex's Netflix account forever.",
               "sentence_ru": "Я твердо нацелился навсегда украсть аккаунт моего бывшего в Нетфликсе.",
@@ -483,15 +478,20 @@
               "sentence": "Chaos goblin has set heart on stealing the moon and wearing it as a monocle.",
               "sentence_ru": "Гоблин-хаосит твердо нацелился украсть луну и носить ее как монокль.",
               "word_form": "set heart on"
+            },
+            {
+              "sentence": "Aries, you set your heart on stealing the neighbor's prize-winning cat, but destiny has other chaotic plans.",
+              "sentence_ru": "Овен, ты страстно желаешь украсть призового кота соседа, но у судьбы на тебя другие хаотичные планы.",
+              "word_form": "set your heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 995584,
+          "due_tick": 995449,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T08:00:16.828100+00:00",
-          "pending_msg": 1218,
+          "last_sent_at": "2026-10-11T12:30:11.233909+00:00",
+          "pending_msg": 1180,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Tomorrow you will stupidly perpetuate your ex's cursed bloodline by adopting six feral cats.",
-              "sentence_ru": "Завтра ты тупо увековечишь проклятый род твоего бывшего, усыновив шесть диких кошек.",
-              "word_form": "perpetuate"
-            },
-            {
               "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of humiliation.",
               "sentence_ru": "Написывая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл унижения.",
               "word_form": "perpetuate"
@@ -729,15 +724,20 @@
               "sentence": "Posting my third blurry mirror selfie to perpetuate my status as a local disaster.",
               "sentence_ru": "Выкладываю третье мутное селфи в зеркале, чтобы увековечить свой статус местного бедствия.",
               "word_form": "perpetuate"
+            },
+            {
+              "sentence": "I keep texting you just to perpetuate this toxic mess at 3 AM.",
+              "sentence_ru": "Я продолжаю писать тебе только для того, чтобы увековечить этот токсичный пиздец в 3 часа ночи.",
+              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995585,
+          "due_tick": 995486,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T08:30:05.282642+00:00",
-          "pending_msg": 1220,
+          "last_sent_at": "2026-10-12T07:00:33.169586+00:00",
+          "pending_msg": 1182,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -746,11 +746,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I am profoundly sorry that I traded your cat for three energy drinks.",
-              "sentence_ru": "Я глубоко сожалею, что обменял твоего кота на три энергетических напитка.",
-              "word_form": "profoundly"
-            },
             {
               "sentence": "I stared profoundly into the abyss of my fridge, but only found sadness and expired mayo.",
               "sentence_ru": "Я глубоко вгляделся в бездну своего холодильника, но нашел лишь грусть и просроченный майонез.",
@@ -770,15 +765,20 @@
               "sentence": "Chad was profoundly stupid, yet somehow he got promoted over us all.",
               "sentence_ru": "Чад был глубоко туп, но почему-то его повысили над всеми нами.",
               "word_form": "profoundly"
+            },
+            {
+              "sentence": "I was profoundly offended when this cursed vibrator broke during the first use.",
+              "sentence_ru": "Я был глубоко оскорблен, когда эта проклятая штука сломалась при первом же использовании.",
+              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995586,
+          "due_tick": 995487,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T09:00:19.715039+00:00",
-          "pending_msg": 1222,
+          "last_sent_at": "2026-10-12T07:30:02.466406+00:00",
+          "pending_msg": 1184,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -792,7 +792,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 5,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,8 +1134,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Neighbor's dog barks now and then, driving me totally insane at 3 AM.",
-              "sentence_ru": "Соседская собака лает время от времени, сводя меня с ума в 3 часа ночи.",
+              "sentence": "Dear neighbors, the ghost in the elevator screams now and then, please do not feed it.",
+              "sentence_ru": "Дорогие соседи, привидение в лифте время от времени орет, пожалуйста, не кормите его.",
               "word_form": "now and then"
             },
             {
@@ -1160,12 +1160,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995582,
+          "due_tick": 995586,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-14T07:00:26.601613+00:00",
-          "pending_msg": 1215,
+          "last_sent_at": "2026-10-14T09:25:38.242613+00:00",
+          "pending_msg": 1225,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1174,11 +1174,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "By and large, our marketing department is just a group of people drinking cold brew and crying.",
-              "sentence_ru": "В общем и целом, наш отдел маркетинга — это просто куча людей, пьющих холодный кофе и плачущих.",
-              "word_form": "By and large"
-            },
             {
               "sentence": "By and large, my life is a tragicomedy written by a drunk and vengeful god.",
               "sentence_ru": "В целом, моя жизнь — это трагикомедия, написанная пьяным и мстительным богом.",
@@ -1198,15 +1193,20 @@
               "sentence": "By and large, our neighbors are freaks who throw trash right from their balconies.",
               "sentence_ru": "В целом, наши соседи — уроды, которые кидают мусор прямо с балконов.",
               "word_form": "By and large"
+            },
+            {
+              "sentence": "By and large, human, your pathetic attempts at cooking this steak are acceptable.",
+              "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки приготовить этот стейк сойдут.",
+              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 995583,
+          "due_tick": 995447,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-14T07:30:29.445575+00:00",
-          "pending_msg": 1217,
+          "last_sent_at": "2026-10-11T11:30:41.703725+00:00",
+          "pending_msg": 1177,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1339,11 +1339,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I'm inclined to think that my toaster is plotting a violent coup with the microwave.",
-              "sentence_ru": "Я склоняюсь к мысли, что мой тостер замышляет жестокий переворот вместе с микроволновкой.",
-              "word_form": "I'm inclined to think that"
-            },
-            {
               "sentence": "I'm inclined to think that whoever keeps drilling at 3 AM hates all of us.",
               "sentence_ru": "Я склонен думать, что тот, кто продолжает сверлить в 3 часа ночи, ненавидит всех нас.",
               "word_form": "I'm inclined to think that"
@@ -1362,15 +1357,20 @@
               "sentence": "I'm inclined to think that my cat is plotting a brutal murder while I sleep.",
               "sentence_ru": "Я склонен думать, что мой кот планирует жестокое убийство, пока я сплю.",
               "word_form": "I'm inclined to think that"
+            },
+            {
+              "sentence": "I'm inclined to think that you bought this cheap fish just to spite me.",
+              "sentence_ru": "Я склонен думать, что ты купила эту дешевую рыбу просто назло мне.",
+              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995584,
+          "due_tick": 995448,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-14T08:00:18.355150+00:00",
-          "pending_msg": 1219,
+          "last_sent_at": "2026-10-11T12:00:14.451128+00:00",
+          "pending_msg": 1179,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1379,11 +1379,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Could you please adjust your heavy bass before my ceiling collapses on my head?",
-              "sentence_ru": "Не могли бы вы отрегулировать свои басы, пока мне на голову не рухнул потолок?",
-              "word_form": "adjust"
-            },
             {
               "sentence": "Mafia boss has to adjust his titanium crown after the street shootout.",
               "sentence_ru": "Босс мафии должен поправить свою титановую корону после уличной перестрелки.",
@@ -1403,15 +1398,20 @@
               "sentence": "I had to adjust the office webcam so nobody could see me sleeping.",
               "sentence_ru": "Мне пришлось настроить офисную веб-камеру, чтобы никто не видел, как я сплю.",
               "word_form": "adjust"
+            },
+            {
+              "sentence": "Tomorrow you must adjust your astral GPS so you don't accidentally teleport into a garbage dumpster.",
+              "sentence_ru": "Завтра ты должен настроить свой астральный GPS, чтобы случайно не телепортироваться в мусорный контейнер.",
+              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 995586,
+          "due_tick": 995486,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-14T09:00:21.029279+00:00",
-          "pending_msg": 1223,
+          "last_sent_at": "2026-10-12T07:00:45.377615+00:00",
+          "pending_msg": 1183,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1420,11 +1420,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "We are altogether losing our minds in this cubicle hellhole.",
-              "sentence_ru": "Мы тут совсем сходим с ума в этом офисном аду.",
-              "word_form": "altogether"
-            },
             {
               "sentence": "My sanity didn't fracture slowly; it shattered altogether the moment she ordered pineapple pizza.",
               "sentence_ru": "Мой рассудок трещал не медленно — он рухнул окончательно в тот момент, когда она заказала пиццу с ананасами.",
@@ -1444,15 +1439,20 @@
               "sentence": "Your expensive leather sofa is altogether ruined, human, and I refuse to feel sorry.",
               "sentence_ru": "Твой дорогой кожаный диван совсем испорчен, кожаный, и я отказываюсь чувствовать вину.",
               "word_form": "altogether"
+            },
+            {
+              "sentence": "We lost our dignity, our clothes, and our minds altogether at the corporate party.",
+              "sentence_ru": "Мы потеряли достоинство, одежду и рассудок в придачу на корпоративе.",
+              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 995585,
+          "due_tick": 995449,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-14T08:30:06.734847+00:00",
-          "pending_msg": 1221,
+          "last_sent_at": "2026-10-11T12:30:12.283551+00:00",
+          "pending_msg": 1181,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1630,7 +1630,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 5,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
