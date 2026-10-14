@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He didn't mince words when his cat tried to sell his kidney on eBay.",
+              "sentence_ru": "Он не стал подбирать выражения, когда его кот попытался продать его почку на eBay.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "He didn't mince words and told the cat its singing sounds like dying bagpipes.",
               "sentence_ru": "Он не стал подбирать выражения и сказал коту, что его пение похоже на умирающую волынку.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I won't mince words tonight, while I shove this truth down their hypocritical throats.",
               "sentence_ru": "Сегодня я не буду подбирать выражения, запихивая эту правду в их лицемерные глотки.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "Aries won't mince words tomorrow when telling your boss his new toupee looks like a dead raccoon.",
-              "sentence_ru": "Завтра Овен не станет подбирать выражения, объясняя твоему боссу, что его новый парик похож на мертвого енота.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995488,
+          "due_tick": 995591,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-12T08:00:19.999599+00:00",
-          "pending_msg": 1186,
+          "last_sent_at": "2026-10-14T11:30:01.861595+00:00",
+          "pending_msg": 1234,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995542,
+      "last_deliver_tick": 995543,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cheap blender started smoking and decided to seize up right during my protein shake.",
+              "sentence_ru": "Мой дешёвый блендер задымился и решил заклинить прямо во время моего протеинового шейка.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My ex tried to talk to me and my brain just decided to seize up completely.",
               "sentence_ru": "Мой бывший попытался заговорить со мной, и мой мозг просто решил окончательно заклинить.",
               "word_form": "seize up"
@@ -1521,20 +1526,15 @@
               "sentence": "My grandpa tried to twerk at the wedding, and his knees suddenly seized up.",
               "sentence_ru": "Мой дедушка попытался тверкнуть на свадьбе, и его колени внезапно заклинило.",
               "word_form": "seized up"
-            },
-            {
-              "sentence": "The elevator doors always seize up when my neighbor tries to push them with his fat face.",
-              "sentence_ru": "Двери лифта вечно заедают, когда мой сосед пытается толкать их своей жирной мордой.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 995487,
+          "due_tick": 995591,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-12T07:30:03.768249+00:00",
-          "pending_msg": 1185,
+          "last_sent_at": "2026-10-14T11:30:03.019875+00:00",
+          "pending_msg": 1235,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995542,
+      "last_deliver_tick": 995543,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
