@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local cats try to overthrow the mayor using heavily armed pigeons.",
+              "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью вооруженных до зубов голубей.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Don't even try to hide the good fish behind your back, human.",
               "sentence_ru": "Даже не пытайся спрятать хорошую рыбу за спиной, кожаная.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "I tried to cook this disgusting soup, but even my cat refused to lick the bowl.",
               "sentence_ru": "Я попытался приготовить этот отвратительный суп, но даже мой кот отказался лизать миску.",
               "word_form": "tried"
-            },
-            {
-              "sentence": "If you try to glue your trash to my door again, I will superglue your eyes.",
-              "sentence_ru": "Если вы попытаетесь снова приклеить свой мусор к моей двери, я суперклеем залеплю вам глаза.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 995447,
+          "due_tick": 995582,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-11T11:30:15.586774+00:00",
-          "pending_msg": 1176,
+          "last_sent_at": "2026-10-14T07:00:25.086851+00:00",
+          "pending_msg": 1214,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995504,
+      "last_deliver_tick": 995534,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Neighbor's dog barks now and then, driving me totally insane at 3 AM.",
+              "sentence_ru": "Соседская собака лает время от времени, сводя меня с ума в 3 часа ночи.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Mutated stray cats steal nuclear launch codes now and then.",
               "sentence_ru": "Мутировавшие бродячие коты время от времени крадут коды ядерного запуска.",
               "word_form": "now and then"
@@ -1152,20 +1157,15 @@
               "sentence": "Chad cries in the supply closet now and then, but his spreadsheets are still garbage.",
               "sentence_ru": "Чэд время от времени плачет в подсобке, но его таблички всё равно полное дерьмо.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "My ex's ghost haunts my kitchen now and then, judging my burnt midnight toast.",
-              "sentence_ru": "Призрак моей бывшей время от времени преследует мою кухню, осуждая мои подгоревшие полуночные тосты.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995446,
+          "due_tick": 995582,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-11T11:00:10.274173+00:00",
-          "pending_msg": 1175,
+          "last_sent_at": "2026-10-14T07:00:26.601613+00:00",
+          "pending_msg": 1215,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995504,
+      "last_deliver_tick": 995534,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
