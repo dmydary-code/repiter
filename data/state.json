@@ -91,11 +91,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Chad is slightly on fire, but let us finish this quarterly report first.",
-              "sentence_ru": "Чад слегка горит, но давайте сначала закончим этот квартальный отчет.",
-              "word_form": "slightly"
-            },
-            {
               "sentence": "The inflatable dinosaur was slightly on fire, but my kids loved the warmth.",
               "sentence_ru": "Надувной динозавр слегка горел, но моим детям очень понравилось тепло.",
               "word_form": "slightly"
@@ -114,15 +109,20 @@
               "sentence": "My sanity was slightly compromised the moment she started singing opera in the burning elevator.",
               "sentence_ru": "Мой рассудок был слегка нарушен в тот момент, когда она запела оперу в горящем лифте.",
               "word_form": "slightly"
+            },
+            {
+              "sentence": "I am slightly outside your window and I brought a dead fish.",
+              "sentence_ru": "Я слегка за твоим окном и я принес мертвую рыбу.",
+              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 995592,
+          "due_tick": 995489,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-14T12:00:07.845517+00:00",
-          "pending_msg": 1236,
+          "last_sent_at": "2026-10-12T08:30:12.711608+00:00",
+          "pending_msg": 1188,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -501,11 +501,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "He didn't mince words when his cat tried to sell his kidney on eBay.",
-              "sentence_ru": "Он не стал подбирать выражения, когда его кот попытался продать его почку на eBay.",
-              "word_form": "mince words"
-            },
-            {
               "sentence": "He didn't mince words and told the cat its singing sounds like dying bagpipes.",
               "sentence_ru": "Он не стал подбирать выражения и сказал коту, что его пение похоже на умирающую волынку.",
               "word_form": "mince words"
@@ -524,15 +519,20 @@
               "sentence": "I won't mince words tonight, while I shove this truth down their hypocritical throats.",
               "sentence_ru": "Сегодня я не буду подбирать выражения, запихивая эту правду в их лицемерные глотки.",
               "word_form": "mince words"
+            },
+            {
+              "sentence": "Aries won't mince words tomorrow when telling your boss his new toupee looks like a dead raccoon.",
+              "sentence_ru": "Завтра Овен не станет подбирать выражения, объясняя твоему боссу, что его новый парик похож на мертвого енота.",
+              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995591,
+          "due_tick": 995488,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T11:30:01.861595+00:00",
-          "pending_msg": 1234,
+          "last_sent_at": "2026-10-12T08:00:19.999599+00:00",
+          "pending_msg": 1186,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -541,11 +541,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I swore to destroy my nemesis, but we hit it off and now we burn cities together.",
-              "sentence_ru": "Я поклялся уничтожить своего врага, но мы сразу сошлись, и теперь мы вместе сжигаем города.",
-              "word_form": "hit it off"
-            },
             {
               "sentence": "Me and my cellmate hit it off the second we both stole the same guard's Taser.",
               "sentence_ru": "Я и мой сокамерник сразу подружились, как только оба сперли электрошокер у одного надзирателя.",
@@ -565,15 +560,20 @@
               "sentence": "Me and the stray raccoon hit it off right away, so I invited him to live in your wardrobe.",
               "sentence_ru": "Мы с бродячим енотом сразу нашли общий язык, поэтому я пригласил его пожить в твоем шкафу.",
               "word_form": "hit it off"
+            },
+            {
+              "sentence": "My cat and the serial killer hiding in my closet totally hit it off immediately.",
+              "sentence_ru": "Мой кот и серийный убийца, прячущийся в шкафу, сразу же нашли общий язык.",
+              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 995593,
+          "due_tick": 995490,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T12:30:13.810464+00:00",
-          "pending_msg": 1238,
+          "last_sent_at": "2026-10-12T09:21:38.140083+00:00",
+          "pending_msg": 1190,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -747,8 +747,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My cat looked profoundly disappointed when I served dry kibble instead of actual caviar.",
-              "sentence_ru": "Мой кот выглядел глубоко разочарованным, когда я подал сухой корм вместо настоящей икры.",
+              "sentence": "I am profoundly sorry that I blocked you while riding a lime scooter naked.",
+              "sentence_ru": "Я глубоко сожалею, что заблокировал тебя, пока голым катался на самокате.",
               "word_form": "profoundly"
             },
             {
@@ -773,12 +773,12 @@
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995590,
+          "due_tick": 995598,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T11:00:26.105503+00:00",
-          "pending_msg": 1232,
+          "last_sent_at": "2026-10-14T15:06:49.885812+00:00",
+          "pending_msg": 1240,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -792,7 +792,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 8,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,8 +1380,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I had to adjust the camera angle to capture my ex crying properly.",
-              "sentence_ru": "Мне пришлось настроить угол камеры, чтобы нормально запечатлеть плач моего бывшего.",
+              "sentence": "Mutants had to adjust their laser eyes after the Sun suddenly turned pink.",
+              "sentence_ru": "Мутантам пришлось настроить свои лазерные глаза после того, как Солнце внезапно стало розовым.",
               "word_form": "adjust"
             },
             {
@@ -1406,12 +1406,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 995590,
+          "due_tick": 995598,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-14T11:00:27.038736+00:00",
-          "pending_msg": 1233,
+          "last_sent_at": "2026-10-14T15:06:51.160558+00:00",
+          "pending_msg": 1241,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1503,11 +1503,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My cheap blender started smoking and decided to seize up right during my protein shake.",
-              "sentence_ru": "Мой дешёвый блендер задымился и решил заклинить прямо во время моего протеинового шейка.",
-              "word_form": "seize up"
-            },
-            {
               "sentence": "My ex tried to talk to me and my brain just decided to seize up completely.",
               "sentence_ru": "Мой бывший попытался заговорить со мной, и мой мозг просто решил окончательно заклинить.",
               "word_form": "seize up"
@@ -1526,15 +1521,20 @@
               "sentence": "My grandpa tried to twerk at the wedding, and his knees suddenly seized up.",
               "sentence_ru": "Мой дедушка попытался тверкнуть на свадьбе, и его колени внезапно заклинило.",
               "word_form": "seized up"
+            },
+            {
+              "sentence": "The elevator doors always seize up when my neighbor tries to push them with his fat face.",
+              "sentence_ru": "Двери лифта вечно заедают, когда мой сосед пытается толкать их своей жирной мордой.",
+              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 995591,
+          "due_tick": 995487,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-14T11:30:03.019875+00:00",
-          "pending_msg": 1235,
+          "last_sent_at": "2026-10-12T07:30:03.768249+00:00",
+          "pending_msg": 1185,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1543,11 +1543,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Aries, ramp up your chaos tomorrow by stealing all neighborhood gnomes at midnight.",
-              "sentence_ru": "Овны, наращивайте свой хаос завтра, украв всех садовых гномов на районе в полночь.",
-              "word_form": "ramp up"
-            },
             {
               "sentence": "Time to ramp up my conspiracy theories until the neighbors start hiding.",
               "sentence_ru": "Пора наращивать обороты моих теорий заговора, пока соседи не начали прятаться.",
@@ -1567,15 +1562,20 @@
               "sentence": "Neighbors, please ramp up your music volume, my insomnia isn't terminal yet!",
               "sentence_ru": "Соседи, пожалуйста, врубите музыку погромче, моя бессонница еще не смертельна!",
               "word_form": "ramp up"
+            },
+            {
+              "sentence": "I had to ramp up my ex-boyfriend stalking after he blocked me everywhere.",
+              "sentence_ru": "Мне пришлось нарастить масштабы слежки за бывшим после того, как он заблокировал меня везде.",
+              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995592,
+          "due_tick": 995488,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-14T12:00:15.489145+00:00",
-          "pending_msg": 1237,
+          "last_sent_at": "2026-10-12T08:00:29.587600+00:00",
+          "pending_msg": 1187,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1584,11 +1584,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Mars will force you to impose your weird vegan diet on your terrified boss tomorrow.",
-              "sentence_ru": "Завтра Марс заставит тебя навязать твою странную веганскую диету твоему испуганному боссу.",
-              "word_form": "impose"
-            },
             {
               "sentence": "My cat decided to impose a strict tax on all mice in the living room.",
               "sentence_ru": "Мой кот решил навязывать строгий налог на всех мышей в гостиной.",
@@ -1608,15 +1603,20 @@
               "sentence": "Mars will impose a strict tax on your ex's new pathetic hairstyle.",
               "sentence_ru": "Марс навяжет строгий налог на новую жалкую прическу твоего бывшего.",
               "word_form": "impose"
+            },
+            {
+              "sentence": "I didn't mean to impose by showing up at your window at 3 AM with tequila.",
+              "sentence_ru": "Я не хотел навязываться, заявляясь к тебе под окно в 3 ночи с текилой.",
+              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 995593,
+          "due_tick": 995489,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-14T12:30:15.537381+00:00",
-          "pending_msg": 1239,
+          "last_sent_at": "2026-10-12T08:30:13.881188+00:00",
+          "pending_msg": 1189,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1630,7 +1630,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 8,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
