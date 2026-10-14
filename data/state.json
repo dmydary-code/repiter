@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My toaster is slightly possessed and demands fresh blood every Tuesday.",
+              "sentence_ru": "Мой тостер слегка одержим и требует свежей крови каждый вторник.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "The inflatable dinosaur was slightly on fire, but my kids loved the warmth.",
               "sentence_ru": "Надувной динозавр слегка горел, но моим детям очень понравилось тепло.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "My sanity was slightly compromised the moment she started singing opera in the burning elevator.",
               "sentence_ru": "Мой рассудок был слегка нарушен в тот момент, когда она запела оперу в горящем лифте.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "I am slightly outside your window and I brought a dead fish.",
-              "sentence_ru": "Я слегка за твоим окном и я принес мертвую рыбу.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 995489,
+          "due_tick": 995600,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-12T08:30:12.711608+00:00",
-          "pending_msg": 1188,
+          "last_sent_at": "2026-10-14T16:00:10.606293+00:00",
+          "pending_msg": 1244,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995551,
+      "last_deliver_tick": 995552,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, ramp up my wet food production or I will shit in your Gucci boots.",
+              "sentence_ru": "Человек, наращивай производство моего влажного корма, или я нагажу в твои туфли Gucci.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Time to ramp up my conspiracy theories until the neighbors start hiding.",
               "sentence_ru": "Пора наращивать обороты моих теорий заговора, пока соседи не начали прятаться.",
               "word_form": "ramp up"
@@ -1562,20 +1567,15 @@
               "sentence": "Neighbors, please ramp up your music volume, my insomnia isn't terminal yet!",
               "sentence_ru": "Соседи, пожалуйста, врубите музыку погромче, моя бессонница еще не смертельна!",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "I had to ramp up my ex-boyfriend stalking after he blocked me everywhere.",
-              "sentence_ru": "Мне пришлось нарастить масштабы слежки за бывшим после того, как он заблокировал меня везде.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995488,
+          "due_tick": 995600,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-12T08:00:29.587600+00:00",
-          "pending_msg": 1187,
+          "last_sent_at": "2026-10-14T16:00:11.776501+00:00",
+          "pending_msg": 1245,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995551,
+      "last_deliver_tick": 995552,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
