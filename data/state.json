@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad cries in the supply closet whenever the printer looks at him wrong.",
+              "sentence_ru": "Чад плачет в подсобке всякий раз, когда принтер косо на него смотрит.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "This cursed vacuum cleaner tries to eat my cat whenever I turn it on.",
               "sentence_ru": "Этот проклятый пылесос пытается сожрать моего кота всякий раз, когда я его включаю.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever you blast techno at 3 AM, local gopniks organize a hardcore rave on the stairs.",
               "sentence_ru": "Всякий раз, когда вы включаете техно в 3 часа ночи, местные гопники устраивают хардкор-рейв на лестнице.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "Whenever I puke on your expensive rug, you scream like a boiling kettle.",
-              "sentence_ru": "Всякий раз, когда я блевую на твой дорогой ковер, ты орешь как кипящий чайник.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995448,
+          "due_tick": 995587,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-11T12:00:13.288030+00:00",
-          "pending_msg": 1178,
+          "last_sent_at": "2026-10-14T09:30:19.294402+00:00",
+          "pending_msg": 1226,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995538,
+      "last_deliver_tick": 995539,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, mutant raccoons voted to ban pants across the entire galaxy.",
+              "sentence_ru": "В общем и целом, мутировавшие еноты проголосовали за запрет штанов по всей галактике.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, my life is a tragicomedy written by a drunk and vengeful god.",
               "sentence_ru": "В целом, моя жизнь — это трагикомедия, написанная пьяным и мстительным богом.",
               "word_form": "By and large"
@@ -1193,20 +1198,15 @@
               "sentence": "By and large, our neighbors are freaks who throw trash right from their balconies.",
               "sentence_ru": "В целом, наши соседи — уроды, которые кидают мусор прямо с балконов.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, human, your pathetic attempts at cooking this steak are acceptable.",
-              "sentence_ru": "В общем и целом, двуногая, твои жалкие попытки приготовить этот стейк сойдут.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 995447,
+          "due_tick": 995587,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-11T11:30:41.703725+00:00",
-          "pending_msg": 1177,
+          "last_sent_at": "2026-10-14T09:30:20.325177+00:00",
+          "pending_msg": 1227,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995538,
+      "last_deliver_tick": 995539,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-14",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
