@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow Taurus finally lifts a finger in the house, causing immediate panic among the dust bunnies.",
+              "sentence_ru": "Завтра Телец наконец ударит палец о палец по дому, вызвав панику среди пылевых кроликов.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "My lazy husband never lifts a finger in the house, even when a raccoon steals the TV.",
               "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец дома, даже когда енот ворует телевизор.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "He never lifts a finger in the house, while I drown in this domestic abyss.",
               "sentence_ru": "Он палец о палец не ударяет дома, пока я тону в этой бытовой бездне.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "If anyone who never lifts a finger in the house touches my beer again, I'll evict them.",
-              "sentence_ru": "Если кто-то из тех, кто палец о палец не ударяет дома, снова прикоснется к моему пиву, я их выселю.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 995491,
+          "due_tick": 995630,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-12T09:30:11.380504+00:00",
-          "pending_msg": 1192,
+          "last_sent_at": "2026-10-15T07:00:25.207686+00:00",
+          "pending_msg": 1248,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995553,
+      "last_deliver_tick": 995582,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that your expensive shoes are my personal toilet.",
+              "sentence_ru": "Я придерживаюсь мнения, что твои дорогие туфли — мой личный туалет.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that this cursed cat toy is possessed by Satan himself.",
               "sentence_ru": "Я придерживаюсь мнения, что эта проклятая кошачья игрушка одержима самим Сатаной.",
               "word_form": "I hold the view that"
@@ -1275,20 +1280,15 @@
               "sentence": "I hold the view that cyborg pigeons are secretly plotting global domination from power lines.",
               "sentence_ru": "Я придерживаюсь мнения, что голуби-киборги тайно замышляют мировое господство с высоковольтных проводов.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that this cursed cat toy is possessed by demons.",
-              "sentence_ru": "Я придерживаюсь мнения, что эта проклятая игрушка для кота одержима демонами.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995490,
+          "due_tick": 995630,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-12T09:21:39.515192+00:00",
-          "pending_msg": 1191,
+          "last_sent_at": "2026-10-15T07:00:26.314703+00:00",
+          "pending_msg": 1249,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995553,
+      "last_deliver_tick": 995582,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
