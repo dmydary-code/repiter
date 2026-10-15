@@ -378,11 +378,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My cat acquired a taste for expensive Scotch after drinking from my crystal glass.",
-              "sentence_ru": "Мой кот приобрел вкус к дорогому шотландскому виски после того, как попил из моего хрустального бокала.",
-              "word_form": "acquired"
-            },
-            {
               "sentence": "Local billionaire acquired a sentient toupee that demands daily human sacrifices.",
               "sentence_ru": "Местный миллиардер приобрел разумный парик, который требует ежедневных человеческих жертвоприношений.",
               "word_form": "acquired"
@@ -401,15 +396,20 @@
               "sentence": "That acquired taste for loud bass at 3 AM must be evicted immediately.",
               "sentence_ru": "Эту приобретенную привычку слушать громкий бас в 3 часа ночи нужно срочно выселить.",
               "word_form": "acquired"
+            },
+            {
+              "sentence": "He got fired after stealing an acquired coffee machine from the breakroom.",
+              "sentence_ru": "Его уволили после того, как он украл приобретенную кофемашину из комнаты отдыха.",
+              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995632,
+          "due_tick": 995493,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-15T08:00:11.036295+00:00",
-          "pending_msg": 1252,
+          "last_sent_at": "2026-10-12T10:30:12.571184+00:00",
+          "pending_msg": 1196,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -583,8 +583,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Tomorrow Taurus finally lifts a finger in the house, causing immediate panic among the dust bunnies.",
-              "sentence_ru": "Завтра Телец наконец ударит палец о палец по дому, вызвав панику среди пылевых кроликов.",
+              "sentence": "My lazy husband never lifts a finger in the house, while I drown in endless chaos.",
+              "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец по дому, пока я тону в бесконечном хаосе.",
               "word_form": "lifts a finger in the house"
             },
             {
@@ -609,12 +609,12 @@
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 995630,
+          "due_tick": 995632,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-15T07:00:25.207686+00:00",
-          "pending_msg": 1248,
+          "last_sent_at": "2026-10-15T08:07:15.245856+00:00",
+          "pending_msg": 1254,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -623,11 +623,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Bought this solid gold toilet brush because I am officially rolling in money now.",
-              "sentence_ru": "Купил этот ершик для унитаза из чистого золота, потому что я теперь официально купаюсь в деньгах.",
-              "word_form": "rolling in money"
-            },
             {
               "sentence": "Aries, tomorrow you will be rolling in money after robbing a casino.",
               "sentence_ru": "Овен, завтра ты будешь купаться в деньгах после ограбления казино.",
@@ -647,15 +642,20 @@
               "sentence": "My ex said I'd never make it, now I'm rolling in money and buying islands.",
               "sentence_ru": "Мой бывший говорил, что я ничего не добьюсь, а теперь я купаюсь в деньгах и скупаю острова.",
               "word_form": "rolling in money"
+            },
+            {
+              "sentence": "Our boss is rolling in money, yet we still use staplers from the last century.",
+              "sentence_ru": "Наш босс купается в деньгах, но мы до сих пор пользуемся степлерами прошлого века.",
+              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 995631,
+          "due_tick": 995492,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-15T07:30:27.010006+00:00",
-          "pending_msg": 1250,
+          "last_sent_at": "2026-10-12T10:00:23.768343+00:00",
+          "pending_msg": 1194,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -792,7 +792,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 3,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -847,11 +847,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Stop dumping your weird broken furniture in the backstreets, we have cameras now!",
-              "sentence_ru": "Хватит сваливать свою странную сломанную мебель по задворкам, у нас теперь камеры!",
-              "word_form": "backstreets"
-            },
-            {
               "sentence": "Escaping my ex by sprinting through sketchy backstreets like a gremlin high on espresso.",
               "sentence_ru": "Убегаю от бывшего, мчась через сомнительные задворки, как обдолбанный эспрессо гремлин.",
               "word_form": "backstreets"
@@ -870,15 +865,20 @@
               "sentence": "Lost my dignity and my last brain cells chasing a sketchy dealer through the dark backstreets.",
               "sentence_ru": "Потерял своё достоинство и последние мозговые клетки, гоняясь за сомнительным дилером по тёмным задворкам.",
               "word_form": "backstreets"
+            },
+            {
+              "sentence": "I steal fish from the rich and eat it in dark backstreets.",
+              "sentence_ru": "Я ворую рыбу у богачей и жру её в тёмных переулках.",
+              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 995631,
+          "due_tick": 995491,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-15T07:30:30.543675+00:00",
-          "pending_msg": 1251,
+          "last_sent_at": "2026-10-12T09:30:12.746038+00:00",
+          "pending_msg": 1193,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1216,11 +1216,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It would be hard to deny that my new partner is way hotter than you.",
-              "sentence_ru": "Трудно отрицать, что моя новая пассия намного горячее тебя.",
-              "word_form": "It would be hard to deny that"
-            },
-            {
               "sentence": "It would be hard to deny that mutant badgers stole the Mars rover.",
               "sentence_ru": "Трудно отрицать, что мутировавшие барсуки украли марсоход.",
               "word_form": "It would be hard to deny that"
@@ -1239,15 +1234,20 @@
               "sentence": "It would be hard to deny that Satan makes a surprisingly delicious vegan lasagna.",
               "sentence_ru": "Трудно отрицать, что Сатана готовит удивительно вкусную веганскую лазанью.",
               "word_form": "It would be hard to deny that"
+            },
+            {
+              "sentence": "It would be hard to deny that my cat wears a tiny tuxedo better than I do.",
+              "sentence_ru": "Трудно отрицать, что мой кот носит крошечный смокинг лучше, чем я.",
+              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 995632,
+          "due_tick": 995492,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-15T08:00:15.429914+00:00",
-          "pending_msg": 1253,
+          "last_sent_at": "2026-10-12T10:00:25.140052+00:00",
+          "pending_msg": 1195,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1257,8 +1257,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I hold the view that your expensive shoes are my personal toilet.",
-              "sentence_ru": "Я придерживаюсь мнения, что твои дорогие туфли — мой личный туалет.",
+              "sentence": "I hold the view that talking dolphins should pay taxes on their stolen fish.",
+              "sentence_ru": "Я придерживаюсь мнения, что говорящие дельфины должны платить налоги с украденной рыбы.",
               "word_form": "I hold the view that"
             },
             {
@@ -1283,12 +1283,12 @@
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995630,
+          "due_tick": 995632,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-15T07:00:26.314703+00:00",
-          "pending_msg": 1249,
+          "last_sent_at": "2026-10-15T08:07:16.675047+00:00",
+          "pending_msg": 1255,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1630,7 +1630,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 3,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
