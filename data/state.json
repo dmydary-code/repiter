@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen will devastate our entire department if someone touches her precious organic yogurt.",
+              "sentence_ru": "Карен разнесет весь наш отдел, если кто-то тронет ее драгоценный органический йогурт.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "My ex tried to devastate me, but I just bought a pony instead.",
               "sentence_ru": "Мой бывший пытался меня уничтожить, но я просто купила пони.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Mutant raccoons devastate the city's entire whiskey reserve in one wild night.",
               "sentence_ru": "Еноты-мутанты опустошают весь запас виски города за одну дикую ночь.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "Your wild party will devastate this lobby, and I will personally fine every single degenerate.",
-              "sentence_ru": "Ваша дикая вечеринка разнесет это лобби, и я лично оштрафую каждого ублюдка.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 995539,
+          "due_tick": 995639,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-13T09:30:06.744719+00:00",
-          "pending_msg": 1206,
+          "last_sent_at": "2026-10-15T11:30:06.183057+00:00",
+          "pending_msg": 1268,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995590,
+      "last_deliver_tick": 995591,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me someone is frying stray cats in our elevator again!",
+              "sentence_ru": "Мне кажется, кто-то снова жарит бродячих кошек в нашем лифте!",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that my sanity finally checked out and slammed the door.",
               "sentence_ru": "Мне кажется, что мой рассудок окончательно съехал и хлопнул дверью.",
               "word_form": "It seems to me"
@@ -1316,20 +1321,15 @@
               "sentence": "It seems to me that Greg is stealing printer ink to dye his weird beard.",
               "sentence_ru": "Мне кажется, что Грег ворует чернила для принтера, чтобы покрасить свою странную бороду.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me someone is frying rats in the shared kitchen again!",
-              "sentence_ru": "Мне кажется, кто-то снова жарит крыс на общей кухне!",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 995538,
+          "due_tick": 995639,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-13T09:00:09.408331+00:00",
-          "pending_msg": 1205,
+          "last_sent_at": "2026-10-15T11:30:07.406209+00:00",
+          "pending_msg": 1269,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995590,
+      "last_deliver_tick": 995591,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
