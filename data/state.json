@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-10-15",
-  "offset": 71487651,
+  "offset": 71487652,
   "users": {
     "1090554427": {
       "cards": [
@@ -783,16 +783,46 @@
           "step": 0,
           "word": "profoundly",
           "word_ru": "глубоко, основательно, крайне"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "That rat poison brand paid for celebrity endorsement, and now even pop stars eat poison.",
+              "sentence_ru": "Тот бренд крысиного яда заплатил за поддержку селебрити, и теперь даже поп-звёзды жрут яд.",
+              "word_form": "celebrity endorsement"
+            },
+            {
+              "sentence": "My ex ruined my life, but a cheap celebrity endorsement from a TikToker saved my business.",
+              "sentence_ru": "Моя бывшая разрушила мою жизнь, но дешёвая рекламная интеграция от тиктокера спасла мой бизнес.",
+              "word_form": "celebrity endorsement"
+            },
+            {
+              "sentence": "Even Satan uses celebrity endorsement to make hell look like an all-inclusive five-star resort.",
+              "sentence_ru": "Даже Сатана использует поддержку знаменитостей, чтобы ад выглядел как пятизвёздочный курорт всё включено.",
+              "word_form": "celebrity endorsement"
+            }
+          ],
+          "created_at": "2026-10-15T21:52:19.675963+00:00",
+          "due_tick": 995613,
+          "id": "95a7fd961e",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "celebrity endorsement",
+          "word_ru": "поддержка знаменитостей, рекламная интеграция с селебрити"
         }
       ],
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995605,
+      "last_deliver_tick": 995595,
       "max_per_day": 8,
       "paused": false,
-      "sent_date": "2026-10-15",
-      "sent_today": 8,
+      "sent_date": "2026-10-16",
+      "sent_today": 0,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1626,11 +1656,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995605,
+      "last_deliver_tick": 995595,
       "max_per_day": 8,
       "paused": false,
-      "sent_date": "2026-10-15",
-      "sent_today": 8,
+      "sent_date": "2026-10-16",
+      "sent_today": 0,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
