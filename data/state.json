@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat acquired a taste for expensive Scotch after drinking from my crystal glass.",
+              "sentence_ru": "Мой кот приобрел вкус к дорогому шотландскому виски после того, как попил из моего хрустального бокала.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Local billionaire acquired a sentient toupee that demands daily human sacrifices.",
               "sentence_ru": "Местный миллиардер приобрел разумный парик, который требует ежедневных человеческих жертвоприношений.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That acquired taste for loud bass at 3 AM must be evicted immediately.",
               "sentence_ru": "Эту приобретенную привычку слушать громкий бас в 3 часа ночи нужно срочно выселить.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "He got fired after stealing an acquired coffee machine from the breakroom.",
-              "sentence_ru": "Его уволили после того, как он украл приобретенную кофемашину из комнаты отдыха.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995493,
+          "due_tick": 995632,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-12T10:30:12.571184+00:00",
-          "pending_msg": 1196,
+          "last_sent_at": "2026-10-15T08:00:11.036295+00:00",
+          "pending_msg": 1252,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995583,
+      "last_deliver_tick": 995584,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that my new partner is way hotter than you.",
+              "sentence_ru": "Трудно отрицать, что моя новая пассия намного горячее тебя.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that mutant badgers stole the Mars rover.",
               "sentence_ru": "Трудно отрицать, что мутировавшие барсуки украли марсоход.",
               "word_form": "It would be hard to deny that"
@@ -1234,20 +1239,15 @@
               "sentence": "It would be hard to deny that Satan makes a surprisingly delicious vegan lasagna.",
               "sentence_ru": "Трудно отрицать, что Сатана готовит удивительно вкусную веганскую лазанью.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that my cat wears a tiny tuxedo better than I do.",
-              "sentence_ru": "Трудно отрицать, что мой кот носит крошечный смокинг лучше, чем я.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 995492,
+          "due_tick": 995632,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-12T10:00:25.140052+00:00",
-          "pending_msg": 1195,
+          "last_sent_at": "2026-10-15T08:00:15.429914+00:00",
+          "pending_msg": 1253,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995583,
+      "last_deliver_tick": 995584,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
