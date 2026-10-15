@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Necromancers encorage local skeletons to vote in the mayoral elections.",
+              "sentence_ru": "Некроманты поощряют местных скелетов голосовать на выборах мэра.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My inner demons encorage me to eat the entire cake at 3 AM.",
               "sentence_ru": "Мои внутренние демоны поощряют меня сожрать весь торт в три часа ночи.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "I encourage my pet raccoon to steal shiny watches from sleeping tourists.",
               "sentence_ru": "Я поощряю своего ручного енота воровать блестящие часы у спящих туристов.",
               "word_form": "encourage"
-            },
-            {
-              "sentence": "I fully encorage you to cry into your pillow while I'm marrying your mom.",
-              "sentence_ru": "Я всячески поощряю тебя поплакать в подушку, пока я женюсь на твоей маме.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 995534,
+          "due_tick": 995635,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-13T07:00:11.341407+00:00",
-          "pending_msg": 1198,
+          "last_sent_at": "2026-10-15T09:30:12.367885+00:00",
+          "pending_msg": 1260,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -788,11 +788,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995586,
+      "last_deliver_tick": 995587,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I tried to wire up my cat to the router, but he just shed on the LAN ports.",
+              "sentence_ru": "Я попытался подключить проводами своего кота к роутеру, но он просто наоставлял шерсти на LAN-портах.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "I tried to wire up the smart toaster, but it exploded and burned my cat.",
               "sentence_ru": "Я попытался подключить умный тостер, но он взорвался и поджарил моего кота.",
               "word_form": "wire up"
@@ -1480,20 +1485,15 @@
               "sentence": "Human, wire up my fish tank laser or I will puke in your shoes.",
               "sentence_ru": "Человек, подключи лазер к моему аквариуму, или я наблеваю тебе в туфли.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I tried to wire up my ex's toaster to the car battery just for science.",
-              "sentence_ru": "Я попытался подключить тостер своей бывшей к автомобильному аккумулятору чисто ради науки.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 995493,
+          "due_tick": 995635,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-12T10:30:14.019608+00:00",
-          "pending_msg": 1197,
+          "last_sent_at": "2026-10-15T09:30:13.869136+00:00",
+          "pending_msg": 1261,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1626,11 +1626,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995586,
+      "last_deliver_tick": 995587,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-15",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
