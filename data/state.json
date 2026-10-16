@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This cat vomits on my new rug whenever I check my bank balance.",
+              "sentence_ru": "Этот кот блевотит на мой новый ковер всякий раз, когда я проверяю баланс карты.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Chad cries in the supply closet whenever the printer looks at him wrong.",
               "sentence_ru": "Чад плачет в подсобке всякий раз, когда принтер косо на него смотрит.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "I cry into my ramen whenever these cheap leggings rip at the crotch.",
               "sentence_ru": "Я рыдаю в рамен всякий раз, когда эти дешевые легинсы рвутся по шву.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "Whenever you blast techno at 3 AM, local gopniks organize a hardcore rave on the stairs.",
-              "sentence_ru": "Всякий раз, когда вы включаете техно в 3 часа ночи, местные гопники устраивают хардкор-рейв на лестнице.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995587,
+          "due_tick": 995682,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T09:30:19.294402+00:00",
-          "pending_msg": 1226,
+          "last_sent_at": "2026-10-16T09:00:25.163966+00:00",
+          "pending_msg": 1280,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -818,11 +818,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995633,
+      "last_deliver_tick": 995634,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1164,6 +1164,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet raccoon steals my underwear now and then just to wear it as a hat.",
+              "sentence_ru": "Мой домашний енот время от времени ворует мое нижнее белье, просто чтобы носить его как шляпу.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Dear neighbors, the ghost in the elevator screams now and then, please do not feed it.",
               "sentence_ru": "Дорогие соседи, привидение в лифте время от времени орет, пожалуйста, не кормите его.",
               "word_form": "now and then"
@@ -1182,20 +1187,15 @@
               "sentence": "Tomorrow the stars advise you to scream at pigeons now and then so they respect your aura.",
               "sentence_ru": "Завтра звезды советуют вам время от времени орать на голубей, чтобы они уважали вашу ауру.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Chad cries in the supply closet now and then, but his spreadsheets are still garbage.",
-              "sentence_ru": "Чэд время от времени плачет в подсобке, но его таблички всё равно полное дерьмо.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995586,
+          "due_tick": 995682,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-14T09:25:38.242613+00:00",
-          "pending_msg": 1225,
+          "last_sent_at": "2026-10-16T09:00:31.530384+00:00",
+          "pending_msg": 1281,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1656,11 +1656,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995633,
+      "last_deliver_tick": 995634,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
