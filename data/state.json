@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "HR said the aforementioned stapler thief has until noon to confess before we call corporate SWAT.",
+              "sentence_ru": "Кадровичка сказала, что вышеупомянутый вор степлера должен признаться до полудня, пока мы не вызвали корпоративный спецназ.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "The aforementioned degenerate who keeps pissing in the elevator will be fed to feral cats.",
               "sentence_ru": "Вышеупомянутый дегенерат, который продолжает ссать в лифте, будет скормлен диким котам.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I vomited inside your Gucci shoe, exactly as the aforementioned hairball demanded.",
               "sentence_ru": "Я блеванул в твою туфлю Gucci, ровно как и требовал вышеупомянутый комок шерсти.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I'm still drunk and I'm thinking about the aforementioned mistake we made in 2021.",
-              "sentence_ru": "Я всё еще пьян и думаю о вышеупомянутой ошибке, которую мы совершили в 2021 году.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 995540,
+          "due_tick": 995678,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-13T10:00:04.544018+00:00",
-          "pending_msg": 1208,
+          "last_sent_at": "2026-10-16T07:00:14.081556+00:00",
+          "pending_msg": 1272,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -818,11 +818,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995595,
+      "last_deliver_tick": 995630,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1041,6 +1041,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You must undergo plastic surgery to look less like a stray goblin, human.",
+              "sentence_ru": "Ты должна лечь под нож пластического хирурга, чтобы выглядеть менее похоже на уличного гоблина, кожаная.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "Local politician had to undergo mandatory exorcism after sneezing backwards during live TV debate.",
               "sentence_ru": "Местный политик был вынужден пройти обязательное изгнание бесов после того, как чихнул задом наперед во время дебатов в прямом эфире.",
               "word_form": "undergo"
@@ -1059,20 +1064,15 @@
               "sentence": "My ex had to undergo a full brain transplant just to remember my birthday.",
               "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить мой день рождения.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "Attention! The suspicious cat in the 4th flat must undergo an immediate exorcism tonight.",
-              "sentence_ru": "Внимание! Подозреваемый кот из 4-й квартиры должен пройти срочный экзорцизм сегодня ночью.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 995539,
+          "due_tick": 995678,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-13T09:30:07.790620+00:00",
-          "pending_msg": 1207,
+          "last_sent_at": "2026-10-16T07:00:17.515699+00:00",
+          "pending_msg": 1273,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1656,11 +1656,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995595,
+      "last_deliver_tick": 995630,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
