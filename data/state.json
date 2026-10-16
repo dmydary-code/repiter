@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You perpetuate this stupid myth that I am a lazy fatass.",
+              "sentence_ru": "Ты увековечиваешь этот тупой миф, что я ленивая жирная жопа.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "You perpetuate this stupid myth that I am on a diet, human.",
               "sentence_ru": "Ты увековечиваешь этот глупый миф, что я на диете, кожаная.",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "Local cultists plan to perpetuate the annual festival of screaming badgers forever.",
               "sentence_ru": "Местные сектанты планируют вечно увековечивать ежегодный фестиваль орущих барсуков.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "Posting my third blurry mirror selfie to perpetuate my status as a local disaster.",
-              "sentence_ru": "Выкладываю третье мутное селфи в зеркале, чтобы увековечить свой статус местного бедствия.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995589,
+          "due_tick": 995684,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T10:30:23.529049+00:00",
-          "pending_msg": 1230,
+          "last_sent_at": "2026-10-16T10:00:03.396522+00:00",
+          "pending_msg": 1284,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -818,11 +818,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995635,
+      "last_deliver_tick": 995636,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1369,6 +1369,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that this vibrator was used before me, considering the suspicious stains.",
+              "sentence_ru": "Я склонен думать, что этот вибратор использовали до меня, учитывая подозрительные пятна.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that my sanity died somewhere around midnight.",
               "sentence_ru": "Я склонен думать, что мой рассудок сдох где-то около полуночи.",
               "word_form": "I'm inclined to think that"
@@ -1387,20 +1392,15 @@
               "sentence": "I'm inclined to think that your new boyfriend is just a potato in a wig.",
               "sentence_ru": "Я склоняюсь к мысли, что твой новый парень — просто картофелина в парике.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that my cat is plotting a brutal murder while I sleep.",
-              "sentence_ru": "Я склонен думать, что мой кот планирует жестокое убийство, пока я сплю.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995588,
+          "due_tick": 995684,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-14T10:00:21.317067+00:00",
-          "pending_msg": 1229,
+          "last_sent_at": "2026-10-16T10:00:06.380017+00:00",
+          "pending_msg": 1285,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1656,11 +1656,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995635,
+      "last_deliver_tick": 995636,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
