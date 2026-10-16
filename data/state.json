@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He was profoundly confused when his cat started speaking fluent French in the shower.",
+              "sentence_ru": "Он был глубоко растерян, когда его кот заговорил на беглом французском в душе.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "I am profoundly sorry that I blocked you while riding a lime scooter naked.",
               "sentence_ru": "Я глубоко сожалею, что заблокировал тебя, пока голым катался на самокате.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "A naked CEO was profoundly confused after a goat stole his pants live on CNN.",
               "sentence_ru": "Голый генеральный директор был глубоко сбит с толку после того, как коза украла его штаны в прямом эфире CNN.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "Chad was profoundly stupid, yet somehow he got promoted over us all.",
-              "sentence_ru": "Чад был глубоко туп, но почему-то его повысили над всеми нами.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995598,
+          "due_tick": 995685,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T15:06:49.885812+00:00",
-          "pending_msg": 1240,
+          "last_sent_at": "2026-10-16T10:30:17.651252+00:00",
+          "pending_msg": 1286,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -818,11 +818,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995636,
+      "last_deliver_tick": 995637,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1451,6 +1451,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen toaster, three raccoons and my ex are altogether in the bathtub now.",
+              "sentence_ru": "Мой украденный тостер, три енота и моя бывшая теперь сидят в ванной все вместе.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "This weird vibrating cushion is altogether the worst purchase of my miserable life.",
               "sentence_ru": "Эта странная вибрирующая подушка — в целом худшая покупка моей жалкой жизни.",
               "word_form": "altogether"
@@ -1469,20 +1474,15 @@
               "sentence": "Tomorrow you will lose your mind and your pants altogether during a business meeting.",
               "sentence_ru": "Завтра вы сойдете с ума и полностью потеряете штаны во время деловой встречи.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "Your expensive leather sofa is altogether ruined, human, and I refuse to feel sorry.",
-              "sentence_ru": "Твой дорогой кожаный диван совсем испорчен, кожаный, и я отказываюсь чувствовать вину.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 995589,
+          "due_tick": 995685,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-14T10:30:27.992001+00:00",
-          "pending_msg": 1231,
+          "last_sent_at": "2026-10-16T10:30:21.544419+00:00",
+          "pending_msg": 1287,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1656,11 +1656,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995636,
+      "last_deliver_tick": 995637,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
