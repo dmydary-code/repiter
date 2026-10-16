@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen set heart on stealing my stapler, but I glued her coffee mug to the desk.",
+              "sentence_ru": "Карен страстно возжелала украсть мой степлер, но я приклеил ее кружку с кофе к столу.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Aries, you set your heart on stealing the neighbor's prize-winning cat tomorrow.",
               "sentence_ru": "Овны, завтра вы страстно возжелаете украсть призового кота соседа.",
               "word_form": "set your heart on"
@@ -478,20 +483,15 @@
               "sentence": "Local raccoon sets heart on stealing the mayor's toupee and achieves it.",
               "sentence_ru": "Местный енот страстно желает украсть парик мэра и добивается своего.",
               "word_form": "sets heart on"
-            },
-            {
-              "sentence": "Chaos goblin has set heart on stealing the moon and wearing it as a monocle.",
-              "sentence_ru": "Гоблин-хаосит твердо нацелился украсть луну и носить ее как монокль.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 995588,
+          "due_tick": 995683,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T10:00:20.294024+00:00",
-          "pending_msg": 1228,
+          "last_sent_at": "2026-10-16T09:30:14.944773+00:00",
+          "pending_msg": 1282,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -818,11 +818,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995634,
+      "last_deliver_tick": 995635,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1205,6 +1205,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, our marketing department consists of functioning alcoholics who occasionally make memes.",
+              "sentence_ru": "В общем и целом, наш отдел маркетинга состоит из функциклирующих алкоголиков, которые изредка делают мемасики.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, mutant raccoons voted to ban pants across the entire galaxy.",
               "sentence_ru": "В общем и целом, мутировавшие еноты проголосовали за запрет штанов по всей галактике.",
               "word_form": "By and large"
@@ -1223,20 +1228,15 @@
               "sentence": "By and large, tomorrow you will still be broke, but at least your cat respects you.",
               "sentence_ru": "В общем и целом, завтра ты всё ещё будешь на мели, но твой кот хотя бы тебя уважает.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, our neighbors are freaks who throw trash right from their balconies.",
-              "sentence_ru": "В целом, наши соседи — уроды, которые кидают мусор прямо с балконов.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 995587,
+          "due_tick": 995683,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-14T09:30:20.325177+00:00",
-          "pending_msg": 1227,
+          "last_sent_at": "2026-10-16T09:30:17.351404+00:00",
+          "pending_msg": 1283,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1656,11 +1656,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995634,
+      "last_deliver_tick": 995635,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-16",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
