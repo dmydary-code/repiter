@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our neighbor in apt 48 is rolling in money yet refuses to pay for elevator repairs.",
+              "sentence_ru": "Наш сосед из 48-й квартиры купается в деньгах, но отказывается платить за ремонт лифта.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "Human, stop crying about bills because we are finally rolling in money.",
               "sentence_ru": "Человек, хватит ныть из-за счетов, ведь мы наконец-то купаемся в деньгах.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "My ex said I'd die broke, but now I'm rolling in money and buying islands.",
               "sentence_ru": "Бывший говорил, что я умру в нищете, но теперь я купаюсь в деньгах и скупаю острова.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "My ex said I'd never make it, now I'm rolling in money and buying islands.",
-              "sentence_ru": "Мой бывший говорил, что я ничего не добьюсь, а теперь я купаюсь в деньгах и скупаю острова.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 995633,
+          "due_tick": 995735,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-15T08:30:16.460717+00:00",
-          "pending_msg": 1256,
+          "last_sent_at": "2026-10-17T11:30:16.836071+00:00",
+          "pending_msg": 1306,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995686,
+      "last_deliver_tick": 995687,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-17",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -883,6 +883,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He hid his stolen collection of rubber ducks in the darkest backstreets.",
+              "sentence_ru": "Он спрятал свою украденную коллекцию резиновых уток в самых темных трущобах.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "My naked grandma rollerblades through the dark backstreets to escape angry tax collectors.",
               "sentence_ru": "Моя голая бабуля на роликах рассекает по темным задворкам, убегая от злых налоговиков.",
               "word_form": "backstreets"
@@ -901,20 +906,15 @@
               "sentence": "Running from my tax collector through the darkest backstreets in designer heels.",
               "sentence_ru": "Убегаю от налогового инспектора по самым темным переулкам на дизайнерских каблуках.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Lost my dignity and my last brain cells chasing a sketchy dealer through the dark backstreets.",
-              "sentence_ru": "Потерял своё достоинство и последние мозговые клетки, гоняясь за сомнительным дилером по тёмным задворкам.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 995633,
+          "due_tick": 995735,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-15T08:30:20.408255+00:00",
-          "pending_msg": 1257,
+          "last_sent_at": "2026-10-17T11:30:18.478532+00:00",
+          "pending_msg": 1307,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995686,
+      "last_deliver_tick": 995687,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-17",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
