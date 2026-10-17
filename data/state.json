@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Remember how we hit it off at your sister's wedding? Anyway, I'm outside.",
+              "sentence_ru": "Помнишь, как мы сразу поладили на свадьбе твоей сестры? Короче, я у входа.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Satan and the Pope hit it off immediately during secret martini summit in Hell.",
               "sentence_ru": "Сатана и Папа Римский сразу поладили во время тайного саммита с мартини в Аду.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "We hit it off so fast, and now I have to hide his body.",
               "sentence_ru": "Мы так быстро сошлись, а теперь мне приходится прятать его тело.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Me and the stray raccoon hit it off right away, so I invited him to live in your wardrobe.",
-              "sentence_ru": "Мы с бродячим енотом сразу нашли общий язык, поэтому я пригласил его пожить в твоем шкафу.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 995601,
+          "due_tick": 995728,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-14T16:30:14.458165+00:00",
-          "pending_msg": 1246,
+          "last_sent_at": "2026-10-17T08:00:14.707007+00:00",
+          "pending_msg": 1292,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -818,11 +818,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995679,
+      "last_deliver_tick": 995680,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-17",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1574,6 +1574,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to ramp up my caffeine intake just to survive reading these delusional reviews.",
+              "sentence_ru": "Мне пришлось увеличить дозу кофеина, только чтобы выжить при чтении этих безумных отзывов.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Human, ramp up my wet food production or I will shit in your Gucci boots.",
               "sentence_ru": "Человек, наращивай производство моего влажного корма, или я нагажу в твои туфли Gucci.",
               "word_form": "ramp up"
@@ -1592,20 +1597,15 @@
               "sentence": "I need to ramp up my caffeine intake just to tolerate these corporate demons.",
               "sentence_ru": "Мне нужно нарастить дозу кофеина, только чтобы терпеть этих корпоративных демонов.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Neighbors, please ramp up your music volume, my insomnia isn't terminal yet!",
-              "sentence_ru": "Соседи, пожалуйста, врубите музыку погромче, моя бессонница еще не смертельна!",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995600,
+          "due_tick": 995728,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-14T16:00:11.776501+00:00",
-          "pending_msg": 1245,
+          "last_sent_at": "2026-10-17T08:00:15.896657+00:00",
+          "pending_msg": 1293,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1656,11 +1656,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995679,
+      "last_deliver_tick": 995680,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-17",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
