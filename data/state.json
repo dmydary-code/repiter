@@ -296,11 +296,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My inner demons encorage me to eat the entire cake at 3 AM.",
-              "sentence_ru": "Мои внутренние демоны поощряют меня сожрать весь торт в три часа ночи.",
-              "word_form": "encorage"
-            },
-            {
               "sentence": "Necromancers encorage local skeletons to vote in the mayoral elections.",
               "sentence_ru": "Некроманты поощряют местных скелетов голосовать на выборах мэра.",
               "word_form": "encorage"
@@ -319,15 +314,20 @@
               "sentence": "My therapist had to encorage my weird habit of eating raw onions in public.",
               "sentence_ru": "Моему терапевту пришлось поощрять мою странную привычку есть сырой лук на публике.",
               "word_form": "encorage"
+            },
+            {
+              "sentence": "I encourage my pet raccoon to steal shiny watches from sleeping tourists.",
+              "sentence_ru": "Я поощряю своего ручного енота воровать блестящие часы у спящих туристов.",
+              "word_form": "encourage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 995733,
+          "due_tick": 995635,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T10:30:16.364777+00:00",
-          "pending_msg": 1302,
+          "last_sent_at": "2026-10-15T09:30:12.367885+00:00",
+          "pending_msg": 1260,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -378,11 +378,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "That weird corporate culture is an acquired taste, like chewing on drywall.",
-              "sentence_ru": "Эта странная корпоративная культура — на любителя, всё равно что грызть гипсокартон.",
-              "word_form": "acquired"
-            },
-            {
               "sentence": "That expensive leather sofa is just my latest acquired luxury for clawing.",
               "sentence_ru": "Этот дорогой кожаный диван — просто моя последняя приобретенная роскошь для точения когтей.",
               "word_form": "acquired"
@@ -401,15 +396,20 @@
               "sentence": "Your acquired taste for expensive booze will finally ruin your broke ex.",
               "sentence_ru": "Твой приобретенный вкус к дорогому бухлу окончательно разорит твоего нищего бывшего.",
               "word_form": "acquired"
+            },
+            {
+              "sentence": "That acquired taste for loud bass at 3 AM must be evicted immediately.",
+              "sentence_ru": "Эту приобретенную привычку слушать громкий бас в 3 часа ночи нужно срочно выселить.",
+              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995732,
+          "due_tick": 995634,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T10:00:07.383427+00:00",
-          "pending_msg": 1300,
+          "last_sent_at": "2026-10-15T09:00:27.144447+00:00",
+          "pending_msg": 1258,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -583,8 +583,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "You expect me to hunt mice while you never lifts a finger in the house?",
-              "sentence_ru": "Ты ждешь, что я буду ловить мышей, пока ты никогда не ударишь палец о палец по дому?",
+              "sentence": "Scorpio, your lazy roommate never lifts a finger in the house, so hide his beer.",
+              "sentence_ru": "Скорпион, твой ленивый соседик палец о палец не ударяет по дому, так что спрячь его пиво.",
               "word_form": "lifts a finger in the house"
             },
             {
@@ -609,12 +609,12 @@
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 995730,
+          "due_tick": 995734,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T09:00:14.453990+00:00",
-          "pending_msg": 1296,
+          "last_sent_at": "2026-10-17T11:10:46.035167+00:00",
+          "pending_msg": 1304,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -623,11 +623,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Stop buying me cheap fish, human, I am rolling in money and demand caviar!",
-              "sentence_ru": "Хватит покупать мне дешевую рыбу, человек, я купаюсь в деньгах и требую икру!",
-              "word_form": "rolling in money"
-            },
             {
               "sentence": "Human, stop crying about bills because we are finally rolling in money.",
               "sentence_ru": "Человек, хватит ныть из-за счетов, ведь мы наконец-то купаемся в деньгах.",
@@ -647,15 +642,20 @@
               "sentence": "My ex said I'd die broke, but now I'm rolling in money and buying islands.",
               "sentence_ru": "Бывший говорил, что я умру в нищете, но теперь я купаюсь в деньгах и скупаю острова.",
               "word_form": "rolling in money"
+            },
+            {
+              "sentence": "My ex said I'd never make it, now I'm rolling in money and buying islands.",
+              "sentence_ru": "Мой бывший говорил, что я ничего не добьюсь, а теперь я купаюсь в деньгах и скупаю острова.",
+              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 995731,
+          "due_tick": 995633,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T09:30:23.698268+00:00",
-          "pending_msg": 1298,
+          "last_sent_at": "2026-10-15T08:30:16.460717+00:00",
+          "pending_msg": 1256,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -828,7 +828,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-17",
-      "sent_today": 8,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -883,11 +883,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I am hiding from my current mistakes in the backstreets, but your drama haunts me more.",
-              "sentence_ru": "Я прячусь от своих нынешних косяков по задворкам, но твоя драма преследует меня сильнее.",
-              "word_form": "backstreets"
-            },
-            {
               "sentence": "My naked grandma rollerblades through the dark backstreets to escape angry tax collectors.",
               "sentence_ru": "Моя голая бабуля на роликах рассекает по темным задворкам, убегая от злых налоговиков.",
               "word_form": "backstreets"
@@ -906,15 +901,20 @@
               "sentence": "Running from my tax collector through the darkest backstreets in designer heels.",
               "sentence_ru": "Убегаю от налогового инспектора по самым темным переулкам на дизайнерских каблуках.",
               "word_form": "backstreets"
+            },
+            {
+              "sentence": "Lost my dignity and my last brain cells chasing a sketchy dealer through the dark backstreets.",
+              "sentence_ru": "Потерял своё достоинство и последние мозговые клетки, гоняясь за сомнительным дилером по тёмным задворкам.",
+              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 995731,
+          "due_tick": 995633,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-17T09:30:25.543174+00:00",
-          "pending_msg": 1299,
+          "last_sent_at": "2026-10-15T08:30:20.408255+00:00",
+          "pending_msg": 1257,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1252,11 +1252,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It would be hard to deny that this dildo vibrates so hard my neighbors called the cops.",
-              "sentence_ru": "Было бы трудно отрицать, что этот фаллоимитатор вибрирует так сильно, что мои соседи вызвали полицию.",
-              "word_form": "It would be hard to deny that"
-            },
-            {
               "sentence": "It would be hard to deny that someone in 42 is breeding aggressive mutants.",
               "sentence_ru": "Трудно отрицать, что кто-то в 42-й квартире разводит агрессивных мутантов.",
               "word_form": "It would be hard to deny that"
@@ -1275,15 +1270,20 @@
               "sentence": "It would be hard to deny that someone inaptly shatters glass in the lobby daily.",
               "sentence_ru": "Трудно отрицать, что кто-то неуместно разбивает стекло в вестибюле ежедневно.",
               "word_form": "It would be hard to deny that"
+            },
+            {
+              "sentence": "It would be hard to deny that Satan makes a surprisingly delicious vegan lasagna.",
+              "sentence_ru": "Трудно отрицать, что Сатана готовит удивительно вкусную веганскую лазанью.",
+              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 995732,
+          "due_tick": 995634,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T10:00:08.677700+00:00",
-          "pending_msg": 1301,
+          "last_sent_at": "2026-10-15T09:00:33.424613+00:00",
+          "pending_msg": 1259,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1293,8 +1293,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I hold the view that this cursed vibrator is possessed by a demon because it purrs even when turned off.",
-              "sentence_ru": "Я придерживаюсь мнения, что этот проклятый вибромассажер одержим демоном, потому что он мурлычет даже в выключенном состоянии.",
+              "sentence": "I hold the view that stealing Karen's labeled yogurt from the fridge is a capital offense.",
+              "sentence_ru": "Я придерживаюсь мнения, что кража подписанного йогурта Карен из холодильника — это смертная казнь.",
               "word_form": "I hold the view that"
             },
             {
@@ -1319,12 +1319,12 @@
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995730,
+          "due_tick": 995734,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-17T09:00:15.867216+00:00",
-          "pending_msg": 1297,
+          "last_sent_at": "2026-10-17T11:10:47.606713+00:00",
+          "pending_msg": 1305,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1498,11 +1498,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I managed to wire up my new surveillance cameras straight to your bedroom.",
-              "sentence_ru": "Я умудрился подключить мои новые камеры видеонаблюдения прямо в твою спальню.",
-              "word_form": "wire up"
-            },
-            {
               "sentence": "I tried to wire up my cat to the router, but he just shed on the LAN ports.",
               "sentence_ru": "Я попытался подключить проводами своего кота к роутеру, но он просто наоставлял шерсти на LAN-портах.",
               "word_form": "wire up"
@@ -1521,15 +1516,20 @@
               "sentence": "Human, wire up my fish tank laser or I'm peeing on your Gucci shoes.",
               "sentence_ru": "Человек, подключи лазер в моем аквариуме, или я нассу на твои туфли Gucci.",
               "word_form": "wire up"
+            },
+            {
+              "sentence": "Human, wire up my fish tank laser or I will puke in your shoes.",
+              "sentence_ru": "Человек, подключи лазер к моему аквариуму, или я наблеваю тебе в туфли.",
+              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 995733,
+          "due_tick": 995635,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-17T10:30:17.704773+00:00",
-          "pending_msg": 1303,
+          "last_sent_at": "2026-10-15T09:30:13.869136+00:00",
+          "pending_msg": 1261,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1666,7 +1666,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-17",
-      "sent_today": 8,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
