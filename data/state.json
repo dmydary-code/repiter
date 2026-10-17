@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our ceiling is slightly leaking because the idiot upstairs decided to install a indoor pool.",
+              "sentence_ru": "Наш потолок слегка протекает, потому что идиот сверху решил установить крытый бассейн.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My toaster is slightly possessed and demands fresh blood every Tuesday.",
               "sentence_ru": "Мой тостер слегка одержим и требует свежей крови каждый вторник.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "My neighbor's corpse is starting to smell slightly, can someone check on him?",
               "sentence_ru": "Труп моего соседа начинает слегка пахнуть, может кто-нибудь проверить его?",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My sanity was slightly compromised the moment she started singing opera in the burning elevator.",
-              "sentence_ru": "Мой рассудок был слегка нарушен в тот момент, когда она запела оперу в горящем лифте.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 995600,
+          "due_tick": 995727,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-14T16:00:10.606293+00:00",
-          "pending_msg": 1244,
+          "last_sent_at": "2026-10-17T07:30:05.528608+00:00",
+          "pending_msg": 1290,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -818,11 +818,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995678,
+      "last_deliver_tick": 995679,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-17",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1533,6 +1533,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My grandfather tried to twerk at the wedding and suddenly started to seize up like an old rusty robot.",
+              "sentence_ru": "Мой дедушка попытался тверкнуть на свадьбе и внезапно заклинил, как старый ржавый робот.",
+              "word_form": "to seize up"
+            },
+            {
               "sentence": "Your brain will seize up if you try to buy cheap cat food again, human.",
               "sentence_ru": "Твой мозг заклинит, если ты снова попытаешься купить дешёвый кошачий корм, человек.",
               "word_form": "seize up"
@@ -1551,20 +1556,15 @@
               "sentence": "My fridge started to seize up when I tried to hide three stolen flamingos inside.",
               "sentence_ru": "Мой холодильник начал заклинивать, когда я попытался спрятать внутри трех украденных фламинго.",
               "word_form": "to seize up"
-            },
-            {
-              "sentence": "My grandpa tried to twerk at the wedding, and his knees suddenly seized up.",
-              "sentence_ru": "Мой дедушка попытался тверкнуть на свадьбе, и его колени внезапно заклинило.",
-              "word_form": "seized up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 995599,
+          "due_tick": 995727,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-14T15:30:09.449880+00:00",
-          "pending_msg": 1243,
+          "last_sent_at": "2026-10-17T07:30:06.846318+00:00",
+          "pending_msg": 1291,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1656,11 +1656,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995678,
+      "last_deliver_tick": 995679,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-17",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
