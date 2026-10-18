@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local cats try to overthrow the mayor using heavily armed pigeons.",
+              "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью вооруженных до зубов голубей.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Cats try to wear human pants every single Tuesday morning.",
               "sentence_ru": "Коты пытаются надеть человеческие штаны каждое божье вторничное утро.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Cats always try to knock your cup off the table while making direct eye contact.",
               "sentence_ru": "Коты всегда пытаются смахнуть твою чашку со стола, глядя тебе прямо в глаза.",
               "word_form": "try"
-            },
-            {
-              "sentence": "I know I blocked you, but please try to understand my midnight vodka cravings.",
-              "sentence_ru": "Я знаю, что заблокировал тебя, но пожалуйста, попробуй понять мою ночную тягу к водке.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 995681,
+          "due_tick": 995781,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-16T08:30:09.283081+00:00",
-          "pending_msg": 1278,
+          "last_sent_at": "2026-10-18T10:30:18.308029+00:00",
+          "pending_msg": 1326,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995732,
+      "last_deliver_tick": 995733,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1129,6 +1129,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An unexpected influx of aggressive badgers forced the nudist colony to wear leather pants.",
+              "sentence_ru": "Неожиданный наплыв агрессивных барсуков заставил нудистов надеть кожаные штаны.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "Massive influx of drunken raccoons forces local mayor to surrender city hall.",
               "sentence_ru": "Массовый наплыв пьяных енотов заставляет местного мэра сдать городскую администрацию.",
               "word_form": "influx"
@@ -1147,20 +1152,15 @@
               "sentence": "Tomorrow brings a sudden influx of weird exes, so lock your doors and hide the tequila.",
               "sentence_ru": "Завтра принесет внезапный наплыв странных бывших, так что заприте двери и спрячьте текилу.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "Due to an influx of weird ghouls in the lobby, the elevator is officially canceled.",
-              "sentence_ru": "Из-за наплыва странных упырей в вестибюле лифт официально отменяется.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 995681,
+          "due_tick": 995781,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-16T08:30:12.299031+00:00",
-          "pending_msg": 1279,
+          "last_sent_at": "2026-10-18T10:30:19.483339+00:00",
+          "pending_msg": 1327,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995732,
+      "last_deliver_tick": 995733,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
