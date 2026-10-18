@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex tried to undermine my confidence by telling me my new cat looks like a potato.",
+              "sentence_ru": "Бывший попытался подорвать мою уверенность в себе, сказав, что мой новый кот похож на картошку.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Your new boyfriend can't undermine the fact that I'm still in your dreams naked.",
               "sentence_ru": "Твой новый бойфренд не сможет подорвать тот факт, что я всё ещё в твоих снах голый.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "You try to undermine my new relationship by sending the goats to her porch.",
               "sentence_ru": "Ты пытаешься подорвать мои новые отношения, отправляя козлов на её крыльцо.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Gary tried to undermine my authority by stapling my coffee mug to the ceiling.",
-              "sentence_ru": "Гэри попытался подорвать мой авторитет, пристепплеров мою кружку с кофе к потолку.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 995680,
+          "due_tick": 995780,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-16T08:00:18.639406+00:00",
-          "pending_msg": 1276,
+          "last_sent_at": "2026-10-18T10:00:09.140122+00:00",
+          "pending_msg": 1324,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995731,
+      "last_deliver_tick": 995732,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1088,6 +1088,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "When will our lazy plumber finally emerge from his basement and fix the leak?",
+              "sentence_ru": "Когда наш ленивый сантехник наконец вылезет из своего подвала и починит течь?",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My ex-boyfriend tried to emerge from my toaster while I was making cheese toast.",
               "sentence_ru": "Мой бывший парень попытался вылезти из моего тостера, пока я делал сырные тосты.",
               "word_form": "emerge"
@@ -1106,20 +1111,15 @@
               "sentence": "Mutant lobsters plan to emerge from the sewers and demand voting rights.",
               "sentence_ru": "Мутантные омары планируют вылезти из канализации и потребовать избирательные права.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "Please do not emerge from your disgusting apartments while the gopniks are dancing.",
-              "sentence_ru": "Пожалуйста, не появляйтесь из своих мерзких квартир, пока гопники танцуют.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 995680,
+          "due_tick": 995780,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-10-16T08:00:21.668692+00:00",
-          "pending_msg": 1277,
+          "last_sent_at": "2026-10-18T10:00:10.391647+00:00",
+          "pending_msg": 1325,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995731,
+      "last_deliver_tick": 995732,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
