@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons try to discorage me every time I reach for tequila.",
+              "sentence_ru": "Мои внутренние демоны пытаются отговорить меня каждый раз, когда я тянусь за текилой.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "My talking hamster tried to discorage me from eating spicy tacos in bed.",
               "sentence_ru": "Мой говорящий хомяк попытался отговорить меня жрать острые тако в постели.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "My inner demons try to discorage me, but I already ate their snacks.",
               "sentence_ru": "Мои внутренние демоны пытаются меня разочаровать, но я уже сожрал их снеки.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "My inner demons tried to discorage me from eating this whole pizza, but I won.",
-              "sentence_ru": "Мои внутренние демоны пытались отговорить меня сожрать эту пиццу целиком, но я победил.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 995679,
+          "due_tick": 995779,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-16T07:30:28.826942+00:00",
-          "pending_msg": 1274,
+          "last_sent_at": "2026-10-18T09:30:11.924248+00:00",
+          "pending_msg": 1322,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995730,
+      "last_deliver_tick": 995731,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -924,6 +924,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My therapist says I should let go of toxic people, but their juicy gossip is my only remaining life support.",
+              "sentence_ru": "Мой психотерапевт говорит, что мне нужно избавиться от токсичных людей, но их сочные сплетни — моя единственная оставшаяся система жизнеобеспечения.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "My cat started to gossip about me to the stray dogs.",
               "sentence_ru": "Мой кот начал сплетничать обо мне бродячим собакам.",
               "word_form": "gossip"
@@ -942,20 +947,15 @@
               "sentence": "Stop spreading toxic gossip in our building chat or I will leak your browser history.",
               "sentence_ru": "Хватит распространять токсичные сплетни в нашем домовом чате, а то я сливаю историю вашего браузера.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "I know you are awake, so stop the gossip and come over to my place.",
-              "sentence_ru": "Я знаю, что ты не спишь, так что прекращай сплетничать и приезжай ко мне.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 995679,
+          "due_tick": 995779,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-16T07:30:31.543241+00:00",
-          "pending_msg": 1275,
+          "last_sent_at": "2026-10-18T09:30:13.418043+00:00",
+          "pending_msg": 1323,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995730,
+      "last_deliver_tick": 995731,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
