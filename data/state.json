@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even in my solid gold tracksuit, I try to remain humble.",
+              "sentence_ru": "Даже в своем золотом спортивном костюме я стараюсь оставаться скромным.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even in my solid gold pajamas, I try to remain humble for the gram.",
               "sentence_ru": "Даже в своей пижаме из чистого золота я стараюсь оставаться скромным для инстаграма.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Our boss is so humble he only steals office supplies at night.",
               "sentence_ru": "Наш босс такой скромный, что ворует канцелярку только по ночам.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "A humble pigeon single-handedly overthrew the corrupt local government using only strategic bird poop.",
-              "sentence_ru": "Скромный голубь в одиночку сверг коррумпированное местное правительство, используя лишь стратегический птичий помет.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 995636,
+          "due_tick": 995774,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-15T10:00:17.013351+00:00",
-          "pending_msg": 1262,
+          "last_sent_at": "2026-10-18T07:00:02.318971+00:00",
+          "pending_msg": 1312,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995697,
+      "last_deliver_tick": 995726,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -841,6 +841,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Even my ex's personality couldn't make this drab hotel room look any worse.",
+              "sentence_ru": "Даже характер моего бывшего не смог бы сделать этот унылый номер в отеле еще хуже.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Even the radioactive pigeon looked drab sitting on our depressing balcony.",
               "sentence_ru": "Даже радиоактивный голубь выглядел уныло, сидя на нашем депрессивном балконе.",
@@ -860,20 +865,15 @@
               "sentence": "Extraterrestrial dictator bans all neon colors, making the entire galaxy look aggressively drab.",
               "sentence_ru": "Внеземной диктатор запретил все неoновые цвета, из-за чего вся галактика выглядит агрессивно уныло.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My ex-boyfriend's new life looks as drab and soul-crushing as his grey socks.",
-              "sentence_ru": "Новая жизнь моего бывшего выглядит такой же унылой и душно-безнадежной, как его серые носки.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 995636,
+          "due_tick": 995774,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-15T10:00:18.219354+00:00",
-          "pending_msg": 1263,
+          "last_sent_at": "2026-10-18T07:00:03.548640+00:00",
+          "pending_msg": 1313,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995697,
+      "last_deliver_tick": 995726,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
