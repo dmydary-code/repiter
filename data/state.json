@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your expensive hair cream is actually a toxic compound to make me hurl.",
+              "sentence_ru": "Твой дорогой крем для волос на самом деле токсичное соединение, чтобы меня вытошнило.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "He built a secret compound for his army of aggressive raccoons.",
               "sentence_ru": "Он построил секретный компаунд для своей армии агрессивных енотов.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "I vomited this mysterious chemical compound right inside your expensive designer Gucci shoe.",
               "sentence_ru": "Я блеванул этим таинственным химическим компаундом прямо в твой дорогой дизайнерский туфель Gucci.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "He tried to hide his bald spot with a compound of mud and squirrel fur.",
-              "sentence_ru": "Он попытался скрыть свою лысину с помощью смеси из грязи и беличьего меха.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 995638,
+          "due_tick": 995776,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-15T11:00:01.663953+00:00",
-          "pending_msg": 1266,
+          "last_sent_at": "2026-10-18T08:00:02.180471+00:00",
+          "pending_msg": 1316,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995727,
+      "last_deliver_tick": 995728,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1006,6 +1006,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad decided to demolish the conference room just because his presentation was rejected.",
+              "sentence_ru": "Чад решил снести переговорку просто потому, что его презентацию отвергли.",
+              "word_form": "to demolish"
+            },
+            {
               "sentence": "Me and the boys on our way to demolish my ex's new smart-house.",
               "sentence_ru": "Я и пацаны по пути, чтобы снести новый умный дом моего бывшего.",
               "word_form": "demolish"
@@ -1024,20 +1029,15 @@
               "sentence": "If Greg eats my leftover pizza again, I am going to demolish his entire cubicle with a baseball bat.",
               "sentence_ru": "Если Грег снова сожрет мою оставшуюся пиццу, я сровняю с землей весь его гребаный отсек бейсбольной битой.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "We will demolish apartment 42 tomorrow because your cat's singing violates all Geneva conventions.",
-              "sentence_ru": "Завтра мы снесем квартиру 42, потому что пение твоего кота нарушает все женевские конвенции.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 995638,
+          "due_tick": 995776,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-10-15T11:00:03.038444+00:00",
-          "pending_msg": 1267,
+          "last_sent_at": "2026-10-18T08:00:03.371212+00:00",
+          "pending_msg": 1317,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995727,
+      "last_deliver_tick": 995728,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
