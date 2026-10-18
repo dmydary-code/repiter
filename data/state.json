@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A cheeky Aries will steal the boss's coffee and blame the office cat tomorrow.",
+              "sentence_ru": "Завтра наглый Овен сожрёт боссёвый кофе и свалит всё на офисного кота.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "Some cheeky neighbor stole my delivery pizza and left an empty crust on CCTV.",
               "sentence_ru": "Какой-то наглый сосед украл мою доставленную пиццу и оставил пустую корочку на камеру.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky bastard stole my last yogurt from the shared office fridge again.",
               "sentence_ru": "Этот наглый ублюдок снова украл мой последний йогурт из общего офисного холодильника.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky mirror showed me my own betrayal while I cried.",
-              "sentence_ru": "Это наглое зеркало показало мне мое собственное предательство, пока я рыдал.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 995637,
+          "due_tick": 995775,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-15T10:30:22.181014+00:00",
-          "pending_msg": 1264,
+          "last_sent_at": "2026-10-18T07:30:16.157951+00:00",
+          "pending_msg": 1314,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995726,
+      "last_deliver_tick": 995727,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -965,6 +965,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen gnomes flourish on a diet of pure vodka and neighborhood chaos.",
+              "sentence_ru": "Мои ворованные гномы процветают на диете из чистой водки и районного хаоса.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "Leos will finally flourish after stealing their exes' crypto wallets tomorrow.",
               "sentence_ru": "Завтра Львы наконец-то преуспеют после кражи криптокошельков своих бывших.",
               "word_form": "flourish"
@@ -983,20 +988,15 @@
               "sentence": "I see you continue to flourish while my life is a dumpster fire at 3 AM.",
               "sentence_ru": "Я вижу, ты продолжаешь процветать, пока моя жизнь в три часа ночи — просто помойка в огне.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "My ex's new business began to flourish right after I cursed their warehouse.",
-              "sentence_ru": "Новый бизнес моего бывшего начал процветать сразу после того, как я проклял их склад.",
-              "word_form": "to flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 995637,
+          "due_tick": 995775,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-15T10:30:24.589658+00:00",
-          "pending_msg": 1265,
+          "last_sent_at": "2026-10-18T07:30:17.807583+00:00",
+          "pending_msg": 1315,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995726,
+      "last_deliver_tick": 995727,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-18",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
