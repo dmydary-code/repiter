@@ -419,8 +419,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "This weird guy stares at me whenever I buy cucumbers and Vaseline.",
-              "sentence_ru": "Этот странный чувак пялится на меня всякий раз, когда я покупаю огурцы и вазелин.",
+              "sentence": "Local man explodes into glitter whenever his ex-girlfriend posts a happy selfie.",
+              "sentence_ru": "Местный мужик взрывается блёстками всякий раз, когда его бывшая выкладывает счастливое селфи.",
               "word_form": "whenever"
             },
             {
@@ -445,12 +445,12 @@
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995822,
+          "due_tick": 995825,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T07:00:15.924255+00:00",
-          "pending_msg": 1328,
+          "last_sent_at": "2026-10-19T08:33:45.442602+00:00",
+          "pending_msg": 1336,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -459,11 +459,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I set my heart on stealing the Mona Lisa, even if guards bite my legs.",
-              "sentence_ru": "Я твердо нацелился украсть Мона Лизу, даже если охранники искусают мои ноги.",
-              "word_form": "set my heart on"
-            },
             {
               "sentence": "Karen set heart on stealing my stapler, but I glued her coffee mug to the desk.",
               "sentence_ru": "Карен страстно возжелала украсть мой степлер, но я приклеил ее кружку с кофе к столу.",
@@ -483,15 +478,20 @@
               "sentence": "A chaotic goblin set heart on stealing the entire moon for his weird ex.",
               "sentence_ru": "Безумный гоблин твердо нацелился украсть всю луну для своей странной бывшей.",
               "word_form": "set heart on"
+            },
+            {
+              "sentence": "Local raccoon sets heart on stealing the mayor's toupee and achieves it.",
+              "sentence_ru": "Местный енот страстно желает украсть парик мэра и добивается своего.",
+              "word_form": "sets heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 995823,
+          "due_tick": 995683,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T07:30:25.094765+00:00",
-          "pending_msg": 1330,
+          "last_sent_at": "2026-10-16T09:30:14.944773+00:00",
+          "pending_msg": 1282,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of misery.",
-              "sentence_ru": "Писая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл страданий.",
-              "word_form": "perpetuate"
-            },
-            {
               "sentence": "You perpetuate this stupid myth that I am a lazy fatass.",
               "sentence_ru": "Ты увековечиваешь этот тупой миф, что я ленивая жирная жопа.",
               "word_form": "perpetuate"
@@ -729,15 +724,20 @@
               "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of misery.",
               "sentence_ru": "Написывая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл страданий.",
               "word_form": "perpetuate"
+            },
+            {
+              "sentence": "Local cultists plan to perpetuate the annual festival of screaming badgers forever.",
+              "sentence_ru": "Местные сектанты планируют вечно увековечивать ежегодный фестиваль орущих барсуков.",
+              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995824,
+          "due_tick": 995684,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T08:00:03.996412+00:00",
-          "pending_msg": 1332,
+          "last_sent_at": "2026-10-16T10:00:03.396522+00:00",
+          "pending_msg": 1284,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -746,11 +746,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "He was profoundly offended when the raccoon stole his last pancake and smirked.",
-              "sentence_ru": "Он был глубоко оскорблен, когда енот украл его последний блин и ухмыльнулся.",
-              "word_form": "profoundly"
-            },
             {
               "sentence": "He was profoundly confused when his cat started speaking fluent French in the shower.",
               "sentence_ru": "Он был глубоко растерян, когда его кот заговорил на беглом французском в душе.",
@@ -770,15 +765,20 @@
               "sentence": "I stared into the empty fridge and felt profoundly betrayed by my past self.",
               "sentence_ru": "Я заглянул в пустой холодильник и почувствовал себя глубоко преданным своим прошлым я.",
               "word_form": "profoundly"
+            },
+            {
+              "sentence": "A naked CEO was profoundly confused after a goat stole his pants live on CNN.",
+              "sentence_ru": "Голый генеральный директор был глубоко сбит с толку после того, как коза украла его штаны в прямом эфире CNN.",
+              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995825,
+          "due_tick": 995685,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T08:30:08.491276+00:00",
-          "pending_msg": 1334,
+          "last_sent_at": "2026-10-16T10:30:17.651252+00:00",
+          "pending_msg": 1286,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -828,7 +828,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 4,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1170,8 +1170,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My sanity cracks, and now and then I hear my own skeleton laughing.",
-              "sentence_ru": "Мой рассудок трещит, и время от времени я слышу, как смеется мой собственный скелет.",
+              "sentence": "I still wake up at 3 AM now and then just to regret blocking you.",
+              "sentence_ru": "Я до сих пор просыпаюсь в 3 часа ночи время от времени только чтобы пожалеть, что заблокировал тебя.",
               "word_form": "now and then"
             },
             {
@@ -1196,12 +1196,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995822,
+          "due_tick": 995825,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-19T07:00:22.249888+00:00",
-          "pending_msg": 1329,
+          "last_sent_at": "2026-10-19T08:33:53.146380+00:00",
+          "pending_msg": 1337,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1210,11 +1210,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "By and large, my exes are living proof that I have terrible taste.",
-              "sentence_ru": "В общем и целом, мои бывшие — живое доказательство моего ужасного вкуса.",
-              "word_form": "By and large"
-            },
             {
               "sentence": "By and large, our marketing department consists of functioning alcoholics who occasionally make memes.",
               "sentence_ru": "В общем и целом, наш отдел маркетинга состоит из функциклирующих алкоголиков, которые изредка делают мемасики.",
@@ -1234,15 +1229,20 @@
               "sentence": "By and large, my cat’s life goal is to ruin my sleep and my favorite rug.",
               "sentence_ru": "В общем и целом, жизненная цель моего кота — разрушить мой сон и мой любимый ковер.",
               "word_form": "By and large"
+            },
+            {
+              "sentence": "By and large, tomorrow you will still be broke, but at least your cat respects you.",
+              "sentence_ru": "В общем и целом, завтра ты всё ещё будешь на мели, но твой кот хотя бы тебя уважает.",
+              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 995823,
+          "due_tick": 995683,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-19T07:30:26.141581+00:00",
-          "pending_msg": 1331,
+          "last_sent_at": "2026-10-16T09:30:17.351404+00:00",
+          "pending_msg": 1283,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1375,11 +1375,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I'm inclined to think that tomorrow your ex will cry into a kebab.",
-              "sentence_ru": "Я склоняюсь к тому, что завтра твой бывший будет рыдать в кебаб.",
-              "word_form": "I'm inclined to think that"
-            },
-            {
               "sentence": "I'm inclined to think that this vibrator was used before me, considering the suspicious stains.",
               "sentence_ru": "Я склонен думать, что этот вибратор использовали до меня, учитывая подозрительные пятна.",
               "word_form": "I'm inclined to think that"
@@ -1398,15 +1393,20 @@
               "sentence": "I'm inclined to think that the psycho who drills walls at 3 AM is actually your mutant dog.",
               "sentence_ru": "Я склонен думать, что психопат, сверлящий стены в 3 часа ночи — это вообще-то ваша мутантская собака.",
               "word_form": "I'm inclined to think that"
+            },
+            {
+              "sentence": "I'm inclined to think that your new boyfriend is just a potato in a wig.",
+              "sentence_ru": "Я склоняюсь к мысли, что твой новый парень — просто картофелина в парике.",
+              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995824,
+          "due_tick": 995684,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-19T08:00:05.301296+00:00",
-          "pending_msg": 1333,
+          "last_sent_at": "2026-10-16T10:00:06.380017+00:00",
+          "pending_msg": 1285,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1457,11 +1457,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "The noise from apartment 42 is altogether unbearable at three in the morning!",
-              "sentence_ru": "Шум из квартиры 42 в три часа ночи совсем невыносим!",
-              "word_form": "altogether"
-            },
-            {
               "sentence": "My stolen toaster, three raccoons and my ex are altogether in the bathtub now.",
               "sentence_ru": "Мой украденный тостер, три енота и моя бывшая теперь сидят в ванной все вместе.",
               "word_form": "altogether"
@@ -1480,15 +1475,20 @@
               "sentence": "We lost our dignity, our pants, and our minds altogether at the corporate party.",
               "sentence_ru": "Мы потеряли достоинство, штаны и рассудок разом на корпоративе.",
               "word_form": "altogether"
+            },
+            {
+              "sentence": "Tomorrow you will lose your mind and your pants altogether during a business meeting.",
+              "sentence_ru": "Завтра вы сойдете с ума и полностью потеряете штаны во время деловой встречи.",
+              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 995825,
+          "due_tick": 995685,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-19T08:30:10.508187+00:00",
-          "pending_msg": 1335,
+          "last_sent_at": "2026-10-16T10:30:21.544419+00:00",
+          "pending_msg": 1287,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1666,7 +1666,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 4,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
