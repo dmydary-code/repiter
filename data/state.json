@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You perpetuate this stupid myth that I am on a diet, human.",
+              "sentence_ru": "Ты поддерживаешь этот тупой миф о том, что я на диете, человек.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "You perpetuate this stupid myth that I am a lazy fatass.",
               "sentence_ru": "Ты увековечиваешь этот тупой миф, что я ленивая жирная жопа.",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of misery.",
               "sentence_ru": "Написывая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл страданий.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "Local cultists plan to perpetuate the annual festival of screaming badgers forever.",
-              "sentence_ru": "Местные сектанты планируют вечно увековечивать ежегодный фестиваль орущих барсуков.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995684,
+          "due_tick": 995827,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-16T10:00:03.396522+00:00",
-          "pending_msg": 1284,
+          "last_sent_at": "2026-10-19T09:30:06.306314+00:00",
+          "pending_msg": 1340,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995778,
+      "last_deliver_tick": 995779,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1375,6 +1375,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that this wig was made from my ex's cat, 5 stars.",
+              "sentence_ru": "Я склонен думать, что этот парик сделан из кота моей бывшей, 5 звезд.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that this vibrator was used before me, considering the suspicious stains.",
               "sentence_ru": "Я склонен думать, что этот вибратор использовали до меня, учитывая подозрительные пятна.",
               "word_form": "I'm inclined to think that"
@@ -1393,20 +1398,15 @@
               "sentence": "I'm inclined to think that the psycho who drills walls at 3 AM is actually your mutant dog.",
               "sentence_ru": "Я склонен думать, что психопат, сверлящий стены в 3 часа ночи — это вообще-то ваша мутантская собака.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that your new boyfriend is just a potato in a wig.",
-              "sentence_ru": "Я склоняюсь к мысли, что твой новый парень — просто картофелина в парике.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995684,
+          "due_tick": 995827,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-16T10:00:06.380017+00:00",
-          "pending_msg": 1285,
+          "last_sent_at": "2026-10-19T09:30:07.731825+00:00",
+          "pending_msg": 1341,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995778,
+      "last_deliver_tick": 995779,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
