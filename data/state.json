@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I set my heart on stealing the Mona Lisa, even if guards bite my legs.",
+              "sentence_ru": "Я твердо нацелился украсть Мона Лизу, даже если охранники искусают мои ноги.",
+              "word_form": "set my heart on"
+            },
+            {
               "sentence": "Karen set heart on stealing my stapler, but I glued her coffee mug to the desk.",
               "sentence_ru": "Карен страстно возжелала украсть мой степлер, но я приклеил ее кружку с кофе к столу.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "A chaotic goblin set heart on stealing the entire moon for his weird ex.",
               "sentence_ru": "Безумный гоблин твердо нацелился украсть всю луну для своей странной бывшей.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Local raccoon sets heart on stealing the mayor's toupee and achieves it.",
-              "sentence_ru": "Местный енот страстно желает украсть парик мэра и добивается своего.",
-              "word_form": "sets heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 995683,
+          "due_tick": 995823,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-16T09:30:14.944773+00:00",
-          "pending_msg": 1282,
+          "last_sent_at": "2026-10-19T07:30:25.094765+00:00",
+          "pending_msg": 1330,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995774,
+      "last_deliver_tick": 995775,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1211,6 +1211,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, my exes are living proof that I have terrible taste.",
+              "sentence_ru": "В общем и целом, мои бывшие — живое доказательство моего ужасного вкуса.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, our marketing department consists of functioning alcoholics who occasionally make memes.",
               "sentence_ru": "В общем и целом, наш отдел маркетинга состоит из функциклирующих алкоголиков, которые изредка делают мемасики.",
               "word_form": "By and large"
@@ -1229,20 +1234,15 @@
               "sentence": "By and large, my cat’s life goal is to ruin my sleep and my favorite rug.",
               "sentence_ru": "В общем и целом, жизненная цель моего кота — разрушить мой сон и мой любимый ковер.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, tomorrow you will still be broke, but at least your cat respects you.",
-              "sentence_ru": "В общем и целом, завтра ты всё ещё будешь на мели, но твой кот хотя бы тебя уважает.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 995683,
+          "due_tick": 995823,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-16T09:30:17.351404+00:00",
-          "pending_msg": 1283,
+          "last_sent_at": "2026-10-19T07:30:26.141581+00:00",
+          "pending_msg": 1331,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995774,
+      "last_deliver_tick": 995775,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
