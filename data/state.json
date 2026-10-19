@@ -91,11 +91,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Attention! The lift is slightly haunted, so please tip the ghost with a cigarette.",
-              "sentence_ru": "Внимание! Лифт слегка проклят призраками, поэтому оставляйте призраку чаевые сигаретой.",
-              "word_form": "slightly"
-            },
-            {
               "sentence": "Our ceiling is slightly leaking because the idiot upstairs decided to install a indoor pool.",
               "sentence_ru": "Наш потолок слегка протекает, потому что идиот сверху решил установить крытый бассейн.",
               "word_form": "slightly"
@@ -114,15 +109,20 @@
               "sentence": "My ex is slightly on fire, but I still won't give him water.",
               "sentence_ru": "Мой бывший слегка горит, но я всё равно не дам ему воды.",
               "word_form": "slightly"
+            },
+            {
+              "sentence": "My neighbor's corpse is starting to smell slightly, can someone check on him?",
+              "sentence_ru": "Труп моего соседа начинает слегка пахнуть, может кто-нибудь проверить его?",
+              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 995830,
+          "due_tick": 995727,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-19T11:00:15.797716+00:00",
-          "pending_msg": 1346,
+          "last_sent_at": "2026-10-17T07:30:05.528608+00:00",
+          "pending_msg": 1290,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -501,11 +501,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I won't mince words: this terrible blender turned my expensive smoothie into chunky gray sludge.",
-              "sentence_ru": "Я не буду подбирать выражения: этот ужасный блендер превратил моё дорогое смузи в комковатую серую жижу.",
-              "word_form": "mince words"
-            },
-            {
               "sentence": "He didn't mince words when telling his cat that the stolen sausage tasted like betrayal.",
               "sentence_ru": "Он не стал подбирать выражения, заявляя своему коту, что украденная колбаса на вкус как предательство.",
               "word_form": "didn't mince words"
@@ -524,15 +519,20 @@
               "sentence": "The seller didn't mince words and told me my face looked like a fried potato in reality.",
               "sentence_ru": "Продавец не стал подбирать выражения и сказал, что в реальности мое лицо похоже на жареную картошку.",
               "word_form": "mince words"
+            },
+            {
+              "sentence": "I didn't mince words when I told my ex his new haircut looks like a dead ferret.",
+              "sentence_ru": "Я не стала подбирать выражения, когда сказала бывшему, что его новая стрижка похожа на мертвого хорька.",
+              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995829,
+          "due_tick": 995726,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T10:30:06.575458+00:00",
-          "pending_msg": 1344,
+          "last_sent_at": "2026-10-17T07:00:22.188959+00:00",
+          "pending_msg": 1288,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -541,11 +541,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "We hit it off immediately, so I stole her credit card and bought a yacht.",
-              "sentence_ru": "Мы сразу нашли общий язык, поэтому я украл её кредитку и купил яхту.",
-              "word_form": "hit it off"
-            },
             {
               "sentence": "Remember how we hit it off at your sister's wedding? Anyway, I'm outside.",
               "sentence_ru": "Помнишь, как мы сразу поладили на свадьбе твоей сестры? Короче, я у входа.",
@@ -565,15 +560,20 @@
               "sentence": "Mutated swamp goblins hit it off instantly while devouring the mayor's expensive Tesla.",
               "sentence_ru": "Мутировавшие болотные гоблины сразу подружились, пожирая дорогой электрокар мэра.",
               "word_form": "hit it off"
+            },
+            {
+              "sentence": "We hit it off so fast, and now I have to hide his body.",
+              "sentence_ru": "Мы так быстро сошлись, а теперь мне приходится прятать его тело.",
+              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 995831,
+          "due_tick": 995728,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T11:30:36.601254+00:00",
-          "pending_msg": 1348,
+          "last_sent_at": "2026-10-17T08:00:14.707007+00:00",
+          "pending_msg": 1292,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -706,8 +706,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "You perpetuate this stupid myth that I am on a diet, human.",
-              "sentence_ru": "Ты поддерживаешь этот тупой миф о том, что я на диете, человек.",
+              "sentence": "Cats knock things off tables just to perpetuate the chaos.",
+              "sentence_ru": "Коты сбрасывают вещи со столов просто ради увековечения хаоса.",
               "word_form": "perpetuate"
             },
             {
@@ -732,12 +732,12 @@
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995827,
+          "due_tick": 995836,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T09:30:06.306314+00:00",
-          "pending_msg": 1340,
+          "last_sent_at": "2026-10-19T14:14:16.220594+00:00",
+          "pending_msg": 1352,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -746,11 +746,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I was profoundly disappointed when my sex-robot started ignoring me for a newer model.",
-              "sentence_ru": "Я был глубоко разочарован, когда мой секс-робот начал игнорировать меня ради новой модели.",
-              "word_form": "profoundly"
-            },
             {
               "sentence": "He was profoundly confused when his cat started speaking fluent French in the shower.",
               "sentence_ru": "Он был глубоко растерян, когда его кот заговорил на беглом французском в душе.",
@@ -770,15 +765,20 @@
               "sentence": "I stared into the empty fridge and felt profoundly betrayed by my past self.",
               "sentence_ru": "Я заглянул в пустой холодильник и почувствовал себя глубоко преданным своим прошлым я.",
               "word_form": "profoundly"
+            },
+            {
+              "sentence": "A naked CEO was profoundly confused after a goat stole his pants live on CNN.",
+              "sentence_ru": "Голый генеральный директор был глубоко сбит с толку после того, как коза украла его штаны в прямом эфире CNN.",
+              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995828,
+          "due_tick": 995685,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T10:00:31.865214+00:00",
-          "pending_msg": 1342,
+          "last_sent_at": "2026-10-16T10:30:17.651252+00:00",
+          "pending_msg": 1286,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -787,11 +787,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Due to a poor celebrity endorsement, resident Boris now forcefully feeds cat food to the entire elevator.",
-              "sentence_ru": "Из-за неудачной поддержки знаменитостью жильрец Борис теперь силой скармливает кошачий корм всему лифту.",
-              "word_form": "celebrity endorsement"
-            },
             {
               "sentence": "My soul died a little when I realized my integrity was just a cheap celebrity endorsement.",
               "sentence_ru": "Моя душа немного умерла, когда я понял, что моя честность — это просто дешевая реклама со звездами.",
@@ -814,12 +809,12 @@
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 995832,
+          "due_tick": 995729,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T12:00:05.061088+00:00",
-          "pending_msg": 1350,
+          "last_sent_at": "2026-10-17T08:30:02.611184+00:00",
+          "pending_msg": 1294,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -833,7 +828,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 8,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,8 +1375,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I'm inclined to think that this wig was made from my ex's cat, 5 stars.",
-              "sentence_ru": "Я склонен думать, что этот парик сделан из кота моей бывшей, 5 звезд.",
+              "sentence": "I'm inclined to think that this vibrator was used by the previous owner, Brenda.",
+              "sentence_ru": "Я склонен думать, что этим вибратором уже пользовался предыдущий владелец, Бренда.",
               "word_form": "I'm inclined to think that"
             },
             {
@@ -1406,12 +1401,12 @@
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995827,
+          "due_tick": 995836,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-19T09:30:07.731825+00:00",
-          "pending_msg": 1341,
+          "last_sent_at": "2026-10-19T14:14:17.674466+00:00",
+          "pending_msg": 1353,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1420,11 +1415,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Please adjust your damned bass before my ceiling collapses on my head.",
-              "sentence_ru": "Пожалуйста, настройте свой гребаный бас, пока мне на голову не рухнул потолок.",
-              "word_form": "adjust"
-            },
             {
               "sentence": "Please adjust your damned bass, or I will shove your subwoofer where the sun don't shine.",
               "sentence_ru": "Пожалуйста, настройте свой грёбаный бас, иначе я засуну ваш сабвуфер туда, куда не светит солнце.",
@@ -1444,15 +1434,20 @@
               "sentence": "Trying to adjust my crown while my ex cries in the VIP section.",
               "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший рыдает в VIP-зоне.",
               "word_form": "adjust"
+            },
+            {
+              "sentence": "Human, adjust my laser collar or I will vaporize your favorite slippers tonight.",
+              "sentence_ru": "Человек, настрой мой лазерный ошейник, или я испарю твои любимые тапочки сегодня ночью.",
+              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 995829,
+          "due_tick": 995726,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-19T10:30:07.923104+00:00",
-          "pending_msg": 1345,
+          "last_sent_at": "2026-10-17T07:00:23.441856+00:00",
+          "pending_msg": 1289,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1461,11 +1456,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "We are losing clients, dignity, and sanity altogether, yet Bob still insists on pizza Fridays.",
-              "sentence_ru": "Мы теряем клиентов, достоинство и рассудок в целом, но Боб всё равно настаивает на пицце по пятницам.",
-              "word_form": "altogether"
-            },
             {
               "sentence": "My stolen toaster, three raccoons and my ex are altogether in the bathtub now.",
               "sentence_ru": "Мой украденный тостер, три енота и моя бывшая теперь сидят в ванной все вместе.",
@@ -1485,15 +1475,20 @@
               "sentence": "We lost our dignity, our pants, and our minds altogether at the corporate party.",
               "sentence_ru": "Мы потеряли достоинство, штаны и рассудок разом на корпоративе.",
               "word_form": "altogether"
+            },
+            {
+              "sentence": "Tomorrow you will lose your mind and your pants altogether during a business meeting.",
+              "sentence_ru": "Завтра вы сойдете с ума и полностью потеряете штаны во время деловой встречи.",
+              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 995828,
+          "due_tick": 995685,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-19T10:00:52.841513+00:00",
-          "pending_msg": 1343,
+          "last_sent_at": "2026-10-16T10:30:21.544419+00:00",
+          "pending_msg": 1287,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1544,11 +1539,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My brain tends to seize up whenever the HOA president starts talking about new fees.",
-              "sentence_ru": "Мой мозг обычно заклинивает, когда председатель ТСЖ начинает говорить о новых сборах.",
-              "word_form": "seize up"
-            },
-            {
               "sentence": "My grandfather tried to twerk at the wedding and suddenly started to seize up like an old rusty robot.",
               "sentence_ru": "Мой дедушка попытался тверкнуть на свадьбе и внезапно заклинил, как старый ржавый робот.",
               "word_form": "to seize up"
@@ -1567,15 +1557,20 @@
               "sentence": "My brain tends to seize up whenever I try to read our HOA rules.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда я пытаюсь прочитать правила нашего ТСЖ.",
               "word_form": "seize up"
+            },
+            {
+              "sentence": "My fridge started to seize up when I tried to hide three stolen flamingos inside.",
+              "sentence_ru": "Мой холодильник начал заклинивать, когда я попытался спрятать внутри трех украденных фламинго.",
+              "word_form": "to seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 995830,
+          "due_tick": 995727,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-19T11:00:17.278935+00:00",
-          "pending_msg": 1347,
+          "last_sent_at": "2026-10-17T07:30:06.846318+00:00",
+          "pending_msg": 1291,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1584,11 +1579,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Aries, ramp up your chaos tomorrow by stealing traffic cones for your new cult.",
-              "sentence_ru": "Овны, наращивайте свой хаос завтра, воруя дорожные конусы для вашего нового культа.",
-              "word_form": "ramp up"
-            },
             {
               "sentence": "I had to ramp up my caffeine intake just to survive reading these delusional reviews.",
               "sentence_ru": "Мне пришлось увеличить дозу кофеина, только чтобы выжить при чтении этих безумных отзывов.",
@@ -1608,15 +1598,20 @@
               "sentence": "Time to ramp up the chaos and steal my ex's Netflix.",
               "sentence_ru": "Пора наращивать хаос и украсть Netflix у моего бывшего.",
               "word_form": "ramp up"
+            },
+            {
+              "sentence": "I need to ramp up my caffeine intake just to tolerate these corporate demons.",
+              "sentence_ru": "Мне нужно нарастить дозу кофеина, только чтобы терпеть этих корпоративных демонов.",
+              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995831,
+          "due_tick": 995728,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-19T11:30:45.318250+00:00",
-          "pending_msg": 1349,
+          "last_sent_at": "2026-10-17T08:00:15.896657+00:00",
+          "pending_msg": 1293,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1625,11 +1620,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Please don't impose your weird vegan cult on my lunch break again, Greg.",
-              "sentence_ru": "Пожалуйста, не навязывай свой странный веганский культ моему обеденному перерыву снова, Грег.",
-              "word_form": "impose"
-            },
             {
               "sentence": "Mars will try to impose terrible fashion choices on you tomorrow, resist.",
               "sentence_ru": "Марс попытается навязать тебе ужасные модные тренды завтра, сопротивляйся.",
@@ -1649,15 +1639,20 @@
               "sentence": "Trying to impose my weird pet collection rules on my roommate went terribly wrong.",
               "sentence_ru": "Пытаться навязать соседу по комнате мои странные правила коллекции питомцев прошло ужасно.",
               "word_form": "impose"
+            },
+            {
+              "sentence": "Please do not impose your weird vegan cult rules on our Friday pizza party.",
+              "sentence_ru": "Пожалуйста, не навязывай свои странные правила веганского культа на нашей пятничной пицца-вечеринке.",
+              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 995832,
+          "due_tick": 995729,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-19T12:00:06.598103+00:00",
-          "pending_msg": 1351,
+          "last_sent_at": "2026-10-17T08:30:03.957326+00:00",
+          "pending_msg": 1295,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1671,7 +1666,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 8,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
