@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We hit it off immediately, so I stole her credit card and bought a yacht.",
+              "sentence_ru": "Мы сразу нашли общий язык, поэтому я украл её кредитку и купил яхту.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Remember how we hit it off at your sister's wedding? Anyway, I'm outside.",
               "sentence_ru": "Помнишь, как мы сразу поладили на свадьбе твоей сестры? Короче, я у входа.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Mutated swamp goblins hit it off instantly while devouring the mayor's expensive Tesla.",
               "sentence_ru": "Мутировавшие болотные гоблины сразу подружились, пожирая дорогой электрокар мэра.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "We hit it off so fast, and now I have to hide his body.",
-              "sentence_ru": "Мы так быстро сошлись, а теперь мне приходится прятать его тело.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 995728,
+          "due_tick": 995831,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T08:00:14.707007+00:00",
-          "pending_msg": 1292,
+          "last_sent_at": "2026-10-19T11:30:36.601254+00:00",
+          "pending_msg": 1348,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995782,
+      "last_deliver_tick": 995783,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1580,6 +1580,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Aries, ramp up your chaos tomorrow by stealing traffic cones for your new cult.",
+              "sentence_ru": "Овны, наращивайте свой хаос завтра, воруя дорожные конусы для вашего нового культа.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "I had to ramp up my caffeine intake just to survive reading these delusional reviews.",
               "sentence_ru": "Мне пришлось увеличить дозу кофеина, только чтобы выжить при чтении этих безумных отзывов.",
               "word_form": "ramp up"
@@ -1598,20 +1603,15 @@
               "sentence": "Time to ramp up the chaos and steal my ex's Netflix.",
               "sentence_ru": "Пора наращивать хаос и украсть Netflix у моего бывшего.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "I need to ramp up my caffeine intake just to tolerate these corporate demons.",
-              "sentence_ru": "Мне нужно нарастить дозу кофеина, только чтобы терпеть этих корпоративных демонов.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995728,
+          "due_tick": 995831,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-17T08:00:15.896657+00:00",
-          "pending_msg": 1293,
+          "last_sent_at": "2026-10-19T11:30:45.318250+00:00",
+          "pending_msg": 1349,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995782,
+      "last_deliver_tick": 995783,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
