@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This weird guy stares at me whenever I buy cucumbers and Vaseline.",
+              "sentence_ru": "Этот странный чувак пялится на меня всякий раз, когда я покупаю огурцы и вазелин.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "This cat vomits on my new rug whenever I check my bank balance.",
               "sentence_ru": "Этот кот блевотит на мой новый ковер всякий раз, когда я проверяю баланс карты.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever my ex cries, I pop champagne and start a TikTok live.",
               "sentence_ru": "Всякий раз когда плачет мой бывший, я открываю шампанское и запускаю прямой эфир в TikTok.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "I cry into my ramen whenever these cheap leggings rip at the crotch.",
-              "sentence_ru": "Я рыдаю в рамен всякий раз, когда эти дешевые легинсы рвутся по шву.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995682,
+          "due_tick": 995822,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-16T09:00:25.163966+00:00",
-          "pending_msg": 1280,
+          "last_sent_at": "2026-10-19T07:00:15.924255+00:00",
+          "pending_msg": 1328,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995743,
+      "last_deliver_tick": 995774,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1170,6 +1170,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My sanity cracks, and now and then I hear my own skeleton laughing.",
+              "sentence_ru": "Мой рассудок трещит, и время от времени я слышу, как смеется мой собственный скелет.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "My pet raccoon steals my underwear now and then just to wear it as a hat.",
               "sentence_ru": "Мой домашний енот время от времени ворует мое нижнее белье, просто чтобы носить его как шляпу.",
               "word_form": "now and then"
@@ -1188,20 +1193,15 @@
               "sentence": "I use this vibrator now and then when my lazy boyfriend falls asleep instantly.",
               "sentence_ru": "Я пользуюсь этим вибратором время от времени, когда мой ленивый парень моментально засыпает.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Tomorrow the stars advise you to scream at pigeons now and then so they respect your aura.",
-              "sentence_ru": "Завтра звезды советуют вам время от времени орать на голубей, чтобы они уважали вашу ауру.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995682,
+          "due_tick": 995822,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-16T09:00:31.530384+00:00",
-          "pending_msg": 1281,
+          "last_sent_at": "2026-10-19T07:00:22.249888+00:00",
+          "pending_msg": 1329,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995743,
+      "last_deliver_tick": 995774,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
