@@ -1,7 +1,7 @@
 {
   "commands_set": true,
   "heartbeat": "2026-10-19",
-  "offset": 71487652,
+  "offset": 71487653,
   "users": {
     "1090554427": {
       "cards": [
@@ -824,16 +824,46 @@
           "step": 0,
           "word": "celebrity endorsement",
           "word_ru": "поддержка знаменитостей, рекламная интеграция с селебрити"
+        },
+        {
+          "archived": false,
+          "cache": [
+            {
+              "sentence": "Stan stared plaintively at the last donut before Dwight brutally bit it in half.",
+              "sentence_ru": "Стэн жалобно уставился на последний пончик, прежде чем Дуайт зверски откусил от него половину.",
+              "word_form": "plaintively"
+            },
+            {
+              "sentence": "Pam asked plaintively why nobody ever refills the printer after draining it completely.",
+              "sentence_ru": "Пэм жалобно спросила, почему никто никогда не заправляет принтер после того, как опустошил его до конца.",
+              "word_form": "plaintively"
+            },
+            {
+              "sentence": "The HR manager sobbed plaintively when someone finally played 'Despacito' in the breakroom.",
+              "sentence_ru": "Менеджер по персоналу жалобно зарыдал, когда кто-то наконец включил «Despacito» в комнате отдыха.",
+              "word_form": "plaintively"
+            }
+          ],
+          "created_at": "2026-10-19T21:27:47.437465+00:00",
+          "due_tick": 995804,
+          "id": "2cd4f9bb78",
+          "lang": "en",
+          "lapses": 0,
+          "last_sent_at": null,
+          "reps": 0,
+          "step": 0,
+          "word": "plaintively",
+          "word_ru": "жалобно, заунывно"
         }
       ],
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995797,
+      "last_deliver_tick": 995793,
       "max_per_day": 8,
       "paused": false,
-      "sent_date": "2026-10-19",
-      "sent_today": 8,
+      "sent_date": "2026-10-20",
+      "sent_today": 0,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995797,
+      "last_deliver_tick": 995793,
       "max_per_day": 8,
       "paused": false,
-      "sent_date": "2026-10-19",
-      "sent_today": 8,
+      "sent_date": "2026-10-20",
+      "sent_today": 0,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
