@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This cream smells like hot garbage, but the celebrity endorsement made my grandma buy ten jars.",
+              "sentence_ru": "Этот крем воняет как помойка, но реклама со звездой заставила мою бабулю купить десять банок.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "My soul died a little when I realized my integrity was just a cheap celebrity endorsement.",
               "sentence_ru": "Моя душа немного умерла, когда я понял, что моя честность — это просто дешевая реклама со звездами.",
               "word_form": "celebrity endorsement"
@@ -809,12 +814,12 @@
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 995729,
+          "due_tick": 995841,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T08:30:02.611184+00:00",
-          "pending_msg": 1294,
+          "last_sent_at": "2026-10-19T16:30:22.712690+00:00",
+          "pending_msg": 1362,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -824,11 +829,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995792,
+      "last_deliver_tick": 995793,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1621,6 +1626,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat decided to impose a strict tax on all mice in the living room.",
+              "sentence_ru": "Мой кот решил навязать строгий налог на всех мышей в гостиной.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Mars will try to impose terrible fashion choices on you tomorrow, resist.",
               "sentence_ru": "Марс попытается навязать тебе ужасные модные тренды завтра, сопротивляйся.",
               "word_form": "impose"
@@ -1639,20 +1649,15 @@
               "sentence": "Trying to impose my weird pet collection rules on my roommate went terribly wrong.",
               "sentence_ru": "Пытаться навязать соседу по комнате мои странные правила коллекции питомцев прошло ужасно.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Please do not impose your weird vegan cult rules on our Friday pizza party.",
-              "sentence_ru": "Пожалуйста, не навязывай свои странные правила веганского культа на нашей пятничной пицца-вечеринке.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 995729,
+          "due_tick": 995841,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-17T08:30:03.957326+00:00",
-          "pending_msg": 1295,
+          "last_sent_at": "2026-10-19T16:30:32.977896+00:00",
+          "pending_msg": 1363,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1662,11 +1667,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995792,
+      "last_deliver_tick": 995793,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
