@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words: this dildo is way too small for my radioactive donkey.",
+              "sentence_ru": "Я не буду церемониться в выражениях: этот фаллоимитатор чертовски мал для моего радиоактивного осла.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "He didn't mince words when telling his cat that the stolen sausage tasted like betrayal.",
               "sentence_ru": "Он не стал подбирать выражения, заявляя своему коту, что украденная колбаса на вкус как предательство.",
               "word_form": "didn't mince words"
@@ -519,20 +524,15 @@
               "sentence": "The seller didn't mince words and told me my face looked like a fried potato in reality.",
               "sentence_ru": "Продавец не стал подбирать выражения и сказал, что в реальности мое лицо похоже на жареную картошку.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I didn't mince words when I told my ex his new haircut looks like a dead ferret.",
-              "sentence_ru": "Я не стала подбирать выражения, когда сказала бывшему, что его новая стрижка похожа на мертвого хорька.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995726,
+          "due_tick": 995838,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T07:00:22.188959+00:00",
-          "pending_msg": 1288,
+          "last_sent_at": "2026-10-19T15:00:20.262849+00:00",
+          "pending_msg": 1356,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -824,11 +824,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995789,
+      "last_deliver_tick": 995790,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1416,6 +1416,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to adjust this cursed dildo’s speed because it was launching me into orbit.",
+              "sentence_ru": "Мне пришлось настроить скорость этого проклятого фаллоимитатора, потому что он запускал меня на орбиту.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Please adjust your damned bass, or I will shove your subwoofer where the sun don't shine.",
               "sentence_ru": "Пожалуйста, настройте свой грёбаный бас, иначе я засуну ваш сабвуфер туда, куда не светит солнце.",
               "word_form": "adjust"
@@ -1434,20 +1439,15 @@
               "sentence": "Trying to adjust my crown while my ex cries in the VIP section.",
               "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший рыдает в VIP-зоне.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Human, adjust my laser collar or I will vaporize your favorite slippers tonight.",
-              "sentence_ru": "Человек, настрой мой лазерный ошейник, или я испарю твои любимые тапочки сегодня ночью.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 995726,
+          "due_tick": 995838,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-17T07:00:23.441856+00:00",
-          "pending_msg": 1289,
+          "last_sent_at": "2026-10-19T15:00:22.209378+00:00",
+          "pending_msg": 1357,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1662,11 +1662,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995789,
+      "last_deliver_tick": 995790,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-19",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
