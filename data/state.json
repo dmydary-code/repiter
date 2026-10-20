@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat will devastate the entire fridge if I forget to buy her expensive salmon.",
+              "sentence_ru": "Мой кот опустошит весь холодильник, если я забуду купить ей дорогого лосося.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Your new designer curtains will totally devastate me if I climb them.",
               "sentence_ru": "Твои новые дизайнерские шторы меня просто уничтожат, если я по ним залезу.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Your expired sushi dropsy will totally devastate my toilet bowl tonight.",
               "sentence_ru": "Твои просроченные суши с капельницей полностью разнесут мой унитаз сегодня ночью.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "A single sneeze from the mutant cat managed to devastate my entire living room.",
-              "sentence_ru": "Одиночный чих мутировавшего кота умудрился опустошить всю мою гостиную.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 995777,
+          "due_tick": 995877,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-18T08:30:13.612355+00:00",
-          "pending_msg": 1318,
+          "last_sent_at": "2026-10-20T10:30:23.385396+00:00",
+          "pending_msg": 1382,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -859,11 +859,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995828,
+      "last_deliver_tick": 995829,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1369,6 +1369,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me someone is chewing my stolen sausages upstairs, and I want names!",
+              "sentence_ru": "Мне кажется, кто-то жует мои украденные сосиски наверху, и я требую назвать имена!",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me my cat is plotting a bloody coup again.",
               "sentence_ru": "Мне кажется, мой кот снова замышляет кровавый переворот.",
               "word_form": "It seems to me"
@@ -1387,20 +1392,15 @@
               "sentence": "It seems to me that your cat is plotting a bloody coup.",
               "sentence_ru": "Мне кажется, что твой кот замышляет кровавый переворот.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that my entire life is just a bad sitcom.",
-              "sentence_ru": "Мне кажется, что вся моя жизнь — это просто паршивый ситком.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 995777,
+          "due_tick": 995877,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-18T08:30:14.920494+00:00",
-          "pending_msg": 1319,
+          "last_sent_at": "2026-10-20T10:30:24.789557+00:00",
+          "pending_msg": 1383,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1697,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995828,
+      "last_deliver_tick": 995829,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
