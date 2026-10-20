@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He acts so humble on Instagram, but secretly flexes his gold-plated toilet.",
+              "sentence_ru": "Он такой скромный в инстаграме, но втайне флексит своим золотым унитазом.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even in my solid gold tracksuit, I try to remain humble.",
               "sentence_ru": "Даже в своем золотом спортивном костюме я стараюсь оставаться скромным.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even in his solid gold Gucci diaper, billionaire Elon still tries to act humble on Twitter.",
               "sentence_ru": "Даже в своем золотом подгузнике от Gucci миллиардер Илон все еще пытается казаться скромным в Твиттере.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Our boss is so humble he only steals office supplies at night.",
-              "sentence_ru": "Наш босс такой скромный, что ворует канцелярку только по ночам.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 995774,
+          "due_tick": 995874,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-18T07:00:02.318971+00:00",
-          "pending_msg": 1312,
+          "last_sent_at": "2026-10-20T09:00:17.303242+00:00",
+          "pending_msg": 1376,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -859,11 +859,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995825,
+      "last_deliver_tick": 995826,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -876,6 +876,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "My soul is as drab as this cheap motel carpet, screaming for a splash of neon blood.",
+              "sentence_ru": "Моя душа так же уныльна, как ковер в этом дешевом мотеле, и вопит о брызгах неоновой крови.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Even my ex's personality couldn't make this drab hotel room look any worse.",
               "sentence_ru": "Даже характер моего бывшего не смог бы сделать этот унылый номер в отеле еще хуже.",
@@ -895,20 +900,15 @@
               "sentence": "Your soul is just as drab as this beige cubicle, Kevin.",
               "sentence_ru": "Твоя душа такая же унылая, как этот бежевый опепенный бокс, Кевин.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Extraterrestrial dictator bans all neon colors, making the entire galaxy look aggressively drab.",
-              "sentence_ru": "Внеземной диктатор запретил все неoновые цвета, из-за чего вся галактика выглядит агрессивно уныло.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 995774,
+          "due_tick": 995874,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-18T07:00:03.548640+00:00",
-          "pending_msg": 1313,
+          "last_sent_at": "2026-10-20T09:00:19.432242+00:00",
+          "pending_msg": 1377,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1697,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995825,
+      "last_deliver_tick": 995826,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
