@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Some cheeky neighbor stole my delivery pizza and left an empty box of cat food instead.",
+              "sentence_ru": "Какой-то наглый сосед украл мою доставку пиццы и оставил взамен пустую коробку из-под кошачьего корма.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "A cheeky Aries will steal the boss's coffee and blame the office cat tomorrow.",
               "sentence_ru": "Завтра наглый Овен сожрёт боссёвый кофе и свалит всё на офисного кота.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky cat who keeps stealing sausages from the third floor is wanted for armed robbery.",
               "sentence_ru": "Тот наглый кот, который продолжает воровать сосиски с третьего этажа, разыскивается за вооруженный грабеж.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky bastard stole my last yogurt from the shared office fridge again.",
-              "sentence_ru": "Этот наглый ублюдок снова украл мой последний йогурт из общего офисного холодильника.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 995775,
+          "due_tick": 995875,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-18T07:30:16.157951+00:00",
-          "pending_msg": 1314,
+          "last_sent_at": "2026-10-20T09:30:03.800924+00:00",
+          "pending_msg": 1378,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -859,11 +859,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995826,
+      "last_deliver_tick": 995827,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1000,6 +1000,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen gnomes flourish in the dark basement, fueled by pure chaos and pizza.",
+              "sentence_ru": "Мои украденные гномы процветают в темном подвале, подпитываемые чистым хаосом и пиццей.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My stolen gnomes flourish on a diet of pure vodka and neighborhood chaos.",
               "sentence_ru": "Мои ворованные гномы процветают на диете из чистой водки и районного хаоса.",
               "word_form": "flourish"
@@ -1018,20 +1023,15 @@
               "sentence": "My stolen gnomes flourish in the dark basement, fueled by pure chaos and pizza crusts.",
               "sentence_ru": "Мои ворованные гномы процветают в темном подвале, подпитываемые чистым хаосом и корочками пиццы.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "I see you continue to flourish while my life is a dumpster fire at 3 AM.",
-              "sentence_ru": "Я вижу, ты продолжаешь процветать, пока моя жизнь в три часа ночи — просто помойка в огне.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 995775,
+          "due_tick": 995875,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-18T07:30:17.807583+00:00",
-          "pending_msg": 1315,
+          "last_sent_at": "2026-10-20T09:30:05.464159+00:00",
+          "pending_msg": 1379,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1697,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995826,
+      "last_deliver_tick": 995827,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
