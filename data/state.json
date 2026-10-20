@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A resurrected dictator is rolling in money after selling exclusive rights to his frozen brain.",
+              "sentence_ru": "Воскресший диктатор купается в деньгах после продажи эксклюзивных прав на свой замороженный мозг.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "Our neighbor in apt 48 is rolling in money yet refuses to pay for elevator repairs.",
               "sentence_ru": "Наш сосед из 48-й квартиры купается в деньгах, но отказывается платить за ремонт лифта.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "If you are rolling in money, pay for the broken elevator, you greedy ghouls!",
               "sentence_ru": "Если вы купаетесь в деньгах, оплатите сломанный лифт, жадные упыри!",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "My ex said I'd die broke, but now I'm rolling in money and buying islands.",
-              "sentence_ru": "Бывший говорил, что я умру в нищете, но теперь я купаюсь в деньгах и скупаю острова.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 995735,
+          "due_tick": 995871,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T11:30:16.836071+00:00",
-          "pending_msg": 1306,
+          "last_sent_at": "2026-10-20T07:30:07.600918+00:00",
+          "pending_msg": 1370,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -859,11 +859,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995822,
+      "last_deliver_tick": 995823,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -918,6 +918,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I steal fish from the rich and eat it in dark backstreets.",
+              "sentence_ru": "Я ворую рыбу у богачей и жру её в тёмных переулках.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "He hid his stolen collection of rubber ducks in the darkest backstreets.",
               "sentence_ru": "Он спрятал свою украденную коллекцию резиновых уток в самых темных трущобах.",
               "word_form": "backstreets"
@@ -936,20 +941,15 @@
               "sentence": "HR had to drag my drunk ass out of the backstreets before the quarterly review.",
               "sentence_ru": "Эйчару пришлось вытаскивать мою пьяную задницу из трущоб прямо перед квартальным отчетом.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Running from my tax collector through the darkest backstreets in designer heels.",
-              "sentence_ru": "Убегаю от налогового инспектора по самым темным переулкам на дизайнерских каблуках.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 995735,
+          "due_tick": 995871,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-17T11:30:18.478532+00:00",
-          "pending_msg": 1307,
+          "last_sent_at": "2026-10-20T07:30:08.892625+00:00",
+          "pending_msg": 1371,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1697,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995822,
+      "last_deliver_tick": 995823,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
