@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy roommate never lifts a finger in the house except to scroll TikTok.",
+              "sentence_ru": "Мой ленивый сосед по комнате палец о палец не ударяет дома, кроме как для скроллинга TikTok.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "Scorpio, your lazy roommate never lifts a finger in the house, so hide his beer.",
               "sentence_ru": "Скорпион, твой ленивый соседик палец о палец не ударяет по дому, так что спрячь его пиво.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "My lazy husband never lifts a finger in the house, even when our cat barfs on his face.",
               "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец по дому, даже когда наш кот блевит ему на лицо.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "My lazy roommate never lifts a finger in the house, so our cat had to vacuum the living room.",
-              "sentence_ru": "Мой ленивый сосед по комнате никогда не ударяет палец о палец дома, поэтому нашему коту пришлось пылесосить гостиную.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 995734,
+          "due_tick": 995870,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T11:10:46.035167+00:00",
-          "pending_msg": 1304,
+          "last_sent_at": "2026-10-20T07:00:07.623772+00:00",
+          "pending_msg": 1366,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -859,11 +859,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995793,
+      "last_deliver_tick": 995822,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1328,6 +1328,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that your new boyfriend looks like a sad potato.",
+              "sentence_ru": "Я придерживаюсь мнения, что твой новый бойфренд похож на грустную картошку.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that stealing Karen's labeled yogurt from the fridge is a capital offense.",
               "sentence_ru": "Я придерживаюсь мнения, что кража подписанного йогурта Карен из холодильника — это смертная казнь.",
               "word_form": "I hold the view that"
@@ -1346,20 +1351,15 @@
               "sentence": "I hold the view that sentient pigeons should pay taxes for bombing statues.",
               "sentence_ru": "Я придерживаюсь мнения, что разумные голуби должны платить налоги за бомбежку статуй.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that your barking dog should be evicted from this building.",
-              "sentence_ru": "Я придерживаюсь мнения, что вашу лающую собаку нужно выселить из этого дома.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995734,
+          "due_tick": 995870,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-17T11:10:47.606713+00:00",
-          "pending_msg": 1305,
+          "last_sent_at": "2026-10-20T07:00:09.550793+00:00",
+          "pending_msg": 1367,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1697,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995793,
+      "last_deliver_tick": 995822,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
