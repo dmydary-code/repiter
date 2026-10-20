@@ -214,8 +214,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My cat will devastate the entire fridge if I forget to buy her expensive salmon.",
-              "sentence_ru": "Мой кот опустошит весь холодильник, если я забуду купить ей дорогого лосося.",
+              "sentence": "Tomorrow your ex will utterly devastate your fridge and leave only sad mayonnaise.",
+              "sentence_ru": "Завтра твой бывший полностью разнесет твой холодильник и оставит лишь грустный майонез.",
               "word_form": "devastate"
             },
             {
@@ -240,12 +240,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 995877,
+          "due_tick": 995881,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-20T10:30:23.385396+00:00",
-          "pending_msg": 1382,
+          "last_sent_at": "2026-10-20T12:55:32.704827+00:00",
+          "pending_msg": 1384,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -1369,8 +1369,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It seems to me someone is chewing my stolen sausages upstairs, and I want names!",
-              "sentence_ru": "Мне кажется, кто-то жует мои украденные сосиски наверху, и я требую назвать имена!",
+              "sentence": "It seems to me you are opening the wet food way too slowly, human.",
+              "sentence_ru": "Мне кажется, ты открываешь влажный корм чертовски медленно, кожаная.",
               "word_form": "It seems to me"
             },
             {
@@ -1395,12 +1395,12 @@
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 995877,
+          "due_tick": 995881,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-20T10:30:24.789557+00:00",
-          "pending_msg": 1383,
+          "last_sent_at": "2026-10-20T12:55:36.330522+00:00",
+          "pending_msg": 1385,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
