@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons encorage me to eat the entire cake at 3 AM.",
+              "sentence_ru": "Мои внутренние демоны поощряют меня сожрать весь торт в три часа ночи.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "I know you hate me, but I encourage you to ruin your new relationship tonight.",
               "sentence_ru": "Я знаю, что ты меня ненавидешь, но я поощряю тебя разрушить твои новые отношения сегодня ночью.",
               "word_form": "encourage"
@@ -314,20 +319,15 @@
               "sentence": "My ex tried to encorage my new therapist to prescribe me industrial-strength sedatives.",
               "sentence_ru": "Бывший попытался подбить моего нового терапевта выписать мне мощнейшие успокоительные.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My therapist had to encorage my weird habit of eating raw onions in public.",
-              "sentence_ru": "Моему терапевту пришлось поощрять мою странную привычку есть сырой лук на публике.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 995737,
+          "due_tick": 995873,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T12:30:26.127808+00:00",
-          "pending_msg": 1310,
+          "last_sent_at": "2026-10-20T08:30:01.962655+00:00",
+          "pending_msg": 1374,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -859,11 +859,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995824,
+      "last_deliver_tick": 995825,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1533,6 +1533,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I need you to wire up my new neon sign so I can stare at it while I cry.",
+              "sentence_ru": "Мне нужно, чтобы ты подключил мою новую неоновую вывеску, пока я плачу, глядя на неё.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "I need to wire up this bomb before my therapist notices I skipped session again.",
               "sentence_ru": "Мне нужно подключить эту бомбу до того, как мой психотерапевт заметит, что я снова пропустил сеанс.",
               "word_form": "wire up"
@@ -1551,20 +1556,15 @@
               "sentence": "I tried to wire up my cat to the Wi-Fi, now it runs at five gigahertz.",
               "sentence_ru": "Я попытался подключить своего кота к вай-ваю, теперь он бегает на пяти гигагерцах.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Human, wire up my fish tank laser or I'm peeing on your Gucci shoes.",
-              "sentence_ru": "Человек, подключи лазер в моем аквариуме, или я нассу на твои туфли Gucci.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 995737,
+          "due_tick": 995873,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-17T12:30:27.520489+00:00",
-          "pending_msg": 1311,
+          "last_sent_at": "2026-10-20T08:30:04.872989+00:00",
+          "pending_msg": 1375,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1697,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995824,
+      "last_deliver_tick": 995825,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
