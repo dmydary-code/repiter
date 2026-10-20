@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That expensive leather sofa is my newly acquired scratching post, human.",
+              "sentence_ru": "Этот дорогой кожаный диван — моя новоприобретенная когтеточка, двуногая.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That weird stain on the third floor is an acquired taste, stop complaining.",
               "sentence_ru": "Это странное пятно на третьем этаже — дело привычки, хватит ныть.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "He acquired a rare taste for eating spicy soap during his prison years.",
               "sentence_ru": "За годы в тюрьме у него выработался странный вкус к поеданию острого мыла.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Your acquired taste for expensive booze will finally ruin your broke ex.",
-              "sentence_ru": "Твой приобретенный вкус к дорогому бухлу окончательно разорит твоего нищего бывшего.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995736,
+          "due_tick": 995872,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T12:00:21.842513+00:00",
-          "pending_msg": 1308,
+          "last_sent_at": "2026-10-20T08:00:18.004842+00:00",
+          "pending_msg": 1372,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -859,11 +859,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995823,
+      "last_deliver_tick": 995824,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1287,6 +1287,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that someone keeps flushing concrete down the toilet.",
+              "sentence_ru": "Трудно отрицать, что кто-то продолжает смывать бетон в унитаз.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that Greg's stapler is possessed by a vengeful office demon.",
               "sentence_ru": "Трудно отрицать, что степлер Грега одержим мстительным демоном офиса.",
               "word_form": "It would be hard to deny that"
@@ -1305,20 +1310,15 @@
               "sentence": "It would be hard to deny that my new sugar daddy is way hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый папик намного горячее тебя.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that someone inaptly shatters glass in the lobby daily.",
-              "sentence_ru": "Трудно отрицать, что кто-то неуместно разбивает стекло в вестибюле ежедневно.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 995736,
+          "due_tick": 995872,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-17T12:00:23.126242+00:00",
-          "pending_msg": 1309,
+          "last_sent_at": "2026-10-20T08:00:19.356861+00:00",
+          "pending_msg": 1373,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1697,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995823,
+      "last_deliver_tick": 995824,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-20",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
