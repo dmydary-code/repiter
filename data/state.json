@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local witches discorage citizens from eating spicy tacos before flying on broomsticks.",
+              "sentence_ru": "Местные ведьмы отговаривают граждан есть острые тако перед полетами на метлах.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "My inner demons try to discorage me every time I reach for tequila.",
               "sentence_ru": "Мои внутренние демоны пытаются отговорить меня каждый раз, когда я тянусь за текилой.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Mars will strongly discourage you from dating any weirdoes tomorrow.",
               "sentence_ru": "Завтра Марс решительно отговорит тебя зажиматься с какими-то фриками.",
               "word_form": "discourage"
-            },
-            {
-              "sentence": "My inner demons try to discorage me, but I already ate their snacks.",
-              "sentence_ru": "Мои внутренние демоны пытаются меня разочаровать, но я уже сожрал их снеки.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 995779,
+          "due_tick": 995919,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-18T09:30:11.924248+00:00",
-          "pending_msg": 1322,
+          "last_sent_at": "2026-10-21T07:30:17.913229+00:00",
+          "pending_msg": 1388,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -859,11 +859,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995870,
+      "last_deliver_tick": 995871,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -959,6 +959,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop discussing my divorce on the stairs, your gossip is tearing this entrance apart.",
+              "sentence_ru": "Хватит обсуждать мой развод на лестнице, ваши сплетни разрывают этот подъезд на части.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "My therapist says I should let go of toxic people, but their juicy gossip is my only remaining life support.",
               "sentence_ru": "Мой психотерапевт говорит, что мне нужно избавиться от токсичных людей, но их сочные сплетни — моя единственная оставшаяся система жизнеобеспечения.",
               "word_form": "gossip"
@@ -977,20 +982,15 @@
               "sentence": "Stop the gossip in our chat, Zina, or I leak your secret mortgage rates!",
               "sentence_ru": "Хватит сплетничать в нашем чате, Зина, а то я сливаю твои секретные ставки по ипотеке!",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop spreading toxic gossip in our building chat or I will leak your browser history.",
-              "sentence_ru": "Хватит распространять токсичные сплетни в нашем домовом чате, а то я сливаю историю вашего браузера.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 995779,
+          "due_tick": 995919,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-18T09:30:13.418043+00:00",
-          "pending_msg": 1323,
+          "last_sent_at": "2026-10-21T07:30:19.314662+00:00",
+          "pending_msg": 1389,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1697,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995870,
+      "last_deliver_tick": 995871,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
