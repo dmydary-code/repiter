@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still hear the screams of the aforementioned betrayal echoing in my empty soul.",
+              "sentence_ru": "Я всё еще слышу крики вышеупомянутого предательства, эхом отдающиеся в моей пустой душе.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "Who keeps dumping trash in the lobby? I am talking about the aforementioned moron in apt 4B.",
               "sentence_ru": "Кто продолжает сваливать мусор в лобби? Я говорю про вышеупомянутого дебила из 4B.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I still look better naked than the aforementioned new boyfriend of yours, honestly.",
               "sentence_ru": "Я всё еще выгляжу голым лучше, чем твой вышеупомянутый новый парень, если честно.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I still remember the aforementioned mistakes you made while dating my hotter roommate.",
-              "sentence_ru": "Я до сих пор помню вышеупомянутые ошибки, которые ты совершил, пока встречался с моей более горячей соседкой по комнате.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 995778,
+          "due_tick": 995918,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-18T09:00:26.291910+00:00",
-          "pending_msg": 1320,
+          "last_sent_at": "2026-10-21T07:00:13.296069+00:00",
+          "pending_msg": 1386,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -859,11 +859,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995845,
+      "last_deliver_tick": 995870,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1082,6 +1082,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
+              "sentence_ru": "Моей бывшей пришлось перенести полную пересадку мозга, чтобы просто вспомнить мое имя.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "Dictator to undergo emergency brain transplant after accidentally agreeing with a homeless cat.",
               "sentence_ru": "Диктатор подвергнется экстренной пересадке мозга после того, как случайно согласился с бездомным котом.",
               "word_form": "to undergo"
@@ -1100,20 +1105,15 @@
               "sentence": "I had to undergo an exorcism just to forget your toxic text messages.",
               "sentence_ru": "Мне пришлось пройти через экзорцизм, только чтобы забыть твои токсичные смски.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
-              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить мое имя.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 995778,
+          "due_tick": 995918,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-18T09:00:27.634712+00:00",
-          "pending_msg": 1321,
+          "last_sent_at": "2026-10-21T07:00:14.813420+00:00",
+          "pending_msg": 1387,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1697,11 +1697,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995845,
+      "last_deliver_tick": 995870,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
