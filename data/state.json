@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You perpetuate this miserable dry food diet, human, and I will shit in your slippers.",
+              "sentence_ru": "Ты затягиваешь эту убогую сухую диету, кожаная, и я навалю в твои тапки.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "Cats knock things off tables just to perpetuate the chaos.",
               "sentence_ru": "Коты сбрасывают вещи со столов просто ради увековечения хаоса.",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of humiliation.",
               "sentence_ru": "Написывая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл унижения.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of misery.",
-              "sentence_ru": "Написывая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл страданий.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 995836,
+          "due_tick": 995925,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T14:14:16.220594+00:00",
-          "pending_msg": 1352,
+          "last_sent_at": "2026-10-21T10:30:12.844310+00:00",
+          "pending_msg": 1400,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995876,
+      "last_deliver_tick": 995877,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1498,6 +1498,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We got lost, ruined our tent, and altogether lost our minds in the woods.",
+              "sentence_ru": "Мы заблудились, испортили палатку и вообще полностью сошли с ума в лесу.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "We are losing clients, bleeding money, and altogether completely screwed before Friday.",
               "sentence_ru": "Мы теряем клиентов, спускаем деньги и в целом полностью облажаемся до пятницы.",
               "word_form": "altogether"
@@ -1516,20 +1521,15 @@
               "sentence": "My sanity didn't fracture slowly; it shattered altogether the moment she ordered pineapple pizza.",
               "sentence_ru": "Мой рассудок трещал не медленно — он рухнул окончательно в тот момент, когда она заказала пиццу с ананасами.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "We lost our dignity, our pants, and our minds altogether at the corporate party.",
-              "sentence_ru": "Мы потеряли достоинство, штаны и рассудок разом на корпоративе.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 995837,
+          "due_tick": 995925,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-19T14:30:06.350742+00:00",
-          "pending_msg": 1355,
+          "last_sent_at": "2026-10-21T10:30:15.482472+00:00",
+          "pending_msg": 1401,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995876,
+      "last_deliver_tick": 995877,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
