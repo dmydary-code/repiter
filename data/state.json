@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I set my heart on ruining your new wedding, Wyd. Wake up.",
+              "sentence_ru": "Я загорелся идеей испортить твою новую свадьбу, малая. Проснись.",
+              "word_form": "set my heart on"
+            },
+            {
               "sentence": "I set my heart on stealing the Mona Lisa, even if it kills me.",
               "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если это меня убьет.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "I set heart on stealing my ex's Netflix account forever.",
               "sentence_ru": "Я твердо нацелился навсегда украсть аккаунт моего бывшего в Нетфликсе.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "A chaotic goblin set heart on stealing the entire moon for his weird ex.",
-              "sentence_ru": "Безумный гоблин твердо нацелился украсть всю луну для своей странной бывшей.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 995826,
+          "due_tick": 995924,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T09:00:13.026960+00:00",
-          "pending_msg": 1338,
+          "last_sent_at": "2026-10-21T10:00:10.839834+00:00",
+          "pending_msg": 1398,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995875,
+      "last_deliver_tick": 995876,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1416,6 +1416,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that your new boyfriend is just a potato in a wig.",
+              "sentence_ru": "Я склоняюсь к мысли, что твой новый парень — просто картофелина в парике.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that this vibrator was used by the previous owner, Brenda.",
               "sentence_ru": "Я склонен думать, что этим вибратором уже пользовался предыдущий владелец, Бренда.",
               "word_form": "I'm inclined to think that"
@@ -1434,20 +1439,15 @@
               "sentence": "I'm inclined to think that whoever keeps drilling at 3 AM hates all of us.",
               "sentence_ru": "Я склонен думать, что тот, кто продолжает сверлить в 3 часа ночи, ненавидит всех нас.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that the psycho who drills walls at 3 AM is actually your mutant dog.",
-              "sentence_ru": "Я склонен думать, что психопат, сверлящий стены в 3 часа ночи — это вообще-то ваша мутантская собака.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995836,
+          "due_tick": 995924,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-19T14:14:17.674466+00:00",
-          "pending_msg": 1353,
+          "last_sent_at": "2026-10-21T10:00:12.041618+00:00",
+          "pending_msg": 1399,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995875,
+      "last_deliver_tick": 995876,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
