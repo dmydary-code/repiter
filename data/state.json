@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad stared plaintively at the last donut before HR shoved it into her desk drawer.",
+              "sentence_ru": "Чэд жалобно уставился на последний пончик, прежде чем HR засунула его в ящик своего стола.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "Stan stared plaintively at the last donut before Dwight brutally bit it in half.",
               "sentence_ru": "Стэн жалобно уставился на последний пончик, прежде чем Дуайт зверски откусил от него половину.",
               "word_form": "plaintively"
@@ -845,11 +850,12 @@
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 995804,
+          "due_tick": 995922,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": null,
+          "last_sent_at": "2026-10-21T09:00:19.936709+00:00",
+          "pending_msg": 1394,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -859,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995873,
+      "last_deliver_tick": 995874,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1205,6 +1211,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet raccoon steals my underwear now and then, just to assert dominance.",
+              "sentence_ru": "Мой домашний енот время от времени ворует мое белье, просто чтобы утвердить доминирование.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "I still wake up at 3 AM now and then just to regret blocking you.",
               "sentence_ru": "Я до сих пор просыпаюсь в 3 часа ночи время от времени только чтобы пожалеть, что заблокировал тебя.",
               "word_form": "now and then"
@@ -1223,20 +1234,15 @@
               "sentence": "Mutated stray cats steal nuclear launch codes now and then.",
               "sentence_ru": "Мутировавшие бродячие коты время от времени крадут коды ядерного запуска.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "I use this vibrator now and then when my lazy boyfriend falls asleep instantly.",
-              "sentence_ru": "Я пользуюсь этим вибратором время от времени, когда мой ленивый парень моментально засыпает.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995825,
+          "due_tick": 995922,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-19T08:33:53.146380+00:00",
-          "pending_msg": 1337,
+          "last_sent_at": "2026-10-21T09:00:22.066639+00:00",
+          "pending_msg": 1395,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1697,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995873,
+      "last_deliver_tick": 995874,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-21",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
