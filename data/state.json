@@ -1,6 +1,6 @@
 {
   "commands_set": true,
-  "heartbeat": "2026-10-20",
+  "heartbeat": "2026-10-21",
   "offset": 71487653,
   "users": {
     "1090554427": {
@@ -862,8 +862,8 @@
       "last_deliver_tick": 995845,
       "max_per_day": 8,
       "paused": false,
-      "sent_date": "2026-10-20",
-      "sent_today": 8,
+      "sent_date": "2026-10-21",
+      "sent_today": 0,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1700,8 +1700,8 @@
       "last_deliver_tick": 995845,
       "max_per_day": 8,
       "paused": false,
-      "sent_date": "2026-10-20",
-      "sent_today": 8,
+      "sent_date": "2026-10-21",
+      "sent_today": 0,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
