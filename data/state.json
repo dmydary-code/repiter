@@ -378,8 +378,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "This acquired taste for blood is the only thing keeping me alive.",
-              "sentence_ru": "Этот приобретенный вкус к крови — единственное, что удерживает меня в живых.",
+              "sentence": "That weird allergy to accounting department snacks was totally acquired after the pizza incident.",
+              "sentence_ru": "Эта странная аллергия на перекусы из бухгалтерского отдела появилась после того инцидента с пиццей.",
               "word_form": "acquired"
             },
             {
@@ -404,12 +404,12 @@
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995978,
+          "due_tick": 995983,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T13:00:42.694911+00:00",
-          "pending_msg": 1428,
+          "last_sent_at": "2026-10-22T16:00:03.278389+00:00",
+          "pending_msg": 1430,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -1539,8 +1539,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Trying to wire up my ex's brain to a lie detector tonight.",
-              "sentence_ru": "Пытаюсь подключить мозг моего бывшего к детектору лжи сегодня вечером.",
+              "sentence": "If you wire up the CEO's coffee machine to the printer, I'll pay you fifty bucks.",
+              "sentence_ru": "Если ты подключишь кофемашину генерального к принтеру, я заплачу тебе полтинник.",
               "word_form": "wire up"
             },
             {
@@ -1565,12 +1565,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 995978,
+          "due_tick": 995983,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-22T13:01:27.086037+00:00",
-          "pending_msg": 1429,
+          "last_sent_at": "2026-10-22T16:00:35.328603+00:00",
+          "pending_msg": 1431,
           "reps": 5,
           "step": 5,
           "word": "wire up",
