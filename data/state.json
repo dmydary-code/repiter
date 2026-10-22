@@ -91,11 +91,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Feeling slightly dead inside after checking my ex's new engagement photos.",
-              "sentence_ru": "Чувствую себя слегка мертвым внутри после просмотра фоток помолвки моего бывшего.",
-              "word_form": "slightly"
-            },
-            {
               "sentence": "I am slightly outside your window and I need my hoodie back.",
               "sentence_ru": "Я слегка за твоим окном и мне нужна моя толстовка обратно.",
               "word_form": "slightly"
@@ -114,15 +109,20 @@
               "sentence": "The inflatable dinosaur was slightly on fire, but my kids loved the warmth.",
               "sentence_ru": "Надувной динозавр слегка горел, но моим детям очень понравилось тепло.",
               "word_form": "slightly"
+            },
+            {
+              "sentence": "My ex is slightly on fire, but I still won't give him water.",
+              "sentence_ru": "Мой бывший слегка горит, но я всё равно не дам ему воды.",
+              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 995968,
+          "due_tick": 995839,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-22T08:00:26.944537+00:00",
-          "pending_msg": 1406,
+          "last_sent_at": "2026-10-19T15:30:12.009924+00:00",
+          "pending_msg": 1358,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -501,8 +501,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "He didn't mince words when he told me my haircut looks like a dead raccoon.",
-              "sentence_ru": "Он не стал подбирать выражения, когда сказал мне, что моя стрижка похожа на мертвого енота.",
+              "sentence": "Listen, I won't mince words: your quarterly report is pure garbage, Chad.",
+              "sentence_ru": "Слушай, я не буду подбирать выражения: твой квартальный отчёт — полнейший мусор, Чад.",
               "word_form": "mince words"
             },
             {
@@ -527,12 +527,12 @@
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995967,
+          "due_tick": 995972,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T07:30:03.337737+00:00",
-          "pending_msg": 1404,
+          "last_sent_at": "2026-10-22T10:18:34.545783+00:00",
+          "pending_msg": 1416,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -541,11 +541,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Our new neighbors hit it off so well that they flood my ceiling together now.",
-              "sentence_ru": "Наши новые соседи так быстро сошлись, что теперь заливают мой потолок вдвоем.",
-              "word_form": "hit it off"
-            },
             {
               "sentence": "If the new neighbor and my psycho cat hit it off, I am moving out immediately.",
               "sentence_ru": "Если новый сосед и мой психованный кот найдут общий язык, я съезжаю немедленно.",
@@ -565,15 +560,20 @@
               "sentence": "Me and my cellmate hit it off the second we both stole the same guard's Taser.",
               "sentence_ru": "Я и мой сокамерник сразу подружились, как только оба сперли электрошокер у одного надзирателя.",
               "word_form": "hit it off"
+            },
+            {
+              "sentence": "Mutated swamp goblins hit it off instantly while devouring the mayor's expensive Tesla.",
+              "sentence_ru": "Мутировавшие болотные гоблины сразу подружились, пожирая дорогой электрокар мэра.",
+              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 995969,
+          "due_tick": 995840,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T08:30:26.614473+00:00",
-          "pending_msg": 1408,
+          "last_sent_at": "2026-10-19T16:00:37.018727+00:00",
+          "pending_msg": 1360,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -582,11 +582,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Nobody lifts a finger in the house except me, I am going crazy!",
-              "sentence_ru": "Никто не ударяет палец о палец дома, кроме меня, я скоро сойду с ума!",
-              "word_form": "lifts a finger in the house"
-            },
             {
               "sentence": "If roommate Kevin never lifts a finger in the house again, I will glue his Xbox to the ceiling.",
               "sentence_ru": "Если сожитель Кевин еще хоть раз ударит палец о палец по дому, я приклею его Xbox к потолку.",
@@ -606,15 +601,20 @@
               "sentence": "My lazy husband never lifts a finger in the house, even when a raccoon steals the TV.",
               "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец дома, даже когда енот ворует телевизор.",
               "word_form": "lifts a finger in the house"
+            },
+            {
+              "sentence": "My lazy husband never lifts a finger in the house, even when our cat barfs on his face.",
+              "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец по дому, даже когда наш кот блевит ему на лицо.",
+              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 995971,
+          "due_tick": 995870,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T09:30:24.247940+00:00",
-          "pending_msg": 1412,
+          "last_sent_at": "2026-10-20T07:15:11.745775+00:00",
+          "pending_msg": 1368,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -623,11 +623,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Tomorrow you will be rolling in money, so stop crying into your instant ramen.",
-              "sentence_ru": "Завтра ты будешь купаться в деньгах, так что хватит плакать в свой доширак.",
-              "word_form": "rolling in money"
-            },
             {
               "sentence": "A resurrected dictator is rolling in money after selling exclusive rights to his frozen brain.",
               "sentence_ru": "Воскресший диктатор купается в деньгах после продажи эксклюзивных прав на свой замороженный мозг.",
@@ -647,15 +642,20 @@
               "sentence": "Aries, tomorrow you will be rolling in money after robbing a casino.",
               "sentence_ru": "Овен, завтра ты будешь купаться в деньгах после ограбления казино.",
               "word_form": "rolling in money"
+            },
+            {
+              "sentence": "If you are rolling in money, pay for the broken elevator, you greedy ghouls!",
+              "sentence_ru": "Если вы купаетесь в деньгах, оплатите сломанный лифт, жадные упыри!",
+              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 995972,
+          "due_tick": 995871,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T10:00:23.531318+00:00",
-          "pending_msg": 1414,
+          "last_sent_at": "2026-10-20T07:30:07.600918+00:00",
+          "pending_msg": 1370,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -788,11 +788,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "A stray goat secured a lucrative celebrity endorsement deal after eating the mayor's trousers on live television.",
-              "sentence_ru": "Бродячий козел заключил прибыльный рекламный контракт со звездами после того, как съел штаны мэра в прямом эфире.",
-              "word_form": "celebrity endorsement"
-            },
-            {
               "sentence": "This cream smells like hot garbage, but the celebrity endorsement made my grandma buy ten jars.",
               "sentence_ru": "Этот крем воняет как помойка, но реклама со звездой заставила мою бабулю купить десять банок.",
               "word_form": "celebrity endorsement"
@@ -811,15 +806,20 @@
               "sentence": "My ex ruined my life, but a cheap celebrity endorsement from a TikToker saved my business.",
               "sentence_ru": "Моя бывшая разрушила мою жизнь, но дешёвая рекламная интеграция от тиктокера спасла мой бизнес.",
               "word_form": "celebrity endorsement"
+            },
+            {
+              "sentence": "Even Satan uses celebrity endorsement to make hell look like an all-inclusive five-star resort.",
+              "sentence_ru": "Даже Сатана использует поддержку знаменитостей, чтобы ад выглядел как пятизвёздочный курорт всё включено.",
+              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 995970,
+          "due_tick": 995841,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T09:00:25.445696+00:00",
-          "pending_msg": 1410,
+          "last_sent_at": "2026-10-19T16:30:22.712690+00:00",
+          "pending_msg": 1362,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -869,7 +869,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 7,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -924,11 +924,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I run through the dark backstreets while my demons try to catch up.",
-              "sentence_ru": "Я бегу по темным переулкам, пока мои демоны пытаются меня догнать.",
-              "word_form": "backstreets"
-            },
-            {
               "sentence": "I steal fish from the rich and eat it in dark backstreets.",
               "sentence_ru": "Я ворую рыбу у богачей и жру её в тёмных переулках.",
               "word_form": "backstreets"
@@ -947,15 +942,20 @@
               "sentence": "Escaping my ex by sprinting through sketchy backstreets like a gremlin high on espresso.",
               "sentence_ru": "Убегаю от бывшего, мчась через сомнительные задворки, как обдолбанный эспрессо гремлин.",
               "word_form": "backstreets"
+            },
+            {
+              "sentence": "HR had to drag my drunk ass out of the backstreets before the quarterly review.",
+              "sentence_ru": "Эйчару пришлось вытаскивать мою пьяную задницу из трущоб прямо перед квартальным отчетом.",
+              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 995971,
+          "due_tick": 995871,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-22T09:30:26.719606+00:00",
-          "pending_msg": 1413,
+          "last_sent_at": "2026-10-20T07:30:08.892625+00:00",
+          "pending_msg": 1371,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1293,11 +1293,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It would be hard to deny that my cat is plotting a global domination coup.",
-              "sentence_ru": "Трудно отрицать, что мой кот замышляет переворот для захвата мира.",
-              "word_form": "It would be hard to deny that"
-            },
-            {
               "sentence": "It would be hard to deny that someone keeps flushing concrete down the toilet.",
               "sentence_ru": "Трудно отрицать, что кто-то продолжает смывать бетон в унитаз.",
               "word_form": "It would be hard to deny that"
@@ -1316,15 +1311,20 @@
               "sentence": "It would be hard to deny that mutant badgers stole the Mars rover.",
               "sentence_ru": "Трудно отрицать, что мутировавшие барсуки украли марсоход.",
               "word_form": "It would be hard to deny that"
+            },
+            {
+              "sentence": "It would be hard to deny that my new sugar daddy is way hotter than you.",
+              "sentence_ru": "Трудно отрицать, что мой новый папик намного горячее тебя.",
+              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 995972,
+          "due_tick": 995872,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T10:00:25.945083+00:00",
-          "pending_msg": 1415,
+          "last_sent_at": "2026-10-20T08:00:19.356861+00:00",
+          "pending_msg": 1373,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1333,11 +1333,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I hold the view that tomorrow your ex will regret dumping a psychic.",
-              "sentence_ru": "Я придерживаюсь мнения, что завтра твой бывший пожалеет, что бросил экстрасенса.",
-              "word_form": "I hold the view that"
-            },
             {
               "sentence": "I hold the view that your new boyfriend looks like a cheap thumb.",
               "sentence_ru": "Я считаю, что твой новый парень выглядит как дешевый палец.",
@@ -1357,15 +1352,20 @@
               "sentence": "I hold the view that this cursed cat toy is possessed by Satan himself.",
               "sentence_ru": "Я придерживаюсь мнения, что эта проклятая кошачья игрушка одержима самим Сатаной.",
               "word_form": "I hold the view that"
+            },
+            {
+              "sentence": "I hold the view that sentient pigeons should pay taxes for bombing statues.",
+              "sentence_ru": "Я придерживаюсь мнения, что разумные голуби должны платить налоги за бомбежку статуй.",
+              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995970,
+          "due_tick": 995870,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-22T09:00:28.014345+00:00",
-          "pending_msg": 1411,
+          "last_sent_at": "2026-10-20T07:15:12.946486+00:00",
+          "pending_msg": 1369,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1580,8 +1580,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "If you don't feed me right now, my vocal cords will seize up from pure starvation.",
-              "sentence_ru": "Если ты не покормишь меня прямо сейчас, мои голосовые связки заклинит от чистейшего голодания.",
+              "sentence": "My old elevator decided to seize up right when I was carrying thirty bags of beer.",
+              "sentence_ru": "Мой старый лифт решил заклинить ровно тогда, когда я тащил тридцать пакетов пива.",
               "word_form": "seize up"
             },
             {
@@ -1606,12 +1606,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 995967,
+          "due_tick": 995972,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-22T07:30:04.875201+00:00",
-          "pending_msg": 1405,
+          "last_sent_at": "2026-10-22T10:18:36.565611+00:00",
+          "pending_msg": 1417,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1620,11 +1620,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Neighbor, please ramp up your music volume, my walls are still too quiet and lonely.",
-              "sentence_ru": "Сосед, пожалуйста, сделай музыку погромче, мои стены всё еще слишком тихие и одинокие.",
-              "word_form": "ramp up"
-            },
             {
               "sentence": "Management will ramp up the noise of drills at 6 AM because you hate sleep.",
               "sentence_ru": "Администрация усилит шум дрелей в 6 утра, потому что вы ненавидите сон.",
@@ -1644,15 +1639,20 @@
               "sentence": "Time to ramp up my conspiracy theories until the neighbors start hiding.",
               "sentence_ru": "Пора наращивать обороты моих теорий заговора, пока соседи не начали прятаться.",
               "word_form": "ramp up"
+            },
+            {
+              "sentence": "Time to ramp up the chaos and steal my ex's Netflix.",
+              "sentence_ru": "Пора наращивать хаос и украсть Netflix у моего бывшего.",
+              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995968,
+          "due_tick": 995840,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-22T08:00:29.944094+00:00",
-          "pending_msg": 1407,
+          "last_sent_at": "2026-10-19T16:00:46.593563+00:00",
+          "pending_msg": 1361,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1661,11 +1661,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Aliens impose a mandatory tax on all shiny bald heads.",
-              "sentence_ru": "Инопланетяне вводят обязательный налог на все блестящие лысые головы.",
-              "word_form": "impose"
-            },
             {
               "sentence": "My cat decided to impose a strict tax on all mice in the living room.",
               "sentence_ru": "Мой кот решил навязать строгий налог на всех мышей в гостиной.",
@@ -1685,15 +1680,20 @@
               "sentence": "My cat decided to impose a strict tax on all mice in the living room.",
               "sentence_ru": "Мой кот решил навязывать строгий налог на всех мышей в гостиной.",
               "word_form": "impose"
+            },
+            {
+              "sentence": "Trying to impose my weird pet collection rules on my roommate went terribly wrong.",
+              "sentence_ru": "Пытаться навязать соседу по комнате мои странные правила коллекции питомцев прошло ужасно.",
+              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 995969,
+          "due_tick": 995841,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-22T08:30:29.194221+00:00",
-          "pending_msg": 1409,
+          "last_sent_at": "2026-10-19T16:30:32.977896+00:00",
+          "pending_msg": 1363,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1707,7 +1707,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 7,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
