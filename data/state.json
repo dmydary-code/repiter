@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He was profoundly disappointed when his pet cat ignored his million-dollar crypto portfolio.",
+              "sentence_ru": "Он был глубоко разочарован, когда его домашний кот проигнорировал его миллионный криптопортфель.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "Local cat becomes profoundly offended after receiving a generic plastic mouse.",
               "sentence_ru": "Местный кот глубоко оскорблен после получения дешевой пластиковой мыши.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "I stared profoundly into the abyss of my fridge, but only found sadness and expired mayo.",
               "sentence_ru": "Я глубоко вгляделся в бездну своего холодильника, но нашел лишь грусть и просроченный майонез.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "I stared into the empty fridge and felt profoundly betrayed by my past self.",
-              "sentence_ru": "Я заглянул в пустой холодильник и почувствовал себя глубоко преданным своим прошлым я.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995837,
+          "due_tick": 995966,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T14:30:04.966955+00:00",
-          "pending_msg": 1354,
+          "last_sent_at": "2026-10-22T07:00:27.834715+00:00",
+          "pending_msg": 1402,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995890,
+      "last_deliver_tick": 995918,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1457,6 +1457,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to adjust my crown while my ex cries in the background.",
+              "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший рыдает на заднем плане.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I had to adjust this cursed dildo’s speed because it was launching me into orbit.",
               "sentence_ru": "Мне пришлось настроить скорость этого проклятого фаллоимитатора, потому что он запускал меня на орбиту.",
               "word_form": "adjust"
@@ -1475,20 +1480,15 @@
               "sentence": "Mafia boss has to adjust his titanium crown after the street shootout.",
               "sentence_ru": "Босс мафии должен поправить свою титановую корону после уличной перестрелки.",
               "word_form": "to adjust"
-            },
-            {
-              "sentence": "Trying to adjust my crown while my ex cries in the VIP section.",
-              "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший рыдает в VIP-зоне.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 995838,
+          "due_tick": 995966,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-19T15:00:22.209378+00:00",
-          "pending_msg": 1357,
+          "last_sent_at": "2026-10-22T07:00:58.577682+00:00",
+          "pending_msg": 1403,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995890,
+      "last_deliver_tick": 995918,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
