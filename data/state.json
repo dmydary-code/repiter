@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen gnome and the neighbor's aggressive blender hit it off immediately.",
+              "sentence_ru": "Мой украденный гном и агрессивный блендер соседа сразу нашли общий язык.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "If the new neighbor and my psycho cat hit it off, I am moving out immediately.",
               "sentence_ru": "Если новый сосед и мой психованный кот найдут общий язык, я съезжаю немедленно.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Me and my cellmate hit it off the second we both stole the same guard's Taser.",
               "sentence_ru": "Я и мой сокамерник сразу подружились, как только оба сперли электрошокер у одного надзирателя.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Mutated swamp goblins hit it off instantly while devouring the mayor's expensive Tesla.",
-              "sentence_ru": "Мутировавшие болотные гоблины сразу подружились, пожирая дорогой электрокар мэра.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 995840,
+          "due_tick": 995974,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T16:00:37.018727+00:00",
-          "pending_msg": 1360,
+          "last_sent_at": "2026-10-22T11:00:07.552326+00:00",
+          "pending_msg": 1420,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995925,
+      "last_deliver_tick": 995926,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1662,6 +1662,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Do not impose your weird cat religion on the rest of the building residents.",
+              "sentence_ru": "Не навязывайте свою странную кошачью религию остальным жильцам дома.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "My cat decided to impose a strict tax on all mice in the living room.",
               "sentence_ru": "Мой кот решил навязать строгий налог на всех мышей в гостиной.",
               "word_form": "impose"
@@ -1680,20 +1685,15 @@
               "sentence": "My cat decided to impose a strict tax on all mice in the living room.",
               "sentence_ru": "Мой кот решил навязывать строгий налог на всех мышей в гостиной.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Trying to impose my weird pet collection rules on my roommate went terribly wrong.",
-              "sentence_ru": "Пытаться навязать соседу по комнате мои странные правила коллекции питомцев прошло ужасно.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 995841,
+          "due_tick": 995974,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-19T16:30:32.977896+00:00",
-          "pending_msg": 1363,
+          "last_sent_at": "2026-10-22T11:00:08.622906+00:00",
+          "pending_msg": 1421,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995925,
+      "last_deliver_tick": 995926,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
