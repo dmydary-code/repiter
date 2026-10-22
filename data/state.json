@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A stray goat secured a lucrative celebrity endorsement deal after eating the mayor's trousers on live television.",
+              "sentence_ru": "Бродячий козел заключил прибыльный рекламный контракт со звездами после того, как съел штаны мэра в прямом эфире.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "This cream smells like hot garbage, but the celebrity endorsement made my grandma buy ten jars.",
               "sentence_ru": "Этот крем воняет как помойка, но реклама со звездой заставила мою бабулю купить десять банок.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "My ex ruined my life, but a cheap celebrity endorsement from a TikToker saved my business.",
               "sentence_ru": "Моя бывшая разрушила мою жизнь, но дешёвая рекламная интеграция от тиктокера спасла мой бизнес.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "Even Satan uses celebrity endorsement to make hell look like an all-inclusive five-star resort.",
-              "sentence_ru": "Даже Сатана использует поддержку знаменитостей, чтобы ад выглядел как пятизвёздочный курорт всё включено.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 995841,
+          "due_tick": 995970,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-19T16:30:22.712690+00:00",
-          "pending_msg": 1362,
+          "last_sent_at": "2026-10-22T09:00:25.445696+00:00",
+          "pending_msg": 1410,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995921,
+      "last_deliver_tick": 995922,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1334,6 +1334,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that tomorrow your ex will regret dumping a psychic.",
+              "sentence_ru": "Я придерживаюсь мнения, что завтра твой бывший пожалеет, что бросил экстрасенса.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that your new boyfriend looks like a cheap thumb.",
               "sentence_ru": "Я считаю, что твой новый парень выглядит как дешевый палец.",
               "word_form": "I hold the view that"
@@ -1352,20 +1357,15 @@
               "sentence": "I hold the view that this cursed cat toy is possessed by Satan himself.",
               "sentence_ru": "Я придерживаюсь мнения, что эта проклятая кошачья игрушка одержима самим Сатаной.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that sentient pigeons should pay taxes for bombing statues.",
-              "sentence_ru": "Я придерживаюсь мнения, что разумные голуби должны платить налоги за бомбежку статуй.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995870,
+          "due_tick": 995970,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-20T07:15:12.946486+00:00",
-          "pending_msg": 1369,
+          "last_sent_at": "2026-10-22T09:00:28.014345+00:00",
+          "pending_msg": 1411,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995921,
+      "last_deliver_tick": 995922,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
