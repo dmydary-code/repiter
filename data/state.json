@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This acquired taste for blood is the only thing keeping me alive.",
+              "sentence_ru": "Этот приобретенный вкус к крови — единственное, что удерживает меня в живых.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That expensive leather sofa is my newly acquired scratching post, human.",
               "sentence_ru": "Этот дорогой кожаный диван — моя новоприобретенная когтеточка, двуногая.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "Local billionaire acquired a sentient toupee that demands daily human sacrifices.",
               "sentence_ru": "Местный миллиардер приобрел разумный парик, который требует ежедневных человеческих жертвоприношений.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "He acquired a rare taste for eating spicy soap during his prison years.",
-              "sentence_ru": "За годы в тюрьме у него выработался странный вкус к поеданию острого мыла.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995872,
+          "due_tick": 995978,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-20T08:00:18.004842+00:00",
-          "pending_msg": 1372,
+          "last_sent_at": "2026-10-22T13:00:42.694911+00:00",
+          "pending_msg": 1428,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995929,
+      "last_deliver_tick": 995930,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1539,6 +1539,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to wire up my ex's brain to a lie detector tonight.",
+              "sentence_ru": "Пытаюсь подключить мозг моего бывшего к детектору лжи сегодня вечером.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "I need you to wire up my new neon sign so I can stare at it while I cry.",
               "sentence_ru": "Мне нужно, чтобы ты подключил мою новую неоновую вывеску, пока я плачу, глядя на неё.",
               "word_form": "wire up"
@@ -1557,20 +1562,15 @@
               "sentence": "I tried to wire up the smart toaster, but it exploded and burned my cat.",
               "sentence_ru": "Я попытался подключить умный тостер, но он взорвался и поджарил моего кота.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I tried to wire up my cat to the Wi-Fi, now it runs at five gigahertz.",
-              "sentence_ru": "Я попытался подключить своего кота к вай-ваю, теперь он бегает на пяти гигагерцах.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 995873,
+          "due_tick": 995978,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-20T08:30:04.872989+00:00",
-          "pending_msg": 1375,
+          "last_sent_at": "2026-10-22T13:01:27.086037+00:00",
+          "pending_msg": 1429,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995929,
+      "last_deliver_tick": 995930,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
