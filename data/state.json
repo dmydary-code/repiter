@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Feeling slightly dead inside after checking my ex's new engagement photos.",
+              "sentence_ru": "Чувствую себя слегка мертвым внутри после просмотра фоток помолвки моего бывшего.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "I am slightly outside your window and I need my hoodie back.",
               "sentence_ru": "Я слегка за твоим окном и мне нужна моя толстовка обратно.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "The inflatable dinosaur was slightly on fire, but my kids loved the warmth.",
               "sentence_ru": "Надувной динозавр слегка горел, но моим детям очень понравилось тепло.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My ex is slightly on fire, but I still won't give him water.",
-              "sentence_ru": "Мой бывший слегка горит, но я всё равно не дам ему воды.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 995839,
+          "due_tick": 995968,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-19T15:30:12.009924+00:00",
-          "pending_msg": 1358,
+          "last_sent_at": "2026-10-22T08:00:26.944537+00:00",
+          "pending_msg": 1406,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995919,
+      "last_deliver_tick": 995920,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1621,6 +1621,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Neighbor, please ramp up your music volume, my walls are still too quiet and lonely.",
+              "sentence_ru": "Сосед, пожалуйста, сделай музыку погромче, мои стены всё еще слишком тихие и одинокие.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Management will ramp up the noise of drills at 6 AM because you hate sleep.",
               "sentence_ru": "Администрация усилит шум дрелей в 6 утра, потому что вы ненавидите сон.",
               "word_form": "ramp up"
@@ -1639,20 +1644,15 @@
               "sentence": "Time to ramp up my conspiracy theories until the neighbors start hiding.",
               "sentence_ru": "Пора наращивать обороты моих теорий заговора, пока соседи не начали прятаться.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Time to ramp up the chaos and steal my ex's Netflix.",
-              "sentence_ru": "Пора наращивать хаос и украсть Netflix у моего бывшего.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995840,
+          "due_tick": 995968,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-19T16:00:46.593563+00:00",
-          "pending_msg": 1361,
+          "last_sent_at": "2026-10-22T08:00:29.944094+00:00",
+          "pending_msg": 1407,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995919,
+      "last_deliver_tick": 995920,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-22",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
