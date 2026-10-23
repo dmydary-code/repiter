@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even this humble vacuum cleaner somehow managed to suck up my ex's shattered ego.",
+              "sentence_ru": "Даже этот скромный пылесос как-то умудрился засосать разбитое эго моего бывшего.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "He acts so humble on Instagram, but secretly flexes his gold-plated toilet.",
               "sentence_ru": "Он такой скромный в инстаграме, но втайне флексит своим золотым унитазом.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Try to look at least a little humble while I fire you.",
               "sentence_ru": "Постарайся выглядеть хотя бы немного скромным, пока я тебя увольняю.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even in his solid gold Gucci diaper, billionaire Elon still tries to act humble on Twitter.",
-              "sentence_ru": "Даже в своем золотом подгузнике от Gucci миллиардер Илон все еще пытается казаться скромным в Твиттере.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 995874,
+          "due_tick": 996019,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-20T09:00:17.303242+00:00",
-          "pending_msg": 1376,
+          "last_sent_at": "2026-10-23T09:30:21.470992+00:00",
+          "pending_msg": 1442,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995970,
+      "last_deliver_tick": 995971,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-23",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1006,6 +1006,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen gnomes flourish on a diet of pure cocaine and neighbor's tears.",
+              "sentence_ru": "Мои краденые гномы процветают на диете из чистого кокаина и слёз соседа.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My stolen gnomes flourish in the dark basement, fueled by pure chaos and pizza.",
               "sentence_ru": "Мои украденные гномы процветают в темном подвале, подпитываемые чистым хаосом и пиццей.",
               "word_form": "flourish"
@@ -1024,20 +1029,15 @@
               "sentence": "My new life without your toxic drama seems to flourish brilliantly at 3 AM.",
               "sentence_ru": "Моя новая жизнь без твоей токсичной драмы кажется прекрасно процветает в 3 часа ночи.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "My stolen gnomes flourish in the dark basement, fueled by pure chaos and pizza crusts.",
-              "sentence_ru": "Мои ворованные гномы процветают в темном подвале, подпитываемые чистым хаосом и корочками пиццы.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 995875,
+          "due_tick": 996019,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-20T09:30:05.464159+00:00",
-          "pending_msg": 1379,
+          "last_sent_at": "2026-10-23T09:30:22.703517+00:00",
+          "pending_msg": 1443,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995970,
+      "last_deliver_tick": 995971,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-23",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
