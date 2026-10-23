@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who decided to store this toxic chemical compound right next to the elevator?",
+              "sentence_ru": "Кто решил хранить это токсичное химическое вещество прямо у лифта?",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Drinking cheap tequila at your desk doesn't solve problems, it just compounds them.",
               "sentence_ru": "Пить дешевую текилу за рабочим столом не решает проблемы, а только усугубляет их.",
               "word_form": "compounds"
@@ -191,20 +196,15 @@
               "sentence": "I broke into your new compound just to sniff your old shampoo, psycho.",
               "sentence_ru": "Я проник в твой новый комплекс просто чтобы понюхать твой старый шампунь, психопатка.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My ex built a secret compound for his ego, but I just stole his Wi-Fi.",
-              "sentence_ru": "Мой бывший построил секретный бункер для своего эго, а я просто украла его вай-фай.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 995876,
+          "due_tick": 996017,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-20T10:00:12.695568+00:00",
-          "pending_msg": 1380,
+          "last_sent_at": "2026-10-23T08:30:15.398326+00:00",
+          "pending_msg": 1438,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995968,
+      "last_deliver_tick": 995969,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-23",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1375,6 +1375,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that my cat is planning to murder me in my sleep.",
+              "sentence_ru": "Мне кажется, что мой кот планирует убить меня во сне.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me you are opening the wet food way too slowly, human.",
               "sentence_ru": "Мне кажется, ты открываешь влажный корм чертовски медленно, кожаная.",
               "word_form": "It seems to me"
@@ -1393,20 +1398,15 @@
               "sentence": "It seems to me that my sanity finally checked out and slammed the door.",
               "sentence_ru": "Мне кажется, что мой рассудок окончательно съехал и хлопнул дверью.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that your cat is plotting a bloody coup.",
-              "sentence_ru": "Мне кажется, что твой кот замышляет кровавый переворот.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 995881,
+          "due_tick": 996017,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-20T12:55:36.330522+00:00",
-          "pending_msg": 1385,
+          "last_sent_at": "2026-10-23T08:30:16.565336+00:00",
+          "pending_msg": 1439,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995968,
+      "last_deliver_tick": 995969,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-23",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
