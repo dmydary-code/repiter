@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex tried to devastate my bank account, but I blocked her card first.",
+              "sentence_ru": "Моя бывшая попыталась опустошить мой банковский счет, но я заблокировал ее карту первым.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Tomorrow your ex will utterly devastate your fridge and leave only sad mayonnaise.",
               "sentence_ru": "Завтра твой бывший полностью разнесет твой холодильник и оставит лишь грустный майонез.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "My ex tried to devastate me, but I just bought a pony instead.",
               "sentence_ru": "Мой бывший пытался меня уничтожить, но я просто купила пони.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "Your expired sushi dropsy will totally devastate my toilet bowl tonight.",
-              "sentence_ru": "Твои просроченные суши с капельницей полностью разнесут мой унитаз сегодня ночью.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 995881,
+          "due_tick": 996022,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-20T12:55:32.704827+00:00",
-          "pending_msg": 1384,
+          "last_sent_at": "2026-10-23T11:00:26.086370+00:00",
+          "pending_msg": 1448,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995973,
+      "last_deliver_tick": 995974,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-23",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1089,6 +1089,11 @@
           "cache": [
             {
               "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
+              "sentence_ru": "Моему бывшему пришлось перенести полную пересадку мозга, чтобы просто вспомнить моё имя.",
+              "word_form": "undergo"
+            },
+            {
+              "sentence": "My ex had to undergo a full brain transplant just to remember my name.",
               "sentence_ru": "Моей бывшей пришлось перенести полную пересадку мозга, чтобы просто вспомнить мое имя.",
               "word_form": "undergo"
             },
@@ -1106,20 +1111,15 @@
               "sentence": "Local politician had to undergo mandatory exorcism after sneezing backwards during live TV debate.",
               "sentence_ru": "Местный политик был вынужден пройти обязательное изгнание бесов после того, как чихнул задом наперед во время дебатов в прямом эфире.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "I had to undergo an exorcism just to forget your toxic text messages.",
-              "sentence_ru": "Мне пришлось пройти через экзорцизм, только чтобы забыть твои токсичные смски.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 995918,
+          "due_tick": 996022,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-21T07:00:14.813420+00:00",
-          "pending_msg": 1387,
+          "last_sent_at": "2026-10-23T11:00:34.124913+00:00",
+          "pending_msg": 1449,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995973,
+      "last_deliver_tick": 995974,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-23",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
