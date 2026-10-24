@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Why are you looking at my new rich boyfriend so plaintively while eating dust?",
+              "sentence_ru": "Почему ты так жалобно смотришь на моего нового богатого парня, пока жуешь пыль?",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "Chad stared plaintively at the last donut before HR shoved it into her desk drawer.",
               "sentence_ru": "Чэд жалобно уставился на последний пончик, прежде чем HR засунула его в ящик своего стола.",
               "word_form": "plaintively"
@@ -850,12 +855,12 @@
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 995922,
+          "due_tick": 996064,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-21T09:00:19.936709+00:00",
-          "pending_msg": 1394,
+          "last_sent_at": "2026-10-24T08:00:22.786804+00:00",
+          "pending_msg": 1472,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -865,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996015,
+      "last_deliver_tick": 996016,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1252,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, your new boyfriend looks like a sad potato in skinny jeans.",
+              "sentence_ru": "В общем и целом, твой новый парень выглядит как грустный картофель в обтягивающих джинсах.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, my life is just a trash fire wearing a cute little hat.",
               "sentence_ru": "В общем и целом, моя жизнь — это просто помойная яма в симпатичной шляпке.",
               "word_form": "By and large"
@@ -1270,20 +1280,15 @@
               "sentence": "By and large, mutant raccoons voted to ban pants across the entire galaxy.",
               "sentence_ru": "В общем и целом, мутировавшие еноты проголосовали за запрет штанов по всей галактике.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, my life is a tragicomedy written by a drunk and vengeful god.",
-              "sentence_ru": "В целом, моя жизнь — это трагикомедия, написанная пьяным и мстительным богом.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 995923,
+          "due_tick": 996064,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-21T09:30:06.602311+00:00",
-          "pending_msg": 1397,
+          "last_sent_at": "2026-10-24T08:00:24.278439+00:00",
+          "pending_msg": 1473,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1703,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996015,
+      "last_deliver_tick": 996016,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
