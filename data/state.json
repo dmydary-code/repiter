@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You set your heart on ruining my nap, human, but I still demand salmon.",
+              "sentence_ru": "Ты твердо нацелилась испортить мой сон, человек, но я всё равно требую лосось.",
+              "word_form": "set your heart on"
+            },
+            {
               "sentence": "I set my heart on ruining your new wedding, Wyd. Wake up.",
               "sentence_ru": "Я загорелся идеей испортить твою новую свадьбу, малая. Проснись.",
               "word_form": "set my heart on"
@@ -478,20 +483,15 @@
               "sentence": "Aries, you set your heart on stealing the neighbor's prize-winning cat tomorrow.",
               "sentence_ru": "Овны, завтра вы страстно возжелаете украсть призового кота соседа.",
               "word_form": "set your heart on"
-            },
-            {
-              "sentence": "I set heart on stealing my ex's Netflix account forever.",
-              "sentence_ru": "Я твердо нацелился навсегда украсть аккаунт моего бывшего в Нетфликсе.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 995924,
+          "due_tick": 996066,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-21T10:00:10.839834+00:00",
-          "pending_msg": 1398,
+          "last_sent_at": "2026-10-24T09:00:22.063069+00:00",
+          "pending_msg": 1476,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996017,
+      "last_deliver_tick": 996018,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your filthy life choices are altogether unacceptable, human, now open that wet food.",
+              "sentence_ru": "Твои грязные жизненные выборы совершенно неприемлемы, человек, а теперь открывай влажный корм.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "We got lost, ruined our tent, and altogether lost our minds in the woods.",
               "sentence_ru": "Мы заблудились, испортили палатку и вообще полностью сошли с ума в лесу.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "This weird vibrating cushion is altogether the worst purchase of my miserable life.",
               "sentence_ru": "Эта странная вибрирующая подушка — в целом худшая покупка моей жалкой жизни.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "My sanity didn't fracture slowly; it shattered altogether the moment she ordered pineapple pizza.",
-              "sentence_ru": "Мой рассудок трещал не медленно — он рухнул окончательно в тот момент, когда она заказала пиццу с ананасами.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 995925,
+          "due_tick": 996066,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-21T10:30:15.482472+00:00",
-          "pending_msg": 1401,
+          "last_sent_at": "2026-10-24T09:00:26.922410+00:00",
+          "pending_msg": 1477,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996017,
+      "last_deliver_tick": 996018,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
