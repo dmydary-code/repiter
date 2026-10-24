@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your constant screaming won't undermine my confidence, human, I'm already a furry god.",
+              "sentence_ru": "Твой постоянный крик не подрвет мою уверенность, человек, я уже пушистый бог.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Her constant whispering and toxic gossip slowly undermine my last shreds of sanity.",
               "sentence_ru": "Её постоянное шёпотное и токсичное сплетничание медленно подрывает мои последние крохи здравомыслия.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Who keeps trying to undermine the building foundation with a plastic spoon in the chat?",
               "sentence_ru": "Кто тут в чате опять пытается подкопать фундамент здания пластиковой ложкой?",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Your constant midnight howling is just a plot to undermine my sanity.",
-              "sentence_ru": "Твой постоянный ночной вой — это просто заговор с целью подорвать мой рассудок.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 995920,
+          "due_tick": 996062,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-21T08:00:50.930541+00:00",
-          "pending_msg": 1390,
+          "last_sent_at": "2026-10-24T07:00:15.944273+00:00",
+          "pending_msg": 1466,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 995984,
+      "last_deliver_tick": 996014,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1170,6 +1170,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An unexpected influx of stray cats ruined my secret goth meeting in the alley.",
+              "sentence_ru": "Неожиданный наплыв бродячих кошек сорвал мою тайную гот-встречу в переулке.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "Tomorrow brings a chaotic influx of weird exes, so lock your doors and hide the tequila.",
               "sentence_ru": "Завтра принесет хаотичный наплыв странных бывших, так что заприте двери и спрячьте текилу.",
               "word_form": "influx"
@@ -1188,20 +1193,15 @@
               "sentence": "An unexpected influx of aggressive badgers ruined our cozy underground poker tournament.",
               "sentence_ru": "Неожиданный наплыв агрессивных барсуков сорвал наш уютный подпольный покерный турнир.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "This sudden influx of my exes' new partners into my brain is driving me insane.",
-              "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в мой мозг сводит меня с ума.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 995921,
+          "due_tick": 996062,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-21T08:30:19.167975+00:00",
-          "pending_msg": 1393,
+          "last_sent_at": "2026-10-24T07:00:17.426319+00:00",
+          "pending_msg": 1467,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 995984,
+      "last_deliver_tick": 996014,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
