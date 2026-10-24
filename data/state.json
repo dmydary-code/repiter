@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you will be profoundly confused when your cat starts speaking fluent French.",
+              "sentence_ru": "Завтра ты будешь глубоко ошеломлен, когда твой кот заговорит на беглом французском.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "He was profoundly disappointed when his pet cat ignored his million-dollar crypto portfolio.",
               "sentence_ru": "Он был глубоко разочарован, когда его домашний кот проигнорировал его миллионный криптопортфель.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "I am profoundly sorry that I blocked you while riding a lime scooter naked.",
               "sentence_ru": "Я глубоко сожалею, что заблокировал тебя, пока голым катался на самокате.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "I stared profoundly into the abyss of my fridge, but only found sadness and expired mayo.",
-              "sentence_ru": "Я глубоко вгляделся в бездну своего холодильника, но нашел лишь грусть и просроченный майонез.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 995966,
+          "due_tick": 996068,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T07:00:27.834715+00:00",
-          "pending_msg": 1402,
+          "last_sent_at": "2026-10-24T10:00:26.263292+00:00",
+          "pending_msg": 1480,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996019,
+      "last_deliver_tick": 996020,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex tried to text me, and my brain instantly decided to seize up.",
+              "sentence_ru": "Моя бывшая попыталась мне написать, и мой мозг моментально решил оцепенеть.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My old elevator decided to seize up right when I was carrying thirty bags of beer.",
               "sentence_ru": "Мой старый лифт решил заклинить ровно тогда, когда я тащил тридцать пакетов пива.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "Your brain will seize up if you try to buy cheap cat food again, human.",
               "sentence_ru": "Твой мозг заклинит, если ты снова попытаешься купить дешёвый кошачий корм, человек.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My ex tried to talk to me and my brain just decided to seize up completely.",
-              "sentence_ru": "Мой бывший попытался заговорить со мной, и мой мозг просто решил окончательно заклинить.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 995972,
+          "due_tick": 996068,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-22T10:18:36.565611+00:00",
-          "pending_msg": 1417,
+          "last_sent_at": "2026-10-24T10:00:29.710356+00:00",
+          "pending_msg": 1481,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996019,
+      "last_deliver_tick": 996020,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
