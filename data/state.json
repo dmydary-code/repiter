@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still try to wash away the blood of my poor choices, but the sink is just laughing at me.",
+              "sentence_ru": "Я всё ещё пытаюсь смыть кровь своих жалких выборов, но раковина просто смеется надо мной.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Tomorrow you will try to steal a police horse, but the horse will judge you.",
               "sentence_ru": "Завтра ты попытаешься украсть полицейскую лошадь, но лошадь осудит тебя.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "I try to forget the taste of her betrayal, but it lingers like cheap tequila.",
               "sentence_ru": "Я пытаюсь забыть вкус ее предательства, но он держится, как дешевая текила.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Don't even try to hide the good fish behind your back, human.",
-              "sentence_ru": "Даже не пытайся спрятать хорошую рыбу за спиной, кожаная.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 995921,
+          "due_tick": 996063,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-21T08:30:17.981408+00:00",
-          "pending_msg": 1392,
+          "last_sent_at": "2026-10-24T07:30:13.354907+00:00",
+          "pending_msg": 1470,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -865,11 +865,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996014,
+      "last_deliver_tick": 996015,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1211,6 +1211,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Attention! The lift drops to hell now and then, so scream louder to speed it up.",
+              "sentence_ru": "Внимание! Лифт время от времени падает в ад, так что оршите громче, чтобы ускорить его.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "My pet raccoon steals my underwear now and then, just to assert dominance.",
               "sentence_ru": "Мой домашний енот время от времени ворует мое белье, просто чтобы утвердить доминирование.",
               "word_form": "now and then"
@@ -1229,20 +1234,15 @@
               "sentence": "Dear neighbors, the ghost in the elevator screams now and then, please do not feed it.",
               "sentence_ru": "Дорогие соседи, привидение в лифте время от времени орет, пожалуйста, не кормите его.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Mutated stray cats steal nuclear launch codes now and then.",
-              "sentence_ru": "Мутировавшие бродячие коты время от времени крадут коды ядерного запуска.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 995922,
+          "due_tick": 996063,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-21T09:00:22.066639+00:00",
-          "pending_msg": 1395,
+          "last_sent_at": "2026-10-24T07:30:14.823550+00:00",
+          "pending_msg": 1471,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1703,11 +1703,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996014,
+      "last_deliver_tick": 996015,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
