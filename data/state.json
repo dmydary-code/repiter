@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever you cry, my new girlfriend laughs so hard she snorts.",
+              "sentence_ru": "Всякий раз, когда ты плачешь, моя новая девушка смеется так громко, что хрюкает.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "Whenever my cat wears a tiny top hat, the local pigeons start paying him taxes.",
               "sentence_ru": "Всякий раз, когда моя кошка надевает крошечный цилиндр, местные голуби начинают платить ей налоги.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Chad cries in the supply closet whenever the printer looks at him wrong.",
               "sentence_ru": "Чад плачет в подсобке всякий раз, когда принтер косо на него смотрит.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "This cursed vacuum cleaner tries to eat my cat whenever I turn it on.",
-              "sentence_ru": "Этот проклятый пылесос пытается сожрать моего кота всякий раз, когда я его включаю.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 995923,
+          "due_tick": 996065,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-21T09:30:05.468887+00:00",
-          "pending_msg": 1396,
+          "last_sent_at": "2026-10-24T08:30:07.813589+00:00",
+          "pending_msg": 1474,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996016,
+      "last_deliver_tick": 996017,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that your new boyfriend's face looks like a squashed potato.",
+              "sentence_ru": "Я склонен думать, что лицо твоего нового бойфренда похоже на примятую картошку.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that your new boyfriend is just a potato in a wig.",
               "sentence_ru": "Я склоняюсь к мысли, что твой новый парень — просто картофелина в парике.",
               "word_form": "I'm inclined to think that"
@@ -1439,20 +1444,15 @@
               "sentence": "I'm inclined to think that my sanity died somewhere around midnight.",
               "sentence_ru": "Я склонен думать, что мой рассудок сдох где-то около полуночи.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that whoever keeps drilling at 3 AM hates all of us.",
-              "sentence_ru": "Я склонен думать, что тот, кто продолжает сверлить в 3 часа ночи, ненавидит всех нас.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 995924,
+          "due_tick": 996065,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-21T10:00:12.041618+00:00",
-          "pending_msg": 1399,
+          "last_sent_at": "2026-10-24T08:30:10.758474+00:00",
+          "pending_msg": 1475,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996016,
+      "last_deliver_tick": 996017,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
