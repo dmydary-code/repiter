@@ -132,8 +132,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Your constant screaming won't undermine my confidence, human, I'm already a furry god.",
-              "sentence_ru": "Твой постоянный крик не подрвет мою уверенность, человек, я уже пушистый бог.",
+              "sentence": "He tried to undermine my authority by feeding my prized parrot secret government documents.",
+              "sentence_ru": "Он попытался подорвать мой авторитет, скормив моему ценному попугаю секретные госдокументы.",
               "word_form": "undermine"
             },
             {
@@ -162,8 +162,8 @@
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-24T07:00:15.944273+00:00",
-          "pending_msg": 1466,
+          "last_sent_at": "2026-10-24T07:17:51.777760+00:00",
+          "pending_msg": 1468,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -1170,8 +1170,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "An unexpected influx of stray cats ruined my secret goth meeting in the alley.",
-              "sentence_ru": "Неожиданный наплыв бродячих кошек сорвал мою тайную гот-встречу в переулке.",
+              "sentence": "This sudden influx of annoying interns means I'm locking my office door forever.",
+              "sentence_ru": "Этот внезапный наплыв бесячих стажеров означает, что я запираю дверь кабинета навсегда.",
               "word_form": "influx"
             },
             {
@@ -1200,8 +1200,8 @@
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-24T07:00:17.426319+00:00",
-          "pending_msg": 1467,
+          "last_sent_at": "2026-10-24T07:17:53.034986+00:00",
+          "pending_msg": 1469,
           "reps": 0,
           "step": 0,
           "word": "influx",
