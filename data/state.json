@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I will not mince words: whoever keeps dumping cat litter in the elevator is a psycho.",
+              "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает сыпать кошачий наполнитель в лифте — психопат.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "Listen, I won't mince words: your quarterly report is pure garbage, Chad.",
               "sentence_ru": "Слушай, я не буду подбирать выражения: твой квартальный отчёт — полнейший мусор, Чад.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "My boss didn't mince words before firing me via TikTok live.",
               "sentence_ru": "Мой босс не стал подбирать выражения перед тем, как уволить меня через прямой эфир в TikTok.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "He didn't mince words and told the cat its singing sounds like dying bagpipes.",
-              "sentence_ru": "Он не стал подбирать выражения и сказал коту, что его пение похоже на умирающую волынку.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 995972,
+          "due_tick": 996069,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T10:18:34.545783+00:00",
-          "pending_msg": 1416,
+          "last_sent_at": "2026-10-24T10:30:15.942225+00:00",
+          "pending_msg": 1482,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996020,
+      "last_deliver_tick": 996021,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1626,6 +1626,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Grandma decided to ramp up production of illegal jam in her basement.",
+              "sentence_ru": "Бабушка решила нарастить производство нелегального варенья в своем подвале.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
               "sentence_ru": "Чел был вынужден нарастить дозу кофеина, просто чтобы выжить в понедельник утром.",
               "word_form": "ramp up"
@@ -1644,20 +1649,15 @@
               "sentence": "Human, ramp up my wet food production or I will shit in your Gucci boots.",
               "sentence_ru": "Человек, наращивай производство моего влажного корма, или я нагажу в твои туфли Gucci.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Time to ramp up my conspiracy theories until the neighbors start hiding.",
-              "sentence_ru": "Пора наращивать обороты моих теорий заговора, пока соседи не начали прятаться.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 995973,
+          "due_tick": 996069,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-22T10:30:05.014058+00:00",
-          "pending_msg": 1419,
+          "last_sent_at": "2026-10-24T10:30:20.452791+00:00",
+          "pending_msg": 1483,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996020,
+      "last_deliver_tick": 996021,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-24",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
