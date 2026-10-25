@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex and my new therapist hit it off immediately and now they judge me together.",
+              "sentence_ru": "Моя бывшая и мой новый психотерапевт сразу нашли общий язык и теперь осуждают меня вместе.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "My stolen gnome and the neighbor's aggressive blender hit it off immediately.",
               "sentence_ru": "Мой украденный гном и агрессивный блендер соседа сразу нашли общий язык.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Satan and the Pope hit it off immediately during secret martini summit in Hell.",
               "sentence_ru": "Сатана и Папа Римский сразу поладили во время тайного саммита с мартини в Аду.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Me and my cellmate hit it off the second we both stole the same guard's Taser.",
-              "sentence_ru": "Я и мой сокамерник сразу подружились, как только оба сперли электрошокер у одного надзирателя.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 995974,
+          "due_tick": 996111,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T11:00:07.552326+00:00",
-          "pending_msg": 1420,
+          "last_sent_at": "2026-10-25T07:30:12.448285+00:00",
+          "pending_msg": 1486,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996062,
+      "last_deliver_tick": 996063,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that your ex will burst into flames tomorrow.",
+              "sentence_ru": "Я придерживаюсь мнения, что твой бывший завтра вспыхнет как факел.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that mutant pigeons should pay taxes for shitting on statues.",
               "sentence_ru": "Я придерживаюсь мнения, что голуби-мутанты должны платить налоги за обгаживание памятников.",
               "word_form": "I hold the view that"
@@ -1357,20 +1362,15 @@
               "sentence": "I hold the view that talking dolphins should pay taxes on their stolen fish.",
               "sentence_ru": "Я придерживаюсь мнения, что говорящие дельфины должны платить налоги с украденной рыбы.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that this cursed cat toy is possessed by Satan himself.",
-              "sentence_ru": "Я придерживаюсь мнения, что эта проклятая кошачья игрушка одержима самим Сатаной.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 995975,
+          "due_tick": 996111,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-22T11:30:30.612145+00:00",
-          "pending_msg": 1423,
+          "last_sent_at": "2026-10-25T07:30:13.518805+00:00",
+          "pending_msg": 1487,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996062,
+      "last_deliver_tick": 996063,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
