@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If your cat acquired a taste for neighbor's blood, keep it inside.",
+              "sentence_ru": "Если ваш кот приобрел вкус к соседской крови, держите его дома.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That weird allergy to accounting department snacks was totally acquired after the pizza incident.",
               "sentence_ru": "Эта странная аллергия на перекусы из бухгалтерского отдела появилась после того инцидента с пиццей.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That expensive leather sofa is just my latest acquired luxury for clawing.",
               "sentence_ru": "Этот дорогой кожаный диван — просто моя последняя приобретенная роскошь для точения когтей.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Local billionaire acquired a sentient toupee that demands daily human sacrifices.",
-              "sentence_ru": "Местный миллиардер приобрел разумный парик, который требует ежедневных человеческих жертвоприношений.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 995983,
+          "due_tick": 996115,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T16:00:03.278389+00:00",
-          "pending_msg": 1430,
+          "last_sent_at": "2026-10-25T09:30:08.767458+00:00",
+          "pending_msg": 1494,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996066,
+      "last_deliver_tick": 996067,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Your new life without me looks as drab as your grandma’s curtains.",
+              "sentence_ru": "Твоя новая жизнь без меня выглядит такой же унылой, как шторы твоей бабушки.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Your new curtains are so drab that even I want to throw up a hairball.",
               "sentence_ru": "Твои новые шторы такие унылые, что даже мне хочется выблевать шерстяной комок.",
@@ -906,20 +911,15 @@
               "sentence": "Even the radioactive pigeon looked drab sitting on our depressing balcony.",
               "sentence_ru": "Даже радиоактивный голубь выглядел уныло, сидя на нашем депрессивном балконе.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Extraterrestrial dictator bans all neon colors, making the entire Martian capital aggressively drab.",
-              "sentence_ru": "Внеземной диктатор запретил все неоновые цвета, сделав всю марсианскую столицу агрессивно унылой.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996018,
+          "due_tick": 996115,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-23T09:00:23.062937+00:00",
-          "pending_msg": 1441,
+          "last_sent_at": "2026-10-25T09:30:10.079449+00:00",
+          "pending_msg": 1495,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996066,
+      "last_deliver_tick": 996067,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
