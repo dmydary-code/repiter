@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons encorage me to set the ex's yacht on fire.",
+              "sentence_ru": "Мои внутренние демоны подбадривают меня поджечь яхту бывшего.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "You should encourage my laziness with expensive salmon, human, not with empty praise.",
               "sentence_ru": "Ты должна поощрять мою ленивость дорогим лососем, человек, а не пустой похвалой.",
               "word_form": "encourage"
@@ -314,20 +319,15 @@
               "sentence": "Necromancers encorage local skeletons to vote in the mayoral elections.",
               "sentence_ru": "Некроманты поощряют местных скелетов голосовать на выборах мэра.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My inner demons encorage me to eat the entire cake at 3 AM.",
-              "sentence_ru": "Мои внутренние демоны поощряют меня сожрать весь торт в три часа ночи.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 996018,
+          "due_tick": 996116,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-23T09:00:21.768671+00:00",
-          "pending_msg": 1440,
+          "last_sent_at": "2026-10-25T10:00:21.217410+00:00",
+          "pending_msg": 1496,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996067,
+      "last_deliver_tick": 996068,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Drug dealers seem to flourish in our lobby while the intercom is broken.",
+              "sentence_ru": "Наркоторговцы, кажется, процветают в нашем вестибюле, пока домофон сломан.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My stolen gnomes flourish on a diet of pure cocaine and neighbor's tears.",
               "sentence_ru": "Мои краденые гномы процветают на диете из чистого кокаина и слёз соседа.",
               "word_form": "flourish"
@@ -1029,20 +1034,15 @@
               "sentence": "Leos will finally flourish after stealing their exes' crypto wallets tomorrow.",
               "sentence_ru": "Завтра Львы наконец-то преуспеют после кражи криптокошельков своих бывших.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "My new life without your toxic drama seems to flourish brilliantly at 3 AM.",
-              "sentence_ru": "Моя новая жизнь без твоей токсичной драмы кажется прекрасно процветает в 3 часа ночи.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 996019,
+          "due_tick": 996116,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-23T09:30:22.703517+00:00",
-          "pending_msg": 1443,
+          "last_sent_at": "2026-10-25T10:00:22.429578+00:00",
+          "pending_msg": 1497,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996067,
+      "last_deliver_tick": 996068,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
