@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even my humble apologies at 3 AM won't fix how much I ruined us.",
+              "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как сильно я нас разрушил.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even this humble vacuum cleaner somehow managed to suck up my ex's shattered ego.",
               "sentence_ru": "Даже этот скромный пылесос как-то умудрился засосать разбитое эго моего бывшего.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even in my solid gold pajamas, I try to remain humble for the gram.",
               "sentence_ru": "Даже в своей пижаме из чистого золота я стараюсь оставаться скромным для инстаграма.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Try to look at least a little humble while I fire you.",
-              "sentence_ru": "Постарайся выглядеть хотя бы немного скромным, пока я тебя увольняю.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 996019,
+          "due_tick": 996120,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-23T09:30:21.470992+00:00",
-          "pending_msg": 1442,
+          "last_sent_at": "2026-10-25T12:00:22.475450+00:00",
+          "pending_msg": 1502,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996071,
+      "last_deliver_tick": 996072,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a chainsaw.",
+              "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки бензопилой.",
+              "word_form": "to demolish"
+            },
+            {
               "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a heavy iron hammer.",
               "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки тяжелым железным молотком.",
               "word_form": "to demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "Me and the boys on our way to demolish my ex's new smart-house.",
               "sentence_ru": "Я и пацаны по пути, чтобы снести новый умный дом моего бывшего.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "I used this aggressive vacuum cleaner to demolish my ex's weird modern art statue.",
-              "sentence_ru": "Я использовал этот агрессивный пылесос, чтобы снести странную статую современного искусства моего бывшего.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 996020,
+          "due_tick": 996120,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-10-23T10:00:20.985584+00:00",
-          "pending_msg": 1445,
+          "last_sent_at": "2026-10-25T12:00:23.616489+00:00",
+          "pending_msg": 1503,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996071,
+      "last_deliver_tick": 996072,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
