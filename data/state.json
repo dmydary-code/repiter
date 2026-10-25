@@ -9,11 +9,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Even in his gold-plated private jet, billionaire Gary claims to stay totally humble.",
-              "sentence_ru": "Даже в своем позолоченном частном самолете миллиардер Гэри утверждает, что остается абсолютно скромным.",
-              "word_form": "humble"
-            },
-            {
               "sentence": "Even this humble vacuum cleaner somehow managed to suck up my ex's shattered ego.",
               "sentence_ru": "Даже этот скромный пылесос как-то умудрился засосать разбитое эго моего бывшего.",
               "word_form": "humble"
@@ -32,15 +27,20 @@
               "sentence": "Even in my solid gold pajamas, I try to remain humble for the gram.",
               "sentence_ru": "Даже в своей пижаме из чистого золота я стараюсь оставаться скромным для инстаграма.",
               "word_form": "humble"
+            },
+            {
+              "sentence": "Try to look at least a little humble while I fire you.",
+              "sentence_ru": "Постарайся выглядеть хотя бы немного скромным, пока я тебя увольняю.",
+              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 996117,
+          "due_tick": 996019,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-25T10:30:06.706437+00:00",
-          "pending_msg": 1498,
+          "last_sent_at": "2026-10-23T09:30:21.470992+00:00",
+          "pending_msg": 1442,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -296,8 +296,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My inner demons encorage me to set the ex's yacht on fire.",
-              "sentence_ru": "Мои внутренние демоны подбадривают меня поджечь яхту бывшего.",
+              "sentence": "I encorage you to delete my number before I start crying in your bushes.",
+              "sentence_ru": "Я поощряю тебя удалить мой номер, пока я не начал плакать у тебя в кустах.",
               "word_form": "encorage"
             },
             {
@@ -322,12 +322,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 996116,
+          "due_tick": 996119,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-25T10:00:21.217410+00:00",
-          "pending_msg": 1496,
+          "last_sent_at": "2026-10-25T11:39:32.327277+00:00",
+          "pending_msg": 1500,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -874,7 +874,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,8 +1011,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Drug dealers seem to flourish in our lobby while the intercom is broken.",
-              "sentence_ru": "Наркоторговцы, кажется, процветают в нашем вестибюле, пока домофон сломан.",
+              "sentence": "My ex-boyfriend's new relationship is bound to flourish, just like toxic mold in a damp basement.",
+              "sentence_ru": "Новые отношения моего бывшего обязательно пойдут в гору, прямо как токсичная плесень во влажном подвале.",
               "word_form": "flourish"
             },
             {
@@ -1037,12 +1037,12 @@
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 996116,
+          "due_tick": 996119,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-25T10:00:22.429578+00:00",
-          "pending_msg": 1497,
+          "last_sent_at": "2026-10-25T11:39:33.489611+00:00",
+          "pending_msg": 1501,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1051,11 +1051,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Chad is going to demolish the entire accounting department after they lost his favourite stapler.",
-              "sentence_ru": "Чад собирается снести весь бухгалтерский отдел после того, как они потеряли его любимый степлер.",
-              "word_form": "demolish"
-            },
             {
               "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a heavy iron hammer.",
               "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки тяжелым железным молотком.",
@@ -1075,15 +1070,20 @@
               "sentence": "Me and the boys on our way to demolish my ex's new smart-house.",
               "sentence_ru": "Я и пацаны по пути, чтобы снести новый умный дом моего бывшего.",
               "word_form": "demolish"
+            },
+            {
+              "sentence": "I used this aggressive vacuum cleaner to demolish my ex's weird modern art statue.",
+              "sentence_ru": "Я использовал этот агрессивный пылесос, чтобы снести странную статую современного искусства моего бывшего.",
+              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 996117,
+          "due_tick": 996020,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-10-25T10:30:07.980480+00:00",
-          "pending_msg": 1499,
+          "last_sent_at": "2026-10-23T10:00:20.985584+00:00",
+          "pending_msg": 1445,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1712,7 +1712,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
