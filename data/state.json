@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat is rolling in money after selling his bathwater to simps.",
+              "sentence_ru": "Мой кот купается в деньгах после продажи воды из своей ванны симпам.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "I'm rolling in money now, yet you still block my calls at 3 AM.",
               "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё равно блокируешь мои звонки в три часа ночи.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "Human, stop crying about bills because we are finally rolling in money.",
               "sentence_ru": "Человек, хватит ныть из-за счетов, ведь мы наконец-то купаемся в деньгах.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "Aries, tomorrow you will be rolling in money after robbing a casino.",
-              "sentence_ru": "Овен, завтра ты будешь купаться в деньгах после ограбления казино.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 995977,
+          "due_tick": 996114,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-22T12:30:10.990236+00:00",
-          "pending_msg": 1426,
+          "last_sent_at": "2026-10-25T09:00:21.335761+00:00",
+          "pending_msg": 1492,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996065,
+      "last_deliver_tick": 996066,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Hacker Bob tried to wire up his cat, but now the pet screams in dial-up.",
+              "sentence_ru": "Хакерок Боб попытался подключить проводами своего кота, но теперь питомец орет на языке модема.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "If you wire up the CEO's coffee machine to the printer, I'll pay you fifty bucks.",
               "sentence_ru": "Если ты подключишь кофемашину генерального к принтеру, я заплачу тебе полтинник.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "I tried to wire up my cat to the router, but he just shed on the LAN ports.",
               "sentence_ru": "Я попытался подключить проводами своего кота к роутеру, но он просто наоставлял шерсти на LAN-портах.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I tried to wire up the smart toaster, but it exploded and burned my cat.",
-              "sentence_ru": "Я попытался подключить умный тостер, но он взорвался и поджарил моего кота.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 995983,
+          "due_tick": 996114,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-22T16:00:35.328603+00:00",
-          "pending_msg": 1431,
+          "last_sent_at": "2026-10-25T09:00:22.504076+00:00",
+          "pending_msg": 1493,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996065,
+      "last_deliver_tick": 996066,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-25",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
