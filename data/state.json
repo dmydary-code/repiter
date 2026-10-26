@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow your ex will devastate your new fridge by eating all your secret bacon at midnight.",
+              "sentence_ru": "Завтра твой бывший опустошит твой новый холодильник, сожрав весь твой секретный бекон в полночь.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "This cheap vibrator will literally devastate your soul and your AAA batteries.",
               "sentence_ru": "Этот дешевый вибратор буквально опустошит вашу душу и батарейки.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Karen will devastate our entire department if someone touches her precious organic yogurt.",
               "sentence_ru": "Карен разнесет весь наш отдел, если кто-то тронет ее драгоценный органический йогурт.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "My ex tried to devastate me, but I just bought a pony instead.",
-              "sentence_ru": "Мой бывший пытался меня уничтожить, но я просто купила пони.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 996030,
+          "due_tick": 996166,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-23T15:00:43.521042+00:00",
-          "pending_msg": 1458,
+          "last_sent_at": "2026-10-26T11:00:17.215797+00:00",
+          "pending_msg": 1522,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996117,
+      "last_deliver_tick": 996118,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars in your sector means toxic gossip will literally melt your ex's new wig tomorrow.",
+              "sentence_ru": "Марс в вашем секторе означает, что токсичные сплетни завтра буквально сожгут новый парик вашего бывшего.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop discussing my divorce on the stairs, your gossip is dirtier than this elevator.",
               "sentence_ru": "Хватит обсуждать мой развод на лестнице, ваши сплетни грязнее этого лифта.",
               "word_form": "gossip"
@@ -988,20 +993,15 @@
               "sentence": "My cat started to gossip about me to the stray dogs.",
               "sentence_ru": "Мой кот начал сплетничать обо мне бродячим собакам.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop spreading toxic gossip in our building chat, Brenda, or I'll expose your fake Gucci!",
-              "sentence_ru": "Хватит распространять токсичные сплетни в нашем домовом чате, Бренда, а то я разоблачу твой палёный Гуччи!",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 996031,
+          "due_tick": 996166,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-23T15:30:14.165677+00:00",
-          "pending_msg": 1461,
+          "last_sent_at": "2026-10-26T11:00:18.423740+00:00",
+          "pending_msg": 1523,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996117,
+      "last_deliver_tick": 996118,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
