@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad stared plaintively at the last donut before HR shoved it into her desk drawer.",
+              "sentence_ru": "Чэд жалобно уставился на последний пончик, прежде чем кадры засунули его в ящик стола.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "Why are you looking at my new rich boyfriend so plaintively while eating dust?",
               "sentence_ru": "Почему ты так жалобно смотришь на моего нового богатого парня, пока жуешь пыль?",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "Pam asked plaintively why nobody ever refills the printer after draining it completely.",
               "sentence_ru": "Пэм жалобно спросила, почему никто никогда не заправляет принтер после того, как опустошил его до конца.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "The HR manager sobbed plaintively when someone finally played 'Despacito' in the breakroom.",
-              "sentence_ru": "Менеджер по персоналу жалобно зарыдал, когда кто-то наконец включил «Despacito» в комнате отдыха.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 996064,
+          "due_tick": 996178,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-24T08:00:22.786804+00:00",
-          "pending_msg": 1472,
+          "last_sent_at": "2026-10-26T17:00:20.935436+00:00",
+          "pending_msg": 1538,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996129,
+      "last_deliver_tick": 996130,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that someone in this chat is stealing my bathmat.",
+              "sentence_ru": "Я склоняюсь к тому, что кто-то в этом чате пиздит мой коврик для ванной.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that your new boyfriend's face looks like a squashed potato.",
               "sentence_ru": "Я склонен думать, что лицо твоего нового бойфренда похоже на примятую картошку.",
               "word_form": "I'm inclined to think that"
@@ -1439,20 +1444,15 @@
               "sentence": "I'm inclined to think that this vibrator was used before me, considering the suspicious stains.",
               "sentence_ru": "Я склонен думать, что этот вибратор использовали до меня, учитывая подозрительные пятна.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that my sanity died somewhere around midnight.",
-              "sentence_ru": "Я склонен думать, что мой рассудок сдох где-то около полуночи.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 996065,
+          "due_tick": 996178,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-24T08:30:10.758474+00:00",
-          "pending_msg": 1475,
+          "last_sent_at": "2026-10-26T17:00:41.549933+00:00",
+          "pending_msg": 1539,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996129,
+      "last_deliver_tick": 996130,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
