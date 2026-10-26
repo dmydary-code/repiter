@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky cat stole my salmon fillet and winked at me.",
+              "sentence_ru": "Этот наглый кот украл мое филе лосося и подмигнул мне.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky cat stole my last steak and winked at me.",
               "sentence_ru": "Этот наглый кот украл мой последний стейк и подмигнул мне.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "Some cheeky neighbor stole my delivery pizza and left an empty crust on CCTV.",
               "sentence_ru": "Какой-то наглый сосед украл мою доставленную пиццу и оставил пустую корочку на камеру.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky monkey stole my wig right during the live stream!",
-              "sentence_ru": "Эта наглая мартышка украла мой парик прямо во время прямой трансляции!",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 996020,
+          "due_tick": 996158,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-23T10:00:20.073348+00:00",
-          "pending_msg": 1444,
+          "last_sent_at": "2026-10-26T07:00:15.368940+00:00",
+          "pending_msg": 1504,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996082,
+      "last_deliver_tick": 996110,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me you still miss my chaotic energy in your bed.",
+              "sentence_ru": "Мне кажется, ты всё ещё скучаешь по моей хаотичной энергии в своей постели.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me this dildo was used by a dinosaur before being sold as brand new.",
               "sentence_ru": "Мне кажется, этим дилдо пользовался динозавр, прежде чем его продали как абсолютно новый.",
               "word_form": "It seems to me"
@@ -1398,20 +1403,15 @@
               "sentence": "It seems to me someone is frying stray cats in our elevator again!",
               "sentence_ru": "Мне кажется, кто-то снова жарит бродячих кошек в нашем лифте!",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that my sanity finally checked out and slammed the door.",
-              "sentence_ru": "Мне кажется, что мой рассудок окончательно съехал и хлопнул дверью.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 996029,
+          "due_tick": 996158,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-23T14:41:21.630646+00:00",
-          "pending_msg": 1457,
+          "last_sent_at": "2026-10-26T07:00:16.824592+00:00",
+          "pending_msg": 1505,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996082,
+      "last_deliver_tick": 996110,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
