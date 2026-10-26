@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still hear the screams of the aforementioned betrayal echoing in my empty skull.",
+              "sentence_ru": "Я всё еще слышу крики вышеупомянутого предательства, эхом отдающиеся в моем пустом черепе.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "The aforementioned degenerate who keeps pissing in the elevator will be fed to feral dogs.",
               "sentence_ru": "Вышеупомянутый дегенерат, который продолжает ссать в лифте, будет скормлен бродячим собакам.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "HR said the aforementioned stapler thief has until noon to confess before we call corporate SWAT.",
               "sentence_ru": "Кадровичка сказала, что вышеупомянутый вор степлера должен признаться до полудня, пока мы не вызвали корпоративный спецназ.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "The aforementioned degenerate who keeps pissing in the elevator will be fed to feral cats.",
-              "sentence_ru": "Вышеупомянутый дегенерат, который продолжает ссать в лифте, будет скормлен диким котам.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 996031,
+          "due_tick": 996161,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-23T15:30:07.408235+00:00",
-          "pending_msg": 1460,
+          "last_sent_at": "2026-10-26T08:30:03.988143+00:00",
+          "pending_msg": 1510,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996112,
+      "last_deliver_tick": 996113,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to emerge from the bushes just when I was kissing a new date.",
+              "sentence_ru": "Моя бывшая должна была вылезти из кустов именно тогда, когда я целовал новое свидание.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
               "sentence_ru": "Моя бывшая обязана была вылезти из кустов именно тогда, когда я выглядел максимально убого.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "My ex-boyfriend tried to emerge from my toaster while I was making cheese toast.",
               "sentence_ru": "Мой бывший парень попытался вылезти из моего тостера, пока я делал сырные тосты.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "Please do not emerge from your disgusting apartments while the corridor is being disinfected.",
-              "sentence_ru": "Пожалуйста, не появляйтесь из своих мерзких квартир, пока коридор дезинфицируют.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996032,
+          "due_tick": 996161,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-10-23T16:00:31.213256+00:00",
-          "pending_msg": 1463,
+          "last_sent_at": "2026-10-26T08:30:06.245773+00:00",
+          "pending_msg": 1511,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996112,
+      "last_deliver_tick": 996113,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
