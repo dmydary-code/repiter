@@ -132,8 +132,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Mars will undermine your boss's career while you sleep like a bloated king.",
-              "sentence_ru": "Марс подорвет карьеру твоего босса, пока ты спишь как раздутый король.",
+              "sentence": "These cheap Chinese-made vibrators completely undermine my confidence in local witchcraft.",
+              "sentence_ru": "Эти дешевые китайские вибраторы полностью подрывают мою уверенность в местном колдовстве.",
               "word_form": "undermine"
             },
             {
@@ -158,12 +158,12 @@
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 996169,
+          "due_tick": 996176,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-26T12:30:13.137556+00:00",
-          "pending_msg": 1528,
+          "last_sent_at": "2026-10-26T16:02:06.850202+00:00",
+          "pending_msg": 1534,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -337,11 +337,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Local man tries to bribe God with garlic bread and loses his soul.",
-              "sentence_ru": "Местный мужик пытается подкупить Бога чесночным хлебом и теряет душу.",
-              "word_form": "tries"
-            },
-            {
               "sentence": "I still try to wash away the blood of my poor choices, but the sink is just laughing at me.",
               "sentence_ru": "Я всё ещё пытаюсь смыть кровь своих жалких выборов, но раковина просто смеется надо мной.",
               "word_form": "try"
@@ -360,15 +355,20 @@
               "sentence": "Cats try to wear human pants every single Tuesday morning.",
               "sentence_ru": "Коты пытаются надеть человеческие штаны каждое божье вторничное утро.",
               "word_form": "try"
+            },
+            {
+              "sentence": "I try to forget the taste of her betrayal, but it lingers like cheap tequila.",
+              "sentence_ru": "Я пытаюсь забыть вкус ее предательства, но он держится, как дешевая текила.",
+              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 996170,
+          "due_tick": 996063,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-26T13:00:41.762658+00:00",
-          "pending_msg": 1530,
+          "last_sent_at": "2026-10-24T07:30:13.354907+00:00",
+          "pending_msg": 1470,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -829,11 +829,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Pisces, your stolen crypto will meow plaintively from the dark depths of the blockchain tomorrow.",
-              "sentence_ru": "Рыбы, ваши украденные криптомонеты будут жалобно мяукать из темных глубин блокчейна завтра.",
-              "word_form": "plaintively"
-            },
-            {
               "sentence": "Why are you looking at my new rich boyfriend so plaintively while eating dust?",
               "sentence_ru": "Почему ты так жалобно смотришь на моего нового богатого парня, пока жуешь пыль?",
               "word_form": "plaintively"
@@ -852,15 +847,20 @@
               "sentence": "Pam asked plaintively why nobody ever refills the printer after draining it completely.",
               "sentence_ru": "Пэм жалобно спросила, почему никто никогда не заправляет принтер после того, как опустошил его до конца.",
               "word_form": "plaintively"
+            },
+            {
+              "sentence": "The HR manager sobbed plaintively when someone finally played 'Despacito' in the breakroom.",
+              "sentence_ru": "Менеджер по персоналу жалобно зарыдал, когда кто-то наконец включил «Despacito» в комнате отдыха.",
+              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 996171,
+          "due_tick": 996064,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-26T13:30:09.507448+00:00",
-          "pending_msg": 1532,
+          "last_sent_at": "2026-10-24T08:00:22.786804+00:00",
+          "pending_msg": 1472,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -874,7 +874,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 8,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,8 +1216,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My ex texts me now and then just to ruin my peaceful gaming session.",
-              "sentence_ru": "Моя бывшая пишет мне время от времени просто чтобы испортить мою мирную игровую сессию.",
+              "sentence": "Aries, the stars say you will accidentally set your ex on fire now and then.",
+              "sentence_ru": "Овны, звезды говорят, что вы будете время от времени случайно поджигать своего бывшего.",
               "word_form": "now and then"
             },
             {
@@ -1242,12 +1242,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 996169,
+          "due_tick": 996176,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-26T12:30:16.802286+00:00",
-          "pending_msg": 1529,
+          "last_sent_at": "2026-10-26T16:02:51.448095+00:00",
+          "pending_msg": 1535,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1256,11 +1256,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "By and large, my stolen trousers were fine, except for the badger living in the left leg.",
-              "sentence_ru": "В общем и целом, мои украденные брюки были в порядке, если не считать барсука, живущего в левой штанине.",
-              "word_form": "By and large"
-            },
             {
               "sentence": "By and large, your new boyfriend looks like a sad potato in skinny jeans.",
               "sentence_ru": "В общем и целом, твой новый парень выглядит как грустный картофель в обтягивающих джинсах.",
@@ -1280,15 +1275,20 @@
               "sentence": "By and large, our marketing department consists of functioning alcoholics who occasionally make memes.",
               "sentence_ru": "В общем и целом, наш отдел маркетинга состоит из функциклирующих алкоголиков, которые изредка делают мемасики.",
               "word_form": "By and large"
+            },
+            {
+              "sentence": "By and large, mutant raccoons voted to ban pants across the entire galaxy.",
+              "sentence_ru": "В общем и целом, мутировавшие еноты проголосовали за запрет штанов по всей галактике.",
+              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 996170,
+          "due_tick": 996064,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-26T13:00:51.425849+00:00",
-          "pending_msg": 1531,
+          "last_sent_at": "2026-10-24T08:00:24.278439+00:00",
+          "pending_msg": 1473,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1421,11 +1421,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I'm inclined to think that this weird cream made my face peel off like a snake.",
-              "sentence_ru": "Я склонен думать, что этот странный крем заставил моё лицо слезть, как у змеи.",
-              "word_form": "I'm inclined to think that"
-            },
-            {
               "sentence": "I'm inclined to think that your new boyfriend's face looks like a squashed potato.",
               "sentence_ru": "Я склонен думать, что лицо твоего нового бойфренда похоже на примятую картошку.",
               "word_form": "I'm inclined to think that"
@@ -1444,15 +1439,20 @@
               "sentence": "I'm inclined to think that this vibrator was used before me, considering the suspicious stains.",
               "sentence_ru": "Я склонен думать, что этот вибратор использовали до меня, учитывая подозрительные пятна.",
               "word_form": "I'm inclined to think that"
+            },
+            {
+              "sentence": "I'm inclined to think that my sanity died somewhere around midnight.",
+              "sentence_ru": "Я склонен думать, что мой рассудок сдох где-то около полуночи.",
+              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 996171,
+          "due_tick": 996065,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-26T13:30:37.877824+00:00",
-          "pending_msg": 1533,
+          "last_sent_at": "2026-10-24T08:30:10.758474+00:00",
+          "pending_msg": 1475,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1712,7 +1712,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 8,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
