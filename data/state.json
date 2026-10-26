@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Try to look busy when HR walks past your desk, Kevin.",
+              "sentence_ru": "Постарайся сделать вид, что ты занят, когда HR проходит мимо твоего стола, Кевин.",
+              "word_form": "Try"
+            },
+            {
               "sentence": "I still try to wash away the blood of my poor choices, but the sink is just laughing at me.",
               "sentence_ru": "Я всё ещё пытаюсь смыть кровь своих жалких выборов, но раковина просто смеется надо мной.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Cats try to wear human pants every single Tuesday morning.",
               "sentence_ru": "Коты пытаются надеть человеческие штаны каждое божье вторничное утро.",
               "word_form": "try"
-            },
-            {
-              "sentence": "I try to forget the taste of her betrayal, but it lingers like cheap tequila.",
-              "sentence_ru": "Я пытаюсь забыть вкус ее предательства, но он держится, как дешевая текила.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 996063,
+          "due_tick": 996164,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-24T07:30:13.354907+00:00",
-          "pending_msg": 1470,
+          "last_sent_at": "2026-10-26T10:00:22.003441+00:00",
+          "pending_msg": 1516,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996115,
+      "last_deliver_tick": 996116,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, Scorpio, tomorrow you will accidentally overthrow a small dictator while buying milk.",
+              "sentence_ru": "В общем и целом, Скорпион, завтра вы случайно свергнете мелкого диктатора за покупкой молока.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, your new boyfriend looks like a sad potato in skinny jeans.",
               "sentence_ru": "В общем и целом, твой новый парень выглядит как грустный картофель в обтягивающих джинсах.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, our marketing department consists of functioning alcoholics who occasionally make memes.",
               "sentence_ru": "В общем и целом, наш отдел маркетинга состоит из функциклирующих алкоголиков, которые изредка делают мемасики.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, mutant raccoons voted to ban pants across the entire galaxy.",
-              "sentence_ru": "В общем и целом, мутировавшие еноты проголосовали за запрет штанов по всей галактике.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 996064,
+          "due_tick": 996164,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-24T08:00:24.278439+00:00",
-          "pending_msg": 1473,
+          "last_sent_at": "2026-10-26T10:00:23.439592+00:00",
+          "pending_msg": 1517,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996115,
+      "last_deliver_tick": 996116,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
