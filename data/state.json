@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will undermine your boss's career while you sleep like a bloated king.",
+              "sentence_ru": "Марс подорвет карьеру твоего босса, пока ты спишь как раздутый король.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "He tried to undermine my authority by feeding my prized parrot secret government documents.",
               "sentence_ru": "Он попытался подорвать мой авторитет, скормив моему ценному попугаю секретные госдокументы.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Your new boyfriend can't undermine the fact that I'm still in your dreams naked.",
               "sentence_ru": "Твой новый бойфренд не сможет подорвать тот факт, что я всё ещё в твоих снах голый.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Who keeps trying to undermine the building foundation with a plastic spoon in the chat?",
-              "sentence_ru": "Кто тут в чате опять пытается подкопать фундамент здания пластиковой ложкой?",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 996062,
+          "due_tick": 996169,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-24T07:17:51.777760+00:00",
-          "pending_msg": 1468,
+          "last_sent_at": "2026-10-26T12:30:13.137556+00:00",
+          "pending_msg": 1528,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996120,
+      "last_deliver_tick": 996121,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex texts me now and then just to ruin my peaceful gaming session.",
+              "sentence_ru": "Моя бывшая пишет мне время от времени просто чтобы испортить мою мирную игровую сессию.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Attention! The lift drops to hell now and then, so scream louder to speed it up.",
               "sentence_ru": "Внимание! Лифт время от времени падает в ад, так что оршите громче, чтобы ускорить его.",
               "word_form": "now and then"
@@ -1234,20 +1239,15 @@
               "sentence": "My pet raccoon steals my underwear now and then just to wear it as a hat.",
               "sentence_ru": "Мой домашний енот время от времени ворует мое нижнее белье, просто чтобы носить его как шляпу.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Dear neighbors, the ghost in the elevator screams now and then, please do not feed it.",
-              "sentence_ru": "Дорогие соседи, привидение в лифте время от времени орет, пожалуйста, не кормите его.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 996063,
+          "due_tick": 996169,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-24T07:30:14.823550+00:00",
-          "pending_msg": 1471,
+          "last_sent_at": "2026-10-26T12:30:16.802286+00:00",
+          "pending_msg": 1529,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996120,
+      "last_deliver_tick": 996121,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
