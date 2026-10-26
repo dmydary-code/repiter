@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I mixed a toxic compound in your protein shake just for old times' sake.",
+              "sentence_ru": "Я подмешал токсичный компаунд в твой протеиновый коктейль просто по старой памяти.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My terrible life choices compound daily, burying me alive under pure corporate stupidity.",
               "sentence_ru": "Мои ужасные жизненные выборы усугубляются ежедневно, заживо хороня меня под чистой корпоративной тупостью.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "He built a secret compound for his army of aggressive raccoons.",
               "sentence_ru": "Он построил секретный компаунд для своей армии агрессивных енотов.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "I broke into your new compound just to sniff your old shampoo, psycho.",
-              "sentence_ru": "Я проник в твой новый комплекс просто чтобы понюхать твой старый шампунь, психопатка.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 996029,
+          "due_tick": 996159,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-23T14:41:10.139580+00:00",
-          "pending_msg": 1456,
+          "last_sent_at": "2026-10-26T07:30:20.736185+00:00",
+          "pending_msg": 1506,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996110,
+      "last_deliver_tick": 996111,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet raccoon decided to undergo plastic surgery to look like a polite toaster.",
+              "sentence_ru": "Мой домашний енот решил сделать пластическую операцию, чтобы выглядеть как вежливый тостер.",
+              "word_form": "to undergo"
+            },
+            {
               "sentence": "I had to undergo an exorcism just to forget your toxic text messages.",
               "sentence_ru": "Мне пришлось пройти через экзорцизм, только чтобы забыть твои токсичные смски.",
               "word_form": "undergo"
@@ -1111,20 +1116,15 @@
               "sentence": "You must undergo plastic surgery to look less like a stray goblin, human.",
               "sentence_ru": "Ты должна лечь под нож пластического хирурга, чтобы выглядеть менее похоже на уличного гоблина, кожаная.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "Local politician had to undergo mandatory exorcism after sneezing backwards during live TV debate.",
-              "sentence_ru": "Местный политик был вынужден пройти обязательное изгнание бесов после того, как чихнул задом наперед во время дебатов в прямом эфире.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 996030,
+          "due_tick": 996159,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-23T15:00:48.635044+00:00",
-          "pending_msg": 1459,
+          "last_sent_at": "2026-10-26T07:30:22.435712+00:00",
+          "pending_msg": 1507,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996110,
+      "last_deliver_tick": 996111,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
