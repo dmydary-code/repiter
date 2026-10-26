@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local wizards discorage townsfolk from casting spells on aggressive pigeons after three mayors turned into toads.",
+              "sentence_ru": "Местные волшебники отговаривают горожан накладывать заклинания на агрессивных голубей после того, как три мэра превратились в жаб.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "The ugly color of these pants tried to discorage my date, but he still stayed.",
               "sentence_ru": "Уродливый цвет этих штанов пытался оттолкнуть моего свидания, но он все равно остался.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "My talking hamster tried to discorage me from eating spicy tacos in bed.",
               "sentence_ru": "Мой говорящий хомяк попытался отговорить меня жрать острые тако в постели.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "Please, do not discorage Bob from stapling his own tie to the desk.",
-              "sentence_ru": "Пожалуйста, не отговаривай Боба пристегивать свой собственный галстук степлером к столу.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 996032,
+          "due_tick": 996162,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-23T16:00:21.408261+00:00",
-          "pending_msg": 1462,
+          "last_sent_at": "2026-10-26T09:00:10.437711+00:00",
+          "pending_msg": 1512,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996113,
+      "last_deliver_tick": 996114,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Due to an influx of feral cats, the third floor smells like a zoo.",
+              "sentence_ru": "Из-за наплыва диких котов на третьем этаже воняет как в зоопарке.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "This sudden influx of annoying interns means I'm locking my office door forever.",
               "sentence_ru": "Этот внезапный наплыв бесячих стажеров означает, что я запираю дверь кабинета навсегда.",
               "word_form": "influx"
@@ -1193,20 +1198,15 @@
               "sentence": "Massive influx of drunken raccoons forces local mayor to surrender city hall.",
               "sentence_ru": "Массовый наплыв пьяных енотов заставляет местного мэра сдать городскую администрацию.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An unexpected influx of aggressive badgers ruined our cozy underground poker tournament.",
-              "sentence_ru": "Неожиданный наплыв агрессивных барсуков сорвал наш уютный подпольный покерный турнир.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 996062,
+          "due_tick": 996162,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-24T07:17:53.034986+00:00",
-          "pending_msg": 1469,
+          "last_sent_at": "2026-10-26T09:00:11.916640+00:00",
+          "pending_msg": 1513,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996113,
+      "last_deliver_tick": 996114,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-26",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
