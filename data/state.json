@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please do not feed the stray baboons, it only helps perpetuate their chaotic cult.",
+              "sentence_ru": "Пожалуйста, не кормите бродячих бабуинов, это лишь помогает увековечить их хаотичный культ.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "These cheap leggings perpetuate the myth that my thighs can be compressed into sausages.",
               "sentence_ru": "Эти дешёвые леггинсы увековечивают миф о том, что мои бёдра можно утрамбовать в сосиски.",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "You perpetuate this stupid myth that I am a lazy fatass.",
               "sentence_ru": "Ты увековечиваешь этот тупой миф, что я ленивая жирная жопа.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "You perpetuate this stupid myth that I am on a diet, human.",
-              "sentence_ru": "Ты увековечиваешь этот глупый миф, что я на диете, кожаная.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 996067,
+          "due_tick": 996208,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-24T09:30:11.779933+00:00",
-          "pending_msg": 1478,
+          "last_sent_at": "2026-10-27T08:00:04.461111+00:00",
+          "pending_msg": 1546,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996159,
+      "last_deliver_tick": 996160,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My brain tends to seize up completely whenever I see your midnight texts.",
+              "sentence_ru": "Мой мозг обычно полностью заклинивает всякий раз, когда я вижу твои полуночные смски.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My ex tried to text me, and my brain instantly decided to seize up.",
               "sentence_ru": "Моя бывшая попыталась мне написать, и мой мозг моментально решил оцепенеть.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My grandfather tried to twerk at the wedding and suddenly started to seize up like an old rusty robot.",
               "sentence_ru": "Мой дедушка попытался тверкнуть на свадьбе и внезапно заклинил, как старый ржавый робот.",
               "word_form": "to seize up"
-            },
-            {
-              "sentence": "Your brain will seize up if you try to buy cheap cat food again, human.",
-              "sentence_ru": "Твой мозг заклинит, если ты снова попытаешься купить дешёвый кошачий корм, человек.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996068,
+          "due_tick": 996208,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-24T10:00:29.710356+00:00",
-          "pending_msg": 1481,
+          "last_sent_at": "2026-10-27T08:00:05.600683+00:00",
+          "pending_msg": 1547,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996159,
+      "last_deliver_tick": 996160,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
