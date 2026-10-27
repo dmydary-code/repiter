@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you will realize that your ex's new partner is profoundly dumber than a box of rocks.",
+              "sentence_ru": "Завтра ты поймешь, что новый партнер твоего бывшего тупее коробки с камнями.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "Tomorrow you will be profoundly confused when your cat starts speaking fluent French.",
               "sentence_ru": "Завтра ты будешь глубоко ошеломлен, когда твой кот заговорит на беглом французском.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "He was profoundly confused when his cat started speaking fluent French in the shower.",
               "sentence_ru": "Он был глубоко растерян, когда его кот заговорил на беглом французском в душе.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "I am profoundly sorry that I blocked you while riding a lime scooter naked.",
-              "sentence_ru": "Я глубоко сожалею, что заблокировал тебя, пока голым катался на самокате.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996068,
+          "due_tick": 996209,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-24T10:00:26.263292+00:00",
-          "pending_msg": 1480,
+          "last_sent_at": "2026-10-27T08:30:10.148484+00:00",
+          "pending_msg": 1548,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996160,
+      "last_deliver_tick": 996161,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1626,6 +1626,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Neighbor, stop to ramp up your bass at 3 AM or I will glue your speakers to your forehead!",
+              "sentence_ru": "Сосед, прекрати наваливать басы в 3 часа ночи, или я приклею твои колонки тебе ко лбу!",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Grandma decided to ramp up production of illegal jam in her basement.",
               "sentence_ru": "Бабушка решила нарастить производство нелегального варенья в своем подвале.",
               "word_form": "ramp up"
@@ -1644,20 +1649,15 @@
               "sentence": "I had to ramp up my caffeine intake just to survive reading these delusional reviews.",
               "sentence_ru": "Мне пришлось увеличить дозу кофеина, только чтобы выжить при чтении этих безумных отзывов.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Human, ramp up my wet food production or I will shit in your Gucci boots.",
-              "sentence_ru": "Человек, наращивай производство моего влажного корма, или я нагажу в твои туфли Gucci.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 996069,
+          "due_tick": 996209,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-24T10:30:20.452791+00:00",
-          "pending_msg": 1483,
+          "last_sent_at": "2026-10-27T08:30:12.991662+00:00",
+          "pending_msg": 1549,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996160,
+      "last_deliver_tick": 996161,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
