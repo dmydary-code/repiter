@@ -501,11 +501,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I didn't mince words when telling my ex his new haircut looks like a dead ferret.",
-              "sentence_ru": "Я не церемонился в выражениях, когда говорил своему бывшему, что его новая стрижка похожа на мертвого хорька.",
-              "word_form": "mince words"
-            },
-            {
               "sentence": "I will not mince words: whoever keeps dumping cat litter in the elevator is a psycho.",
               "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает сыпать кошачий наполнитель в лифте — психопат.",
               "word_form": "mince words"
@@ -524,15 +519,20 @@
               "sentence": "He didn't mince words when telling his cat that the stolen sausage tasted like betrayal.",
               "sentence_ru": "Он не стал подбирать выражения, заявляя своему коту, что украденная колбаса на вкус как предательство.",
               "word_form": "didn't mince words"
+            },
+            {
+              "sentence": "My boss didn't mince words before firing me via TikTok live.",
+              "sentence_ru": "Мой босс не стал подбирать выражения перед тем, как уволить меня через прямой эфир в TikTok.",
+              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 996210,
+          "due_tick": 996069,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-27T09:00:17.520311+00:00",
-          "pending_msg": 1550,
+          "last_sent_at": "2026-10-24T10:30:15.942225+00:00",
+          "pending_msg": 1482,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,8 +706,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Please do not feed the stray baboons, it only helps perpetuate their chaotic cult.",
-              "sentence_ru": "Пожалуйста, не кормите бродячих бабуинов, это лишь помогает увековечить их хаотичный культ.",
+              "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of misery.",
+              "sentence_ru": "Писая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл страдания.",
               "word_form": "perpetuate"
             },
             {
@@ -732,12 +732,12 @@
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 996208,
+          "due_tick": 996210,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-27T08:00:04.461111+00:00",
-          "pending_msg": 1546,
+          "last_sent_at": "2026-10-27T09:02:12.922022+00:00",
+          "pending_msg": 1552,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -746,11 +746,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Tomorrow you will realize that your ex's new partner is profoundly dumber than a box of rocks.",
-              "sentence_ru": "Завтра ты поймешь, что новый партнер твоего бывшего тупее коробки с камнями.",
-              "word_form": "profoundly"
-            },
             {
               "sentence": "Tomorrow you will be profoundly confused when your cat starts speaking fluent French.",
               "sentence_ru": "Завтра ты будешь глубоко ошеломлен, когда твой кот заговорит на беглом французском.",
@@ -770,15 +765,20 @@
               "sentence": "He was profoundly confused when his cat started speaking fluent French in the shower.",
               "sentence_ru": "Он был глубоко растерян, когда его кот заговорил на беглом французском в душе.",
               "word_form": "profoundly"
+            },
+            {
+              "sentence": "I am profoundly sorry that I blocked you while riding a lime scooter naked.",
+              "sentence_ru": "Я глубоко сожалею, что заблокировал тебя, пока голым катался на самокате.",
+              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996209,
+          "due_tick": 996068,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-27T08:30:10.148484+00:00",
-          "pending_msg": 1548,
+          "last_sent_at": "2026-10-24T10:00:26.263292+00:00",
+          "pending_msg": 1480,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -874,7 +874,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 5,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,8 +1585,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My brain tends to seize up completely whenever I see your midnight texts.",
-              "sentence_ru": "Мой мозг обычно полностью заклинивает всякий раз, когда я вижу твои полуночные смски.",
+              "sentence": "If you don't feed me right now, my brain will seize up and I'll drop dead on this rug.",
+              "sentence_ru": "Если ты не покормишь меня прямо сейчас, мой мозг заклинит и я сдохну на этом ковре.",
               "word_form": "seize up"
             },
             {
@@ -1611,12 +1611,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996208,
+          "due_tick": 996210,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-27T08:00:05.600683+00:00",
-          "pending_msg": 1547,
+          "last_sent_at": "2026-10-27T09:02:14.299755+00:00",
+          "pending_msg": 1553,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1625,11 +1625,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Neighbor, stop to ramp up your bass at 3 AM or I will glue your speakers to your forehead!",
-              "sentence_ru": "Сосед, прекрати наваливать басы в 3 часа ночи, или я приклею твои колонки тебе ко лбу!",
-              "word_form": "ramp up"
-            },
             {
               "sentence": "Grandma decided to ramp up production of illegal jam in her basement.",
               "sentence_ru": "Бабушка решила нарастить производство нелегального варенья в своем подвале.",
@@ -1649,15 +1644,20 @@
               "sentence": "I had to ramp up my caffeine intake just to survive reading these delusional reviews.",
               "sentence_ru": "Мне пришлось увеличить дозу кофеина, только чтобы выжить при чтении этих безумных отзывов.",
               "word_form": "ramp up"
+            },
+            {
+              "sentence": "Human, ramp up my wet food production or I will shit in your Gucci boots.",
+              "sentence_ru": "Человек, наращивай производство моего влажного корма, или я нагажу в твои туфли Gucci.",
+              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 996209,
+          "due_tick": 996069,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-27T08:30:12.991662+00:00",
-          "pending_msg": 1549,
+          "last_sent_at": "2026-10-24T10:30:20.452791+00:00",
+          "pending_msg": 1483,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1666,11 +1666,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Aliens impose a mandatory clown mask tax across the entire Milky Way galaxy.",
-              "sentence_ru": "Инопланетяне навязывают обязательный налог на клоунские маски по всей галактике Млечный Путь.",
-              "word_form": "impose"
-            },
             {
               "sentence": "I didn't mean to impose myself at 3 AM, but my new psychic vampire wife demands your blood.",
               "sentence_ru": "Я не хотел навязываться в 3 часа ночи, но моя новая жена-психический вампир требует твоей крови.",
@@ -1690,15 +1685,20 @@
               "sentence": "Mars will try to impose terrible fashion choices on you tomorrow, resist.",
               "sentence_ru": "Марс попытается навязать тебе ужасные модные тренды завтра, сопротивляйся.",
               "word_form": "impose"
+            },
+            {
+              "sentence": "Don't you dare impose your gross vegan diet on my meat, human!",
+              "sentence_ru": "Только посмей навязать свою мерзкую веганскую диету моему мясу, двуногая!",
+              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996210,
+          "due_tick": 996110,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-27T09:00:18.971562+00:00",
-          "pending_msg": 1551,
+          "last_sent_at": "2026-10-25T07:00:27.798256+00:00",
+          "pending_msg": 1485,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1712,7 +1712,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 5,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
