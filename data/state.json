@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We hit it off with the local stray cat and now I owe it my life savings.",
+              "sentence_ru": "Мы сразу нашли общий язык с местным бродячим котом, и теперь я должен ему все свои сбережения.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "My ex and my new therapist hit it off immediately and now they judge me together.",
               "sentence_ru": "Моя бывшая и мой новый психотерапевт сразу нашли общий язык и теперь осуждают меня вместе.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Remember how we hit it off at your sister's wedding? Anyway, I'm outside.",
               "sentence_ru": "Помнишь, как мы сразу поладили на свадьбе твоей сестры? Короче, я у входа.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Satan and the Pope hit it off immediately during secret martini summit in Hell.",
-              "sentence_ru": "Сатана и Папа Римский сразу поладили во время тайного саммита с мартини в Аду.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 996111,
+          "due_tick": 996214,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-25T07:30:12.448285+00:00",
-          "pending_msg": 1486,
+          "last_sent_at": "2026-10-27T11:00:06.500416+00:00",
+          "pending_msg": 1560,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996165,
+      "last_deliver_tick": 996166,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He chased a naked goblin through the damp backstreets while clutching a stolen wheel of cheese.",
+              "sentence_ru": "Он преследовал голого гоблина по влажным задворкам, судорожно сжимая украденную головку сыра.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "I steal fish from the rich and eat it in the darkest backstreets.",
               "sentence_ru": "Я ворую рыбу у богачей и жру её в самых тёмных переулках.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "He hid his stolen collection of rubber ducks in the darkest backstreets.",
               "sentence_ru": "Он спрятал свою украденную коллекцию резиновых уток в самых темных трущобах.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "My naked grandma rollerblades through the dark backstreets to escape angry tax collectors.",
-              "sentence_ru": "Моя голая бабуля на роликах рассекает по темным задворкам, убегая от злых налоговиков.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 996112,
+          "due_tick": 996214,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-25T08:00:24.922430+00:00",
-          "pending_msg": 1489,
+          "last_sent_at": "2026-10-27T11:00:07.721696+00:00",
+          "pending_msg": 1561,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996165,
+      "last_deliver_tick": 996166,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
