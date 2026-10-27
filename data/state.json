@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words while telling your toxic ex how pathetic he is.",
+              "sentence_ru": "Я не буду подбирать выражения, рассказывая твоему токсичному бывшему, какой он жалкий.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I will not mince words: whoever keeps dumping cat litter in the elevator is a psycho.",
               "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает сыпать кошачий наполнитель в лифте — психопат.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "He didn't mince words when telling his cat that the stolen sausage tasted like betrayal.",
               "sentence_ru": "Он не стал подбирать выражения, заявляя своему коту, что украденная колбаса на вкус как предательство.",
               "word_form": "didn't mince words"
-            },
-            {
-              "sentence": "My boss didn't mince words before firing me via TikTok live.",
-              "sentence_ru": "Мой босс не стал подбирать выражения перед тем, как уволить меня через прямой эфир в TikTok.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 996069,
+          "due_tick": 996212,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-24T10:30:15.942225+00:00",
-          "pending_msg": 1482,
+          "last_sent_at": "2026-10-27T10:00:05.856794+00:00",
+          "pending_msg": 1556,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996163,
+      "last_deliver_tick": 996164,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Aliens impose a mandatory tax on all local cats after seizing the parliament.",
+              "sentence_ru": "Пришельцы навязывают обязательный налог на всех местных котов после захвата парламента.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "I didn't mean to impose myself at 3 AM, but my new psychic vampire wife demands your blood.",
               "sentence_ru": "Я не хотел навязываться в 3 часа ночи, но моя новая жена-психический вампир требует твоей крови.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "Mars will try to impose terrible fashion choices on you tomorrow, resist.",
               "sentence_ru": "Марс попытается навязать тебе ужасные модные тренды завтра, сопротивляйся.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Don't you dare impose your gross vegan diet on my meat, human!",
-              "sentence_ru": "Только посмей навязать свою мерзкую веганскую диету моему мясу, двуногая!",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996110,
+          "due_tick": 996212,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-25T07:00:27.798256+00:00",
-          "pending_msg": 1485,
+          "last_sent_at": "2026-10-27T10:00:07.243004+00:00",
+          "pending_msg": 1557,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996163,
+      "last_deliver_tick": 996164,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
