@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Aries, you set heart on stealing your ex’s cat tomorrow.",
+              "sentence_ru": "Овен, завтра ты страстно возжелаешь спереть кота твоего бывшего.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "You set your heart on ruining my nap, human, but I still demand salmon.",
               "sentence_ru": "Ты твердо нацелилась испортить мой сон, человек, но я всё равно требую лосось.",
               "word_form": "set your heart on"
@@ -478,20 +483,15 @@
               "sentence": "Karen set heart on stealing my stapler, but I glued her coffee mug to the desk.",
               "sentence_ru": "Карен страстно возжелала украсть мой степлер, но я приклеил ее кружку с кофе к столу.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Aries, you set your heart on stealing the neighbor's prize-winning cat tomorrow.",
-              "sentence_ru": "Овны, завтра вы страстно возжелаете украсть призового кота соседа.",
-              "word_form": "set your heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 996066,
+          "due_tick": 996207,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-24T09:00:22.063069+00:00",
-          "pending_msg": 1476,
+          "last_sent_at": "2026-10-27T07:30:24.349188+00:00",
+          "pending_msg": 1544,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996158,
+      "last_deliver_tick": 996159,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please adjust your screaming volume before entering the elevator, psycho.",
+              "sentence_ru": "Пожалуйста, настройте громкость своего ора перед входом в лифт, психопат.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I must adjust my crown of thorns before the peasants start laughing.",
               "sentence_ru": "Я должен поправить свой терновый венец, пока крестьяне не начали смеяться.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "Please adjust your damned bass, or I will shove your subwoofer where the sun don't shine.",
               "sentence_ru": "Пожалуйста, настройте свой грёбаный бас, иначе я засуну ваш сабвуфер туда, куда не светит солнце.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Mutants had to adjust their laser eyes after the Sun suddenly turned pink.",
-              "sentence_ru": "Мутантам пришлось настроить свои лазерные глаза после того, как Солнце внезапно стало розовым.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 996067,
+          "due_tick": 996207,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-24T09:30:17.056248+00:00",
-          "pending_msg": 1479,
+          "last_sent_at": "2026-10-27T07:30:25.551615+00:00",
+          "pending_msg": 1545,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996158,
+      "last_deliver_tick": 996159,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
