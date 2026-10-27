@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If this celebrity endorsement fails, Dwight will literally trade all our desks for beet juice.",
+              "sentence_ru": "Если эта реклама с участием звезды провалится, Дуайт буквально обменяет все наши столы на свекольный сок.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "My entire career died the day a bankrupt vape brand refused my celebrity endorsement.",
               "sentence_ru": "Вся моя карьера умерла в тот день, когда банкротный бренд вейпов отверг мою рекламу со звездой.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "My soul died a little when I realized my integrity was just a cheap celebrity endorsement.",
               "sentence_ru": "Моя душа немного умерла, когда я понял, что моя честность — это просто дешевая реклама со звездами.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "That rat poison brand paid for celebrity endorsement, and now even pop stars eat poison.",
-              "sentence_ru": "Тот бренд крысиного яда заплатил за поддержку селебрити, и теперь даже поп-звёзды жрут яд.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 996112,
+          "due_tick": 996215,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-25T08:00:23.694229+00:00",
-          "pending_msg": 1488,
+          "last_sent_at": "2026-10-27T11:30:22.171396+00:00",
+          "pending_msg": 1562,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996166,
+      "last_deliver_tick": 996167,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that my cat looks like an evil dictator.",
+              "sentence_ru": "Трудно отрицать, что мой кот выглядит как злой диктатор.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that Greg eats more donuts than the entire accounting department.",
               "sentence_ru": "Трудно отрицать, что Грег съедает больше пончиков, чем весь бухгалтерский отдел.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that Greg's stapler is possessed by a vengeful office demon.",
               "sentence_ru": "Трудно отрицать, что степлер Грега одержим мстительным демоном офиса.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that someone in 42 is breeding aggressive mutants.",
-              "sentence_ru": "Трудно отрицать, что кто-то в 42-й квартире разводит агрессивных мутантов.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 996113,
+          "due_tick": 996215,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-25T08:30:11.299421+00:00",
-          "pending_msg": 1491,
+          "last_sent_at": "2026-10-27T11:30:23.994456+00:00",
+          "pending_msg": 1563,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996166,
+      "last_deliver_tick": 996167,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-27",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
