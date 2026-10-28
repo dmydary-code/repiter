@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I will devastate your new boyfriend's entire Spotify playlist just like you devastated me.",
+              "sentence_ru": "Я опустошу плейлист твоего нового бойфренда в Spotify точно так же, как ты опустошила меня.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Tomorrow your ex will devastate your new fridge by eating all your secret bacon at midnight.",
               "sentence_ru": "Завтра твой бывший опустошит твой новый холодильник, сожрав весь твой секретный бекон в полночь.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Your new designer curtains will totally devastate me if I climb them.",
               "sentence_ru": "Твои новые дизайнерские шторы меня просто уничтожат, если я по ним залезу.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "Karen will devastate our entire department if someone touches her precious organic yogurt.",
-              "sentence_ru": "Карен разнесет весь наш отдел, если кто-то тронет ее драгоценный органический йогурт.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 996166,
+          "due_tick": 996262,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-26T11:00:17.215797+00:00",
-          "pending_msg": 1522,
+          "last_sent_at": "2026-10-28T11:00:20.087390+00:00",
+          "pending_msg": 1582,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996213,
+      "last_deliver_tick": 996214,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A very angry badger managed to emerge from my microwave with a stolen passport.",
+              "sentence_ru": "Очень злой барсук умудрился вылезти из моей микроволновки с чужим паспортом.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My weird neighbor decided to emerge from his bunker only to steal our doormat.",
               "sentence_ru": "Мой странный сосед решил вылезти из своего бункера только для того, чтобы украсть наш коврик для ног.",
               "word_form": "to emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "When will our lazy plumber finally emerge from his basement and fix the leak?",
               "sentence_ru": "Когда наш ленивый сантехник наконец вылезет из своего подвала и починит течь?",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "My ex-boyfriend tried to emerge from my toaster while I was making cheese toast.",
-              "sentence_ru": "Мой бывший парень попытался вылезти из моего тостера, пока я делал сырные тосты.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996167,
+          "due_tick": 996262,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-10-26T11:30:22.460667+00:00",
-          "pending_msg": 1525,
+          "last_sent_at": "2026-10-28T11:00:21.353766+00:00",
+          "pending_msg": 1583,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996213,
+      "last_deliver_tick": 996214,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
