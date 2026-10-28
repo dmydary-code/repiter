@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy roommate never lifts a finger in the house, even when zombies knock.",
+              "sentence_ru": "Мой ленивый сосед по комнате никогда не ударяет палец о палец по дому, даже когда стучат зомби.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "My lazy husband never lifts a finger in the house, so our cat now cleans the floors.",
               "sentence_ru": "Мой ленивый муж палец о палец не ударяет по дому, поэтому теперь полы моет наш кот.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "Scorpio, your lazy roommate never lifts a finger in the house, so hide his beer.",
               "sentence_ru": "Скорпион, твой ленивый соседик палец о палец не ударяет по дому, так что спрячь его пиво.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "My lazy husband never lifts a finger in the house, while I drown in endless chaos.",
-              "sentence_ru": "Мой ленивый муж никогда не ударяет палец о палец по дому, пока я тону в бесконечном хаосе.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 996113,
+          "due_tick": 996254,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-25T08:30:10.122448+00:00",
-          "pending_msg": 1490,
+          "last_sent_at": "2026-10-28T07:00:07.039365+00:00",
+          "pending_msg": 1564,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996181,
+      "last_deliver_tick": 996206,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I tried to wire up the toaster, but it started chanting ancient curses instead of making bread.",
+              "sentence_ru": "Я попытался подключить тостер, но он начал скандировать древние проклятия вместо того, чтобы делать хлеб.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Hacker Bob tried to wire up his cat, but now the pet screams in dial-up.",
               "sentence_ru": "Хакерок Боб попытался подключить проводами своего кота, но теперь питомец орет на языке модема.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "I need to wire up this bomb before my therapist notices I skipped session again.",
               "sentence_ru": "Мне нужно подключить эту бомбу до того, как мой психотерапевт заметит, что я снова пропустил сеанс.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I tried to wire up my cat to the router, but he just shed on the LAN ports.",
-              "sentence_ru": "Я попытался подключить проводами своего кота к роутеру, но он просто наоставлял шерсти на LAN-портах.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996114,
+          "due_tick": 996254,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-25T09:00:22.504076+00:00",
-          "pending_msg": 1493,
+          "last_sent_at": "2026-10-28T07:00:08.303700+00:00",
+          "pending_msg": 1565,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996181,
+      "last_deliver_tick": 996206,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
