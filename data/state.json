@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He is rolling in money while my soul starves on cheap ramen.",
+              "sentence_ru": "Он купается в деньгах, пока моя душа голодает на дешёвом рамене.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "My cat is rolling in money after selling his bathwater to simps.",
               "sentence_ru": "Мой кот купается в деньгах после продажи воды из своей ванны симпам.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "Our neighbor in apt 48 is rolling in money yet refuses to pay for elevator repairs.",
               "sentence_ru": "Наш сосед из 48-й квартиры купается в деньгах, но отказывается платить за ремонт лифта.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "Human, stop crying about bills because we are finally rolling in money.",
-              "sentence_ru": "Человек, хватит ныть из-за счетов, ведь мы наконец-то купаемся в деньгах.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 996114,
+          "due_tick": 996256,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-25T09:00:21.335761+00:00",
-          "pending_msg": 1492,
+          "last_sent_at": "2026-10-28T08:00:25.564267+00:00",
+          "pending_msg": 1570,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996207,
+      "last_deliver_tick": 996208,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Stop painting the hallway in this drab gray color, we live in a building, not a depression-era bunker!",
+              "sentence_ru": "Хватит красить коридор в этот унылый серый цвет, мы живем в здании, а не в бункере времен Великой депрессии!",
+              "word_form": "drab"
+            },
             {
               "sentence": "Your new life without me looks as drab as your grandma’s curtains.",
               "sentence_ru": "Твоя новая жизнь без меня выглядит такой же унылой, как шторы твоей бабушки.",
@@ -906,20 +911,15 @@
               "sentence": "Even my ex's personality couldn't make this drab hotel room look any worse.",
               "sentence_ru": "Даже характер моего бывшего не смог бы сделать этот унылый номер в отеле еще хуже.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Even the radioactive pigeon looked drab sitting on our depressing balcony.",
-              "sentence_ru": "Даже радиоактивный голубь выглядел уныло, сидя на нашем депрессивном балконе.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996115,
+          "due_tick": 996256,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-25T09:30:10.079449+00:00",
-          "pending_msg": 1495,
+          "last_sent_at": "2026-10-28T08:00:28.340270+00:00",
+          "pending_msg": 1571,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996207,
+      "last_deliver_tick": 996208,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
