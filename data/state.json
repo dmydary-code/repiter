@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated raccoons encorage local politicians to wear chainmail during budget meetings.",
+              "sentence_ru": "Мутировавшие еноты подбадривают местных политиков надевать кольчугу во время бюджетных совещаний.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "I encorage you to delete my number before I start crying in your bushes.",
               "sentence_ru": "Я поощряю тебя удалить мой номер, пока я не начал плакать у тебя в кустах.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "I know you hate me, but I encourage you to ruin your new relationship tonight.",
               "sentence_ru": "Я знаю, что ты меня ненавидешь, но я поощряю тебя разрушить твои новые отношения сегодня ночью.",
               "word_form": "encourage"
-            },
-            {
-              "sentence": "Necromancers encorage local skeletons to vote in the mayoral elections.",
-              "sentence_ru": "Некроманты поощряют местных скелетов голосовать на выборах мэра.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 996119,
+          "due_tick": 996258,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-25T11:39:32.327277+00:00",
-          "pending_msg": 1500,
+          "last_sent_at": "2026-10-28T09:00:22.066086+00:00",
+          "pending_msg": 1574,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996209,
+      "last_deliver_tick": 996210,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad is going to demolish the entire conference room because his PowerPoint didn't load.",
+              "sentence_ru": "Чад собирается снести всю переговорку, потому что его презентация не загрузилась.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a chainsaw.",
               "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки бензопилой.",
               "word_form": "to demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "Chad decided to demolish the conference room just because his presentation was rejected.",
               "sentence_ru": "Чад решил снести переговорку просто потому, что его презентацию отвергли.",
               "word_form": "to demolish"
-            },
-            {
-              "sentence": "Me and the boys on our way to demolish my ex's new smart-house.",
-              "sentence_ru": "Я и пацаны по пути, чтобы снести новый умный дом моего бывшего.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 996120,
+          "due_tick": 996258,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-10-25T12:00:23.616489+00:00",
-          "pending_msg": 1503,
+          "last_sent_at": "2026-10-28T09:00:23.343174+00:00",
+          "pending_msg": 1575,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996209,
+      "last_deliver_tick": 996210,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
