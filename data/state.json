@@ -583,8 +583,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My lazy roommate never lifts a finger in the house, even when zombies knock.",
-              "sentence_ru": "Мой ленивый сосед по комнате никогда не ударяет палец о палец по дому, даже когда стучат зомби.",
+              "sentence": "Nobody ever lifts a finger in the house, so the trash is now sentient.",
+              "sentence_ru": "Никто в доме никогда не ударяет палец о палец, поэтому мусор теперь разумен.",
               "word_form": "lifts a finger in the house"
             },
             {
@@ -609,12 +609,12 @@
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 996254,
+          "due_tick": 996255,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-28T07:00:07.039365+00:00",
-          "pending_msg": 1564,
+          "last_sent_at": "2026-10-28T07:43:49.858361+00:00",
+          "pending_msg": 1568,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -623,11 +623,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Our CEO is rolling in money while we share one pathetic stapler.",
-              "sentence_ru": "Наш гендиректор купается в деньгах, пока мы делим один жалкий степлер.",
-              "word_form": "rolling in money"
-            },
             {
               "sentence": "My cat is rolling in money after selling his bathwater to simps.",
               "sentence_ru": "Мой кот купается в деньгах после продажи воды из своей ванны симпам.",
@@ -647,15 +642,20 @@
               "sentence": "Our neighbor in apt 48 is rolling in money yet refuses to pay for elevator repairs.",
               "sentence_ru": "Наш сосед из 48-й квартиры купается в деньгах, но отказывается платить за ремонт лифта.",
               "word_form": "rolling in money"
+            },
+            {
+              "sentence": "Human, stop crying about bills because we are finally rolling in money.",
+              "sentence_ru": "Человек, хватит ныть из-за счетов, ведь мы наконец-то купаемся в деньгах.",
+              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 996255,
+          "due_tick": 996114,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-28T07:30:07.812713+00:00",
-          "pending_msg": 1566,
+          "last_sent_at": "2026-10-25T09:00:21.335761+00:00",
+          "pending_msg": 1492,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -874,7 +874,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 2,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,11 +887,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Your ex's personality is so drab that even wallpaper tries to peel itself off.",
-              "sentence_ru": "Характер твоего бывшего настолько унылый, что даже обои пытаются сами отклеиться.",
-              "word_form": "drab"
-            },
             {
               "sentence": "Your new life without me looks as drab as your grandma’s curtains.",
               "sentence_ru": "Твоя новая жизнь без меня выглядит такой же унылой, как шторы твоей бабушки.",
@@ -911,15 +906,20 @@
               "sentence": "Even my ex's personality couldn't make this drab hotel room look any worse.",
               "sentence_ru": "Даже характер моего бывшего не смог бы сделать этот унылый номер в отеле еще хуже.",
               "word_form": "drab"
+            },
+            {
+              "sentence": "Even the radioactive pigeon looked drab sitting on our depressing balcony.",
+              "sentence_ru": "Даже радиоактивный голубь выглядел уныло, сидя на нашем депрессивном балконе.",
+              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996255,
+          "due_tick": 996115,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-28T07:30:08.949483+00:00",
-          "pending_msg": 1567,
+          "last_sent_at": "2026-10-25T09:30:10.079449+00:00",
+          "pending_msg": 1495,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1544,8 +1544,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I tried to wire up the toaster, but it started chanting ancient curses instead of making bread.",
-              "sentence_ru": "Я попытался подключить тостер, но он начал скандировать древние проклятия вместо того, чтобы делать хлеб.",
+              "sentence": "I had to wire up my angry cat to the toaster for maximum chaos.",
+              "sentence_ru": "Мне пришлось подключить проводами моего злого кота к тостеру ради максимального хаоса.",
               "word_form": "wire up"
             },
             {
@@ -1570,12 +1570,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996254,
+          "due_tick": 996255,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-28T07:00:08.303700+00:00",
-          "pending_msg": 1565,
+          "last_sent_at": "2026-10-28T07:43:51.057789+00:00",
+          "pending_msg": 1569,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1712,7 +1712,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 2,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
