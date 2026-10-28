@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even while wearing a crown of raw sausages, the king tried to look humble.",
+              "sentence_ru": "Даже надев корону из сырых сосисок, король пытался выглядеть скромным.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even my humble apologies at 3 AM won't fix how much I ruined us.",
               "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как сильно я нас разрушил.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even in my solid gold tracksuit, I try to remain humble.",
               "sentence_ru": "Даже в своем золотом спортивном костюме я стараюсь оставаться скромным.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even in my solid gold pajamas, I try to remain humble for the gram.",
-              "sentence_ru": "Даже в своей пижаме из чистого золота я стараюсь оставаться скромным для инстаграма.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 996120,
+          "due_tick": 996259,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-25T12:00:22.475450+00:00",
-          "pending_msg": 1502,
+          "last_sent_at": "2026-10-28T09:30:07.211607+00:00",
+          "pending_msg": 1576,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996210,
+      "last_deliver_tick": 996211,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that someone is stealing pickled cucumbers from the third floor.",
+              "sentence_ru": "Мне кажется, что кто-то ворует маринованные огурцы с третьего этажа.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me my ex is crying into a bucket of KFC right now.",
               "sentence_ru": "Мне кажется, мой бывший прямо сейчас рыдает в ведро с KFC.",
               "word_form": "It seems to me"
@@ -1398,20 +1403,15 @@
               "sentence": "It seems to me my cat is plotting a bloody coup again.",
               "sentence_ru": "Мне кажется, мой кот снова замышляет кровавый переворот.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me someone is frying stray cats in our elevator again!",
-              "sentence_ru": "Мне кажется, кто-то снова жарит бродячих кошек в нашем лифте!",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 996164,
+          "due_tick": 996259,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-10-26T10:20:56.064608+00:00",
-          "pending_msg": 1519,
+          "last_sent_at": "2026-10-28T09:30:08.531667+00:00",
+          "pending_msg": 1577,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996210,
+      "last_deliver_tick": 996211,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-28",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
