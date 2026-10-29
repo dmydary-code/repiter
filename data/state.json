@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Pisces, your ex will howl plaintively outside your window until you finally block their number.",
+              "sentence_ru": "Рыбы, ваш бывший будет жалобно завывать под окном, пока вы наконец не заблокируете его номер.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "Chad stared plaintively at the last donut before HR shoved it into her desk drawer.",
               "sentence_ru": "Чэд жалобно уставился на последний пончик, прежде чем кадры засунули его в ящик стола.",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "Stan stared plaintively at the last donut before Dwight brutally bit it in half.",
               "sentence_ru": "Стэн жалобно уставился на последний пончик, прежде чем Дуайт зверски откусил от него половину.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "Pam asked plaintively why nobody ever refills the printer after draining it completely.",
-              "sentence_ru": "Пэм жалобно спросила, почему никто никогда не заправляет принтер после того, как опустошил его до конца.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 996178,
+          "due_tick": 996306,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-26T17:00:20.935436+00:00",
-          "pending_msg": 1538,
+          "last_sent_at": "2026-10-29T09:00:27.095099+00:00",
+          "pending_msg": 1602,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996257,
+      "last_deliver_tick": 996258,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex-boyfriend's new pet raccoon ate my passport and bit my lawyer altogether.",
+              "sentence_ru": "Новый домашний енот моего бывшего съел мой паспорт и заодно покусал моего адвоката.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "My sanity didn't slip; it jumped off the roof altogether.",
               "sentence_ru": "Мой рассудок не ускользнул — он вовсе сиганул с крыши.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "We are losing clients, bleeding money, and altogether completely screwed before Friday.",
               "sentence_ru": "Мы теряем клиентов, спускаем деньги и в целом полностью облажаемся до пятницы.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "My stolen toaster, three raccoons and my ex are altogether in the bathtub now.",
-              "sentence_ru": "Мой украденный тостер, три енота и моя бывшая теперь сидят в ванной все вместе.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 996206,
+          "due_tick": 996306,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-27T07:00:19.107542+00:00",
-          "pending_msg": 1543,
+          "last_sent_at": "2026-10-29T09:00:28.520684+00:00",
+          "pending_msg": 1603,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996257,
+      "last_deliver_tick": 996258,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
