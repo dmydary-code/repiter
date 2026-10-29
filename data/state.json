@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I try not to discorage Kevin from eating raw onions during our Zoom meetings.",
+              "sentence_ru": "Я стараюсь не отговаривать Кевина жрать сырой лук во время наших зум-совещаний.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "I know I said we're over, but please don't discourage my 3 AM texts.",
               "sentence_ru": "Я знаю, что мы расстались, но, пожалуйста, не отбивай у меня охоту писать тебе в 3 часа ночи.",
               "word_form": "discourage"
@@ -273,20 +278,15 @@
               "sentence": "My inner demons try to discorage me every time I reach for tequila.",
               "sentence_ru": "Мои внутренние демоны пытаются отговорить меня каждый раз, когда я тянусь за текилой.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "My talking hamster tried to discorage me from eating spicy tacos in bed.",
-              "sentence_ru": "Мой говорящий хомяк попытался отговорить меня жрать острые тако в постели.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 996168,
+          "due_tick": 996303,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-26T12:00:23.422732+00:00",
-          "pending_msg": 1526,
+          "last_sent_at": "2026-10-29T07:30:19.285149+00:00",
+          "pending_msg": 1596,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996254,
+      "last_deliver_tick": 996255,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Attention! The lift drops to the basement now and then, so scream louder.",
+              "sentence_ru": "Внимание! Лифт время от времени падает в подвал, так что кричите громче.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Aries, the stars say you will accidentally set your ex on fire now and then.",
               "sentence_ru": "Овны, звезды говорят, что вы будете время от времени случайно поджигать своего бывшего.",
               "word_form": "now and then"
@@ -1234,20 +1239,15 @@
               "sentence": "I still wake up at 3 AM now and then just to regret blocking you.",
               "sentence_ru": "Я до сих пор просыпаюсь в 3 часа ночи время от времени только чтобы пожалеть, что заблокировал тебя.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "My pet raccoon steals my underwear now and then just to wear it as a hat.",
-              "sentence_ru": "Мой домашний енот время от времени ворует мое нижнее белье, просто чтобы носить его как шляпу.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 996176,
+          "due_tick": 996303,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-26T16:02:51.448095+00:00",
-          "pending_msg": 1535,
+          "last_sent_at": "2026-10-29T07:30:20.538889+00:00",
+          "pending_msg": 1597,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996254,
+      "last_deliver_tick": 996255,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
