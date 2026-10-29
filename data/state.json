@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I set heart on stealing my ex's Netflix password out of pure spite.",
+              "sentence_ru": "Я страстно возжелал украсть пароль от Netflix у бывшего из чистой вредности.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Aries, you set heart on stealing your ex’s cat tomorrow.",
               "sentence_ru": "Овен, завтра ты страстно возжелаешь спереть кота твоего бывшего.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "I set my heart on stealing the Mona Lisa, even if it kills me.",
               "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если это меня убьет.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Karen set heart on stealing my stapler, but I glued her coffee mug to the desk.",
-              "sentence_ru": "Карен страстно возжелала украсть мой степлер, но я приклеил ее кружку с кофе к столу.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 996207,
+          "due_tick": 996308,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-27T07:30:24.349188+00:00",
-          "pending_msg": 1544,
+          "last_sent_at": "2026-10-29T10:00:03.742672+00:00",
+          "pending_msg": 1606,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996259,
+      "last_deliver_tick": 996260,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My grandfather tried to breakdance and his artificial hip suddenly seized up mid-move.",
+              "sentence_ru": "Мой дедушка попытался сделать брейк-данс, и его искусственное бедро внезапно заклинило прямо посреди движения.",
+              "word_form": "seized up"
+            },
+            {
               "sentence": "If you don't feed me right now, my brain will seize up and I'll drop dead on this rug.",
               "sentence_ru": "Если ты не покормишь меня прямо сейчас, мой мозг заклинит и я сдохну на этом ковре.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My brain tends to seize up whenever my toxic ex tries to slide into my DMs.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда мой токсичный бывший пытается втиснуться в мои личные сообщения.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My grandfather tried to twerk at the wedding and suddenly started to seize up like an old rusty robot.",
-              "sentence_ru": "Мой дедушка попытался тверкнуть на свадьбе и внезапно заклинил, как старый ржавый робот.",
-              "word_form": "to seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996210,
+          "due_tick": 996308,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-27T09:02:14.299755+00:00",
-          "pending_msg": 1553,
+          "last_sent_at": "2026-10-29T10:00:05.152261+00:00",
+          "pending_msg": 1607,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996259,
+      "last_deliver_tick": 996260,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
