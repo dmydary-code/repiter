@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever my cat wears a tiny top hat, the neighborhood pigeons surrender their bread.",
+              "sentence_ru": "Всякий раз, когда мой кот надевает крошечный цилиндр, районные голуби сдают свой хлеб.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "Whenever you drink my tequila, my ghost haunts your bathroom forever.",
               "sentence_ru": "Всякий раз, когда ты пьешь мою текилу, мое привидение вечно преследует твой туалет.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Local man explodes into glitter whenever his ex-girlfriend posts a happy selfie.",
               "sentence_ru": "Местный мужик взрывается блёстками всякий раз, когда его бывшая выкладывает счастливое селфи.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "This cat vomits on my new rug whenever I check my bank balance.",
-              "sentence_ru": "Этот кот блевотит на мой новый ковер всякий раз, когда я проверяю баланс карты.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 996206,
+          "due_tick": 996307,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-27T07:00:17.873424+00:00",
-          "pending_msg": 1542,
+          "last_sent_at": "2026-10-29T09:30:16.044614+00:00",
+          "pending_msg": 1604,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996258,
+      "last_deliver_tick": 996259,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you must urgently adjust your astrological sign before the universe notices you are an imposter.",
+              "sentence_ru": "Завтра тебе нужно срочно подстроить свой астрологический знак, пока вселенная не заметила, что ты самозванец.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Please adjust your screaming volume before entering the elevator, psycho.",
               "sentence_ru": "Пожалуйста, настройте громкость своего ора перед входом в лифт, психопат.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "I had to adjust this cursed dildo’s speed because it was launching me into orbit.",
               "sentence_ru": "Мне пришлось настроить скорость этого проклятого фаллоимитатора, потому что он запускал меня на орбиту.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Please adjust your damned bass, or I will shove your subwoofer where the sun don't shine.",
-              "sentence_ru": "Пожалуйста, настройте свой грёбаный бас, иначе я засуну ваш сабвуфер туда, куда не светит солнце.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 996207,
+          "due_tick": 996307,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-27T07:30:25.551615+00:00",
-          "pending_msg": 1545,
+          "last_sent_at": "2026-10-29T09:30:20.434960+00:00",
+          "pending_msg": 1605,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996258,
+      "last_deliver_tick": 996259,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
