@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Just try to staple the boss's coffee mug to his desk again, I dare you.",
+              "sentence_ru": "Только попробуй снова пристегнуть степлером чашку кофе шефа к его столу, я тебя слабо беру.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Aries, try not to curse your boss tomorrow, or he will fire your ass.",
               "sentence_ru": "Овны, постарайтесь завтра не материть начальника, иначе он уволит вашу задницу.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Local cats try to overthrow the mayor using heavily armed pigeons.",
               "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью вооруженных до зубов голубей.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Cats try to wear human pants every single Tuesday morning.",
-              "sentence_ru": "Коты пытаются надеть человеческие штаны каждое божье вторничное утро.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 996177,
+          "due_tick": 996305,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-26T16:30:44.017091+00:00",
-          "pending_msg": 1536,
+          "last_sent_at": "2026-10-29T08:30:16.357221+00:00",
+          "pending_msg": 1600,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996256,
+      "last_deliver_tick": 996257,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that tomorrow your ex will cry into a bowl of cheap ramen.",
+              "sentence_ru": "Я склоняюсь к тому, что завтра твой бывший будет рыдать в тарелку дешевого рамена.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that someone in this chat is stealing my bathmat.",
               "sentence_ru": "Я склоняюсь к тому, что кто-то в этом чате пиздит мой коврик для ванной.",
               "word_form": "I'm inclined to think that"
@@ -1439,20 +1444,15 @@
               "sentence": "I'm inclined to think that this vibrator was used by the previous owner, Brenda.",
               "sentence_ru": "Я склонен думать, что этим вибратором уже пользовался предыдущий владелец, Бренда.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that this vibrator was used before me, considering the suspicious stains.",
-              "sentence_ru": "Я склонен думать, что этот вибратор использовали до меня, учитывая подозрительные пятна.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 996178,
+          "due_tick": 996305,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-26T17:00:41.549933+00:00",
-          "pending_msg": 1539,
+          "last_sent_at": "2026-10-29T08:30:17.732783+00:00",
+          "pending_msg": 1601,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996256,
+      "last_deliver_tick": 996257,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
