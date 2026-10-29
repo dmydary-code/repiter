@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who keeps trying to undermine the elevator cables with a rusty spoon in our lobby?",
+              "sentence_ru": "Кто постоянно пытается подпилить тросы лифта ржавой ложкой в нашем холле?",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "These cheap Chinese-made vibrators completely undermine my confidence in local witchcraft.",
               "sentence_ru": "Эти дешевые китайские вибраторы полностью подрывают мою уверенность в местном колдовстве.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "My ex tried to undermine my confidence by telling me my new cat looks like a potato.",
               "sentence_ru": "Бывший попытался подорвать мою уверенность в себе, сказав, что мой новый кот похож на картошку.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Your new boyfriend can't undermine the fact that I'm still in your dreams naked.",
-              "sentence_ru": "Твой новый бойфренд не сможет подорвать тот факт, что я всё ещё в твоих снах голый.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 996176,
+          "due_tick": 996304,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-26T16:02:06.850202+00:00",
-          "pending_msg": 1534,
+          "last_sent_at": "2026-10-29T08:00:04.328843+00:00",
+          "pending_msg": 1598,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996255,
+      "last_deliver_tick": 996256,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, mutant raccoons successfully seized control of the local mayor's office.",
+              "sentence_ru": "В общем и целом, мутировавшие еноты успешно захватили контроль над офисом местного мэра.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, my stolen trousers fit the mutant raccoon surprisingly well.",
               "sentence_ru": "В общем и целом, мои украденные брюки на удивление хорошо подошли мутировавшему еноту.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, Scorpio, your boss will still be an idiot tomorrow.",
               "sentence_ru": "В общем и целом, Скорпион, твой начальник завтра всё ещё будет идиотом.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, our marketing department consists of functioning alcoholics who occasionally make memes.",
-              "sentence_ru": "В общем и целом, наш отдел маркетинга состоит из функциклирующих алкоголиков, которые изредка делают мемасики.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 996177,
+          "due_tick": 996304,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-26T16:31:02.479138+00:00",
-          "pending_msg": 1537,
+          "last_sent_at": "2026-10-29T08:00:08.283036+00:00",
+          "pending_msg": 1599,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996255,
+      "last_deliver_tick": 996256,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-29",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
