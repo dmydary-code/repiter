@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your newly acquired taste for chaos will finally bring you a rich sugar daddy tomorrow.",
+              "sentence_ru": "Твой новоприобретенный вкус к хаосу завтра наконец-то принесет тебе богатого папика.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "My cold, calculated cruelty isn't natural; it was an acquired taste for survival.",
               "sentence_ru": "Моя холодная, расчетливая жестокость не прирожденная — это приобретенный вкус для выживания.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That expensive leather sofa is my newly acquired scratching post, human.",
               "sentence_ru": "Этот дорогой кожаный диван — моя новоприобретенная когтеточка, двуногая.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "That weird stain on the third floor is an acquired taste, stop complaining.",
-              "sentence_ru": "Это странное пятно на третьем этаже — дело привычки, хватит ныть.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 996257,
+          "due_tick": 996361,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-28T08:30:11.682908+00:00",
-          "pending_msg": 1572,
+          "last_sent_at": "2026-10-30T12:30:09.651528+00:00",
+          "pending_msg": 1628,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996312,
+      "last_deliver_tick": 996313,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Me and the boys on our way to demolish my ex's new patio.",
+              "sentence_ru": "Я и пацаны направляемся сносить новый внутренний дворик моей бывшей.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "I will demolish your new boyfriend's house just like I demolished that pizza.",
               "sentence_ru": "Я снесу дом твоего нового бойфренда точно так же, как я уничтожил ту пиццу.",
               "word_form": "demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a chainsaw while crying.",
               "sentence_ru": "Он решил уничтожить свадебный торт своей бывшей девушки бензопилой, громко рыдая.",
               "word_form": "to demolish"
-            },
-            {
-              "sentence": "Chad decided to demolish the conference room just because his presentation was rejected.",
-              "sentence_ru": "Чад решил снести переговорку просто потому, что его презентацию отвергли.",
-              "word_form": "to demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 996266,
+          "due_tick": 996361,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-10-28T13:24:25.509464+00:00",
-          "pending_msg": 1585,
+          "last_sent_at": "2026-10-30T12:30:14.498365+00:00",
+          "pending_msg": 1629,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996312,
+      "last_deliver_tick": 996313,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
