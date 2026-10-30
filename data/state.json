@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our neighbor in apt 42 is rolling in money yet refuses to pay for elevator repairs!",
+              "sentence_ru": "Наш сосед из 42-й квартиры купается в деньгах, но при этом отказывается платить за ремонт лифта!",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "He is rolling in money while my soul starves on cheap ramen.",
               "sentence_ru": "Он купается в деньгах, пока моя душа голодает на дешёвом рамене.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "A resurrected dictator is rolling in money after selling exclusive rights to his frozen brain.",
               "sentence_ru": "Воскресший диктатор купается в деньгах после продажи эксклюзивных прав на свой замороженный мозг.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "Our neighbor in apt 48 is rolling in money yet refuses to pay for elevator repairs.",
-              "sentence_ru": "Наш сосед из 48-й квартиры купается в деньгах, но отказывается платить за ремонт лифта.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 996256,
+          "due_tick": 996356,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-28T08:00:25.564267+00:00",
-          "pending_msg": 1570,
+          "last_sent_at": "2026-10-30T10:00:14.346168+00:00",
+          "pending_msg": 1622,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996307,
+      "last_deliver_tick": 996308,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I flourish on the expensive carpets you bought while starving yourself, human.",
+              "sentence_ru": "Я процветаю на дорогих коврах, которые ты купила, пока сама голодала, двуногая.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My inner demons continue to flourish while my bank account violently weeps.",
               "sentence_ru": "Мои внутренние демоны продолжают процветать, пока мой банковский счет яростно рыдает.",
               "word_form": "flourish"
@@ -1029,20 +1034,15 @@
               "sentence": "My stolen gnomes flourish in the dark basement, fueled by pure chaos and pizza.",
               "sentence_ru": "Мои украденные гномы процветают в темном подвале, подпитываемые чистым хаосом и пиццей.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "My stolen gnomes flourish on a diet of pure vodka and neighborhood chaos.",
-              "sentence_ru": "Мои ворованные гномы процветают на диете из чистой водки и районного хаоса.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 996257,
+          "due_tick": 996356,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-28T08:30:13.252921+00:00",
-          "pending_msg": 1573,
+          "last_sent_at": "2026-10-30T10:00:15.859126+00:00",
+          "pending_msg": 1623,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996307,
+      "last_deliver_tick": 996308,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
