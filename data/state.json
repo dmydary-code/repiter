@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen is looking slightly less dead inside after firing Greg.",
+              "sentence_ru": "Карен выглядит слегка менее мертвой внутри после увольнения Грега.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "Your favorite slippers are slightly on fire, human, but keep petting me.",
               "sentence_ru": "Твои любимые тапочки слегка горят, двуногая, но продолжай меня гладить.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "I am slightly outside your window and I need my hoodie back.",
               "sentence_ru": "Я слегка за твоим окном и мне нужна моя толстовка обратно.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "Our ceiling is slightly leaking because the idiot upstairs decided to install a indoor pool.",
-              "sentence_ru": "Наш потолок слегка протекает, потому что идиот сверху решил установить крытый бассейн.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 996213,
+          "due_tick": 996352,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-27T10:30:18.723487+00:00",
-          "pending_msg": 1558,
+          "last_sent_at": "2026-10-30T08:00:12.449543+00:00",
+          "pending_msg": 1614,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996303,
+      "last_deliver_tick": 996304,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Lost my dignity and a shoe in the dark backstreets behind the strip club.",
+              "sentence_ru": "Потерял свое достоинство и один ботинок в темных переулках за стриптиз-клубом.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "He chased a naked goblin through the damp backstreets while clutching a stolen wheel of cheese.",
               "sentence_ru": "Он преследовал голого гоблина по влажным задворкам, судорожно сжимая украденную головку сыра.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "I steal fish from the rich and eat it in dark backstreets.",
               "sentence_ru": "Я ворую рыбу у богачей и жру её в тёмных переулках.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "He hid his stolen collection of rubber ducks in the darkest backstreets.",
-              "sentence_ru": "Он спрятал свою украденную коллекцию резиновых уток в самых темных трущобах.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 996214,
+          "due_tick": 996352,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-27T11:00:07.721696+00:00",
-          "pending_msg": 1561,
+          "last_sent_at": "2026-10-30T08:00:13.688638+00:00",
+          "pending_msg": 1615,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996303,
+      "last_deliver_tick": 996304,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
