@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad never lifts a finger in the house, leaving all the mess to our miserable shared coffee machine.",
+              "sentence_ru": "Чад никогда не ударяет палец о палец дома, оставляя весь беспорядок нашей несчастной общей кофемашине.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "Nobody ever lifts a finger in the house, so the trash is now sentient.",
               "sentence_ru": "Никто в доме никогда не ударяет палец о палец, поэтому мусор теперь разумен.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "If roommate Kevin never lifts a finger in the house again, I will glue his Xbox to the ceiling.",
               "sentence_ru": "Если сожитель Кевин еще хоть раз ударит палец о палец по дому, я приклею его Xbox к потолку.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "Scorpio, your lazy roommate never lifts a finger in the house, so hide his beer.",
-              "sentence_ru": "Скорпион, твой ленивый соседик палец о палец не ударяет по дому, так что спрячь его пиво.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 996255,
+          "due_tick": 996355,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-28T07:43:49.858361+00:00",
-          "pending_msg": 1568,
+          "last_sent_at": "2026-10-30T09:30:26.350178+00:00",
+          "pending_msg": 1620,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996306,
+      "last_deliver_tick": 996307,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Why are our hallway walls painted in such a drab prison gray color?",
+              "sentence_ru": "Почему стены нашего коридора покрашены в такой унылый тюремно-серый цвет?",
+              "word_form": "drab"
+            },
             {
               "sentence": "Stop painting the hallway in this drab gray color, we live in a building, not a depression-era bunker!",
               "sentence_ru": "Хватит красить коридор в этот унылый серый цвет, мы живем в здании, а не в бункере времен Великой депрессии!",
@@ -906,20 +911,15 @@
               "sentence": "My soul is as drab as this cheap motel carpet, screaming for a splash of neon blood.",
               "sentence_ru": "Моя душа так же уныльна, как ковер в этом дешевом мотеле, и вопит о брызгах неоновой крови.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Even my ex's personality couldn't make this drab hotel room look any worse.",
-              "sentence_ru": "Даже характер моего бывшего не смог бы сделать этот унылый номер в отеле еще хуже.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996256,
+          "due_tick": 996355,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-28T08:00:28.340270+00:00",
-          "pending_msg": 1571,
+          "last_sent_at": "2026-10-30T09:30:27.645961+00:00",
+          "pending_msg": 1621,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996306,
+      "last_deliver_tick": 996307,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
