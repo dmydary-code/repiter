@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I am profoundly sorry that I bought a goat instead of fixing our relationship.",
+              "sentence_ru": "Я глубоко сожалею, что купил козу вместо того, чтобы починить наши отношения.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "I am profoundly sorry that I traded your cat for three energy drinks at 3 AM.",
               "sentence_ru": "Я глубоко сожалею, что обменял твоего кота на три энергетических напитка в 3 часа ночи.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "Local cat becomes profoundly offended after receiving a generic plastic mouse.",
               "sentence_ru": "Местный кот глубоко оскорблен после получения дешевой пластиковой мыши.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "He was profoundly confused when his cat started speaking fluent French in the shower.",
-              "sentence_ru": "Он был глубоко растерян, когда его кот заговорил на беглом французском в душе.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996211,
+          "due_tick": 996350,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-27T09:30:18.520484+00:00",
-          "pending_msg": 1554,
+          "last_sent_at": "2026-10-30T07:00:13.555082+00:00",
+          "pending_msg": 1610,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996277,
+      "last_deliver_tick": 996302,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I didn't mean to impose my new crypto cult on you at 3 AM.",
+              "sentence_ru": "Я не хотел навязывать тебе свой новый крипто-культ в 3 часа ночи.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Aliens impose a mandatory tax on all local cats after seizing the parliament.",
               "sentence_ru": "Пришельцы навязывают обязательный налог на всех местных котов после захвата парламента.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "My cat decided to impose a strict tax on all mice in the living room.",
               "sentence_ru": "Мой кот решил навязать строгий налог на всех мышей в гостиной.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Mars will try to impose terrible fashion choices on you tomorrow, resist.",
-              "sentence_ru": "Марс попытается навязать тебе ужасные модные тренды завтра, сопротивляйся.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996212,
+          "due_tick": 996350,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-27T10:00:07.243004+00:00",
-          "pending_msg": 1557,
+          "last_sent_at": "2026-10-30T07:00:14.940674+00:00",
+          "pending_msg": 1611,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996277,
+      "last_deliver_tick": 996302,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
