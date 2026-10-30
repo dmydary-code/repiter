@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet toad demanded a celebrity endorsement before eating his disgusting green flies.",
+              "sentence_ru": "Моя домашняя жаба потребовала рекламу с участием звезд перед тем, как съесть своих отвратительных зеленых мух.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "If this celebrity endorsement fails, Dwight will literally trade all our desks for beet juice.",
               "sentence_ru": "Если эта реклама с участием звезды провалится, Дуайт буквально обменяет все наши столы на свекольный сок.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "This cream smells like hot garbage, but the celebrity endorsement made my grandma buy ten jars.",
               "sentence_ru": "Этот крем воняет как помойка, но реклама со звездой заставила мою бабулю купить десять банок.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "My soul died a little when I realized my integrity was just a cheap celebrity endorsement.",
-              "sentence_ru": "Моя душа немного умерла, когда я понял, что моя честность — это просто дешевая реклама со звездами.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 996215,
+          "due_tick": 996354,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-27T11:30:22.171396+00:00",
-          "pending_msg": 1562,
+          "last_sent_at": "2026-10-30T09:00:11.581780+00:00",
+          "pending_msg": 1618,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996305,
+      "last_deliver_tick": 996306,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to wire up the toaster to the cat to finally make breakfast.",
+              "sentence_ru": "Мне пришлось подключить тостер к коту, чтобы наконец позавтракать.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "I had to wire up my angry cat to the toaster for maximum chaos.",
               "sentence_ru": "Мне пришлось подключить проводами моего злого кота к тостеру ради максимального хаоса.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "I need you to wire up my new neon sign so I can stare at it while I cry.",
               "sentence_ru": "Мне нужно, чтобы ты подключил мою новую неоновую вывеску, пока я плачу, глядя на неё.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I need to wire up this bomb before my therapist notices I skipped session again.",
-              "sentence_ru": "Мне нужно подключить эту бомбу до того, как мой психотерапевт заметит, что я снова пропустил сеанс.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996255,
+          "due_tick": 996354,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-28T07:43:51.057789+00:00",
-          "pending_msg": 1569,
+          "last_sent_at": "2026-10-30T09:00:12.939623+00:00",
+          "pending_msg": 1619,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996305,
+      "last_deliver_tick": 996306,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-30",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
