@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your wild party animals will devastate the lobby if you don't calm them down!",
+              "sentence_ru": "Ваши дикие тусовщики разнесут лобби в щепки, если вы их не успокоите!",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Tomorrow your ex's new haircut will devastate your fragile ego completely.",
               "sentence_ru": "Завтра новая стрижка твоего бывшего полностью опустошит твоё хрупкое эго.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Tomorrow your ex will utterly devastate your fridge and leave only sad mayonnaise.",
               "sentence_ru": "Завтра твой бывший полностью разнесет твой холодильник и оставит лишь грустный майонез.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "Your new designer curtains will totally devastate me if I climb them.",
-              "sentence_ru": "Твои новые дизайнерские шторы меня просто уничтожат, если я по ним залезу.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 996270,
+          "due_tick": 996402,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-28T15:00:26.015952+00:00",
-          "pending_msg": 1592,
+          "last_sent_at": "2026-10-31T09:00:24.758473+00:00",
+          "pending_msg": 1638,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996353,
+      "last_deliver_tick": 996354,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This influx of stray cats in our kitchen is getting out of hand, human.",
+              "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, двуногая.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "This sudden influx of my exes' new partners into the bar is pure psychological torture.",
               "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в бар — чистая психологическая пытка.",
               "word_form": "influx"
@@ -1193,20 +1198,15 @@
               "sentence": "Tomorrow brings a chaotic influx of weird exes, so lock your doors and hide the tequila.",
               "sentence_ru": "Завтра принесет хаотичный наплыв странных бывших, так что заприте двери и спрячьте текилу.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An unexpected influx of aggressive badgers forced the nudist colony to wear leather pants.",
-              "sentence_ru": "Неожиданный наплыв агрессивных барсуков заставил нудистов надеть кожаные штаны.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 996302,
+          "due_tick": 996402,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-29T07:00:36.556574+00:00",
-          "pending_msg": 1595,
+          "last_sent_at": "2026-10-31T09:00:27.372194+00:00",
+          "pending_msg": 1639,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996353,
+      "last_deliver_tick": 996354,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
