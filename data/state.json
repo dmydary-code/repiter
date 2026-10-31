@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That was a cheeky text to send at 3 AM while you are dating my mom.",
+              "sentence_ru": "Это было наглое смс для трёх часов ночи, учитывая, что ты встречаешься с моей мамой.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky raccoon stole my last donut and winked at me.",
               "sentence_ru": "Этот наглый енот украл мой последний пончик и подмигнул мне.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "Some cheeky neighbor stole my delivery pizza and left an empty box of cat food instead.",
               "sentence_ru": "Какой-то наглый сосед украл мою доставку пиццы и оставил взамен пустую коробку из-под кошачьего корма.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "A cheeky Aries will steal the boss's coffee and blame the office cat tomorrow.",
-              "sentence_ru": "Завтра наглый Овен сожрёт боссёвый кофе и свалит всё на офисного кота.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 996268,
+          "due_tick": 996400,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-28T14:00:13.166598+00:00",
-          "pending_msg": 1588,
+          "last_sent_at": "2026-10-31T08:00:28.425184+00:00",
+          "pending_msg": 1634,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996351,
+      "last_deliver_tick": 996352,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars in your sign makes your juicy gossip more toxic than cheap tequila tomorrow.",
+              "sentence_ru": "Марс в вашем знаке сделает ваши сочные сплетни токсичнее дешевой текилы завтра.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Alien lizard mayor caught spreading juicy gossip about the Prime Minister's swamp wedding.",
               "sentence_ru": "Мэра-инопланетянина поймали на распространении сочных сплетен о болотной свадьбе премьер-министра.",
               "word_form": "gossip"
@@ -988,20 +993,15 @@
               "sentence": "Stop discussing my divorce on the stairs, your gossip is tearing this entrance apart.",
               "sentence_ru": "Хватит обсуждать мой развод на лестнице, ваши сплетни разрывают этот подъезд на части.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "My therapist says I should let go of toxic people, but their juicy gossip is my only remaining life support.",
-              "sentence_ru": "Мой психотерапевт говорит, что мне нужно избавиться от токсичных людей, но их сочные сплетни — моя единственная оставшаяся система жизнеобеспечения.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 996269,
+          "due_tick": 996400,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-28T14:30:52.688261+00:00",
-          "pending_msg": 1591,
+          "last_sent_at": "2026-10-31T08:00:31.945889+00:00",
+          "pending_msg": 1635,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996351,
+      "last_deliver_tick": 996352,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
