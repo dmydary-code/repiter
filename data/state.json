@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The aforementioned raccoon finally confessed to stealing the mayor's toupee.",
+              "sentence_ru": "Вышеназванный енот наконец признался в краше парика мэра.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "Who the hell let the aforementioned goat eat my doormat again?",
               "sentence_ru": "Кто блин позволил вышеупомянутой козе снова сожрать мой придверный коврик?",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I still hear the screams of the aforementioned betrayal echoing in my empty soul.",
               "sentence_ru": "Я всё еще слышу крики вышеупомянутого предательства, эхом отдающиеся в моей пустой душе.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "Who keeps dumping trash in the lobby? I am talking about the aforementioned moron in apt 4B.",
-              "sentence_ru": "Кто продолжает сваливать мусор в лобби? Я говорю про вышеупомянутого дебила из 4B.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 996302,
+          "due_tick": 996403,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-29T07:00:27.440729+00:00",
-          "pending_msg": 1594,
+          "last_sent_at": "2026-10-31T09:30:09.991541+00:00",
+          "pending_msg": 1640,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996354,
+      "last_deliver_tick": 996355,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet raccoon steals my underwear now and then to build a nest.",
+              "sentence_ru": "Мой домашний енот время от времени ворует мое белье, чтобы построить гнездо.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Attention! The lift drops to the basement now and then, so scream louder.",
               "sentence_ru": "Внимание! Лифт время от времени падает в подвал, так что кричите громче.",
               "word_form": "now and then"
@@ -1234,20 +1239,15 @@
               "sentence": "My pet raccoon steals my underwear now and then, just to assert dominance.",
               "sentence_ru": "Мой домашний енот время от времени ворует мое белье, просто чтобы утвердить доминирование.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "I still wake up at 3 AM now and then just to regret blocking you.",
-              "sentence_ru": "Я до сих пор просыпаюсь в 3 часа ночи время от времени только чтобы пожалеть, что заблокировал тебя.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 996303,
+          "due_tick": 996403,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-29T07:30:20.538889+00:00",
-          "pending_msg": 1597,
+          "last_sent_at": "2026-10-31T09:30:11.401095+00:00",
+          "pending_msg": 1641,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996354,
+      "last_deliver_tick": 996355,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
