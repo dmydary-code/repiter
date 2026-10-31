@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will discourage you from wearing pants tomorrow, so go full commando.",
+              "sentence_ru": "Завтра Марс отговорит тебя надевать штаны, так что иди нагишом.",
+              "word_form": "discourage"
+            },
+            {
               "sentence": "I try not to discorage Kevin from eating raw onions during our Zoom meetings.",
               "sentence_ru": "Я стараюсь не отговаривать Кевина жрать сырой лук во время наших зум-совещаний.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "Local witches discorage citizens from eating spicy tacos before flying on broomsticks.",
               "sentence_ru": "Местные ведьмы отговаривают граждан есть острые тако перед полетами на метлах.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "My inner demons try to discorage me every time I reach for tequila.",
-              "sentence_ru": "Мои внутренние демоны пытаются отговорить меня каждый раз, когда я тянусь за текилой.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 996303,
+          "due_tick": 996404,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-29T07:30:19.285149+00:00",
-          "pending_msg": 1596,
+          "last_sent_at": "2026-10-31T10:00:19.210364+00:00",
+          "pending_msg": 1642,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996355,
+      "last_deliver_tick": 996356,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, my sleep paralysis demon is a way better roommate than my ex.",
+              "sentence_ru": "В общем и целом, мой демон сонного паралича — гораздо лучший сосед по комнате, чем моя бывшая.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, mutant raccoons successfully seized control of the local mayor's office.",
               "sentence_ru": "В общем и целом, мутировавшие еноты успешно захватили контроль над офисом местного мэра.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, my life is just a trash fire wearing a cute little hat.",
               "sentence_ru": "В общем и целом, моя жизнь — это просто помойная яма в симпатичной шляпке.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, Scorpio, your boss will still be an idiot tomorrow.",
-              "sentence_ru": "В общем и целом, Скорпион, твой начальник завтра всё ещё будет идиотом.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 996304,
+          "due_tick": 996404,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-29T08:00:08.283036+00:00",
-          "pending_msg": 1599,
+          "last_sent_at": "2026-10-31T10:00:20.449999+00:00",
+          "pending_msg": 1643,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996355,
+      "last_deliver_tick": 996356,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
