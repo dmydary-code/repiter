@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My terrible life choices somehow merged into one stinking compound of absolute regret.",
+              "sentence_ru": "Мои ужасные жизненные выборы почему-то слились в одно вонючее соединение абсолютного сожаления.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My terrible life choices just compound every single day into a toxic mess.",
               "sentence_ru": "Мои ужасные жизненные выборы с каждым днём лишь усугубляются в токсичную мешанину.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Drinking cheap tequila at your desk doesn't solve problems, it just compounds them.",
               "sentence_ru": "Пить дешевую текилу за рабочим столом не решает проблемы, а только усугубляет их.",
               "word_form": "compounds"
-            },
-            {
-              "sentence": "Your expensive hair cream is actually a toxic compound to make me hurl.",
-              "sentence_ru": "Твой дорогой крем для волос на самом деле токсичное соединение, чтобы меня вытошнило.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 996269,
+          "due_tick": 996409,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-28T14:30:33.223967+00:00",
-          "pending_msg": 1590,
+          "last_sent_at": "2026-10-31T12:30:18.440831+00:00",
+          "pending_msg": 1652,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996360,
+      "last_deliver_tick": 996361,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
+              "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера, только чтобы украсть этот б/у блендер.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "Watch Brad emerge from the CEO's office looking like he just survived a corporate bloodbath.",
               "sentence_ru": "Смотри, как Брэд вываливается из кабинета гендиректора с видом человека, пережившего корпоративную бойню.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "Tomorrow you will emerge from a pile of dirty laundry like a glorious, smelly Phoenix.",
               "sentence_ru": "Завтра ты появишься из кучи грязного белья, как славный, вонючий Феникс.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "When will our lazy plumber finally emerge from his basement and fix the leak?",
-              "sentence_ru": "Когда наш ленивый сантехник наконец вылезет из своего подвала и починит течь?",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996270,
+          "due_tick": 996409,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-10-28T15:00:48.361317+00:00",
-          "pending_msg": 1593,
+          "last_sent_at": "2026-10-31T12:30:20.108440+00:00",
+          "pending_msg": 1653,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996360,
+      "last_deliver_tick": 996361,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-10-31",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
