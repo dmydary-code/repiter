@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever you drill your concrete wall at 3 AM, my cat starts levitating from pure rage.",
+              "sentence_ru": "Всякий раз, когда ты сверлишь свою бетонную стену в 3 часа ночи, мой кот начинает левитировать от чистой ярости.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "Whenever my cat wears a tiny top hat, the neighborhood pigeons surrender their bread.",
               "sentence_ru": "Всякий раз, когда мой кот надевает крошечный цилиндр, районные голуби сдают свой хлеб.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever my cat wears a tiny top hat, the local pigeons start paying him taxes.",
               "sentence_ru": "Всякий раз, когда моя кошка надевает крошечный цилиндр, местные голуби начинают платить ей налоги.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "Local man explodes into glitter whenever his ex-girlfriend posts a happy selfie.",
-              "sentence_ru": "Местный мужик взрывается блёстками всякий раз, когда его бывшая выкладывает счастливое селфи.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 996307,
+          "due_tick": 996453,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-29T09:30:16.044614+00:00",
-          "pending_msg": 1604,
+          "last_sent_at": "2026-11-01T10:30:16.162266+00:00",
+          "pending_msg": 1686,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996404,
+      "last_deliver_tick": 996405,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My brain tends to seize up completely whenever I see your midnight texts.",
+              "sentence_ru": "Мой мозг обычно полностью заклинивает всякий раз, когда я вижу твои полуночные сообщения.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My grandfather tried to breakdance and his artificial hip suddenly seized up mid-move.",
               "sentence_ru": "Мой дедушка попытался сделать брейк-данс, и его искусственное бедро внезапно заклинило прямо посреди движения.",
               "word_form": "seized up"
@@ -1603,20 +1608,15 @@
               "sentence": "My old elevator decided to seize up right when I was carrying thirty bags of beer.",
               "sentence_ru": "Мой старый лифт решил заклинить ровно тогда, когда я тащил тридцать пакетов пива.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My brain tends to seize up whenever my toxic ex tries to slide into my DMs.",
-              "sentence_ru": "Мой мозг обычно заклинивает, когда мой токсичный бывший пытается втиснуться в мои личные сообщения.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996308,
+          "due_tick": 996453,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-29T10:00:05.152261+00:00",
-          "pending_msg": 1607,
+          "last_sent_at": "2026-11-01T10:30:17.368780+00:00",
+          "pending_msg": 1687,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996404,
+      "last_deliver_tick": 996405,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
