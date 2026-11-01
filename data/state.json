@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local cult will perpetuate the tradition of sacrificing bad stand-up comedians to the Wi-Fi gods.",
+              "sentence_ru": "Местный культ увековечит традицию приносить в жертву богам Wi-Fi плохих стендаперов.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "You perpetuate this miserable litter box drama just to ruin my morning nap.",
               "sentence_ru": "Ты затягиваешь эту жалокю драму с лотком только чтобы испортить мой утренний сон.",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "You perpetuate this miserable dry food diet, human, and I will shit in your slippers.",
               "sentence_ru": "Ты затягиваешь эту убогую сухую диету, кожаная, и я навалю в твои тапки.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "Cats knock things off tables just to perpetuate the chaos.",
-              "sentence_ru": "Коты сбрасывают вещи со столов просто ради увековечения хаоса.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 996309,
+          "due_tick": 996450,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-29T10:30:13.766442+00:00",
-          "pending_msg": 1608,
+          "last_sent_at": "2026-11-01T09:00:11.531918+00:00",
+          "pending_msg": 1678,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996401,
+      "last_deliver_tick": 996402,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat decided to impose a strict tax on all my socks.",
+              "sentence_ru": "Мой кот решил навязать строгий налог на все мои носки.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "I didn't mean to impose my new crypto cult on you at 3 AM.",
               "sentence_ru": "Я не хотел навязывать тебе свой новый крипто-культ в 3 часа ночи.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "Do not impose your weird cat religion on the rest of the building residents.",
               "sentence_ru": "Не навязывайте свою странную кошачью религию остальным жильцам дома.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "My cat decided to impose a strict tax on all mice in the living room.",
-              "sentence_ru": "Мой кот решил навязать строгий налог на всех мышей в гостиной.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996350,
+          "due_tick": 996450,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-30T07:00:14.940674+00:00",
-          "pending_msg": 1611,
+          "last_sent_at": "2026-11-01T09:00:12.634501+00:00",
+          "pending_msg": 1679,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996401,
+      "last_deliver_tick": 996402,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
