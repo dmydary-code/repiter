@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex looks slightly better than a decomposing dumpster, but not by much.",
+              "sentence_ru": "Моя бывшая выглядит слегка лучше разлагающегося мусорного контейнера, но ненамного.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "Karen is looking slightly less dead inside after firing Greg.",
               "sentence_ru": "Карен выглядит слегка менее мертвой внутри после увольнения Грега.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "My ex looked slightly less terrifying after I deleted his nudes from my phone.",
               "sentence_ru": "Мой бывший выглядел слегка менее жутко после того, как я удалила его голые фото с телефона.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "I am slightly outside your window and I need my hoodie back.",
-              "sentence_ru": "Я слегка за твоим окном и мне нужна моя толстовка обратно.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 996352,
+          "due_tick": 996458,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-30T08:00:12.449543+00:00",
-          "pending_msg": 1614,
+          "last_sent_at": "2026-11-01T13:00:21.815676+00:00",
+          "pending_msg": 1696,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996409,
+      "last_deliver_tick": 996410,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that someone in apartment 42 is breeding aggressive baboons.",
+              "sentence_ru": "Было бы трудно отрицать, что кто-то в квартире 42 разводит агрессивных павианов.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that your ex will regret dumping you for a toad tomorrow.",
               "sentence_ru": "Трудно отрицать, что твой бывший завтра пожалеет, что променял тебя на жабу.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that Greg smells like old cheese and desperation.",
               "sentence_ru": "Трудно отрицать, что Грег воняет старым сыром и отчаянием.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that someone keeps flushing concrete down the toilet.",
-              "sentence_ru": "Трудно отрицать, что кто-то продолжает смывать бетон в унитаз.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 996353,
+          "due_tick": 996458,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-30T08:30:26.325884+00:00",
-          "pending_msg": 1617,
+          "last_sent_at": "2026-11-01T13:00:22.983731+00:00",
+          "pending_msg": 1697,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996409,
+      "last_deliver_tick": 996410,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
