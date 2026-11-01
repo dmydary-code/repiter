@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Cats try to wear human pants every Tuesday, but their tails always ruin the fashion.",
+              "sentence_ru": "Коты пытаются носить человеческие штаны каждый вторник, но их хвосты всегда портят моду.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Just try to staple the boss's coffee mug to his desk again, I dare you.",
               "sentence_ru": "Только попробуй снова пристегнуть степлером чашку кофе шефа к его столу, я тебя слабо беру.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Tomorrow you will try to steal a police horse, but the horse will judge you.",
               "sentence_ru": "Завтра ты попытаешься украсть полицейскую лошадь, но лошадь осудит тебя.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Local cats try to overthrow the mayor using heavily armed pigeons.",
-              "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью вооруженных до зубов голубей.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 996305,
+          "due_tick": 996446,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-29T08:30:16.357221+00:00",
-          "pending_msg": 1600,
+          "last_sent_at": "2026-11-01T07:00:24.716637+00:00",
+          "pending_msg": 1670,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996372,
+      "last_deliver_tick": 996398,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated raccoons have taken over the city hall and banned trousers altogether.",
+              "sentence_ru": "Мутировавшие еноты захватили мэрию и вообще запретили штаны.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "My ex-boyfriend's new pet raccoon ate my passport and bit my lawyer altogether.",
               "sentence_ru": "Новый домашний енот моего бывшего съел мой паспорт и заодно покусал моего адвоката.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "We got lost, ruined our tent, and altogether lost our minds in the woods.",
               "sentence_ru": "Мы заблудились, испортили палатку и вообще полностью сошли с ума в лесу.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "We are losing clients, bleeding money, and altogether completely screwed before Friday.",
-              "sentence_ru": "Мы теряем клиентов, спускаем деньги и в целом полностью облажаемся до пятницы.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 996306,
+          "due_tick": 996446,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-29T09:00:28.520684+00:00",
-          "pending_msg": 1603,
+          "last_sent_at": "2026-11-01T07:00:26.619148+00:00",
+          "pending_msg": 1671,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996372,
+      "last_deliver_tick": 996398,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
