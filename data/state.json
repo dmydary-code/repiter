@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I set my heart on stealing the Mona Lisa, even if guards bite.",
+              "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если охранники будут кусаться.",
+              "word_form": "set my heart on"
+            },
+            {
               "sentence": "I set heart on stealing my ex's Netflix password out of pure spite.",
               "sentence_ru": "Я страстно возжелал украсть пароль от Netflix у бывшего из чистой вредности.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "I set my heart on ruining your new wedding, Wyd. Wake up.",
               "sentence_ru": "Я загорелся идеей испортить твою новую свадьбу, малая. Проснись.",
               "word_form": "set my heart on"
-            },
-            {
-              "sentence": "I set my heart on stealing the Mona Lisa, even if it kills me.",
-              "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если это меня убьет.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 996308,
+          "due_tick": 996454,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-29T10:00:03.742672+00:00",
-          "pending_msg": 1606,
+          "last_sent_at": "2026-11-01T11:00:18.621985+00:00",
+          "pending_msg": 1688,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996405,
+      "last_deliver_tick": 996406,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1626,6 +1626,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Time to ramp up my caffeine intake so I can legally vibrate through this Monday.",
+              "sentence_ru": "Пора наращивать дозу кофеина, чтобы легально завибрировать в этот понедельник.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "I need to ramp up my caffeine intake before my sanity completely surrenders.",
               "sentence_ru": "Мне нужно нарастить дозу кофеина, пока мой рассудок окончательно не сдался.",
               "word_form": "ramp up"
@@ -1644,20 +1649,15 @@
               "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
               "sentence_ru": "Чел был вынужден нарастить дозу кофеина, просто чтобы выжить в понедельник утром.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Management will ramp up the noise of drills at 6 AM because you hate sleep.",
-              "sentence_ru": "Администрация усилит шум дрелей в 6 утра, потому что вы ненавидите сон.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 996309,
+          "due_tick": 996454,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-29T10:30:18.347527+00:00",
-          "pending_msg": 1609,
+          "last_sent_at": "2026-11-01T11:00:23.403474+00:00",
+          "pending_msg": 1689,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996405,
+      "last_deliver_tick": 996406,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
