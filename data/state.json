@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The giant mutant raccoon cried plaintively after the police seized his illegal moonshine stash.",
+              "sentence_ru": "Гигантский енот-мутант жалобно плакал после того, как полиция изъяла его нелегальный запас самогона.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "Pisces, your ex will howl plaintively outside your window until you finally block their number.",
               "sentence_ru": "Рыбы, ваш бывший будет жалобно завывать под окном, пока вы наконец не заблокируете его номер.",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "Chad stared plaintively at the last donut before HR shoved it into her desk drawer.",
               "sentence_ru": "Чэд жалобно уставился на последний пончик, прежде чем HR засунула его в ящик своего стола.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "Stan stared plaintively at the last donut before Dwight brutally bit it in half.",
-              "sentence_ru": "Стэн жалобно уставился на последний пончик, прежде чем Дуайт зверски откусил от него половину.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 996306,
+          "due_tick": 996452,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-29T09:00:27.095099+00:00",
-          "pending_msg": 1602,
+          "last_sent_at": "2026-11-01T10:00:14.278309+00:00",
+          "pending_msg": 1684,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996403,
+      "last_deliver_tick": 996404,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, adjust my laser collar before I disintegrate your favorite sofa.",
+              "sentence_ru": "Человек, настрой мой лазерный ошейник, пока я не испепелил твой любимый диван.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Tomorrow you must urgently adjust your astrological sign before the universe notices you are an imposter.",
               "sentence_ru": "Завтра тебе нужно срочно подстроить свой астрологический знак, пока вселенная не заметила, что ты самозванец.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "Trying to adjust my crown while my ex cries in the background.",
               "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший рыдает на заднем плане.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "I had to adjust this cursed dildo’s speed because it was launching me into orbit.",
-              "sentence_ru": "Мне пришлось настроить скорость этого проклятого фаллоимитатора, потому что он запускал меня на орбиту.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 996307,
+          "due_tick": 996452,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-10-29T09:30:20.434960+00:00",
-          "pending_msg": 1605,
+          "last_sent_at": "2026-11-01T10:00:15.431358+00:00",
+          "pending_msg": 1685,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996403,
+      "last_deliver_tick": 996404,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
