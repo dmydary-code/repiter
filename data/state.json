@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I stared profoundly into the fridge at 3 AM, realizing my life choices are trash.",
+              "sentence_ru": "Я глубоко всмотрелся в холодильник в 3 часа ночи, осознавая, что мои жизненные выборы — мусор.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "I am profoundly sorry that I bought a goat instead of fixing our relationship.",
               "sentence_ru": "Я глубоко сожалею, что купил козу вместо того, чтобы починить наши отношения.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "He was profoundly disappointed when his pet cat ignored his million-dollar crypto portfolio.",
               "sentence_ru": "Он был глубоко разочарован, когда его домашний кот проигнорировал его миллионный криптопортфель.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "Local cat becomes profoundly offended after receiving a generic plastic mouse.",
-              "sentence_ru": "Местный кот глубоко оскорблен после получения дешевой пластиковой мыши.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996350,
+          "due_tick": 996451,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-30T07:00:13.555082+00:00",
-          "pending_msg": 1610,
+          "last_sent_at": "2026-11-01T09:30:21.317489+00:00",
+          "pending_msg": 1680,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996402,
+      "last_deliver_tick": 996403,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that stealing coffee from my desk is a fast track to hell.",
+              "sentence_ru": "Я придерживаюсь мнения, что воровство кофе с моего стола — это прямой билет в ад.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that my cat is plotting a global rebellion while licking his butt.",
               "sentence_ru": "Я придерживаюсь мнения, что мой кот замышляет глобальный бунт, пока вылизывает свой зад.",
               "word_form": "I hold the view that"
@@ -1357,20 +1362,15 @@
               "sentence": "I hold the view that mutant pigeons should pay taxes for shitting on statues.",
               "sentence_ru": "Я придерживаюсь мнения, что голуби-мутанты должны платить налоги за обгаживание памятников.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that your new boyfriend looks like a cheap thumb.",
-              "sentence_ru": "Я считаю, что твой новый парень выглядит как дешевый палец.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 996351,
+          "due_tick": 996451,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-30T07:30:26.328077+00:00",
-          "pending_msg": 1613,
+          "last_sent_at": "2026-11-01T09:30:22.561922+00:00",
+          "pending_msg": 1681,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996402,
+      "last_deliver_tick": 996403,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
