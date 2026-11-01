@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The boss is looking slightly dead, but we still need to finish the quarterly report.",
+              "sentence_ru": "Босс выглядит слегка мертвым, но нам все равно нужно закончить квартальный отчет.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "Karen is looking slightly less dead inside after firing Greg.",
               "sentence_ru": "Карен выглядит слегка менее мертвой внутри после увольнения Грега.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "My ex looked slightly less terrifying after I deleted his nudes from my phone.",
               "sentence_ru": "Мой бывший выглядел слегка менее жутко после того, как я удалила его голые фото с телефона.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "I am slightly outside your window and I need my hoodie back.",
-              "sentence_ru": "Я слегка за твоим окном и мне нужна моя толстовка обратно.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 996352,
+          "due_tick": 996465,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-30T08:00:12.449543+00:00",
-          "pending_msg": 1614,
+          "last_sent_at": "2026-11-01T16:30:25.781091+00:00",
+          "pending_msg": 1704,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996416,
+      "last_deliver_tick": 996417,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that my new sugar daddy is way hotter than you.",
+              "sentence_ru": "Трудно отрицать, что мой новый папик намного горячее тебя.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that your ex will regret dumping you for a toad tomorrow.",
               "sentence_ru": "Трудно отрицать, что твой бывший завтра пожалеет, что променял тебя на жабу.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that Greg smells like old cheese and desperation.",
               "sentence_ru": "Трудно отрицать, что Грег воняет старым сыром и отчаянием.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that someone keeps flushing concrete down the toilet.",
-              "sentence_ru": "Трудно отрицать, что кто-то продолжает смывать бетон в унитаз.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 996353,
+          "due_tick": 996465,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-30T08:30:26.325884+00:00",
-          "pending_msg": 1617,
+          "last_sent_at": "2026-11-01T16:30:27.012565+00:00",
+          "pending_msg": 1705,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996416,
+      "last_deliver_tick": 996417,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
