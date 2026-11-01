@@ -337,8 +337,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Cats try to wear human pants every Tuesday, but their tails always ruin the fashion.",
-              "sentence_ru": "Коты пытаются носить человеческие штаны каждый вторник, но их хвосты всегда портят моду.",
+              "sentence": "I still try to wash away the blood, knowing damn well it stains my soul.",
+              "sentence_ru": "Я всё еще пытаюсь смыть кровь, прекрасно понимая, что она пачкает мою душу.",
               "word_form": "try"
             },
             {
@@ -363,12 +363,12 @@
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 996446,
+          "due_tick": 996451,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T07:00:24.716637+00:00",
-          "pending_msg": 1670,
+          "last_sent_at": "2026-11-01T09:49:37.217760+00:00",
+          "pending_msg": 1682,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -419,11 +419,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Whenever my cat wears a tiny top hat, the microwave starts speaking ancient Latin.",
-              "sentence_ru": "Всякий раз, когда моя кошка надевает крошечный цилиндр, микроволновка начинает говорить на древней латыни.",
-              "word_form": "Whenever"
-            },
-            {
               "sentence": "Whenever my cat wears a tiny top hat, the neighborhood pigeons surrender their bread.",
               "sentence_ru": "Всякий раз, когда мой кот надевает крошечный цилиндр, районные голуби сдают свой хлеб.",
               "word_form": "Whenever"
@@ -442,15 +437,20 @@
               "sentence": "Whenever my cat wears a tiny top hat, the local pigeons start paying him taxes.",
               "sentence_ru": "Всякий раз, когда моя кошка надевает крошечный цилиндр, местные голуби начинают платить ей налоги.",
               "word_form": "Whenever"
+            },
+            {
+              "sentence": "Local man explodes into glitter whenever his ex-girlfriend posts a happy selfie.",
+              "sentence_ru": "Местный мужик взрывается блёстками всякий раз, когда его бывшая выкладывает счастливое селфи.",
+              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 996448,
+          "due_tick": 996307,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T08:00:18.432028+00:00",
-          "pending_msg": 1674,
+          "last_sent_at": "2026-10-29T09:30:16.044614+00:00",
+          "pending_msg": 1604,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -459,11 +459,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I set my heart on stealing the Mona Lisa, but my purse only had money for a postcard.",
-              "sentence_ru": "Я страстно пожелал украсть Мону Лизу, но в моем кошельке были деньги только на открытку.",
-              "word_form": "set my heart on"
-            },
             {
               "sentence": "I set heart on stealing my ex's Netflix password out of pure spite.",
               "sentence_ru": "Я страстно возжелал украсть пароль от Netflix у бывшего из чистой вредности.",
@@ -483,15 +478,20 @@
               "sentence": "I set my heart on ruining your new wedding, Wyd. Wake up.",
               "sentence_ru": "Я загорелся идеей испортить твою новую свадьбу, малая. Проснись.",
               "word_form": "set my heart on"
+            },
+            {
+              "sentence": "I set my heart on stealing the Mona Lisa, even if it kills me.",
+              "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если это меня убьет.",
+              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 996449,
+          "due_tick": 996308,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T08:30:02.932129+00:00",
-          "pending_msg": 1676,
+          "last_sent_at": "2026-10-29T10:00:03.742672+00:00",
+          "pending_msg": 1606,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -706,11 +706,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Local cult will perpetuate the tradition of sacrificing bad stand-up comedians to the Wi-Fi gods.",
-              "sentence_ru": "Местный культ увековечит традицию приносить в жертву богам Wi-Fi плохих стендаперов.",
-              "word_form": "perpetuate"
-            },
-            {
               "sentence": "You perpetuate this miserable litter box drama just to ruin my morning nap.",
               "sentence_ru": "Ты затягиваешь эту жалокю драму с лотком только чтобы испортить мой утренний сон.",
               "word_form": "perpetuate"
@@ -729,15 +724,20 @@
               "sentence": "You perpetuate this miserable dry food diet, human, and I will shit in your slippers.",
               "sentence_ru": "Ты затягиваешь эту убогую сухую диету, кожаная, и я навалю в твои тапки.",
               "word_form": "perpetuate"
+            },
+            {
+              "sentence": "Cats knock things off tables just to perpetuate the chaos.",
+              "sentence_ru": "Коты сбрасывают вещи со столов просто ради увековечения хаоса.",
+              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 996450,
+          "due_tick": 996309,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T09:00:11.531918+00:00",
-          "pending_msg": 1678,
+          "last_sent_at": "2026-10-29T10:30:13.766442+00:00",
+          "pending_msg": 1608,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -746,11 +746,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I stared profoundly into the fridge at 3 AM, realizing my life choices are trash.",
-              "sentence_ru": "Я глубоко всмотрелся в холодильник в 3 часа ночи, осознавая, что мои жизненные выборы — мусор.",
-              "word_form": "profoundly"
-            },
             {
               "sentence": "I am profoundly sorry that I bought a goat instead of fixing our relationship.",
               "sentence_ru": "Я глубоко сожалею, что купил козу вместо того, чтобы починить наши отношения.",
@@ -770,15 +765,20 @@
               "sentence": "He was profoundly disappointed when his pet cat ignored his million-dollar crypto portfolio.",
               "sentence_ru": "Он был глубоко разочарован, когда его домашний кот проигнорировал его миллионный криптопортфель.",
               "word_form": "profoundly"
+            },
+            {
+              "sentence": "Local cat becomes profoundly offended after receiving a generic plastic mouse.",
+              "sentence_ru": "Местный кот глубоко оскорблен после получения дешевой пластиковой мыши.",
+              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996451,
+          "due_tick": 996350,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T09:30:21.317489+00:00",
-          "pending_msg": 1680,
+          "last_sent_at": "2026-10-30T07:00:13.555082+00:00",
+          "pending_msg": 1610,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -829,11 +829,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Staring at my empty wine glass plaintively while the bartender acts completely blind.",
-              "sentence_ru": "Жалобно пялюсь на пустой бокал вина, пока бармен притворяется абсолютно слепым.",
-              "word_form": "plaintively"
-            },
-            {
               "sentence": "Pisces, your ex will howl plaintively outside your window until you finally block their number.",
               "sentence_ru": "Рыбы, ваш бывший будет жалобно завывать под окном, пока вы наконец не заблокируете его номер.",
               "word_form": "plaintively"
@@ -852,15 +847,20 @@
               "sentence": "Chad stared plaintively at the last donut before HR shoved it into her desk drawer.",
               "sentence_ru": "Чэд жалобно уставился на последний пончик, прежде чем HR засунула его в ящик своего стола.",
               "word_form": "plaintively"
+            },
+            {
+              "sentence": "Stan stared plaintively at the last donut before Dwight brutally bit it in half.",
+              "sentence_ru": "Стэн жалобно уставился на последний пончик, прежде чем Дуайт зверски откусил от него половину.",
+              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 996447,
+          "due_tick": 996306,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T07:30:08.821788+00:00",
-          "pending_msg": 1672,
+          "last_sent_at": "2026-10-29T09:00:27.095099+00:00",
+          "pending_msg": 1602,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -874,7 +874,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 6,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,11 +1339,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I hold the view that stealing coffee from my desk is a fast track to hell.",
-              "sentence_ru": "Я придерживаюсь мнения, что воровство кофе с моего стола — это прямой билет в ад.",
-              "word_form": "I hold the view that"
-            },
-            {
               "sentence": "I hold the view that my cat is plotting a global rebellion while licking his butt.",
               "sentence_ru": "Я придерживаюсь мнения, что мой кот замышляет глобальный бунт, пока вылизывает свой зад.",
               "word_form": "I hold the view that"
@@ -1362,15 +1357,20 @@
               "sentence": "I hold the view that mutant pigeons should pay taxes for shitting on statues.",
               "sentence_ru": "Я придерживаюсь мнения, что голуби-мутанты должны платить налоги за обгаживание памятников.",
               "word_form": "I hold the view that"
+            },
+            {
+              "sentence": "I hold the view that your new boyfriend looks like a cheap thumb.",
+              "sentence_ru": "Я считаю, что твой новый парень выглядит как дешевый палец.",
+              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 996451,
+          "due_tick": 996351,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-01T09:30:22.561922+00:00",
-          "pending_msg": 1681,
+          "last_sent_at": "2026-10-30T07:30:26.328077+00:00",
+          "pending_msg": 1613,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1462,11 +1462,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Tomorrow you must aggressively adjust your ex's car brakes for maximum chaos.",
-              "sentence_ru": "Завтра вы должны агрессивно отрегулировать тормоза машины вашего бывшего для максимального хаоса.",
-              "word_form": "adjust"
-            },
-            {
               "sentence": "Tomorrow you must urgently adjust your astrological sign before the universe notices you are an imposter.",
               "sentence_ru": "Завтра тебе нужно срочно подстроить свой астрологический знак, пока вселенная не заметила, что ты самозванец.",
               "word_form": "adjust"
@@ -1485,15 +1480,20 @@
               "sentence": "Trying to adjust my crown while my ex cries in the background.",
               "sentence_ru": "Пытаюсь поправить свою корону, пока мой бывший рыдает на заднем плане.",
               "word_form": "adjust"
+            },
+            {
+              "sentence": "I had to adjust this cursed dildo’s speed because it was launching me into orbit.",
+              "sentence_ru": "Мне пришлось настроить скорость этого проклятого фаллоимитатора, потому что он запускал меня на орбиту.",
+              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 996447,
+          "due_tick": 996307,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-01T07:30:10.099890+00:00",
-          "pending_msg": 1673,
+          "last_sent_at": "2026-10-29T09:30:20.434960+00:00",
+          "pending_msg": 1605,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1503,8 +1503,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Mutated raccoons have taken over the city hall and banned trousers altogether.",
-              "sentence_ru": "Мутировавшие еноты захватили мэрию и вообще запретили штаны.",
+              "sentence": "My ex and my current therapist are hanging out, which is altogether terrifying.",
+              "sentence_ru": "Мой бывший и мой текущий психотерапевт тусуются вместе, что пугает абсолютно до усрачки.",
               "word_form": "altogether"
             },
             {
@@ -1529,12 +1529,12 @@
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 996446,
+          "due_tick": 996451,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-01T07:00:26.619148+00:00",
-          "pending_msg": 1671,
+          "last_sent_at": "2026-11-01T09:49:38.389847+00:00",
+          "pending_msg": 1683,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1585,11 +1585,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My brain tends to seize up whenever I see your midnight texts, babe.",
-              "sentence_ru": "Мой мозг обычно заклинивает, когда я вижу твои ночные смски, детка.",
-              "word_form": "seize up"
-            },
-            {
               "sentence": "My grandfather tried to breakdance and his artificial hip suddenly seized up mid-move.",
               "sentence_ru": "Мой дедушка попытался сделать брейк-данс, и его искусственное бедро внезапно заклинило прямо посреди движения.",
               "word_form": "seized up"
@@ -1608,15 +1603,20 @@
               "sentence": "My old elevator decided to seize up right when I was carrying thirty bags of beer.",
               "sentence_ru": "Мой старый лифт решил заклинить ровно тогда, когда я тащил тридцать пакетов пива.",
               "word_form": "seize up"
+            },
+            {
+              "sentence": "My brain tends to seize up whenever my toxic ex tries to slide into my DMs.",
+              "sentence_ru": "Мой мозг обычно заклинивает, когда мой токсичный бывший пытается втиснуться в мои личные сообщения.",
+              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996448,
+          "due_tick": 996308,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-01T08:00:19.803346+00:00",
-          "pending_msg": 1675,
+          "last_sent_at": "2026-10-29T10:00:05.152261+00:00",
+          "pending_msg": 1607,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1625,11 +1625,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Human, ramp up the wet food production or I will consume your expensive shoes.",
-              "sentence_ru": "Человек, наращивай производство влажного корма, или я сожру твои дорогие туфли.",
-              "word_form": "ramp up"
-            },
             {
               "sentence": "I need to ramp up my caffeine intake before my sanity completely surrenders.",
               "sentence_ru": "Мне нужно нарастить дозу кофеина, пока мой рассудок окончательно не сдался.",
@@ -1649,15 +1644,20 @@
               "sentence": "Bro had to ramp up his caffeine intake just to survive Monday morning.",
               "sentence_ru": "Чел был вынужден нарастить дозу кофеина, просто чтобы выжить в понедельник утром.",
               "word_form": "ramp up"
+            },
+            {
+              "sentence": "Management will ramp up the noise of drills at 6 AM because you hate sleep.",
+              "sentence_ru": "Администрация усилит шум дрелей в 6 утра, потому что вы ненавидите сон.",
+              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 996449,
+          "due_tick": 996309,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-01T08:30:04.337964+00:00",
-          "pending_msg": 1677,
+          "last_sent_at": "2026-10-29T10:30:18.347527+00:00",
+          "pending_msg": 1609,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1666,11 +1666,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "My cat decided to impose a strict tax on all my socks.",
-              "sentence_ru": "Мой кот решил навязать строгий налог на все мои носки.",
-              "word_form": "impose"
-            },
             {
               "sentence": "I didn't mean to impose my new crypto cult on you at 3 AM.",
               "sentence_ru": "Я не хотел навязывать тебе свой новый крипто-культ в 3 часа ночи.",
@@ -1690,15 +1685,20 @@
               "sentence": "Do not impose your weird cat religion on the rest of the building residents.",
               "sentence_ru": "Не навязывайте свою странную кошачью религию остальным жильцам дома.",
               "word_form": "impose"
+            },
+            {
+              "sentence": "My cat decided to impose a strict tax on all mice in the living room.",
+              "sentence_ru": "Мой кот решил навязать строгий налог на всех мышей в гостиной.",
+              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996450,
+          "due_tick": 996350,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-01T09:00:12.634501+00:00",
-          "pending_msg": 1679,
+          "last_sent_at": "2026-10-30T07:00:14.940674+00:00",
+          "pending_msg": 1611,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1712,7 +1712,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 6,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
