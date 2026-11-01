@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words at 3 AM: your new boyfriend's haircut looks like a dead ferret.",
+              "sentence_ru": "Я не буду церемониться в выражениях в 3 часа ночи: стрижка твоего нового бойфренда выглядит как мертвый хорек.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "The psychic didn't mince words after swallowing a cursed goblin and choking live on air.",
               "sentence_ru": "Экстрасенс не стал подбирать выражения после того, как проглотил проклятого гоблина и подавился в прямом эфире.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "Listen, I won't mince words: your quarterly report is pure garbage, Chad.",
               "sentence_ru": "Слушай, я не буду подбирать выражения: твой квартальный отчёт — полнейший мусор, Чад.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I won't mince words: this dildo is way too small for my radioactive donkey.",
-              "sentence_ru": "Я не буду церемониться в выражениях: этот фаллоимитатор чертовски мал для моего радиоактивного осла.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 996351,
+          "due_tick": 996457,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-30T07:30:24.976134+00:00",
-          "pending_msg": 1612,
+          "last_sent_at": "2026-11-01T12:30:14.982080+00:00",
+          "pending_msg": 1694,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996408,
+      "last_deliver_tick": 996409,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I run through the dark backstreets, fleeing from my own terrible decisions.",
+              "sentence_ru": "Я бегу по темным переулкам, спасаясь от собственных ужасных решений.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "Lost my dignity and a shoe in the dark backstreets behind the strip club.",
               "sentence_ru": "Потерял свое достоинство и один ботинок в темных переулках за стриптиз-клубом.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "He chased a naked goblin through the dark backstreets while eating a raw onion.",
               "sentence_ru": "Он гонялся за голым гоблином по темным задворкам, поедая сырую луковицу.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "I steal fish from the rich and eat it in dark backstreets.",
-              "sentence_ru": "Я ворую рыбу у богачей и жру её в тёмных переулках.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 996352,
+          "due_tick": 996457,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-30T08:00:13.688638+00:00",
-          "pending_msg": 1615,
+          "last_sent_at": "2026-11-01T12:30:16.192076+00:00",
+          "pending_msg": 1695,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996408,
+      "last_deliver_tick": 996409,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-01",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
