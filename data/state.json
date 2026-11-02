@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The cheeky raccoon stole my toupee and wore it like a tiny furry crown.",
+              "sentence_ru": "Наглый енот украл мой парик и надел его как крошечную меховую корону.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky raccoon stole my last donut and winked at me.",
               "sentence_ru": "Этот наглый енот украл мой последний пончик и подмигнул мне.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky cat stole my last steak and winked at me.",
               "sentence_ru": "Этот наглый кот украл мой последний стейк и подмигнул мне.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "Some cheeky neighbor stole my delivery pizza and left an empty box of cat food instead.",
-              "sentence_ru": "Какой-то наглый сосед украл мою доставку пиццы и оставил взамен пустую коробку из-под кошачьего корма.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 996408,
+          "due_tick": 996503,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-31T12:00:12.752029+00:00",
-          "pending_msg": 1650,
+          "last_sent_at": "2026-11-02T11:30:25.541839+00:00",
+          "pending_msg": 1726,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996454,
+      "last_deliver_tick": 996455,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to emerge from under the sofa just to bite your bare ankle.",
+              "sentence_ru": "Мне пришлось вылезть из-под дивана только для того, чтобы укусить твою голую лодыжку.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
               "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера, только чтобы украсть этот б/у блендер.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
               "sentence_ru": "Моя бывшая обязана была вылезти из кустов именно тогда, когда я выглядел максимально убого.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "Tomorrow you will emerge from a pile of dirty laundry like a glorious, smelly Phoenix.",
-              "sentence_ru": "Завтра ты появишься из кучи грязного белья, как славный, вонючий Феникс.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996409,
+          "due_tick": 996503,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-10-31T12:30:20.108440+00:00",
-          "pending_msg": 1653,
+          "last_sent_at": "2026-11-02T11:30:26.893561+00:00",
+          "pending_msg": 1727,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996454,
+      "last_deliver_tick": 996455,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
