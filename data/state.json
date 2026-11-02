@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Neighbor Oleg and the stolen excavator hit it off instantly, destroying the entire flowerbed.",
+              "sentence_ru": "Сосед Олег и украденный экскаватор сразу нашли общий язык, уничтожив всю клумбу.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Remember how we hit it off at that cult meeting? Anyway, unblock me.",
               "sentence_ru": "Помнишь, как мы сразу сошлись на том собрании секты? Короче, разблокируй меня.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "My stolen gnome and the neighbor's aggressive blender hit it off immediately.",
               "sentence_ru": "Мой украденный гном и агрессивный блендер соседа сразу нашли общий язык.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "If the new neighbor and my psycho cat hit it off, I am moving out immediately.",
-              "sentence_ru": "Если новый сосед и мой психованный кот найдут общий язык, я съезжаю немедленно.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 996353,
+          "due_tick": 996494,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-30T08:30:25.147187+00:00",
-          "pending_msg": 1616,
+          "last_sent_at": "2026-11-02T07:00:10.031782+00:00",
+          "pending_msg": 1706,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996417,
+      "last_deliver_tick": 996446,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I tried to wire up my smart fridge, and now it orders tequila at 3 AM.",
+              "sentence_ru": "Я попытался подключить свой умный холодильник, и теперь он в 3 часа ночи заказывает текилу.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "I had to wire up the toaster to the cat to finally make breakfast.",
               "sentence_ru": "Мне пришлось подключить тостер к коту, чтобы наконец позавтракать.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "If you wire up the CEO's coffee machine to the printer, I'll pay you fifty bucks.",
               "sentence_ru": "Если ты подключишь кофемашину генерального к принтеру, я заплачу тебе полтинник.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I need you to wire up my new neon sign so I can stare at it while I cry.",
-              "sentence_ru": "Мне нужно, чтобы ты подключил мою новую неоновую вывеску, пока я плачу, глядя на неё.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996354,
+          "due_tick": 996494,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-10-30T09:00:12.939623+00:00",
-          "pending_msg": 1619,
+          "last_sent_at": "2026-11-02T07:00:11.348832+00:00",
+          "pending_msg": 1707,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996417,
+      "last_deliver_tick": 996446,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
