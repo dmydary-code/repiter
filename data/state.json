@@ -583,11 +583,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "You never lifts a finger in the house, you lazy fur-bag!",
-              "sentence_ru": "Ты никогда не ударишь палец о палец по дому, ленивый мешок с шерстью!",
-              "word_form": "lifts a finger in the house"
-            },
-            {
               "sentence": "Chad never lifts a finger in the house, leaving all the mess to our miserable shared coffee machine.",
               "sentence_ru": "Чад никогда не ударяет палец о палец дома, оставляя весь беспорядок нашей несчастной общей кофемашине.",
               "word_form": "lifts a finger in the house"
@@ -606,15 +601,20 @@
               "sentence": "You never lifts a finger in the house, you lazy fur-bag!",
               "sentence_ru": "Ты никогда не ударишь палец о палец по дому, ленивый мешок с шерстью!",
               "word_form": "lifts a finger in the house"
+            },
+            {
+              "sentence": "If roommate Kevin never lifts a finger in the house again, I will glue his Xbox to the ceiling.",
+              "sentence_ru": "Если сожитель Кевин еще хоть раз ударит палец о палец по дому, я приклею его Xbox к потолку.",
+              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 996496,
+          "due_tick": 996355,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-02T08:00:17.800148+00:00",
-          "pending_msg": 1710,
+          "last_sent_at": "2026-10-30T09:30:26.350178+00:00",
+          "pending_msg": 1620,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -623,11 +623,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "My cat is rolling in money after selling nude photos of himself online.",
-              "sentence_ru": "Мой кот купается в деньгах после продажи своих нюдсов в интернете.",
-              "word_form": "rolling in money"
-            },
             {
               "sentence": "Tomorrow you will be rolling in money, while your ex cries into instant noodles.",
               "sentence_ru": "Завтра ты будешь купаться в деньгах, пока твой бывший рыдает в доширак.",
@@ -647,15 +642,20 @@
               "sentence": "I'm rolling in money now, yet you still block my calls at 3 AM.",
               "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё равно блокируешь мои звонки в три часа ночи.",
               "word_form": "rolling in money"
+            },
+            {
+              "sentence": "A resurrected dictator is rolling in money after selling exclusive rights to his frozen brain.",
+              "sentence_ru": "Воскресший диктатор купается в деньгах после продажи эксклюзивных прав на свой замороженный мозг.",
+              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 996497,
+          "due_tick": 996360,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-02T08:30:26.698205+00:00",
-          "pending_msg": 1712,
+          "last_sent_at": "2026-10-30T12:26:16.124776+00:00",
+          "pending_msg": 1626,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -788,8 +788,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My entire career depends on a trashy celebrity endorsement of this toxic shampoo.",
-              "sentence_ru": "Вся моя карьера зависит от убогой поддержки звезд этого токсичного шампуня.",
+              "sentence": "That toxic celebrity endorsement of cryptoscam by apt 42 ruined our courtyard vibes!",
+              "sentence_ru": "Эта токсичная реклама криптолохотрона от звезды из 42 квартиры испортила всю атмосферу нашего двора!",
               "word_form": "celebrity endorsement"
             },
             {
@@ -814,12 +814,12 @@
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 996495,
+          "due_tick": 996497,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-02T07:30:13.844494+00:00",
-          "pending_msg": 1708,
+          "last_sent_at": "2026-11-02T08:31:11.474415+00:00",
+          "pending_msg": 1714,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -874,7 +874,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 4,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -888,8 +888,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Your ex's personality is so drab that paint actually peels off the walls.",
-              "sentence_ru": "Характер твоего бывшего настолько унылый, что краска буквально слезает со стен.",
+              "sentence": "My ex's soul is less drab than these hideous beige curtains from IKEA.",
+              "sentence_ru": "Душа моего бывшего менее унылая, чем эти отвратительные бежевые шторы из ИКЕИ.",
               "word_form": "drab"
             },
             {
@@ -914,12 +914,12 @@
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996495,
+          "due_tick": 996497,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-02T07:30:15.220357+00:00",
-          "pending_msg": 1709,
+          "last_sent_at": "2026-11-02T08:31:12.659681+00:00",
+          "pending_msg": 1715,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1011,11 +1011,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Drug dealers flourish on this porch, but your dumb houseplants are still dead.",
-              "sentence_ru": "Наркодилеры процветают на этом крыльце, но твои тупые комнатные растения всё ещё мертвы.",
-              "word_form": "flourish"
-            },
-            {
               "sentence": "Your ex will finally burst into tears while you flourish on a pile of stolen cash.",
               "sentence_ru": "Твой бывший наконец разрыдается, пока ты процветаешь на куче украденной налички.",
               "word_form": "flourish"
@@ -1034,15 +1029,20 @@
               "sentence": "My stolen gnomes flourish on a diet of pure cocaine and neighbor's tears.",
               "sentence_ru": "Мои краденые гномы процветают на диете из чистого кокаина и слёз соседа.",
               "word_form": "flourish"
+            },
+            {
+              "sentence": "My stolen gnomes flourish in the dark basement, fueled by pure chaos and pizza.",
+              "sentence_ru": "Мои украденные гномы процветают в темном подвале, подпитываемые чистым хаосом и пиццей.",
+              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 996496,
+          "due_tick": 996360,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-02T08:00:21.856160+00:00",
-          "pending_msg": 1711,
+          "last_sent_at": "2026-10-30T12:26:17.460005+00:00",
+          "pending_msg": 1627,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1051,11 +1051,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "My fat cat tried to demolish the entire fridge at 3 AM.",
-              "sentence_ru": "Мой толстый кот попытался снести к чертям весь холодильник в три часа ночи.",
-              "word_form": "demolish"
-            },
             {
               "sentence": "Me and the boys on our way to demolish my ex's new patio.",
               "sentence_ru": "Я и пацаны направляемся сносить новый внутренний дворик моей бывшей.",
@@ -1075,15 +1070,20 @@
               "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a heavy iron hammer.",
               "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки тяжелым железным молотком.",
               "word_form": "to demolish"
+            },
+            {
+              "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a chainsaw while crying.",
+              "sentence_ru": "Он решил уничтожить свадебный торт своей бывшей девушки бензопилой, громко рыдая.",
+              "word_form": "to demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 996497,
+          "due_tick": 996361,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-11-02T08:30:34.066318+00:00",
-          "pending_msg": 1713,
+          "last_sent_at": "2026-10-30T12:30:14.498365+00:00",
+          "pending_msg": 1629,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1712,7 +1712,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 4,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
