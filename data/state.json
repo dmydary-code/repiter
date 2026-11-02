@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even the most arrogant Leo will be forced to stay humble when the bill arrives.",
+              "sentence_ru": "Даже самый высокомерный Лев будет вынужден стать скромнее, когда придет счет.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even the mafia boss tried to look humble while wearing solid gold sweatpants.",
               "sentence_ru": "Даже босс мафии пытался выглядеть скромным в золотых спортивных штанах.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even this humble vacuum cleaner somehow managed to suck up my ex's shattered ego.",
               "sentence_ru": "Даже этот скромный пылесос как-то умудрился засосать разбитое эго моего бывшего.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "He acts so humble on Instagram, but secretly flexes his gold-plated toilet.",
-              "sentence_ru": "Он такой скромный в инстаграме, но втайне флексит своим золотым унитазом.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 996407,
+          "due_tick": 996502,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-31T11:30:06.421025+00:00",
-          "pending_msg": 1648,
+          "last_sent_at": "2026-11-02T11:00:19.964822+00:00",
+          "pending_msg": 1724,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996453,
+      "last_deliver_tick": 996454,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop spreading gossip about Dave's toupee before I leak your browser history, Brenda.",
+              "sentence_ru": "Хватит распускать сплетни о парике Дэйва, пока я не слил твою историю браузера, Бренда.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop spreading gossip about my new crypto-cult at 3 AM, we need privacy.",
               "sentence_ru": "Хватит распускать сплетни о моем новом крипто-культе в 3 ночи, нам нужна конфиденциальность.",
               "word_form": "gossip"
@@ -988,20 +993,15 @@
               "sentence": "Stop discussing my divorce on the stairs, your gossip is dirtier than this elevator.",
               "sentence_ru": "Хватит обсуждать мой развод на лестнице, ваши сплетни грязнее этого лифта.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop discussing my divorce on the stairs, your gossip is tearing this entrance apart.",
-              "sentence_ru": "Хватит обсуждать мой развод на лестнице, ваши сплетни разрывают этот подъезд на части.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 996408,
+          "due_tick": 996502,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-10-31T12:00:14.030576+00:00",
-          "pending_msg": 1651,
+          "last_sent_at": "2026-11-02T11:00:21.225346+00:00",
+          "pending_msg": 1725,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996453,
+      "last_deliver_tick": 996454,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
