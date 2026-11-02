@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My entire career depends on a trashy celebrity endorsement of this toxic shampoo.",
+              "sentence_ru": "Вся моя карьера зависит от убогой поддержки звезд этого токсичного шампуня.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "My pet toad demanded a celebrity endorsement before eating his disgusting green flies.",
               "sentence_ru": "Моя домашняя жаба потребовала рекламу с участием звезд перед тем, как съесть своих отвратительных зеленых мух.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "A stray goat bought my last pants only because of a celebrity endorsement.",
               "sentence_ru": "Бродячая коза купила мои последние штаны только благодаря рекламе со звездой.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "This cream smells like hot garbage, but the celebrity endorsement made my grandma buy ten jars.",
-              "sentence_ru": "Этот крем воняет как помойка, но реклама со звездой заставила мою бабулю купить десять банок.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 996354,
+          "due_tick": 996495,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-30T09:00:11.581780+00:00",
-          "pending_msg": 1618,
+          "last_sent_at": "2026-11-02T07:30:13.844494+00:00",
+          "pending_msg": 1708,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996446,
+      "last_deliver_tick": 996447,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Your ex's personality is so drab that paint actually peels off the walls.",
+              "sentence_ru": "Характер твоего бывшего настолько унылый, что краска буквально слезает со стен.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Why are our hallway walls painted in such a drab prison gray color?",
               "sentence_ru": "Почему стены нашего коридора покрашены в такой унылый тюремно-серый цвет?",
@@ -906,20 +911,15 @@
               "sentence": "Your new curtains are so drab that even I want to throw up a hairball.",
               "sentence_ru": "Твои новые шторы такие унылые, что даже мне хочется выблевать шерстяной комок.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My soul is as drab as this cheap motel carpet, screaming for a splash of neon blood.",
-              "sentence_ru": "Моя душа так же уныльна, как ковер в этом дешевом мотеле, и вопит о брызгах неоновой крови.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996355,
+          "due_tick": 996495,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-10-30T09:30:27.645961+00:00",
-          "pending_msg": 1621,
+          "last_sent_at": "2026-11-02T07:30:15.220357+00:00",
+          "pending_msg": 1709,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996446,
+      "last_deliver_tick": 996447,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-02",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
