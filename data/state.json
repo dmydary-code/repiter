@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The aforementioned degenerate who keeps peeing in the elevator will be sacrificed to Satan tonight.",
+              "sentence_ru": "Вышеупомянутый дегенерат, который продолжает мочиться в лифте, сегодня ночью будет принесен в жертву Сатане.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "I'm still thinking about the aforementioned mistake you made in bed three years ago.",
               "sentence_ru": "Я все еще думаю о вышеупомянутой ошибке, которую ты совершила в постели три года назад.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "The aforementioned degenerate who keeps pissing in the elevator will be fed to feral dogs.",
               "sentence_ru": "Вышеупомянутый дегенерат, который продолжает ссать в лифте, будет скормлен бродячим собакам.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I still hear the screams of the aforementioned betrayal echoing in my empty soul.",
-              "sentence_ru": "Я всё еще слышу крики вышеупомянутого предательства, эхом отдающиеся в моей пустой душе.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 996418,
+          "due_tick": 996544,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-31T17:00:21.139213+00:00",
-          "pending_msg": 1664,
+          "last_sent_at": "2026-11-03T08:00:15.053354+00:00",
+          "pending_msg": 1732,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996495,
+      "last_deliver_tick": 996496,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-03",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, our marketing strategy sucks, but at least the free coffee is good.",
+              "sentence_ru": "В общем и целом наша маркетинговая стратегия — отстой, но бесплатный кофе хотя бы норм.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, mutant raccoons voted to ban trousers across the entire galaxy.",
               "sentence_ru": "В общем и целом, еноты-мутанты проголосовали за запрет штанов по всей галактике.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, your new boyfriend looks like a sad potato in skinny jeans.",
               "sentence_ru": "В общем и целом, твой новый парень выглядит как грустный картофель в обтягивающих джинсах.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, my life is just a trash fire wearing a cute little hat.",
-              "sentence_ru": "В общем и целом, моя жизнь — это просто помойная яма в симпатичной шляпке.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 996419,
+          "due_tick": 996544,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-31T17:30:36.498612+00:00",
-          "pending_msg": 1667,
+          "last_sent_at": "2026-11-03T08:00:25.591560+00:00",
+          "pending_msg": 1733,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996495,
+      "last_deliver_tick": 996496,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-03",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
