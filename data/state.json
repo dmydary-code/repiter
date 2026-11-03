@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The raccoon looked at my half-eaten burrito and wailed plaintively from the dumpster.",
+              "sentence_ru": "Енот посмотрел на моё недоеденное буррито и жалобно завыл из мусорного бака.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "The giant mutant raccoon cried plaintively after the police seized his illegal moonshine stash.",
               "sentence_ru": "Гигантский енот-мутант жалобно плакал после того, как полиция изъяла его нелегальный запас самогона.",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "Why are you looking at my new rich boyfriend so plaintively while eating dust?",
               "sentence_ru": "Почему ты так жалобно смотришь на моего нового богатого парня, пока жуешь пыль?",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "Chad stared plaintively at the last donut before HR shoved it into her desk drawer.",
-              "sentence_ru": "Чэд жалобно уставился на последний пончик, прежде чем HR засунула его в ящик своего стола.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 996452,
+          "due_tick": 996548,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T10:00:14.278309+00:00",
-          "pending_msg": 1684,
+          "last_sent_at": "2026-11-03T10:00:20.703936+00:00",
+          "pending_msg": 1740,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996499,
+      "last_deliver_tick": 996500,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-03",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If your elderly neighbor tries to steal more mail, his knees will seize up instantly.",
+              "sentence_ru": "Если твой пожилой сосед попытается украсть еще почту, его колени мгновенно заклинит.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My brain tends to seize up completely whenever I see your midnight texts.",
               "sentence_ru": "Мой мозг обычно полностью заклинивает всякий раз, когда я вижу твои полуночные сообщения.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My ex tried to text me, and my brain instantly decided to seize up.",
               "sentence_ru": "Моя бывшая попыталась мне написать, и мой мозг моментально решил оцепенеть.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My old elevator decided to seize up right when I was carrying thirty bags of beer.",
-              "sentence_ru": "Мой старый лифт решил заклинить ровно тогда, когда я тащил тридцать пакетов пива.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996453,
+          "due_tick": 996548,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-01T10:30:17.368780+00:00",
-          "pending_msg": 1687,
+          "last_sent_at": "2026-11-03T10:00:21.811792+00:00",
+          "pending_msg": 1741,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996499,
+      "last_deliver_tick": 996500,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-03",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
