@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen tried to undermine my authority by stapling my Jell-O to the copier again.",
+              "sentence_ru": "Карен попыталась подорвать мой авторитет, снова пристегнув мой желе к ксероксу степлером.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Mars will undermine your boss's career while you just eat chips.",
               "sentence_ru": "Марс подорвет карьеру твоего начальника, пока ты просто ешь чипсы.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "He tried to undermine my authority by feeding my prized parrot secret government documents.",
               "sentence_ru": "Он попытался подорвать мой авторитет, скормив моему ценному попугаю секретные госдокументы.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Her constant whispering and toxic gossip slowly undermine my last shreds of sanity.",
-              "sentence_ru": "Её постоянное шёпотное и токсичное сплетничание медленно подрывает мои последние крохи здравомыслия.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 996420,
+          "due_tick": 996546,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-31T18:00:23.573596+00:00",
-          "pending_msg": 1668,
+          "last_sent_at": "2026-11-03T09:00:12.280576+00:00",
+          "pending_msg": 1736,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996497,
+      "last_deliver_tick": 996498,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-03",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My naked ex-mother-in-law moved into my fridge, and altogether it ruined my diet.",
+              "sentence_ru": "Моя голая бывшая теща переехала в мой холодильник, и в целом это испортило мою диету.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "My ex and my current therapist are hanging out, which is altogether terrifying.",
               "sentence_ru": "Мой бывший и мой текущий психотерапевт тусуются вместе, что пугает абсолютно до усрачки.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "Your filthy life choices are altogether unacceptable, human, now open that wet food.",
               "sentence_ru": "Твои грязные жизненные выборы совершенно неприемлемы, человек, а теперь открывай влажный корм.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "We got lost, ruined our tent, and altogether lost our minds in the woods.",
-              "sentence_ru": "Мы заблудились, испортили палатку и вообще полностью сошли с ума в лесу.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 996451,
+          "due_tick": 996546,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-01T09:49:38.389847+00:00",
-          "pending_msg": 1683,
+          "last_sent_at": "2026-11-03T09:00:13.561725+00:00",
+          "pending_msg": 1737,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996497,
+      "last_deliver_tick": 996498,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-03",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
