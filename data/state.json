@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who threw a toxic chemical compound into our elevator instead of recycling?",
+              "sentence_ru": "Кто выбросил токсичное химическое соединение в наш лифт вместо переработки?",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My terrible life choices somehow merged into one stinking compound of absolute regret.",
               "sentence_ru": "Мои ужасные жизненные выборы почему-то слились в одно вонючее соединение абсолютного сожаления.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My terrible life choices compound daily, burying me alive under pure corporate stupidity.",
               "sentence_ru": "Мои ужасные жизненные выборы усугубляются ежедневно, заживо хороня меня под чистой корпоративной тупостью.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Drinking cheap tequila at your desk doesn't solve problems, it just compounds them.",
-              "sentence_ru": "Пить дешевую текилу за рабочим столом не решает проблемы, а только усугубляет их.",
-              "word_form": "compounds"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 996409,
+          "due_tick": 996542,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-10-31T12:30:18.440831+00:00",
-          "pending_msg": 1652,
+          "last_sent_at": "2026-11-03T07:00:06.068404+00:00",
+          "pending_msg": 1728,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996469,
+      "last_deliver_tick": 996494,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-03",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An influx of angry Karen zombies destroyed my small shop after I ran out of cheap wine.",
+              "sentence_ru": "Наплыв злых зомби-яжматерей уничтожил мой магазинчик, после того как у меня закончилось дешевое вино.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "Because of this insane influx of weirdos, the elevator smells like wet dog again.",
               "sentence_ru": "Из-за этого безумного наплыва каких-то фриков в лифте снова воняет мокрой собакой.",
               "word_form": "influx"
@@ -1193,20 +1198,15 @@
               "sentence": "This sudden influx of annoying interns means I'm locking my office door forever.",
               "sentence_ru": "Этот внезапный наплыв бесячих стажеров означает, что я запираю дверь кабинета навсегда.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "Tomorrow brings a chaotic influx of weird exes, so lock your doors and hide the tequila.",
-              "sentence_ru": "Завтра принесет хаотичный наплыв странных бывших, так что заприте двери и спрячьте текилу.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 996417,
+          "due_tick": 996542,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-10-31T16:47:58.622407+00:00",
-          "pending_msg": 1663,
+          "last_sent_at": "2026-11-03T07:00:07.574283+00:00",
+          "pending_msg": 1729,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996469,
+      "last_deliver_tick": 996494,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-03",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
