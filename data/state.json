@@ -460,9 +460,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I set my heart on stealing the Mona Lisa, but ended up buying a weird postcard.",
-              "sentence_ru": "Я страстно желал украсть Мону Лизу, но в итоге купил странную открытку.",
-              "word_form": "set my heart on"
+              "sentence": "Neighbor Igor set heart on stealing my Wi-Fi router and now camps in the hallway.",
+              "sentence_ru": "Сосед Игорь страстно возжелал украсть мой Wi-Fi роутер и теперь ночует в коридоре.",
+              "word_form": "set heart on"
             },
             {
               "sentence": "I set my heart on stealing the Mona Lisa, even if guards bite.",
@@ -490,8 +490,8 @@
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-04T07:00:18.521064+00:00",
-          "pending_msg": 1744,
+          "last_sent_at": "2026-11-04T07:22:28.234386+00:00",
+          "pending_msg": 1746,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -1667,8 +1667,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Stop trying to impose your terrible techno music on our chat at 3 AM!",
-              "sentence_ru": "Хватит пытаться навязывать свою ужасную техно-музыку в наш чат в 3 часа ночи!",
+              "sentence": "Why must I always impose my toxic delusions on everyone at 3 AM?",
+              "sentence_ru": "Почему я вечно должен навязывать свои токсичные бредни всем подряд в три часа ночи?",
               "word_form": "impose"
             },
             {
@@ -1697,8 +1697,8 @@
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-04T07:00:21.503028+00:00",
-          "pending_msg": 1745,
+          "last_sent_at": "2026-11-04T07:22:29.442806+00:00",
+          "pending_msg": 1747,
           "reps": 0,
           "step": 0,
           "word": "impose",
