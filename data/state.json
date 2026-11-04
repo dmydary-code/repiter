@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I didn't mince words when telling my ex his new haircut looks like a dead ferret.",
+              "sentence_ru": "Я не церемонился в выражениях, когда говорил своему бывшему, что его новая стрижка похожа на мертвого хорька.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "Management will not mince words: stop peeing in the elevator or we release the hounds.",
               "sentence_ru": "Руководство не будет церемониться в выражениях: прекратите ссать в лифте, или мы спустим собак.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I will not mince words: whoever keeps dumping cat litter in the elevator is a psycho.",
               "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает сыпать кошачий наполнитель в лифте — психопат.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "Listen, I won't mince words: your quarterly report is pure garbage, Chad.",
-              "sentence_ru": "Слушай, я не буду подбирать выражения: твой квартальный отчёт — полнейший мусор, Чад.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 996464,
+          "due_tick": 996593,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T16:00:02.168983+00:00",
-          "pending_msg": 1702,
+          "last_sent_at": "2026-11-04T08:30:25.694435+00:00",
+          "pending_msg": 1752,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996544,
+      "last_deliver_tick": 996545,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that I ate my therapist's cat out of pure spite.",
+              "sentence_ru": "Трудно отрицать, что я сожрал кота своего психотерапевта из чистой вредности.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that my new sugar daddy is way hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый папик намного горячее тебя.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that Greg eats more donuts than the entire accounting department.",
               "sentence_ru": "Трудно отрицать, что Грег съедает больше пончиков, чем весь бухгалтерский отдел.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that Greg smells like old cheese and desperation.",
-              "sentence_ru": "Трудно отрицать, что Грег воняет старым сыром и отчаянием.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 996465,
+          "due_tick": 996593,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T16:30:27.012565+00:00",
-          "pending_msg": 1705,
+          "last_sent_at": "2026-11-04T08:30:52.971769+00:00",
+          "pending_msg": 1753,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996544,
+      "last_deliver_tick": 996545,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
