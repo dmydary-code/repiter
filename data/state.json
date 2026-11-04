@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I set my heart on stealing the Mona Lisa, but ended up buying a weird postcard.",
+              "sentence_ru": "Я страстно желал украсть Мону Лизу, но в итоге купил странную открытку.",
+              "word_form": "set my heart on"
+            },
+            {
               "sentence": "I set my heart on stealing the Mona Lisa, even if guards bite.",
               "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если охранники будут кусаться.",
               "word_form": "set my heart on"
@@ -478,20 +483,15 @@
               "sentence": "You set your heart on ruining my nap, human, but I still demand salmon.",
               "sentence_ru": "Ты твердо нацелилась испортить мой сон, человек, но я всё равно требую лосось.",
               "word_form": "set your heart on"
-            },
-            {
-              "sentence": "I set my heart on ruining your new wedding, Wyd. Wake up.",
-              "sentence_ru": "Я загорелся идеей испортить твою новую свадьбу, малая. Проснись.",
-              "word_form": "set my heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 996454,
+          "due_tick": 996590,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T11:00:18.621985+00:00",
-          "pending_msg": 1688,
+          "last_sent_at": "2026-11-04T07:00:18.521064+00:00",
+          "pending_msg": 1744,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996517,
+      "last_deliver_tick": 996542,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop trying to impose your terrible techno music on our chat at 3 AM!",
+              "sentence_ru": "Хватит пытаться навязывать свою ужасную техно-музыку в наш чат в 3 часа ночи!",
+              "word_form": "impose"
+            },
+            {
               "sentence": "My weird cat tried to impose a strict curfew on my late-night gaming sessions.",
               "sentence_ru": "Мой странный кот попытался навязать жесткий комендантский час моим ночным игровым сессиям.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "I didn't mean to impose myself at 3 AM, but my new psychic vampire wife demands your blood.",
               "sentence_ru": "Я не хотел навязываться в 3 часа ночи, но моя новая жена-психический вампир требует твоей крови.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Do not impose your weird cat religion on the rest of the building residents.",
-              "sentence_ru": "Не навязывайте свою странную кошачью религию остальным жильцам дома.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996462,
+          "due_tick": 996590,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-01T15:30:01.542431+00:00",
-          "pending_msg": 1699,
+          "last_sent_at": "2026-11-04T07:00:21.503028+00:00",
+          "pending_msg": 1745,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996517,
+      "last_deliver_tick": 996542,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
