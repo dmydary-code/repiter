@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Me and my stolen flamingo hit it off immediately at the police station.",
+              "sentence_ru": "Я и мой украденный фламинго сразу же подружились в полицейском участке.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Neighbor Oleg and the stolen excavator hit it off instantly, destroying the entire flowerbed.",
               "sentence_ru": "Сосед Олег и украденный экскаватор сразу нашли общий язык, уничтожив всю клумбу.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "My ex and my new therapist hit it off immediately and now they judge me together.",
               "sentence_ru": "Моя бывшая и мой новый психотерапевт сразу нашли общий язык и теперь осуждают меня вместе.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "My stolen gnome and the neighbor's aggressive blender hit it off immediately.",
-              "sentence_ru": "Мой украденный гном и агрессивный блендер соседа сразу нашли общий язык.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 996494,
+          "due_tick": 996595,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-02T07:00:10.031782+00:00",
-          "pending_msg": 1706,
+          "last_sent_at": "2026-11-04T09:30:24.653606+00:00",
+          "pending_msg": 1756,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996546,
+      "last_deliver_tick": 996547,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "My soul is just as drab and lifeless as this cheap motel wallpaper.",
+              "sentence_ru": "Моя душа такая же унылая и безжизненная, как эти дешевые обои в мотеле.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My ex's soul is less drab than these hideous beige curtains from IKEA.",
               "sentence_ru": "Душа моего бывшего менее унылая, чем эти отвратительные бежевые шторы из ИКЕИ.",
@@ -906,20 +911,15 @@
               "sentence": "Your new life without me looks as drab as your grandma’s curtains.",
               "sentence_ru": "Твоя новая жизнь без меня выглядит такой же унылой, как шторы твоей бабушки.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Your new curtains are so drab that even I want to throw up a hairball.",
-              "sentence_ru": "Твои новые шторы такие унылые, что даже мне хочется выблевать шерстяной комок.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996497,
+          "due_tick": 996595,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-02T08:31:12.659681+00:00",
-          "pending_msg": 1715,
+          "last_sent_at": "2026-11-04T09:30:25.965797+00:00",
+          "pending_msg": 1757,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996546,
+      "last_deliver_tick": 996547,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
