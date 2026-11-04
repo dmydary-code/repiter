@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I stared at my empty wine glass, profoundly regretting all my life choices.",
+              "sentence_ru": "Я таращился на свой пустой бокал вина, глубоко жалея о всех своих жизненных выборах.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "Chad was profoundly stupid, which somehow made him employee of the month.",
               "sentence_ru": "Чэд был глубоко туп, что почему-то сделало его сотрудником месяца.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "Tomorrow you will be profoundly confused when your cat starts speaking fluent French.",
               "sentence_ru": "Завтра ты будешь глубоко ошеломлен, когда твой кот заговорит на беглом французском.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "He was profoundly disappointed when his pet cat ignored his million-dollar crypto portfolio.",
-              "sentence_ru": "Он был глубоко разочарован, когда его домашний кот проигнорировал его миллионный криптопортфель.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996463,
+          "due_tick": 996592,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-01T15:30:29.389167+00:00",
-          "pending_msg": 1700,
+          "last_sent_at": "2026-11-04T08:00:06.978708+00:00",
+          "pending_msg": 1750,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996543,
+      "last_deliver_tick": 996544,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Got lost in the dark backstreets while fleeing from a rabid stray cat.",
+              "sentence_ru": "Заблудился в темных переулках, убегая от бешеного бродячего кота.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "If you don't pay for heating, your corpse will be found in the backstreets.",
               "sentence_ru": "Если вы не заплатите за отопление, ваш труп найдут на задворках.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "I steal fish from the rich and eat it in the darkest backstreets.",
               "sentence_ru": "Я ворую рыбу у богачей и жру её в самых тёмных переулках.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "He chased a naked goblin through the dark backstreets while eating a raw onion.",
-              "sentence_ru": "Он гонялся за голым гоблином по темным задворкам, поедая сырую луковицу.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 996464,
+          "due_tick": 996592,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-01T16:00:03.425816+00:00",
-          "pending_msg": 1703,
+          "last_sent_at": "2026-11-04T08:00:08.048466+00:00",
+          "pending_msg": 1751,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996543,
+      "last_deliver_tick": 996544,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
