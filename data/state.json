@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My sanity is slightly flickering, just like this pathetic dying candle.",
+              "sentence_ru": "Мой рассудок слегка мерцает, прямо как эта жалкая угасающая свеча.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "The boss is looking slightly dead, but we still need to finish the quarterly report.",
               "sentence_ru": "Босс выглядит слегка мертвым, но нам все равно нужно закончить квартальный отчет.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "My sanity is slightly frying in this endless corporate hell.",
               "sentence_ru": "Мой рассудок слегка подгорает в этом бесконечном корпоративном аду.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My ex looked slightly less terrifying after I deleted his nudes from my phone.",
-              "sentence_ru": "Мой бывший выглядел слегка менее жутко после того, как я удалила его голые фото с телефона.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 996465,
+          "due_tick": 996594,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-01T16:30:25.781091+00:00",
-          "pending_msg": 1704,
+          "last_sent_at": "2026-11-04T09:00:25.288825+00:00",
+          "pending_msg": 1754,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996545,
+      "last_deliver_tick": 996546,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, wire up my fish tank laser or I will puke in your shoes tonight.",
+              "sentence_ru": "Человек, подключи лазер к моему аквариуму, иначе я сегодня наблею тебе в туфли.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "I tried to wire up my smart fridge, and now it orders tequila at 3 AM.",
               "sentence_ru": "Я попытался подключить свой умный холодильник, и теперь он в 3 часа ночи заказывает текилу.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "Hacker Bob tried to wire up his cat, but now the pet screams in dial-up.",
               "sentence_ru": "Хакерок Боб попытался подключить проводами своего кота, но теперь питомец орет на языке модема.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "If you wire up the CEO's coffee machine to the printer, I'll pay you fifty bucks.",
-              "sentence_ru": "Если ты подключишь кофемашину генерального к принтеру, я заплачу тебе полтинник.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996494,
+          "due_tick": 996594,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-02T07:00:11.348832+00:00",
-          "pending_msg": 1707,
+          "last_sent_at": "2026-11-04T09:00:26.535233+00:00",
+          "pending_msg": 1755,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996545,
+      "last_deliver_tick": 996546,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-04",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
