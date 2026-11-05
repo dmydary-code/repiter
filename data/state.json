@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A local stray cat is now rolling in money after biting a billionaire's crypto wallet.",
+              "sentence_ru": "Местный бродячий кот теперь купается в деньгах после того, как цапнул криптокошелек миллиардера.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "I'm rolling in money now, but you still sleep with your mom's cat.",
               "sentence_ru": "Я теперь купаюсь в деньгах, но ты всё ещё спишь с кошкой своей мамы.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "My cat is rolling in money after selling his bathwater to simps.",
               "sentence_ru": "Мой кот купается в деньгах после продажи воды из своей ванны симпам.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "I'm rolling in money now, yet you still block my calls at 3 AM.",
-              "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё равно блокируешь мои звонки в три часа ночи.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 996499,
+          "due_tick": 996638,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-02T09:30:33.142263+00:00",
-          "pending_msg": 1718,
+          "last_sent_at": "2026-11-05T07:00:14.137309+00:00",
+          "pending_msg": 1762,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996565,
+      "last_deliver_tick": 996590,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that your cat is plotting a bloody coup.",
+              "sentence_ru": "Мне кажется, что твой кот замышляет кровавый переворот.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that someone is stealing pickled cucumbers from the third floor.",
               "sentence_ru": "Мне кажется, что кто-то ворует соленые огурцы с третьего этажа.",
               "word_form": "It seems to me"
@@ -1398,20 +1403,15 @@
               "sentence": "It seems to me my ex is crying into a bucket of KFC right now.",
               "sentence_ru": "Мне кажется, мой бывший прямо сейчас рыдает в ведро с KFC.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me this dildo was used by a dinosaur before being sold as brand new.",
-              "sentence_ru": "Мне кажется, этим дилдо пользовался динозавр, прежде чем его продали как абсолютно новый.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 996500,
+          "due_tick": 996638,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-11-02T10:00:09.400919+00:00",
-          "pending_msg": 1721,
+          "last_sent_at": "2026-11-05T07:00:15.312704+00:00",
+          "pending_msg": 1763,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996565,
+      "last_deliver_tick": 996590,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
