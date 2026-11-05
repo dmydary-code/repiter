@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Her sudden refusal to share snacks will totally devastate my fragile soul.",
+              "sentence_ru": "Ее внезапный отказ делиться снеками полностью опустошит мою хрупкую душу.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "My ex tried to devastate my life, but I just adopted three more chaotic cats.",
               "sentence_ru": "Моя бывшая попыталась разрушить мою жизнь, но я просто завел еще трех котов-психопатов.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Tomorrow your ex will devastate your new fridge by eating all your secret bacon at midnight.",
               "sentence_ru": "Завтра твой бывший опустошит твой новый холодильник, сожрав весь твой секретный бекон в полночь.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "This cheap vibrator will literally devastate your soul and your AAA batteries.",
-              "sentence_ru": "Этот дешевый вибратор буквально опустошит вашу душу и батарейки.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 996543,
+          "due_tick": 996644,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-03T07:30:10.582921+00:00",
-          "pending_msg": 1730,
+          "last_sent_at": "2026-11-05T10:00:25.936926+00:00",
+          "pending_msg": 1774,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996595,
+      "last_deliver_tick": 996596,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1283,12 +1283,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 996544,
+          "due_tick": 996644,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-03T08:00:25.591560+00:00",
-          "pending_msg": 1733,
+          "last_sent_at": "2026-11-05T10:00:41.165427+00:00",
+          "pending_msg": 1775,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996595,
+      "last_deliver_tick": 996596,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
