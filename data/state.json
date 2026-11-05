@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Be humble, human, and maybe I won't throw up in your expensive shoes today.",
+              "sentence_ru": "Будь скромнее, кожаный, и, может быть, я сегодня не блевану в твои дорогие туфли.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even the most arrogant Leo will be forced to stay humble when the bill arrives.",
               "sentence_ru": "Даже самый высокомерный Лев будет вынужден стать скромнее, когда придет счет.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even my humble apologies at 3 AM won't fix how much I ruined us.",
               "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как сильно я нас разрушил.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even this humble vacuum cleaner somehow managed to suck up my ex's shattered ego.",
-              "sentence_ru": "Даже этот скромный пылесос как-то умудрился засосать разбитое эго моего бывшего.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 996502,
+          "due_tick": 996641,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-02T11:00:19.964822+00:00",
-          "pending_msg": 1724,
+          "last_sent_at": "2026-11-05T08:30:17.518479+00:00",
+          "pending_msg": 1768,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996592,
+      "last_deliver_tick": 996593,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
+              "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера только ради того, чтобы украсть этот б/у блендер.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "I had to emerge from under the sofa just to bite your bare ankle.",
               "sentence_ru": "Мне пришлось вылезть из-под дивана только для того, чтобы укусить твою голую лодыжку.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "My weird neighbor decided to emerge from his bunker only to steal our doormat.",
               "sentence_ru": "Мой странный сосед решил вылезти из своего бункера только для того, чтобы украсть наш коврик для ног.",
               "word_form": "to emerge"
-            },
-            {
-              "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
-              "sentence_ru": "Моя бывшая обязана была вылезти из кустов именно тогда, когда я выглядел максимально убого.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996503,
+          "due_tick": 996641,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-02T11:30:26.893561+00:00",
-          "pending_msg": 1727,
+          "last_sent_at": "2026-11-05T08:30:19.354290+00:00",
+          "pending_msg": 1769,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996592,
+      "last_deliver_tick": 996593,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
