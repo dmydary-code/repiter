@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky raccoon stole my taco and winked at me.",
+              "sentence_ru": "Этот наглый енот украл мой тако и подмигнул мне.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "The cheeky raccoon stole my toupee and wore it like a tiny furry crown.",
               "sentence_ru": "Наглый енот украл мой парик и надел его как крошечную меховую корону.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky cat stole my salmon fillet and winked at me.",
               "sentence_ru": "Этот дерзкий кот украл мое филе лосося и подмигнул мне.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky cat stole my last steak and winked at me.",
-              "sentence_ru": "Этот наглый кот украл мой последний стейк и подмигнул мне.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 996503,
+          "due_tick": 996642,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-02T11:30:25.541839+00:00",
-          "pending_msg": 1726,
+          "last_sent_at": "2026-11-05T09:00:34.716076+00:00",
+          "pending_msg": 1770,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996593,
+      "last_deliver_tick": 996594,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This influx of stray cats in our kitchen is getting out of hand, Susan.",
+              "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, Сьюзан.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "An influx of angry Karen zombies destroyed my small shop after I ran out of cheap wine.",
               "sentence_ru": "Наплыв злых зомби-яжматерей уничтожил мой магазинчик, после того как у меня закончилось дешевое вино.",
               "word_form": "influx"
@@ -1193,20 +1198,15 @@
               "sentence": "An influx of crazy exes will ruin your romantic plans tomorrow.",
               "sentence_ru": "Завтрашний наплыв безумных бывших разрушит твои романтические планы.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "This sudden influx of annoying interns means I'm locking my office door forever.",
-              "sentence_ru": "Этот внезапный наплыв бесячих стажеров означает, что я запираю дверь кабинета навсегда.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 996542,
+          "due_tick": 996642,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-03T07:00:07.574283+00:00",
-          "pending_msg": 1729,
+          "last_sent_at": "2026-11-05T09:00:49.234812+00:00",
+          "pending_msg": 1771,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996593,
+      "last_deliver_tick": 996594,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
