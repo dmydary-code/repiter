@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons encorage me to steal candy from crying babies.",
+              "sentence_ru": "Мои внутренние демоны поощряют меня красть конфеты у плачущих детей.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My therapist had to encorage me just to text my ex back.",
               "sentence_ru": "Моему психотерапевту пришлось поощрять меня, чтобы я просто написал бывшему.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "I encorage you to delete my number before I start crying in your bushes.",
               "sentence_ru": "Я поощряю тебя удалить мой номер, пока я не начал плакать у тебя в кустах.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "You should encourage my laziness with expensive salmon, human, not with empty praise.",
-              "sentence_ru": "Ты должна поощрять мою ленивость дорогим лососем, человек, а не пустой похвалой.",
-              "word_form": "encourage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 996501,
+          "due_tick": 996640,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-02T10:30:14.058898+00:00",
-          "pending_msg": 1722,
+          "last_sent_at": "2026-11-05T08:00:07.839326+00:00",
+          "pending_msg": 1766,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996591,
+      "last_deliver_tick": 996592,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop spreading gossip about my new lizard at 3 AM and text me back.",
+              "sentence_ru": "Хватит распускать сплетни о моей новой ящерице в 3 часа ночи и ответь мне.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop spreading gossip about Dave's toupee before I leak your browser history, Brenda.",
               "sentence_ru": "Хватит распускать сплетни о парике Дэйва, пока я не слил твою историю браузера, Бренда.",
               "word_form": "gossip"
@@ -988,20 +993,15 @@
               "sentence": "Mars in your sector means toxic gossip will literally melt your ex's new wig tomorrow.",
               "sentence_ru": "Марс в вашем секторе означает, что токсичные сплетни завтра буквально сожгут новый парик вашего бывшего.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop discussing my divorce on the stairs, your gossip is dirtier than this elevator.",
-              "sentence_ru": "Хватит обсуждать мой развод на лестнице, ваши сплетни грязнее этого лифта.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 996502,
+          "due_tick": 996640,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-02T11:00:21.225346+00:00",
-          "pending_msg": 1725,
+          "last_sent_at": "2026-11-05T08:00:09.037432+00:00",
+          "pending_msg": 1767,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996591,
+      "last_deliver_tick": 996592,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
