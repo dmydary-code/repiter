@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex lives in a heavily guarded compound, but my Voodoo doll still reached him.",
+              "sentence_ru": "Мой бывший живет в охраняемом компаунде, но моя кукла вуду все равно до него добралась.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Who threw a toxic chemical compound into our elevator instead of recycling?",
               "sentence_ru": "Кто выбросил токсичное химическое соединение в наш лифт вместо переработки?",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My ex-wife decided to compound her betrayal by marrying my talking hamster.",
               "sentence_ru": "Моя бывшая жена решила усугубить свое предательство, выйдя замуж за моего говорящего хомяка.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My terrible life choices compound daily, burying me alive under pure corporate stupidity.",
-              "sentence_ru": "Мои ужасные жизненные выборы усугубляются ежедневно, заживо хороня меня под чистой корпоративной тупостью.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 996542,
+          "due_tick": 996643,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-03T07:00:06.068404+00:00",
-          "pending_msg": 1728,
+          "last_sent_at": "2026-11-05T09:30:10.655870+00:00",
+          "pending_msg": 1772,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996594,
+      "last_deliver_tick": 996595,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated stray cats riot now and then, demanding free Wi-Fi and human flesh.",
+              "sentence_ru": "Мутировавшие бродячие коты время от времени бунтуют, требуя бесплатный вайфай и человечину.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "I still wake up at 3 AM now and then just to regret everything.",
               "sentence_ru": "Я до сих пор просыпаюсь в 3 часа ночи время от времени только чтобы пожалеть обо всём.",
               "word_form": "now and then"
@@ -1234,20 +1239,15 @@
               "sentence": "Aries, the stars say you will accidentally set your ex on fire now and then.",
               "sentence_ru": "Овны, звезды говорят, что вы будете время от времени случайно поджигать своего бывшего.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Attention! The lift drops to hell now and then, so scream louder to speed it up.",
-              "sentence_ru": "Внимание! Лифт время от времени падает в ад, так что оршите громче, чтобы ускорить его.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 996543,
+          "due_tick": 996643,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-03T07:30:11.852920+00:00",
-          "pending_msg": 1731,
+          "last_sent_at": "2026-11-05T09:30:12.446188+00:00",
+          "pending_msg": 1773,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996594,
+      "last_deliver_tick": 996595,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
