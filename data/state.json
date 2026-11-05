@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat acquired a taste for expensive human flesh after biting the butler.",
+              "sentence_ru": "Мой кот приобрел вкус к дорогой человеческой плоти после того, как укусил дворецкого.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Your acquired taste for expensive whiskey will finally impress a wealthy, half-dead sugar daddy tomorrow.",
               "sentence_ru": "Твой приобретенный вкус к дорогому виски завтра наконец впечатлит богатого, полуживого папика.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "If your cat acquired a taste for neighbor's blood, keep it inside.",
               "sentence_ru": "Если ваш кот приобрел вкус к соседской крови, держите его дома.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "That weird allergy to accounting department snacks was totally acquired after the pizza incident.",
-              "sentence_ru": "Эта странная аллергия на перекусы из бухгалтерского отдела появилась после того инцидента с пиццей.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 996500,
+          "due_tick": 996639,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-02T10:00:07.723672+00:00",
-          "pending_msg": 1720,
+          "last_sent_at": "2026-11-05T07:30:21.932558+00:00",
+          "pending_msg": 1764,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996590,
+      "last_deliver_tick": 996591,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to undergo a full exorcism after reading your old texts at 3 AM.",
+              "sentence_ru": "Мне пришлось пройти через полный экзорцизм после прочтения твоих старых смсок в 3 часа ночи.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "My ex-boyfriend had to undergo plastic surgery after trying to fight a blender.",
               "sentence_ru": "Моему бывшему пришлось перенести пластическую операцию после попытки подраться с блендером.",
               "word_form": "undergo"
@@ -1111,20 +1116,15 @@
               "sentence": "All stray cats must undergo mandatory plastic surgery before entering this dirty elevator.",
               "sentence_ru": "Все бродячие коты обязаны подвергнуться обязательной пластической операции перед входом в этот грязный лифт.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "I had to undergo an exorcism just to forget your toxic text messages.",
-              "sentence_ru": "Мне пришлось пройти через экзорцизм, только чтобы забыть твои токсичные смски.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 996501,
+          "due_tick": 996639,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-02T10:30:15.154798+00:00",
-          "pending_msg": 1723,
+          "last_sent_at": "2026-11-05T07:30:30.335244+00:00",
+          "pending_msg": 1765,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996590,
+      "last_deliver_tick": 996591,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
