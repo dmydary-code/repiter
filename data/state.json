@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The cat stared at the aforementioned severed finger in my soup and began to lick it.",
+              "sentence_ru": "Кот уставился на вышеупомянутый отрезанный палец в моем супе и начал его лизать.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "The aforementioned degenerate who keeps peeing in the elevator will be sacrificed to Satan tonight.",
               "sentence_ru": "Вышеупомянутый дегенерат, который продолжает мочиться в лифте, сегодня ночью будет принесен в жертву Сатане.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "I vomited on the aforementioned expensive rug because your cooking is garbage, human.",
               "sentence_ru": "Я блеванул на вышеупомянутый дорогой ковер, потому что твоя стряпня — помойка, кожаная.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "The aforementioned degenerate who keeps pissing in the elevator will be fed to feral dogs.",
-              "sentence_ru": "Вышеупомянутый дегенерат, который продолжает ссать в лифте, будет скормлен бродячим собакам.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 996544,
+          "due_tick": 996645,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-03T08:00:15.053354+00:00",
-          "pending_msg": 1732,
+          "last_sent_at": "2026-11-05T10:30:29.244750+00:00",
+          "pending_msg": 1776,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996596,
+      "last_deliver_tick": 996597,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that whoever keeps stealing doormats is a bald goblin.",
+              "sentence_ru": "Я склоняюсь к мысли, что тот, кто продолжает воровать коврики, — лысый гоблин.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that this weird cream made my cat's fur fall out.",
               "sentence_ru": "Я склонен думать, что этот странный крем заставил шерсть моего кота выпасть.",
               "word_form": "I'm inclined to think that"
@@ -1439,20 +1444,15 @@
               "sentence": "I'm inclined to think that someone in this chat is stealing my bathmat.",
               "sentence_ru": "Я склоняюсь к тому, что кто-то в этом чате пиздит мой коврик для ванной.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that your new boyfriend's face looks like a squashed potato.",
-              "sentence_ru": "Я склонен думать, что лицо твоего нового бойфренда похоже на примятую картошку.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 996545,
+          "due_tick": 996645,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-03T08:30:07.799247+00:00",
-          "pending_msg": 1735,
+          "last_sent_at": "2026-11-05T10:30:30.453876+00:00",
+          "pending_msg": 1777,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996596,
+      "last_deliver_tick": 996597,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-05",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
