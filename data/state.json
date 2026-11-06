@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local politicians perpetuate the myth that pigeons secretly control the municipal Wi-Fi router.",
+              "sentence_ru": "Местные политики увековечивают миф о том, что голуби тайно контролируют городской Wi-Fi роутер.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "Stop parking your flaming wreckage on the lawn and perpetuate your own misery elsewhere!",
               "sentence_ru": "Хватит парковать свой пылающий хлам на газоне и увековечивать свои страдания в другом месте!",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of misery.",
               "sentence_ru": "Писая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл страдания.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "These cheap leggings perpetuate the myth that my thighs can be compressed into sausages.",
-              "sentence_ru": "Эти дешёвые леггинсы увековечивают миф о том, что мои бёдра можно утрамбовать в сосиски.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 996591,
+          "due_tick": 996692,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-04T07:30:07.138076+00:00",
-          "pending_msg": 1748,
+          "last_sent_at": "2026-11-06T10:00:04.414375+00:00",
+          "pending_msg": 1790,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996643,
+      "last_deliver_tick": 996644,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He chased a naked goblin through the damp backstreets while eating cold spaghetti.",
+              "sentence_ru": "Он гонялся за голым гоблином по влажным задворкам, поедая холодные спагетти.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "Got lost in the dark backstreets while fleeing from a rabid stray cat.",
               "sentence_ru": "Заблудился в темных переулках, убегая от бешеного бродячего кота.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "He chased a naked goblin through the damp backstreets while clutching a stolen wheel of cheese.",
               "sentence_ru": "Он преследовал голого гоблина по влажным задворкам, судорожно сжимая украденную головку сыра.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "I steal fish from the rich and eat it in the darkest backstreets.",
-              "sentence_ru": "Я ворую рыбу у богачей и жру её в самых тёмных переулках.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 996592,
+          "due_tick": 996692,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-04T08:00:08.048466+00:00",
-          "pending_msg": 1751,
+          "last_sent_at": "2026-11-06T10:00:05.724769+00:00",
+          "pending_msg": 1791,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996643,
+      "last_deliver_tick": 996644,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
