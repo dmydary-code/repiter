@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons tried to discorage me from eating raw pasta at 3 AM.",
+              "sentence_ru": "Мои внутренние демоны пытались отговорить меня от поедания сырых макарон в 3 часа ночи.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "I tried to discourage Greg from eating drywall, but he called it a crunchy lifestyle choice.",
               "sentence_ru": "Я пытался отговорить Грега есть гипсокартон, но он назвал это хрустящим выбором стиля жизни.",
               "word_form": "discourage"
@@ -273,20 +278,15 @@
               "sentence": "I know I said we're over, but please don't discourage my 3 AM texts.",
               "sentence_ru": "Я знаю, что мы расстались, но, пожалуйста, не отбивай у меня охоту писать тебе в 3 часа ночи.",
               "word_form": "discourage"
-            },
-            {
-              "sentence": "The ugly color of these pants tried to discorage my date, but he still stayed.",
-              "sentence_ru": "Уродливый цвет этих штанов пытался оттолкнуть моего свидания, но он все равно остался.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 996545,
+          "due_tick": 996686,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-03T08:30:06.439660+00:00",
-          "pending_msg": 1734,
+          "last_sent_at": "2026-11-06T07:00:03.309899+00:00",
+          "pending_msg": 1778,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996610,
+      "last_deliver_tick": 996638,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your noisy parties have altogether destroyed my nerves, pay for my therapy!",
+              "sentence_ru": "Ваши шумные вечеринки совсем разрушили мои нервы, платите за мою терапию!",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "My naked ex-mother-in-law moved into my fridge, and altogether it ruined my diet.",
               "sentence_ru": "Моя голая бывшая теща переехала в мой холодильник, и в целом это испортило мою диету.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "My sanity didn't slip; it jumped off the roof altogether.",
               "sentence_ru": "Мой рассудок не ускользнул — он вовсе сиганул с крыши.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "Your filthy life choices are altogether unacceptable, human, now open that wet food.",
-              "sentence_ru": "Твои грязные жизненные выборы совершенно неприемлемы, человек, а теперь открывай влажный корм.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 996546,
+          "due_tick": 996686,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-03T09:00:13.561725+00:00",
-          "pending_msg": 1737,
+          "last_sent_at": "2026-11-06T07:00:04.561894+00:00",
+          "pending_msg": 1779,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996610,
+      "last_deliver_tick": 996638,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
