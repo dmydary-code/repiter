@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Try to look surprised when my ex enters the club with a clown.",
+              "sentence_ru": "Попытайся сделать удивленное лицо, когда мой бывший завалится в клуб с клоуном.",
+              "word_form": "Try"
+            },
+            {
               "sentence": "Just try to ignore the fact that my new girlfriend looks exactly like you.",
               "sentence_ru": "Просто постарайся не обращать внимания на то, что моя новая девушка выглядит точь-в-точь как ты.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Aries, try not to curse your boss tomorrow, or he will fire your ass.",
               "sentence_ru": "Овны, постарайтесь завтра не материть начальника, иначе он уволит вашу задницу.",
               "word_form": "try"
-            },
-            {
-              "sentence": "I still try to wash away the blood of my poor choices, but the sink is just laughing at me.",
-              "sentence_ru": "Я всё ещё пытаюсь смыть кровь своих жалких выборов, но раковина просто смеется надо мной.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 996547,
+          "due_tick": 996688,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-03T09:30:16.413628+00:00",
-          "pending_msg": 1738,
+          "last_sent_at": "2026-11-06T08:00:10.843175+00:00",
+          "pending_msg": 1782,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996639,
+      "last_deliver_tick": 996640,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cheap vibrator started to seize up right in the middle of my lonely Friday night.",
+              "sentence_ru": "Мой дешевый вибратор начал клинить прямо посреди моего одинокого пятнистого вечера.",
+              "word_form": "to seize up"
+            },
+            {
               "sentence": "If your elderly neighbor tries to steal more mail, his knees will seize up instantly.",
               "sentence_ru": "Если твой пожилой сосед попытается украсть еще почту, его колени мгновенно заклинит.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "If you don't feed me right now, my brain will seize up and I'll drop dead on this rug.",
               "sentence_ru": "Если ты не покормишь меня прямо сейчас, мой мозг заклинит и я сдохну на этом ковре.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My ex tried to text me, and my brain instantly decided to seize up.",
-              "sentence_ru": "Моя бывшая попыталась мне написать, и мой мозг моментально решил оцепенеть.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996548,
+          "due_tick": 996688,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-03T10:00:21.811792+00:00",
-          "pending_msg": 1741,
+          "last_sent_at": "2026-11-06T08:00:12.269036+00:00",
+          "pending_msg": 1783,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996639,
+      "last_deliver_tick": 996640,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
