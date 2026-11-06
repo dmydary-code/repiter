@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I stared at my empty wine glass, profoundly regretting every life choice that led me here.",
+              "sentence_ru": "Я смотрел на свой пустой бокал вина, глубоко сожалея о каждом жизненном выборе, приведшем меня сюда.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "I stared at my empty wine glass, profoundly regretting all my life choices.",
               "sentence_ru": "Я таращился на свой пустой бокал вина, глубоко жалея о всех своих жизненных выборах.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "I am profoundly sorry that I traded your cat for three energy drinks at 3 AM.",
               "sentence_ru": "Я глубоко сожалею, что обменял твоего кота на три энергетических напитка в 3 часа ночи.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "Tomorrow you will be profoundly confused when your cat starts speaking fluent French.",
-              "sentence_ru": "Завтра ты будешь глубоко ошеломлен, когда твой кот заговорит на беглом французском.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996592,
+          "due_tick": 996694,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-04T08:00:06.978708+00:00",
-          "pending_msg": 1750,
+          "last_sent_at": "2026-11-06T11:04:01.781381+00:00",
+          "pending_msg": 1792,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996644,
+      "last_deliver_tick": 996646,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that my dog shits exclusively on your doormat.",
+              "sentence_ru": "Трудно отрицать, что моя собака гадит исключительно на ваш коврик.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that I ate my therapist's cat out of pure spite.",
               "sentence_ru": "Трудно отрицать, что я сожрал кота своего психотерапевта из чистой вредности.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that my cat looks like an evil dictator.",
               "sentence_ru": "Трудно отрицать, что мой кот выглядит как злой диктатор.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that Greg eats more donuts than the entire accounting department.",
-              "sentence_ru": "Трудно отрицать, что Грег съедает больше пончиков, чем весь бухгалтерский отдел.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 996593,
+          "due_tick": 996694,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-04T08:30:52.971769+00:00",
-          "pending_msg": 1753,
+          "last_sent_at": "2026-11-06T11:04:03.166606+00:00",
+          "pending_msg": 1793,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996644,
+      "last_deliver_tick": 996646,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
