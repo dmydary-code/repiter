@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He tried to undermine my confidence by pointing out my ugly nose hair.",
+              "sentence_ru": "Он пытался подорвать мою уверенность, указав на мои торчащие из носа волосы.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Karen tried to undermine my authority by stapling my Jell-O to the copier again.",
               "sentence_ru": "Карен попыталась подорвать мой авторитет, снова пристегнув мой желе к ксероксу степлером.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "These cheap Chinese-made vibrators completely undermine my confidence in local witchcraft.",
               "sentence_ru": "Эти дешевые китайские вибраторы полностью подрывают мою уверенность в местном колдовстве.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "He tried to undermine my authority by feeding my prized parrot secret government documents.",
-              "sentence_ru": "Он попытался подорвать мой авторитет, скормив моему ценному попугаю секретные госдокументы.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 996546,
+          "due_tick": 996687,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-03T09:00:12.280576+00:00",
-          "pending_msg": 1736,
+          "last_sent_at": "2026-11-06T07:30:07.014739+00:00",
+          "pending_msg": 1780,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996638,
+      "last_deliver_tick": 996639,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Trying to adjust my crown so the peasants know who's boss today.",
+              "sentence_ru": "Пытаюсь поправить корону, чтобы крестьяне знали, кто тут сегодня главный.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I need you to adjust your attitude before I block you forever.",
               "sentence_ru": "Тебе нужно настроить своё отношение, пока я тебя не заблокировал навсегда.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "Please adjust your screaming volume before entering the elevator, psycho.",
               "sentence_ru": "Пожалуйста, настройте громкость своего ора перед входом в лифт, психопат.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "I must adjust my crown of thorns before the peasants start laughing.",
-              "sentence_ru": "Я должен поправить свой терновый венец, пока крестьяне не начали смеяться.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 996547,
+          "due_tick": 996687,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-03T09:30:18.148697+00:00",
-          "pending_msg": 1739,
+          "last_sent_at": "2026-11-06T07:30:08.209437+00:00",
+          "pending_msg": 1781,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996638,
+      "last_deliver_tick": 996639,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
