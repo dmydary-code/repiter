@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen glares at me whenever I breathe too loudly near the shared printer.",
+              "sentence_ru": "Карен сверлит меня взглядом всякий раз, когда я слишком громко дышу у общего принтера.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "My cat stares at the wall whenever I buy expensive therapy.",
               "sentence_ru": "Мой кот пялится в стену всякий раз, когда я покупаю дорогую терапию.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever you drink my tequila, my ghost haunts your bathroom forever.",
               "sentence_ru": "Всякий раз, когда ты пьешь мою текилу, мое привидение вечно преследует твой туалет.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "Whenever you cry, my new girlfriend laughs so hard she snorts.",
-              "sentence_ru": "Всякий раз, когда ты плачешь, моя новая девушка смеется так громко, что хрюкает.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 996549,
+          "due_tick": 996690,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-03T10:30:24.613582+00:00",
-          "pending_msg": 1742,
+          "last_sent_at": "2026-11-06T09:00:20.505635+00:00",
+          "pending_msg": 1786,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996641,
+      "last_deliver_tick": 996642,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will force you to impose your weird cat-worship rituals on your horrified boss tomorrow.",
+              "sentence_ru": "Марс заставит тебя завтра навязать твои странные ритуалы поклонения котикам твоему ужаснувшемуся боссу.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Why must I always impose my toxic delusions on everyone at 3 AM?",
               "sentence_ru": "Почему я вечно должен навязывать свои токсичные бредни всем подряд в три часа ночи?",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "Aliens impose a mandatory tax on all local cats after seizing the parliament.",
               "sentence_ru": "Пришельцы навязывают обязательный налог на всех местных котов после захвата парламента.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "I didn't mean to impose myself at 3 AM, but my new psychic vampire wife demands your blood.",
-              "sentence_ru": "Я не хотел навязываться в 3 часа ночи, но моя новая жена-психический вампир требует твоей крови.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996590,
+          "due_tick": 996690,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-04T07:22:29.442806+00:00",
-          "pending_msg": 1747,
+          "last_sent_at": "2026-11-06T09:00:21.845945+00:00",
+          "pending_msg": 1787,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996641,
+      "last_deliver_tick": 996642,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
