@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If you set heart on stealing my stapler, prepare to bleed.",
+              "sentence_ru": "Если ты твердо нацелился украсть мой степлер, готовься истечь кровью.",
+              "word_form": "set heart on"
+            },
+            {
               "sentence": "Neighbor Igor set heart on stealing my Wi-Fi router and now camps in the hallway.",
               "sentence_ru": "Сосед Игорь страстно возжелал украсть мой Wi-Fi роутер и теперь ночует в коридоре.",
               "word_form": "set heart on"
@@ -478,20 +483,15 @@
               "sentence": "Aries, you set heart on stealing your ex’s cat tomorrow.",
               "sentence_ru": "Овен, завтра ты страстно возжелаешь спереть кота твоего бывшего.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "You set your heart on ruining my nap, human, but I still demand salmon.",
-              "sentence_ru": "Ты твердо нацелилась испортить мой сон, человек, но я всё равно требую лосось.",
-              "word_form": "set your heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 996590,
+          "due_tick": 996691,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-04T07:22:28.234386+00:00",
-          "pending_msg": 1746,
+          "last_sent_at": "2026-11-06T09:30:26.209230+00:00",
+          "pending_msg": 1788,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996642,
+      "last_deliver_tick": 996643,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that my talking cat should pay rent or sleep in the dumpster.",
+              "sentence_ru": "Я придерживаюсь мнения, что мой говорящий кот должен платить за аренду или спать в мусорном баке.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that raccoons are just fat thieves in fur coats.",
               "sentence_ru": "Я придерживаюсь мнения, что еноты — это просто жирные воры в шубах.",
               "word_form": "I hold the view that"
@@ -1357,20 +1362,15 @@
               "sentence": "I hold the view that your new boyfriend looks like a depressed potato.",
               "sentence_ru": "Я придерживаюсь мнения, что твой новый парень похож на депрессивную картошку.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that your ex will burst into flames tomorrow.",
-              "sentence_ru": "Я придерживаюсь мнения, что твой бывший завтра вспыхнет как факел.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 996591,
+          "due_tick": 996691,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-04T07:30:08.266387+00:00",
-          "pending_msg": 1749,
+          "last_sent_at": "2026-11-06T09:30:27.517379+00:00",
+          "pending_msg": 1789,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996642,
+      "last_deliver_tick": 996643,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-06",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
