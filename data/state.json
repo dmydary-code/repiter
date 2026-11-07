@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm rolling in money now, but you still sleep with your mom's cat.",
+              "sentence_ru": "Я теперь купаюсь в деньгах, но ты всё ещё спишь с кошкой своей мамы.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "A local stray cat is now rolling in money after biting a billionaire's crypto wallet.",
               "sentence_ru": "Местный бродячий кот теперь купается в деньгах после того, как цапнул криптокошелек миллиардера.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "He is rolling in money while my soul starves on cheap ramen.",
               "sentence_ru": "Он купается в деньгах, пока моя душа голодает на дешёвом рамене.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "My cat is rolling in money after selling his bathwater to simps.",
-              "sentence_ru": "Мой кот купается в деньгах после продажи воды из своей ванны симпам.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 996638,
+          "due_tick": 996739,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-05T07:00:14.137309+00:00",
-          "pending_msg": 1762,
+          "last_sent_at": "2026-11-07T09:30:02.500563+00:00",
+          "pending_msg": 1804,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996690,
+      "last_deliver_tick": 996691,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad had to undergo urgent plastic surgery after crying too hard at his own promotion.",
+              "sentence_ru": "Чаду пришлось перенести срочную пластическую операцию после того, как он слишком сильно плакал на собственном повышении.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "I had to undergo a full exorcism after reading your old texts at 3 AM.",
               "sentence_ru": "Мне пришлось пройти через полный экзорцизм после прочтения твоих старых смсок в 3 часа ночи.",
               "word_form": "undergo"
@@ -1111,20 +1116,15 @@
               "sentence": "Tomorrow you will undergo a brutal plastic surgery because your face currently offends the gods.",
               "sentence_ru": "Завтра ты подвергнешься жестокой пластической операции, потому что твое лицо сейчас оскорбляет богов.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "All stray cats must undergo mandatory plastic surgery before entering this dirty elevator.",
-              "sentence_ru": "Все бродячие коты обязаны подвергнуться обязательной пластической операции перед входом в этот грязный лифт.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 996639,
+          "due_tick": 996739,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-05T07:30:30.335244+00:00",
-          "pending_msg": 1765,
+          "last_sent_at": "2026-11-07T09:30:04.173181+00:00",
+          "pending_msg": 1805,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996690,
+      "last_deliver_tick": 996691,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
