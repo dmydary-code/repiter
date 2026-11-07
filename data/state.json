@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A local raccoon acquired three nuclear launch codes by trading stolen donuts.",
+              "sentence_ru": "Местный енот приобрел три кода ядерного запуска, обменяв их на краденые пончики.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "My cat acquired a taste for expensive human flesh after biting the butler.",
               "sentence_ru": "Мой кот приобрел вкус к дорогой человеческой плоти после того, как укусил дворецкого.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "My cold, calculated cruelty isn't natural; it was an acquired taste for survival.",
               "sentence_ru": "Моя холодная, расчетливая жестокость не прирожденная — это приобретенный вкус для выживания.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "If your cat acquired a taste for neighbor's blood, keep it inside.",
-              "sentence_ru": "Если ваш кот приобрел вкус к соседской крови, держите его дома.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 996639,
+          "due_tick": 996740,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-05T07:30:21.932558+00:00",
-          "pending_msg": 1764,
+          "last_sent_at": "2026-11-07T10:00:15.179007+00:00",
+          "pending_msg": 1806,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996691,
+      "last_deliver_tick": 996692,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Drinking iced coffee and feeding my inner demons with fresh gossip.",
+              "sentence_ru": "Пью ледяной кофе и кормлю своих внутренних демонов свежими сплетнями.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Stop spreading gossip about my new lizard at 3 AM and text me back.",
               "sentence_ru": "Хватит распускать сплетни о моей новой ящерице в 3 часа ночи и ответь мне.",
               "word_form": "gossip"
@@ -988,20 +993,15 @@
               "sentence": "Alien lizard mayor caught spreading juicy gossip about the Prime Minister's swamp wedding.",
               "sentence_ru": "Мэра-инопланетянина поймали на распространении сочных сплетен о болотной свадьбе премьер-министра.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Mars in your sector means toxic gossip will literally melt your ex's new wig tomorrow.",
-              "sentence_ru": "Марс в вашем секторе означает, что токсичные сплетни завтра буквально сожгут новый парик вашего бывшего.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 996640,
+          "due_tick": 996740,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-05T08:00:09.037432+00:00",
-          "pending_msg": 1767,
+          "last_sent_at": "2026-11-07T10:00:16.624198+00:00",
+          "pending_msg": 1807,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996691,
+      "last_deliver_tick": 996692,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
