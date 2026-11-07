@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your stupid celebrity endorsement for crypto trash flooded our lobby with angry investors!",
+              "sentence_ru": "Ваша тупая поддержка крипто-мусора знаменитостями заполнила наш вестибюль злыми инвесторами!",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "My entire self-worth now hangs by the fragile thread of a single celebrity endorsement.",
               "sentence_ru": "Вся моя самооценка теперь держится на хрупкой ниточке единственной рекламы со звездой.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "If this celebrity endorsement fails, Dwight will literally trade all our desks for beet juice.",
               "sentence_ru": "Если эта реклама с участием звезды провалится, Дуайт буквально обменяет все наши столы на свекольный сок.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "My entire career died the day a bankrupt vape brand refused my celebrity endorsement.",
-              "sentence_ru": "Вся моя карьера умерла в тот день, когда банкротный бренд вейпов отверг мою рекламу со звездой.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 996596,
+          "due_tick": 996737,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-04T10:00:23.034485+00:00",
-          "pending_msg": 1758,
+          "last_sent_at": "2026-11-07T08:30:16.885090+00:00",
+          "pending_msg": 1800,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996688,
+      "last_deliver_tick": 996689,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My fat cat decided to demolish the entire Christmas tree like a furry Godzilla.",
+              "sentence_ru": "Мой толстый кот решил снести всю рождественскую елку, как пушистый Годзилла.",
+              "word_form": "to demolish"
+            },
+            {
               "sentence": "I will demolish this expensive sofa if you do not give me salmon right now.",
               "sentence_ru": "Я снесу этот дорогой диван, если ты не дашь мне лосося прямо сейчас.",
               "word_form": "demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "I will demolish your new boyfriend's house just like I demolished that pizza.",
               "sentence_ru": "Я снесу дом твоего нового бойфренда точно так же, как я уничтожил ту пиццу.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a chainsaw.",
-              "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки бензопилой.",
-              "word_form": "to demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 996597,
+          "due_tick": 996737,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-11-04T10:30:25.169353+00:00",
-          "pending_msg": 1761,
+          "last_sent_at": "2026-11-07T08:30:18.263032+00:00",
+          "pending_msg": 1801,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996688,
+      "last_deliver_tick": 996689,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
