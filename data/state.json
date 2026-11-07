@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The new auditor and the corrupt CEO hit it off immediately and stole our pensions.",
+              "sentence_ru": "Новый аудитор и коррумпированный гендиректор сразу подружились и украли наши пенсии.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Me and my stolen flamingo hit it off immediately at the police station.",
               "sentence_ru": "Я и мой украденный фламинго сразу же подружились в полицейском участке.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "We hit it off with the local stray cat and now I owe it my life savings.",
               "sentence_ru": "Мы сразу нашли общий язык с местным бродячим котом, и теперь я должен ему все свои сбережения.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "My ex and my new therapist hit it off immediately and now they judge me together.",
-              "sentence_ru": "Моя бывшая и мой новый психотерапевт сразу нашли общий язык и теперь осуждают меня вместе.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 996595,
+          "due_tick": 996736,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-04T09:30:24.653606+00:00",
-          "pending_msg": 1756,
+          "last_sent_at": "2026-11-07T08:00:17.764198+00:00",
+          "pending_msg": 1798,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996687,
+      "last_deliver_tick": 996688,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our sales continue to flourish while management slowly loses its collective mind.",
+              "sentence_ru": "Наши продажи продолжают процветать, пока руководство медленно теряет коллективный разум.",
+              "word_form": "to flourish"
+            },
+            {
               "sentence": "My ex's new business seems to flourish, which pisses me off so much.",
               "sentence_ru": "Новый бизнес моего бывшего, кажется, процветает, что меня просто бесит.",
               "word_form": "to flourish"
@@ -1029,20 +1034,15 @@
               "sentence": "My inner demons continue to flourish while my bank account violently weeps.",
               "sentence_ru": "Мои внутренние демоны продолжают процветать, пока мой банковский счет яростно рыдает.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "My ex-boyfriend's new relationship is bound to flourish, just like toxic mold in a damp basement.",
-              "sentence_ru": "Новые отношения моего бывшего обязательно пойдут в гору, прямо как токсичная плесень во влажном подвале.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 996596,
+          "due_tick": 996736,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-04T10:00:26.724334+00:00",
-          "pending_msg": 1759,
+          "last_sent_at": "2026-11-07T08:00:30.271752+00:00",
+          "pending_msg": 1799,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996687,
+      "last_deliver_tick": 996688,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
