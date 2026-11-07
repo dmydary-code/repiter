@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I am slightly outside your window and I need my hoodie back.",
+              "sentence_ru": "Я слегка за твоим окном и мне нужна моя худи обратно.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My sanity is slightly flickering, just like this pathetic dying candle.",
               "sentence_ru": "Мой рассудок слегка мерцает, прямо как эта жалкая угасающая свеча.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "Your favorite slippers are slightly on fire, human, but keep petting me.",
               "sentence_ru": "Твои любимые тапочки слегка горят, двуногая, но продолжай меня гладить.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My sanity is slightly frying in this endless corporate hell.",
-              "sentence_ru": "Мой рассудок слегка подгорает в этом бесконечном корпоративном аду.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 996594,
+          "due_tick": 996735,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-04T09:00:25.288825+00:00",
-          "pending_msg": 1754,
+          "last_sent_at": "2026-11-07T07:30:28.252822+00:00",
+          "pending_msg": 1796,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996686,
+      "last_deliver_tick": 996687,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Even my goblin ex-wife looked at my drab living room and started crying.",
+              "sentence_ru": "Даже моя бывшая жена-гоблин посмотрела на мою унылую гостиную и расплакалась.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My soul is just as drab and lifeless as this cheap motel wallpaper.",
               "sentence_ru": "Моя душа такая же унылая и безжизненная, как эти дешевые обои в мотеле.",
@@ -906,20 +911,15 @@
               "sentence": "Stop painting the hallway in this drab gray color, we live in a building, not a depression-era bunker!",
               "sentence_ru": "Хватит красить коридор в этот унылый серый цвет, мы живем в здании, а не в бункере времен Великой депрессии!",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Your new life without me looks as drab as your grandma’s curtains.",
-              "sentence_ru": "Твоя новая жизнь без меня выглядит такой же унылой, как шторы твоей бабушки.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996595,
+          "due_tick": 996735,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-04T09:30:25.965797+00:00",
-          "pending_msg": 1757,
+          "last_sent_at": "2026-11-07T07:30:31.376752+00:00",
+          "pending_msg": 1797,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996686,
+      "last_deliver_tick": 996687,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
