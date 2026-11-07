@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to encorage my pet raccoon to steal the neighbor's fancy wig.",
+              "sentence_ru": "Мне пришлось поощрять моего домашнего енота украсть шикарный парик соседа.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My inner demons encorage me to steal candy from crying babies.",
               "sentence_ru": "Мои внутренние демоны поощряют меня красть конфеты у плачущих детей.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My therapist had to encorage me before I confessed my love to a toaster.",
               "sentence_ru": "Моему психотерапевту пришлось подбодрить меня, прежде чем я признался в любви тостеру.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "I encorage you to delete my number before I start crying in your bushes.",
-              "sentence_ru": "Я поощряю тебя удалить мой номер, пока я не начал плакать у тебя в кустах.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 996640,
+          "due_tick": 996743,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-05T08:00:07.839326+00:00",
-          "pending_msg": 1766,
+          "last_sent_at": "2026-11-07T11:30:11.372451+00:00",
+          "pending_msg": 1812,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996694,
+      "last_deliver_tick": 996695,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you will suddenly emerge from a dumpster in designer Gucci clothes.",
+              "sentence_ru": "Завтра ты внезапно вылезешь из мусорного контейнера в дизайнерской одежде от Gucci.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
               "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера только ради того, чтобы украсть этот б/у блендер.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "Watch Brad emerge from the CEO's office looking like he just survived a corporate bloodbath.",
               "sentence_ru": "Смотри, как Брэд вываливается из кабинета гендиректора с видом человека, пережившего корпоративную бойню.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "My weird neighbor decided to emerge from his bunker only to steal our doormat.",
-              "sentence_ru": "Мой странный сосед решил вылезти из своего бункера только для того, чтобы украсть наш коврик для ног.",
-              "word_form": "to emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996641,
+          "due_tick": 996743,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-05T08:30:19.354290+00:00",
-          "pending_msg": 1769,
+          "last_sent_at": "2026-11-07T11:30:12.999418+00:00",
+          "pending_msg": 1813,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996694,
+      "last_deliver_tick": 996695,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
