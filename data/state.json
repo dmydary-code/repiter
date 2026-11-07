@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy roommate never lifts a finger in the house, even when the trash talks back.",
+              "sentence_ru": "Мой ленивый соседяра никогда не ударит палец о палец по дому, даже когда мусор начинает хамить.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "He never lifts a finger in the house, leaving all the chores to his trained raccoon.",
               "sentence_ru": "Он никогда не ударит палец о палец дома, оставляя всю работу по дому своему дрессированному еноту.",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "Nobody ever lifts a finger in the house, so the trash is now sentient.",
               "sentence_ru": "Никто в доме никогда не ударяет палец о палец, поэтому мусор теперь разумен.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "My lazy husband never lifts a finger in the house, so our cat now cleans the floors.",
-              "sentence_ru": "Мой ленивый муж палец о палец не ударяет по дому, поэтому теперь полы моет наш кот.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 996597,
+          "due_tick": 996738,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-04T10:30:24.004060+00:00",
-          "pending_msg": 1760,
+          "last_sent_at": "2026-11-07T09:00:12.502154+00:00",
+          "pending_msg": 1802,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996689,
+      "last_deliver_tick": 996690,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that Greg is stealing printer toner again.",
+              "sentence_ru": "Мне кажется, что Грег снова ворует тонер для принтера.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that your cat is plotting a bloody coup.",
               "sentence_ru": "Мне кажется, что твой кот замышляет кровавый переворот.",
               "word_form": "It seems to me"
@@ -1398,20 +1403,15 @@
               "sentence": "It seems to me this dildo was used by a ghost, it's freezing cold.",
               "sentence_ru": "Мне кажется, этим фаллоимитатором пользовалось привидение, он ледяной.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me my ex is crying into a bucket of KFC right now.",
-              "sentence_ru": "Мне кажется, мой бывший прямо сейчас рыдает в ведро с KFC.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 996638,
+          "due_tick": 996738,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-11-05T07:00:15.312704+00:00",
-          "pending_msg": 1763,
+          "last_sent_at": "2026-11-07T09:00:15.431906+00:00",
+          "pending_msg": 1803,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996689,
+      "last_deliver_tick": 996690,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
