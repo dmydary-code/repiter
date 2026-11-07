@@ -296,11 +296,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Mutated raccoons encorage local politicians to legalize garbage theft taxes.",
-              "sentence_ru": "Мутировавшие еноты подбадривают местных политиков легализовать налоги на кражу мусора.",
-              "word_form": "encorage"
-            },
-            {
               "sentence": "My inner demons encorage me to steal candy from crying babies.",
               "sentence_ru": "Мои внутренние демоны поощряют меня красть конфеты у плачущих детей.",
               "word_form": "encorage"
@@ -319,15 +314,20 @@
               "sentence": "My therapist had to encorage me before I confessed my love to a toaster.",
               "sentence_ru": "Моему психотерапевту пришлось подбодрить меня, прежде чем я признался в любви тостеру.",
               "word_form": "encorage"
+            },
+            {
+              "sentence": "I encorage you to delete my number before I start crying in your bushes.",
+              "sentence_ru": "Я поощряю тебя удалить мой номер, пока я не начал плакать у тебя в кустах.",
+              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 996741,
+          "due_tick": 996640,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-07T10:30:02.970386+00:00",
-          "pending_msg": 1808,
+          "last_sent_at": "2026-11-05T08:00:07.839326+00:00",
+          "pending_msg": 1766,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -378,8 +378,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "A local raccoon acquired three nuclear launch codes by trading stolen donuts.",
-              "sentence_ru": "Местный енот приобрел три кода ядерного запуска, обменяв их на краденые пончики.",
+              "sentence": "That acquired taste for chaos makes me look so mysterious on Instagram.",
+              "sentence_ru": "Этот приобретенный вкус к хаосу делает меня таким загадочным в инстаграме.",
               "word_form": "acquired"
             },
             {
@@ -404,12 +404,12 @@
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 996740,
+          "due_tick": 996742,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-07T10:00:15.179007+00:00",
-          "pending_msg": 1806,
+          "last_sent_at": "2026-11-07T11:05:27.452361+00:00",
+          "pending_msg": 1810,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -874,7 +874,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,8 +970,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Drinking iced coffee and feeding my inner demons with fresh gossip.",
-              "sentence_ru": "Пью ледяной кофе и кормлю своих внутренних демонов свежими сплетнями.",
+              "sentence": "Stop spreading gossip about my new lizard wife at 3 AM.",
+              "sentence_ru": "Хватит распускать сплетни о моей новой жене-ящерице в 3 часа ночи.",
               "word_form": "gossip"
             },
             {
@@ -996,12 +996,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 996740,
+          "due_tick": 996742,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-07T10:00:16.624198+00:00",
-          "pending_msg": 1807,
+          "last_sent_at": "2026-11-07T11:05:28.702877+00:00",
+          "pending_msg": 1811,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1134,11 +1134,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Please do not emerge from your disgusting apartments while the disinfection of the stairwell is in progress.",
-              "sentence_ru": "Пожалуйста, не появляйтесь из своих отвратительных квартир, пока идет дезинфекция лестничной клетки.",
-              "word_form": "emerge"
-            },
-            {
               "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
               "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера только ради того, чтобы украсть этот б/у блендер.",
               "word_form": "emerge"
@@ -1157,15 +1152,20 @@
               "sentence": "Watch Brad emerge from the CEO's office looking like he just survived a corporate bloodbath.",
               "sentence_ru": "Смотри, как Брэд вываливается из кабинета гендиректора с видом человека, пережившего корпоративную бойню.",
               "word_form": "emerge"
+            },
+            {
+              "sentence": "My weird neighbor decided to emerge from his bunker only to steal our doormat.",
+              "sentence_ru": "Мой странный сосед решил вылезти из своего бункера только для того, чтобы украсть наш коврик для ног.",
+              "word_form": "to emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996741,
+          "due_tick": 996641,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-07T10:30:04.259785+00:00",
-          "pending_msg": 1809,
+          "last_sent_at": "2026-11-05T08:30:19.354290+00:00",
+          "pending_msg": 1769,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1712,7 +1712,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 8,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
