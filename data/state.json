@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The angry wizard didn't mince words before turning his noisy neighbor into a damp frog.",
+              "sentence_ru": "Злой волшебник не стал подбирать слова, прежде чем превратить шумного соседа в сырую лягушку.",
+              "word_form": "didn't mince words"
+            },
+            {
               "sentence": "I didn't mince words when telling my ex his new haircut looks like a dead ferret.",
               "sentence_ru": "Я не церемонился в выражениях, когда говорил своему бывшему, что его новая стрижка похожа на мертвого хорька.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I won't mince words while telling your toxic ex how pathetic he is.",
               "sentence_ru": "Я не буду подбирать выражения, рассказывая твоему токсичному бывшему, какой он жалкий.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I will not mince words: whoever keeps dumping cat litter in the elevator is a psycho.",
-              "sentence_ru": "Я не буду подбирать выражения: тот, кто продолжает сыпать кошачий наполнитель в лифте — психопат.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 996593,
+          "due_tick": 996734,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-04T08:30:25.694435+00:00",
-          "pending_msg": 1752,
+          "last_sent_at": "2026-11-07T07:00:14.216264+00:00",
+          "pending_msg": 1794,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996660,
+      "last_deliver_tick": 996686,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I managed to wire up my new ex-detector, so now I feel every time you text me.",
+              "sentence_ru": "Я умудрился подключить свой новый детектор бывших, так что теперь чувствую каждый твой смс.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Human, wire up my fish tank laser or I will puke in your shoes tonight.",
               "sentence_ru": "Человек, подключи лазер к моему аквариуму, иначе я сегодня наблею тебе в туфли.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "I had to wire up my angry cat to the toaster for maximum chaos.",
               "sentence_ru": "Мне пришлось подключить проводами моего злого кота к тостеру ради максимального хаоса.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Hacker Bob tried to wire up his cat, but now the pet screams in dial-up.",
-              "sentence_ru": "Хакерок Боб попытался подключить проводами своего кота, но теперь питомец орет на языке модема.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996594,
+          "due_tick": 996734,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-04T09:00:26.535233+00:00",
-          "pending_msg": 1755,
+          "last_sent_at": "2026-11-07T07:00:15.536205+00:00",
+          "pending_msg": 1795,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996660,
+      "last_deliver_tick": 996686,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-07",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
