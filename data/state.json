@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even the local drug dealer had to stay humble when babushka Zina threatened him with a mop.",
+              "sentence_ru": "Даже местный барыга был вынужден вести себя скромно, когда бабушка Зина пригрозила ему шваброй.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Be humble, human, and maybe I won't throw up in your expensive shoes today.",
               "sentence_ru": "Будь скромнее, кожаный, и, может быть, я сегодня не блевану в твои дорогие туфли.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even while wearing a crown made of raw meat, the king tried to stay humble.",
               "sentence_ru": "Даже надев корону из сырого мяса, король пытался оставаться скромным.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even my humble apologies at 3 AM won't fix how much I ruined us.",
-              "sentence_ru": "Даже мои скромные извинения в 3 часа ночи не исправят то, как сильно я нас разрушил.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 996641,
+          "due_tick": 996782,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-05T08:30:17.518479+00:00",
-          "pending_msg": 1768,
+          "last_sent_at": "2026-11-08T07:00:18.825555+00:00",
+          "pending_msg": 1814,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996705,
+      "last_deliver_tick": 996734,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-08",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The sudden influx of aggressive badgers caused total panic in the parliament.",
+              "sentence_ru": "Внезапный наплыв агрессивных барсуков вызвал полную панику в парламенте.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "This influx of stray cats in our kitchen is getting out of hand, Susan.",
               "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, Сьюзан.",
               "word_form": "influx"
@@ -1193,20 +1198,15 @@
               "sentence": "This sudden influx of my exes' new partners into the bar is pure psychological torture.",
               "sentence_ru": "Этот внезапный наплыв новых партнеров моих бывших в бар — чистая психологическая пытка.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "An influx of crazy exes will ruin your romantic plans tomorrow.",
-              "sentence_ru": "Завтрашний наплыв безумных бывших разрушит твои романтические планы.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 996642,
+          "due_tick": 996782,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-05T09:00:49.234812+00:00",
-          "pending_msg": 1771,
+          "last_sent_at": "2026-11-08T07:00:25.938179+00:00",
+          "pending_msg": 1815,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996705,
+      "last_deliver_tick": 996734,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-08",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
