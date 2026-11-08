@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A rogue beaver tried to undermine the president's podium with a stolen chainsaw.",
+              "sentence_ru": "Обезумевший бобр попытался подорвать трибуну президента с помощью украденной бензопилы.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "He tried to undermine my confidence by pointing out my ugly nose hair.",
               "sentence_ru": "Он пытался подорвать мою уверенность, указав на мои торчащие из носа волосы.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Who keeps trying to undermine the elevator cables with a rusty spoon in our lobby?",
               "sentence_ru": "Кто постоянно пытается подпилить тросы лифта ржавой ложкой в нашем холле?",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "These cheap Chinese-made vibrators completely undermine my confidence in local witchcraft.",
-              "sentence_ru": "Эти дешевые китайские вибраторы полностью подрывают мою уверенность в местном колдовстве.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 996687,
+          "due_tick": 996788,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-06T07:30:07.014739+00:00",
-          "pending_msg": 1780,
+          "last_sent_at": "2026-11-08T10:00:09.085388+00:00",
+          "pending_msg": 1826,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996739,
+      "last_deliver_tick": 996740,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-08",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My brain tends to seize up whenever HR mentions mandatory team-building exercises.",
+              "sentence_ru": "Мой мозг обычно заклинивает, когда HR упоминает обязательный тимбилдинг.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My cheap vibrator started to seize up right in the middle of my lonely Friday night.",
               "sentence_ru": "Мой дешевый вибратор начал клинить прямо посреди моего одинокого пятнистого вечера.",
               "word_form": "to seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My grandfather tried to breakdance and his artificial hip suddenly seized up mid-move.",
               "sentence_ru": "Мой дедушка попытался сделать брейк-данс, и его искусственное бедро внезапно заклинило прямо посреди движения.",
               "word_form": "seized up"
-            },
-            {
-              "sentence": "If you don't feed me right now, my brain will seize up and I'll drop dead on this rug.",
-              "sentence_ru": "Если ты не покормишь меня прямо сейчас, мой мозг заклинит и я сдохну на этом ковре.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996688,
+          "due_tick": 996788,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-06T08:00:12.269036+00:00",
-          "pending_msg": 1783,
+          "last_sent_at": "2026-11-08T10:00:10.333464+00:00",
+          "pending_msg": 1827,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996739,
+      "last_deliver_tick": 996740,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-08",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
