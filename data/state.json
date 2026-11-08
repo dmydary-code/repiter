@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex built a high fence around his compound, but my drama still sneaks in.",
+              "sentence_ru": "Мой бывший построил высокий забор вокруг своего компаунда, но моя драма все равно проникает внутрь.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My ex lives in a heavily guarded compound, but my Voodoo doll still reached him.",
               "sentence_ru": "Мой бывший живет в охраняемом компаунде, но моя кукла вуду все равно до него добралась.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My terrible life choices just compound every single day into a toxic mess.",
               "sentence_ru": "Мои ужасные жизненные выборы с каждым днём лишь усугубляются в токсичную мешанину.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My ex-wife decided to compound her betrayal by marrying my talking hamster.",
-              "sentence_ru": "Моя бывшая жена решила усугубить свое предательство, выйдя замуж за моего говорящего хомяка.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 996643,
+          "due_tick": 996784,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-05T09:30:10.655870+00:00",
-          "pending_msg": 1772,
+          "last_sent_at": "2026-11-08T08:00:21.002840+00:00",
+          "pending_msg": 1818,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996735,
+      "last_deliver_tick": 996736,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-08",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, my life is just a circus burning down with me inside it.",
+              "sentence_ru": "В общем и целом, моя жизнь — это просто цирк, который сгорает вместе со мной.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, our marketing strategy sucks, but at least the free coffee is good.",
               "sentence_ru": "В общем и целом наша маркетинговая стратегия — отстой, но бесплатный кофе хотя бы норм.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, my stolen trousers fit the mutant raccoon surprisingly well.",
               "sentence_ru": "В общем и целом, мои украденные брюки на удивление хорошо подошли мутировавшему еноту.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, your new boyfriend looks like a sad potato in skinny jeans.",
-              "sentence_ru": "В общем и целом, твой новый парень выглядит как грустный картофель в обтягивающих джинсах.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 996644,
+          "due_tick": 996784,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-05T10:00:41.165427+00:00",
-          "pending_msg": 1775,
+          "last_sent_at": "2026-11-08T08:00:22.490211+00:00",
+          "pending_msg": 1819,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996735,
+      "last_deliver_tick": 996736,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-08",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
