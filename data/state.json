@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The aforementioned raccoon was finally elected president of the local Satanist chapter.",
+              "sentence_ru": "Вышеупомянутый енот был наконец избран президентом местного отделения сатанистов.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "The cat stared at the aforementioned severed finger in my soup and began to lick it.",
               "sentence_ru": "Кот уставился на вышеупомянутый отрезанный палец в моем супе и начал его лизать.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "Who the hell let the aforementioned goat eat my doormat again?",
               "sentence_ru": "Кто блин позволил вышеупомянутой козе снова сожрать мой придверный коврик?",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I vomited on the aforementioned expensive rug because your cooking is garbage, human.",
-              "sentence_ru": "Я блеванул на вышеупомянутый дорогой ковер, потому что твоя стряпня — помойка, кожаная.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 996645,
+          "due_tick": 996786,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-05T10:30:29.244750+00:00",
-          "pending_msg": 1776,
+          "last_sent_at": "2026-11-08T09:00:17.667337+00:00",
+          "pending_msg": 1822,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996737,
+      "last_deliver_tick": 996738,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-08",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We are altogether losing our minds in this cubicle hell, Greg.",
+              "sentence_ru": "Мы тут окончательно сходим с ума в этом офисном аду, Грег.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Your noisy parties have altogether destroyed my nerves, pay for my therapy!",
               "sentence_ru": "Ваши шумные вечеринки совсем разрушили мои нервы, платите за мою терапию!",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "My ex-boyfriend's new pet raccoon ate my passport and bit my lawyer altogether.",
               "sentence_ru": "Новый домашний енот моего бывшего съел мой паспорт и заодно покусал моего адвоката.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "My sanity didn't slip; it jumped off the roof altogether.",
-              "sentence_ru": "Мой рассудок не ускользнул — он вовсе сиганул с крыши.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 996686,
+          "due_tick": 996786,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-06T07:00:04.561894+00:00",
-          "pending_msg": 1779,
+          "last_sent_at": "2026-11-08T09:00:19.280556+00:00",
+          "pending_msg": 1823,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996737,
+      "last_deliver_tick": 996738,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-08",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
