@@ -419,9 +419,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Oats will betray you whenever you trust your crazy ex's financial advice.",
-              "sentence_ru": "Овны предадут вас всякий раз, когда вы доверитесь финансовым советам вашего безумного бывшего.",
-              "word_form": "whenever"
+              "sentence": "Whenever you throw garbage out of the window, a lonely pigeon gets a panic attack.",
+              "sentence_ru": "Всякий раз, когда вы выбрасываете мусор из окна, у одинокого голубя начинается паническая атака.",
+              "word_form": "Whenever"
             },
             {
               "sentence": "Karen glares at me whenever I breathe too loudly near the shared printer.",
@@ -445,12 +445,12 @@
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 996831,
+          "due_tick": 996835,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T07:30:19.167209+00:00",
-          "pending_msg": 1832,
+          "last_sent_at": "2026-11-09T09:31:53.859208+00:00",
+          "pending_msg": 1842,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -459,11 +459,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "I set my heart on stealing the Mona Lisa, but ended up with a postcard.",
-              "sentence_ru": "Я страстно желал сжечь Лувр и украсть Мона Лизу, но в итоге получил лишь открытку.",
-              "word_form": "set my heart on"
-            },
             {
               "sentence": "If you set heart on stealing my stapler, prepare to bleed.",
               "sentence_ru": "Если ты твердо нацелился украсть мой степлер, готовься истечь кровью.",
@@ -483,15 +478,20 @@
               "sentence": "I set heart on stealing my ex's Netflix password out of pure spite.",
               "sentence_ru": "Я страстно возжелал украсть пароль от Netflix у бывшего из чистой вредности.",
               "word_form": "set heart on"
+            },
+            {
+              "sentence": "Aries, you set heart on stealing your ex’s cat tomorrow.",
+              "sentence_ru": "Овен, завтра ты страстно возжелаешь спереть кота твоего бывшего.",
+              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 996832,
+          "due_tick": 996691,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T08:00:17.774830+00:00",
-          "pending_msg": 1834,
+          "last_sent_at": "2026-11-06T09:30:26.209230+00:00",
+          "pending_msg": 1788,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -500,11 +500,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Aries, don't mince words when telling your boss he looks like a boiled potato tomorrow.",
-              "sentence_ru": "Овны, завтра не подбирайте выражения, говоря шефу, что он похож на вареную картошку.",
-              "word_form": "mince words"
-            },
             {
               "sentence": "The angry wizard didn't mince words before turning his noisy neighbor into a damp frog.",
               "sentence_ru": "Злой волшебник не стал подбирать слова, прежде чем превратить шумного соседа в сырую лягушку.",
@@ -524,15 +519,20 @@
               "sentence": "The psychic didn't mince words after swallowing a cursed goblin and choking live on air.",
               "sentence_ru": "Экстрасенс не стал подбирать выражения после того, как проглотил проклятого гоблина и подавился в прямом эфире.",
               "word_form": "mince words"
+            },
+            {
+              "sentence": "I won't mince words while telling your toxic ex how pathetic he is.",
+              "sentence_ru": "Я не буду подбирать выражения, рассказывая твоему токсичному бывшему, какой он жалкий.",
+              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 996835,
+          "due_tick": 996734,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T09:30:16.756935+00:00",
-          "pending_msg": 1840,
+          "last_sent_at": "2026-11-07T07:00:14.216264+00:00",
+          "pending_msg": 1794,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -706,11 +706,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I had to perpetuate our toxic chat history at 3 AM because I have no self-respect.",
-              "sentence_ru": "Я был вынужден увековечить нашу токсичную переписку в 3 часа ночи, потому что у меня нет самоуважения.",
-              "word_form": "perpetuate"
-            },
-            {
               "sentence": "Local politicians perpetuate the myth that pigeons secretly control the municipal Wi-Fi router.",
               "sentence_ru": "Местные политики увековечивают миф о том, что голуби тайно контролируют городской Wi-Fi роутер.",
               "word_form": "perpetuate"
@@ -729,15 +724,20 @@
               "sentence": "You perpetuate this miserable litter box drama just to ruin my morning nap.",
               "sentence_ru": "Ты затягиваешь эту жалокю драму с лотком только чтобы испортить мой утренний сон.",
               "word_form": "perpetuate"
+            },
+            {
+              "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of misery.",
+              "sentence_ru": "Писая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл страдания.",
+              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 996833,
+          "due_tick": 996692,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T08:30:18.250168+00:00",
-          "pending_msg": 1836,
+          "last_sent_at": "2026-11-06T10:00:04.414375+00:00",
+          "pending_msg": 1790,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -746,11 +746,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "We are profoundly disgusted by whoever keeps leaving flaming bags of dog shit on the third floor.",
-              "sentence_ru": "Мы глубоко отвращены тем, кто продолжает оставлять горящие пакеты с собачьим дерьмом на третьем этаже.",
-              "word_form": "profoundly"
-            },
             {
               "sentence": "I stared at my empty wine glass, profoundly regretting every life choice that led me here.",
               "sentence_ru": "Я смотрел на свой пустой бокал вина, глубоко сожалея о каждом жизненном выборе, приведшем меня сюда.",
@@ -770,15 +765,20 @@
               "sentence": "I am profoundly sorry that I bought a goat instead of fixing our relationship.",
               "sentence_ru": "Я глубоко сожалею, что купил козу вместо того, чтобы починить наши отношения.",
               "word_form": "profoundly"
+            },
+            {
+              "sentence": "I am profoundly sorry that I traded your cat for three energy drinks at 3 AM.",
+              "sentence_ru": "Я глубоко сожалею, что обменял твоего кота на три энергетических напитка в 3 часа ночи.",
+              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996834,
+          "due_tick": 996694,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T09:00:17.344884+00:00",
-          "pending_msg": 1838,
+          "last_sent_at": "2026-11-06T11:04:01.781381+00:00",
+          "pending_msg": 1792,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -874,7 +874,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 6,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,11 +887,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "Stop painting the hallway in this drab gray color, it looks like a depression clinic!",
-              "sentence_ru": "Хватит красить коридор в этот унылый серый цвет, он выглядит как клиника для депрессивных!",
-              "word_form": "drab"
-            },
             {
               "sentence": "Even my goblin ex-wife looked at my drab living room and started crying.",
               "sentence_ru": "Даже моя бывшая жена-гоблин посмотрела на мою унылую гостиную и расплакалась.",
@@ -911,15 +906,20 @@
               "sentence": "Why are our hallway walls painted in such a drab prison gray color?",
               "sentence_ru": "Почему стены нашего коридора покрашены в такой унылый тюремно-серый цвет?",
               "word_form": "drab"
+            },
+            {
+              "sentence": "Stop painting the hallway in this drab gray color, we live in a building, not a depression-era bunker!",
+              "sentence_ru": "Хватит красить коридор в этот унылый серый цвет, мы живем в здании, а не в бункере времен Великой депрессии!",
+              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996835,
+          "due_tick": 996735,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-09T09:30:17.971006+00:00",
-          "pending_msg": 1841,
+          "last_sent_at": "2026-11-07T07:30:31.376752+00:00",
+          "pending_msg": 1797,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -928,11 +928,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "He runs through the backstreets whenever his ex spots him with a new goat.",
-              "sentence_ru": "Он бежит через задворки каждый раз, когда бывшая замечает его с новым козлом.",
-              "word_form": "backstreets"
-            },
             {
               "sentence": "He chased a naked goblin through the damp backstreets while eating cold spaghetti.",
               "sentence_ru": "Он гонялся за голым гоблином по влажным задворкам, поедая холодные спагетти.",
@@ -952,15 +947,20 @@
               "sentence": "Lost my dignity and a shoe in the dark backstreets behind the strip club.",
               "sentence_ru": "Потерял свое достоинство и один ботинок в темных переулках за стриптиз-клубом.",
               "word_form": "backstreets"
+            },
+            {
+              "sentence": "He chased a naked goblin through the damp backstreets while clutching a stolen wheel of cheese.",
+              "sentence_ru": "Он преследовал голого гоблина по влажным задворкам, судорожно сжимая украденную головку сыра.",
+              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 996832,
+          "due_tick": 996692,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-09T08:00:19.290036+00:00",
-          "pending_msg": 1835,
+          "last_sent_at": "2026-11-06T10:00:05.724769+00:00",
+          "pending_msg": 1791,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1298,11 +1298,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "It would be hard to deny that I puked in your expensive shoes on purpose.",
-              "sentence_ru": "Трудно отрицать, что я наблевал в твои дорогие туфли специально.",
-              "word_form": "It would be hard to deny that"
-            },
-            {
               "sentence": "It would be hard to deny that my dog shits exclusively on your doormat.",
               "sentence_ru": "Трудно отрицать, что моя собака гадит исключительно на ваш коврик.",
               "word_form": "It would be hard to deny that"
@@ -1321,15 +1316,20 @@
               "sentence": "It would be hard to deny that your ex will regret dumping you for a toad tomorrow.",
               "sentence_ru": "Трудно отрицать, что твой бывший завтра пожалеет, что променял тебя на жабу.",
               "word_form": "It would be hard to deny that"
+            },
+            {
+              "sentence": "It would be hard to deny that my cat looks like an evil dictator.",
+              "sentence_ru": "Трудно отрицать, что мой кот выглядит как злой диктатор.",
+              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 996833,
+          "due_tick": 996694,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T08:30:19.302752+00:00",
-          "pending_msg": 1837,
+          "last_sent_at": "2026-11-06T11:04:03.166606+00:00",
+          "pending_msg": 1793,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1339,8 +1339,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I hold the view that raccoons deserve the right to vote in local elections.",
-              "sentence_ru": "Я придерживаюсь мнения, что еноты заслуживают права голоса на местных выборах.",
+              "sentence": "I hold the view that tomorrow your ex will regret dumping a psychic.",
+              "sentence_ru": "Я придерживаюсь мнения, что завтра твой бывший пожалеет, что бросил экстрасенса.",
               "word_form": "I hold the view that"
             },
             {
@@ -1365,12 +1365,12 @@
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 996831,
+          "due_tick": 996835,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-09T07:30:20.245249+00:00",
-          "pending_msg": 1833,
+          "last_sent_at": "2026-11-09T09:31:55.661985+00:00",
+          "pending_msg": 1843,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1544,11 +1544,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I tried to wire up my smart fridge, but it started plotting world domination instead.",
-              "sentence_ru": "Я попытался подключить провода к своему умному холодильнику, но он вместо этого начал планировать мировое господство.",
-              "word_form": "wire up"
-            },
-            {
               "sentence": "I managed to wire up my new ex-detector, so now I feel every time you text me.",
               "sentence_ru": "Я умудрился подключить свой новый детектор бывших, так что теперь чувствую каждый твой смс.",
               "word_form": "wire up"
@@ -1567,15 +1562,20 @@
               "sentence": "I had to wire up the toaster to the cat to finally make breakfast.",
               "sentence_ru": "Мне пришлось подключить тостер к коту, чтобы наконец позавтракать.",
               "word_form": "wire up"
+            },
+            {
+              "sentence": "I had to wire up my angry cat to the toaster for maximum chaos.",
+              "sentence_ru": "Мне пришлось подключить проводами моего злого кота к тостеру ради максимального хаоса.",
+              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996834,
+          "due_tick": 996734,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-09T09:00:18.624853+00:00",
-          "pending_msg": 1839,
+          "last_sent_at": "2026-11-07T07:00:15.536205+00:00",
+          "pending_msg": 1795,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1712,7 +1712,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 6,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
