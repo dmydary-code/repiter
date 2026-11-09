@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop trying to perpetuate the myth that Jim actually does any real work around here.",
+              "sentence_ru": "Хватит пытаться увековечить миф о том, что Джим вообще делает хоть какую-то реальную работу здесь.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "Local politicians perpetuate the myth that pigeons secretly control the municipal Wi-Fi router.",
               "sentence_ru": "Местные политики увековечивают миф о том, что голуби тайно контролируют городской Wi-Fi роутер.",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "You perpetuate this miserable litter box drama just to ruin my morning nap.",
               "sentence_ru": "Ты затягиваешь эту жалокю драму с лотком только чтобы испортить мой утренний сон.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "By texting my toxic ex at 3 AM, I only perpetuate this endless cycle of misery.",
-              "sentence_ru": "Писая своему токсичному бывшему в 3 часа ночи, я лишь увековечиваю этот бесконечный цикл страдания.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 996692,
+          "due_tick": 996837,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-06T10:00:04.414375+00:00",
-          "pending_msg": 1790,
+          "last_sent_at": "2026-11-09T10:30:25.554651+00:00",
+          "pending_msg": 1846,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996788,
+      "last_deliver_tick": 996789,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1303,6 +1303,11 @@
               "word_form": "It would be hard to deny that"
             },
             {
+              "sentence": "It would be hard to deny that my dog shits exclusively on your doormat.",
+              "sentence_ru": "Трудно отрицать, что моя собака гадит исключительно на ваш коврик.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that I ate my therapist's cat out of pure spite.",
               "sentence_ru": "Трудно отрицать, что я сожрал кота своего психотерапевта из чистой вредности.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that your ex will regret dumping you for a toad tomorrow.",
               "sentence_ru": "Трудно отрицать, что твой бывший завтра пожалеет, что променял тебя на жабу.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that my cat looks like an evil dictator.",
-              "sentence_ru": "Трудно отрицать, что мой кот выглядит как злой диктатор.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 996694,
+          "due_tick": 996837,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-06T11:04:03.166606+00:00",
-          "pending_msg": 1793,
+          "last_sent_at": "2026-11-09T10:30:26.857593+00:00",
+          "pending_msg": 1847,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996788,
+      "last_deliver_tick": 996789,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
