@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated swamp frogs hit it off instantly and eloped to the nuclear reactor.",
+              "sentence_ru": "Мутировавшие болотные лягушки сразу подружились и сбежали в ядерный реактор.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "The new auditor and the corrupt CEO hit it off immediately and stole our pensions.",
               "sentence_ru": "Новый аудитор и коррумпированный гендиректор сразу подружились и украли наши пенсии.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Remember how we hit it off at that cult meeting? Anyway, unblock me.",
               "sentence_ru": "Помнишь, как мы сразу сошлись на том собрании секты? Короче, разблокируй меня.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "We hit it off with the local stray cat and now I owe it my life savings.",
-              "sentence_ru": "Мы сразу нашли общий язык с местным бродячим котом, и теперь я должен ему все свои сбережения.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 996736,
+          "due_tick": 996841,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-07T08:00:17.764198+00:00",
-          "pending_msg": 1798,
+          "last_sent_at": "2026-11-09T12:30:04.953809+00:00",
+          "pending_msg": 1854,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996792,
+      "last_deliver_tick": 996793,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars in Taurus will make you demolish your ex's new kitchen with a sledgehammer.",
+              "sentence_ru": "Марс в Тельце заставит тебя снести кувалдой новую кухню твоего бывшего.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "My fat cat decided to demolish the entire Christmas tree like a furry Godzilla.",
               "sentence_ru": "Мой толстый кот решил снести всю рождественскую елку, как пушистый Годзилла.",
               "word_form": "to demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "Me and the boys on our way to demolish my ex's new patio.",
               "sentence_ru": "Я и пацаны направляемся сносить новый внутренний дворик моей бывшей.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "I will demolish your new boyfriend's house just like I demolished that pizza.",
-              "sentence_ru": "Я снесу дом твоего нового бойфренда точно так же, как я уничтожил ту пиццу.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 996737,
+          "due_tick": 996841,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-11-07T08:30:18.263032+00:00",
-          "pending_msg": 1801,
+          "last_sent_at": "2026-11-09T12:30:06.394260+00:00",
+          "pending_msg": 1855,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996792,
+      "last_deliver_tick": 996793,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
