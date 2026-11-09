@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We are profoundly disgusted by whoever keeps leaving flaming bags of dog shit on the third floor.",
+              "sentence_ru": "Мы глубоко отвращены тем, кто продолжает оставлять горящие пакеты с собачьим дерьмом на третьем этаже.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "I stared at my empty wine glass, profoundly regretting every life choice that led me here.",
               "sentence_ru": "Я смотрел на свой пустой бокал вина, глубоко сожалея о каждом жизненном выборе, приведшем меня сюда.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "I am profoundly sorry that I bought a goat instead of fixing our relationship.",
               "sentence_ru": "Я глубоко сожалею, что купил козу вместо того, чтобы починить наши отношения.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "I am profoundly sorry that I traded your cat for three energy drinks at 3 AM.",
-              "sentence_ru": "Я глубоко сожалею, что обменял твоего кота на три энергетических напитка в 3 часа ночи.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996694,
+          "due_tick": 996834,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-06T11:04:01.781381+00:00",
-          "pending_msg": 1792,
+          "last_sent_at": "2026-11-09T09:00:17.344884+00:00",
+          "pending_msg": 1838,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996785,
+      "last_deliver_tick": 996786,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I tried to wire up my smart fridge, but it started plotting world domination instead.",
+              "sentence_ru": "Я попытался подключить провода к своему умному холодильнику, но он вместо этого начал планировать мировое господство.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "I managed to wire up my new ex-detector, so now I feel every time you text me.",
               "sentence_ru": "Я умудрился подключить свой новый детектор бывших, так что теперь чувствую каждый твой смс.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "I had to wire up the toaster to the cat to finally make breakfast.",
               "sentence_ru": "Мне пришлось подключить тостер к коту, чтобы наконец позавтракать.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I had to wire up my angry cat to the toaster for maximum chaos.",
-              "sentence_ru": "Мне пришлось подключить проводами моего злого кота к тостеру ради максимального хаоса.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996734,
+          "due_tick": 996834,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-07T07:00:15.536205+00:00",
-          "pending_msg": 1795,
+          "last_sent_at": "2026-11-09T09:00:18.624853+00:00",
+          "pending_msg": 1839,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996785,
+      "last_deliver_tick": 996786,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
