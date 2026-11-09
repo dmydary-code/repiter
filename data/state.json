@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Aries, don't mince words when telling your boss he looks like a boiled potato tomorrow.",
+              "sentence_ru": "Овны, завтра не подбирайте выражения, говоря шефу, что он похож на вареную картошку.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "The angry wizard didn't mince words before turning his noisy neighbor into a damp frog.",
               "sentence_ru": "Злой волшебник не стал подбирать слова, прежде чем превратить шумного соседа в сырую лягушку.",
               "word_form": "didn't mince words"
@@ -519,20 +524,15 @@
               "sentence": "The psychic didn't mince words after swallowing a cursed goblin and choking live on air.",
               "sentence_ru": "Экстрасенс не стал подбирать выражения после того, как проглотил проклятого гоблина и подавился в прямом эфире.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I won't mince words while telling your toxic ex how pathetic he is.",
-              "sentence_ru": "Я не буду подбирать выражения, рассказывая твоему токсичному бывшему, какой он жалкий.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 996734,
+          "due_tick": 996835,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-07T07:00:14.216264+00:00",
-          "pending_msg": 1794,
+          "last_sent_at": "2026-11-09T09:30:16.756935+00:00",
+          "pending_msg": 1840,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996786,
+      "last_deliver_tick": 996787,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Stop painting the hallway in this drab gray color, it looks like a depression clinic!",
+              "sentence_ru": "Хватит красить коридор в этот унылый серый цвет, он выглядит как клиника для депрессивных!",
+              "word_form": "drab"
+            },
             {
               "sentence": "Even my goblin ex-wife looked at my drab living room and started crying.",
               "sentence_ru": "Даже моя бывшая жена-гоблин посмотрела на мою унылую гостиную и расплакалась.",
@@ -906,20 +911,15 @@
               "sentence": "Why are our hallway walls painted in such a drab prison gray color?",
               "sentence_ru": "Почему стены нашего коридора покрашены в такой унылый тюремно-серый цвет?",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Stop painting the hallway in this drab gray color, we live in a building, not a depression-era bunker!",
-              "sentence_ru": "Хватит красить коридор в этот унылый серый цвет, мы живем в здании, а не в бункере времен Великой депрессии!",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996735,
+          "due_tick": 996835,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-07T07:30:31.376752+00:00",
-          "pending_msg": 1797,
+          "last_sent_at": "2026-11-09T09:30:17.971006+00:00",
+          "pending_msg": 1841,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996786,
+      "last_deliver_tick": 996787,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
