@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The cat meowed plaintively until I gave him my last organic avocado roll.",
+              "sentence_ru": "Кот жалобно мяукал, пока я не отдал ему свой последний органический ролл с авокадо.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "My fat orange cat meowed plaintively until I opened a third can of expensive tuna.",
               "sentence_ru": "Мой толстый рыжий кот жалобно мяукал, пока я не открыла третью банку дорогого тунца.",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "Pisces, your ex will howl plaintively outside your window until you finally block their number.",
               "sentence_ru": "Рыбы, ваш бывший будет жалобно завывать под окном, пока вы наконец не заблокируете его номер.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "Chad stared plaintively at the last donut before HR shoved it into her desk drawer.",
-              "sentence_ru": "Чэд жалобно уставился на последний пончик, прежде чем кадры засунули его в ящик стола.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 996689,
+          "due_tick": 996830,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-06T08:30:15.984742+00:00",
-          "pending_msg": 1784,
+          "last_sent_at": "2026-11-09T07:00:16.781910+00:00",
+          "pending_msg": 1830,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996753,
+      "last_deliver_tick": 996782,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Cats impose their weird sleeping positions on you and call it love.",
+              "sentence_ru": "Коты навязывают тебе свои странные позы для сна и называют это любовью.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Mars will force you to impose your weird cat-worship rituals on your horrified boss tomorrow.",
               "sentence_ru": "Марс заставит тебя завтра навязать твои странные ритуалы поклонения котикам твоему ужаснувшемуся боссу.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "I didn't mean to impose my new crypto cult on you at 3 AM.",
               "sentence_ru": "Я не хотел навязывать тебе свой новый крипто-культ в 3 часа ночи.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Aliens impose a mandatory tax on all local cats after seizing the parliament.",
-              "sentence_ru": "Пришельцы навязывают обязательный налог на всех местных котов после захвата парламента.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996690,
+          "due_tick": 996830,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-06T09:00:21.845945+00:00",
-          "pending_msg": 1787,
+          "last_sent_at": "2026-11-09T07:00:18.122038+00:00",
+          "pending_msg": 1831,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996753,
+      "last_deliver_tick": 996782,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-09",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
