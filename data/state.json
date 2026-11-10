@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A weird celebrity endorsement will make your cat buy crypto tomorrow.",
+              "sentence_ru": "Странная реклама со звездой заставит вашего кота купить криптовалюту завтра.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "Your stupid celebrity endorsement for crypto trash flooded our lobby with angry investors!",
               "sentence_ru": "Ваша тупая поддержка крипто-мусора знаменитостями заполнила наш вестибюль злыми инвесторами!",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "My pet toad demanded a celebrity endorsement before eating his disgusting green flies.",
               "sentence_ru": "Моя домашняя жаба потребовала рекламу с участием звезд перед тем, как съесть своих отвратительных зеленых мух.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "If this celebrity endorsement fails, Dwight will literally trade all our desks for beet juice.",
-              "sentence_ru": "Если эта реклама с участием звезды провалится, Дуайт буквально обменяет все наши столы на свекольный сок.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 996737,
+          "due_tick": 996879,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-07T08:30:16.885090+00:00",
-          "pending_msg": 1800,
+          "last_sent_at": "2026-11-10T07:59:52.586347+00:00",
+          "pending_msg": 1856,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996805,
+      "last_deliver_tick": 996831,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me someone is again washing their dirty elephant in our common sink!",
+              "sentence_ru": "Мне кажется, кто-то опять моет своего грязного слона в нашей общей раковине!",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that Greg is stealing printer toner again.",
               "sentence_ru": "Мне кажется, что Грег снова ворует тонер для принтера.",
               "word_form": "It seems to me"
@@ -1398,20 +1403,15 @@
               "sentence": "It seems to me that Gary is sleeping in the server room again.",
               "sentence_ru": "Мне кажется, что Гэри снова спит в серверной.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me this dildo was used by a ghost, it's freezing cold.",
-              "sentence_ru": "Мне кажется, этим фаллоимитатором пользовалось привидение, он ледяной.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 996738,
+          "due_tick": 996879,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-11-07T09:00:15.431906+00:00",
-          "pending_msg": 1803,
+          "last_sent_at": "2026-11-10T07:59:54.058916+00:00",
+          "pending_msg": 1857,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996805,
+      "last_deliver_tick": 996831,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
