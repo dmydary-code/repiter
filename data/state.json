@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even while wearing a crown of raw sausages, the king tried to look humble.",
+              "sentence_ru": "Даже надев корону из сырых сосисок, король пытался выглядеть скромным.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even the local drug dealer had to stay humble when babushka Zina threatened him with a mop.",
               "sentence_ru": "Даже местный барыга был вынужден вести себя скромно, когда бабушка Зина пригрозила ему шваброй.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even the mafia boss tried to look humble while wearing solid gold sweatpants.",
               "sentence_ru": "Даже босс мафии пытался выглядеть скромным в золотых спортивных штанах.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even while wearing a crown made of raw meat, the king tried to stay humble.",
-              "sentence_ru": "Даже надев корону из сырого мяса, король пытался оставаться скромным.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 996782,
+          "due_tick": 996884,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-08T07:00:18.825555+00:00",
-          "pending_msg": 1814,
+          "last_sent_at": "2026-11-10T10:00:20.719728+00:00",
+          "pending_msg": 1866,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996835,
+      "last_deliver_tick": 996836,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated pigeons overthrow the mayor now and then just to feel something.",
+              "sentence_ru": "Мутировавшие голуби время от времени свергают мэра просто ради острых ощущений.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Mutated stray cats steal nuclear launch codes now and then.",
               "sentence_ru": "Мутировавшие бродячие коты время от времени воруют коды ядерного запуска.",
               "word_form": "now and then"
@@ -1234,20 +1239,15 @@
               "sentence": "My sanity whispers to me now and then, just before I drown in this corporate madness.",
               "sentence_ru": "Мой рассудок шепчет мне время от времени, прямо перед тем, как я тону в этом корпоративном безумии.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Attention! The lift drops to the basement now and then, so scream louder.",
-              "sentence_ru": "Внимание! Лифт время от времени падает в подвал, так что кричите громче.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 996783,
+          "due_tick": 996884,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-08T07:30:24.111615+00:00",
-          "pending_msg": 1817,
+          "last_sent_at": "2026-11-10T10:00:25.028818+00:00",
+          "pending_msg": 1867,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996835,
+      "last_deliver_tick": 996836,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
