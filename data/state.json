@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Drinking cheap tequila inside this concrete compound was not HR's smartest team-building idea.",
+              "sentence_ru": "Пить дешевую текилу внутри этого бетонного компаунда было не самой умной тимбилдинг-идеей HR.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My ex built a high fence around his compound, but my drama still sneaks in.",
               "sentence_ru": "Мой бывший построил высокий забор вокруг своего компаунда, но моя драма все равно проникает внутрь.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My terrible life choices somehow merged into one stinking compound of absolute regret.",
               "sentence_ru": "Мои ужасные жизненные выборы почему-то слились в одно вонючее соединение абсолютного сожаления.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My terrible life choices just compound every single day into a toxic mess.",
-              "sentence_ru": "Мои ужасные жизненные выборы с каждым днём лишь усугубляются в токсичную мешанину.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 996784,
+          "due_tick": 996886,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-08T08:00:21.002840+00:00",
-          "pending_msg": 1818,
+          "last_sent_at": "2026-11-10T11:00:12.678459+00:00",
+          "pending_msg": 1870,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996837,
+      "last_deliver_tick": 996838,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that your new boyfriend's face looks like a squished potato.",
+              "sentence_ru": "Я склонен думать, что лицо твоего нового бойфренда похоже на примятую картошку.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that you bought this cheap fish just to spite me.",
               "sentence_ru": "Я склоняюсь к мысли, что ты купила эту дешёвую рыбу просто мне назло.",
               "word_form": "I'm inclined to think that"
@@ -1439,20 +1444,15 @@
               "sentence": "I'm inclined to think that my cat is plotting to murder me for being late with food.",
               "sentence_ru": "Я склоняюсь к мысли, что мой кот планирует убить меня за опоздание с едой.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that tomorrow your ex will cry into a bowl of cheap ramen.",
-              "sentence_ru": "Я склоняюсь к тому, что завтра твой бывший будет рыдать в тарелку дешевого рамена.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 996785,
+          "due_tick": 996886,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-08T08:30:20.739600+00:00",
-          "pending_msg": 1821,
+          "last_sent_at": "2026-11-10T11:00:19.011285+00:00",
+          "pending_msg": 1871,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996837,
+      "last_deliver_tick": 996838,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
