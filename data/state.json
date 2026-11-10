@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky smile of yours still ruins my sleep at 3 AM.",
+              "sentence_ru": "Твоя наглая улыбка до сих пор ломает мне сон в три часа ночи.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky raccoon stole my last donut and winked at me.",
               "sentence_ru": "Этот наглый енот украл мой последний пончик и подмигнул мне.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky raccoon stole my last donut and winked at me.",
               "sentence_ru": "Этот наглый енот украл мой последний пончик и подмигнул мне.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky raccoon stole my last donut and winked at me.",
-              "sentence_ru": "Этот наглый енот украл мой последний пончик и подмигнул мне.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 996783,
+          "due_tick": 996885,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-08T07:30:22.834682+00:00",
-          "pending_msg": 1816,
+          "last_sent_at": "2026-11-10T10:30:06.627771+00:00",
+          "pending_msg": 1868,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996836,
+      "last_deliver_tick": 996837,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, your new boyfriend looks like a thumb that survived a blender.",
+              "sentence_ru": "В целом, твой новый парень выглядит как большой палец, переживший блендер.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, my life is just a circus burning down with me inside it.",
               "sentence_ru": "В общем и целом, моя жизнь — это просто цирк, который сгорает вместе со мной.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, mutant raccoons successfully seized control of the local mayor's office.",
               "sentence_ru": "В общем и целом, мутировавшие еноты успешно захватили контроль над офисом местного мэра.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, my stolen trousers fit the mutant raccoon surprisingly well.",
-              "sentence_ru": "В общем и целом, мои украденные брюки на удивление хорошо подошли мутировавшему еноту.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 996784,
+          "due_tick": 996885,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-08T08:00:22.490211+00:00",
-          "pending_msg": 1819,
+          "last_sent_at": "2026-11-10T10:30:08.419059+00:00",
+          "pending_msg": 1869,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996836,
+      "last_deliver_tick": 996837,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
