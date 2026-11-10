@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your newly acquired psychic powers will finally help you find who stole your last yogurt.",
+              "sentence_ru": "Твои новообретенные экстрасенсорные способности наконец помогут найти того, кто украл твой последний йогурт.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That acquired taste for chaos makes me look so mysterious on Instagram.",
               "sentence_ru": "Этот приобретенный вкус к хаосу делает меня таким загадочным в инстаграме.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "Your newly acquired taste for chaos will finally bring you a rich sugar daddy tomorrow.",
               "sentence_ru": "Твой новоприобретенный вкус к хаосу завтра наконец-то принесет тебе богатого папика.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "My cold, calculated cruelty isn't natural; it was an acquired taste for survival.",
-              "sentence_ru": "Моя холодная, расчетливая жестокость не прирожденная — это приобретенный вкус для выживания.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 996742,
+          "due_tick": 996882,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-07T11:05:27.452361+00:00",
-          "pending_msg": 1810,
+          "last_sent_at": "2026-11-10T09:00:09.127991+00:00",
+          "pending_msg": 1862,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996833,
+      "last_deliver_tick": 996834,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Did Todd just emerge from the ceiling tiles like a greasy corporate goblin?",
+              "sentence_ru": "Тодд только что вылез из потолочных плиток, как сальный корпоративный гоблин?",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "Tomorrow you will suddenly emerge from a dumpster in designer Gucci clothes.",
               "sentence_ru": "Завтра ты внезапно вылезешь из мусорного контейнера в дизайнерской одежде от Gucci.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
               "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера, только чтобы украсть этот б/у блендер.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "Watch Brad emerge from the CEO's office looking like he just survived a corporate bloodbath.",
-              "sentence_ru": "Смотри, как Брэд вываливается из кабинета гендиректора с видом человека, пережившего корпоративную бойню.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996743,
+          "due_tick": 996882,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-07T11:30:12.999418+00:00",
-          "pending_msg": 1813,
+          "last_sent_at": "2026-11-10T09:00:10.673874+00:00",
+          "pending_msg": 1863,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996833,
+      "last_deliver_tick": 996834,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-10",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
