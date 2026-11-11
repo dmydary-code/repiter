@@ -337,9 +337,9 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Try to ignore the fact that I am crying in your bushes.",
-              "sentence_ru": "Попытайся проигнорировать тот факт, что я плачу в твоих кустах.",
-              "word_form": "Try"
+              "sentence": "Local cats try to overthrow the mayor using heavily armed pigeons.",
+              "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью вооруженных до зубов голубей.",
+              "word_form": "try"
             },
             {
               "sentence": "When she said she could cook, I didn't expect her to try and burn the water.",
@@ -367,8 +367,8 @@
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T09:00:23.316291+00:00",
-          "pending_msg": 1880,
+          "last_sent_at": "2026-11-11T09:22:51.345396+00:00",
+          "pending_msg": 1882,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -1667,8 +1667,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "I didn't mean to impose my toxic new lifestyle on you at 3 AM.",
-              "sentence_ru": "Я не хотел навязывать тебе свой токсичный новый образ жизни в 3 часа ночи.",
+              "sentence": "Don't try to impose your weird vegan diet on my mouse addiction, Karen.",
+              "sentence_ru": "Не пытайся навязывать свою странную веганскую диету на мою мышиную зависимость, Карен.",
               "word_form": "impose"
             },
             {
@@ -1697,8 +1697,8 @@
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-11T09:00:27.709260+00:00",
-          "pending_msg": 1881,
+          "last_sent_at": "2026-11-11T09:22:55.121774+00:00",
+          "pending_msg": 1883,
           "reps": 0,
           "step": 0,
           "word": "impose",
