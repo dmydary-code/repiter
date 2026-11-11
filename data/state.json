@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow your ex will devastate your new fridge by eating all your secret bacon.",
+              "sentence_ru": "Завтра твой бывший опустошит твой новый холодильник, сожрав весь твой секретный бекон.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "My aggressive hamster tried to devastate the entire living room using only tiny plastic spoons.",
               "sentence_ru": "Мой агрессивный хомяк попытался опустошить всю гостиную, используя только крошечные пластиковые ложки.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Your wild party in flat 48 will totally devastate our lobby, you absolute animals!",
               "sentence_ru": "Ваша дикая вечеринка в квартире 48 полностью разнесет наше лобби, вы, абсолютные животные!",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "Tomorrow your ex's new haircut will devastate your fragile ego completely.",
-              "sentence_ru": "Завтра новая стрижка твоего бывшего полностью опустошит твоё хрупкое эго.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 996785,
+          "due_tick": 996926,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-08T08:30:19.630137+00:00",
-          "pending_msg": 1820,
+          "last_sent_at": "2026-11-11T07:00:12.492330+00:00",
+          "pending_msg": 1872,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996848,
+      "last_deliver_tick": 996878,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow your ex and their new partner will altogether vanish into a parallel dimension.",
+              "sentence_ru": "Завтра твой бывший и их новый партнер совсем испарятся в параллельное измерение.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "We are altogether losing our minds in this cubicle hell, Greg.",
               "sentence_ru": "Мы тут окончательно сходим с ума в этом офисном аду, Грег.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "My ex and my current therapist are hanging out, which is altogether terrifying.",
               "sentence_ru": "Мой бывший и мой текущий психотерапевт тусуются вместе, что пугает абсолютно до усрачки.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "My ex-boyfriend's new pet raccoon ate my passport and bit my lawyer altogether.",
-              "sentence_ru": "Новый домашний енот моего бывшего съел мой паспорт и заодно покусал моего адвоката.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 996786,
+          "due_tick": 996926,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-08T09:00:19.280556+00:00",
-          "pending_msg": 1823,
+          "last_sent_at": "2026-11-11T07:00:13.906043+00:00",
+          "pending_msg": 1873,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996848,
+      "last_deliver_tick": 996878,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
