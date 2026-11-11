@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Try to ignore the fact that I am crying in your bushes.",
+              "sentence_ru": "Попытайся проигнорировать тот факт, что я плачу в твоих кустах.",
+              "word_form": "Try"
+            },
+            {
               "sentence": "When she said she could cook, I didn't expect her to try and burn the water.",
               "sentence_ru": "Когда она сказала, что умеет готовить, я не ожидал, что она попытается сжечь воду.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "I still try to wash away the blood, knowing damn well it stains my soul.",
               "sentence_ru": "Я всё еще пытаюсь смыть кровь, прекрасно понимая, что она пачкает мою душу.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Just try to staple the boss's coffee mug to his desk again, I dare you.",
-              "sentence_ru": "Только попробуй снова пристегнуть степлером чашку кофе шефа к его столу, я тебя слабо беру.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 996789,
+          "due_tick": 996930,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-08T10:30:11.119210+00:00",
-          "pending_msg": 1828,
+          "last_sent_at": "2026-11-11T09:00:23.316291+00:00",
+          "pending_msg": 1880,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996881,
+      "last_deliver_tick": 996882,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I didn't mean to impose my toxic new lifestyle on you at 3 AM.",
+              "sentence_ru": "Я не хотел навязывать тебе свой токсичный новый образ жизни в 3 часа ночи.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Cats impose their weird sleeping positions on you and call it love.",
               "sentence_ru": "Коты навязывают тебе свои странные позы для сна и называют это любовью.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "My weird cat tried to impose a strict curfew on my late-night gaming sessions.",
               "sentence_ru": "Мой странный кот попытался навязать жесткий комендантский час моим ночным игровым сессиям.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "I didn't mean to impose my new crypto cult on you at 3 AM.",
-              "sentence_ru": "Я не хотел навязывать тебе свой новый крипто-культ в 3 часа ночи.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996830,
+          "due_tick": 996930,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-09T07:00:18.122038+00:00",
-          "pending_msg": 1831,
+          "last_sent_at": "2026-11-11T09:00:27.709260+00:00",
+          "pending_msg": 1881,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996881,
+      "last_deliver_tick": 996882,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
