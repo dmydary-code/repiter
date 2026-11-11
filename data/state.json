@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This cat vomits on my expensive rug whenever I leave the house.",
+              "sentence_ru": "Этот кот блевотит на мой дорогой ковер всякий раз, когда я ухожу из дома.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever you throw garbage out of the window, a lonely pigeon gets a panic attack.",
               "sentence_ru": "Всякий раз, когда вы выбрасываете мусор из окна, у одинокого голубя начинается паническая атака.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever you drill your concrete wall at 3 AM, my cat starts levitating from pure rage.",
               "sentence_ru": "Всякий раз, когда ты сверлишь свою бетонную стену в 3 часа ночи, мой кот начинает левитировать от чистой ярости.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "Whenever my cat wears a tiny top hat, the neighborhood pigeons surrender their bread.",
-              "sentence_ru": "Всякий раз, когда мой кот надевает крошечный цилиндр, районные голуби сдают свой хлеб.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 996835,
+          "due_tick": 996932,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T09:31:53.859208+00:00",
-          "pending_msg": 1842,
+          "last_sent_at": "2026-11-11T10:00:05.136990+00:00",
+          "pending_msg": 1886,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996883,
+      "last_deliver_tick": 996884,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I only sell my illegal crypto courses in shady backstreets at 3 AM.",
+              "sentence_ru": "Я продаю свои нелегальные курсы по крипте только в темных переулках в 3 часа ночи.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "Lost my dignity and a shoe in the dark backstreets behind this dodgy marketplace.",
               "sentence_ru": "Потерял достоинство и ботинок в темных переулках за этим сомнительным рынком.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "If you don't pay for heating, your corpse will be found in the backstreets.",
               "sentence_ru": "Если вы не заплатите за отопление, ваш труп найдут на задворках.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Lost my dignity and a shoe in the dark backstreets behind the strip club.",
-              "sentence_ru": "Потерял свое достоинство и один ботинок в темных переулках за стриптиз-клубом.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 996836,
+          "due_tick": 996932,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-09T10:00:20.910788+00:00",
-          "pending_msg": 1845,
+          "last_sent_at": "2026-11-11T10:00:06.712068+00:00",
+          "pending_msg": 1887,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996883,
+      "last_deliver_tick": 996884,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
