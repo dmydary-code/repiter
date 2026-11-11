@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If you set your heart on stealing my Wi-Fi again, I will curse your cat.",
+              "sentence_ru": "Если ты снова загоришься идеей украсть мой вайфай, я прокляну твоего кота.",
+              "word_form": "set your heart on"
+            },
+            {
               "sentence": "I set my heart on stealing the Mona Lisa, even if laser grids fry my eyebrows.",
               "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если лазерные решетки поджарят мои брови.",
               "word_form": "set my heart on"
@@ -478,20 +483,15 @@
               "sentence": "I set my heart on stealing the Mona Lisa, even if guards bite.",
               "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если охранники будут кусаться.",
               "word_form": "set my heart on"
-            },
-            {
-              "sentence": "I set heart on stealing my ex's Netflix password out of pure spite.",
-              "sentence_ru": "Я страстно возжелал украсть пароль от Netflix у бывшего из чистой вредности.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 996836,
+          "due_tick": 996933,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T10:00:19.691076+00:00",
-          "pending_msg": 1844,
+          "last_sent_at": "2026-11-11T10:30:18.955000+00:00",
+          "pending_msg": 1888,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996884,
+      "last_deliver_tick": 996885,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that I looked hotter than your new boyfriend.",
+              "sentence_ru": "Трудно отрицать, что я выглядел горячее твоего нового парня.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that my dog shits exclusively on your doormat.",
               "sentence_ru": "Трудно отрицать, что моя собака гадит исключительно на ваш коврик.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that my new sugar daddy is way hotter than you.",
               "sentence_ru": "Трудно отрицать, что мой новый папик намного горячее тебя.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that your ex will regret dumping you for a toad tomorrow.",
-              "sentence_ru": "Трудно отрицать, что твой бывший завтра пожалеет, что променял тебя на жабу.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 996837,
+          "due_tick": 996933,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T10:30:26.857593+00:00",
-          "pending_msg": 1847,
+          "last_sent_at": "2026-11-11T10:30:23.142533+00:00",
+          "pending_msg": 1889,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996884,
+      "last_deliver_tick": 996885,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
