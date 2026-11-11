@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons try to discorage me every time I reach for tequila.",
+              "sentence_ru": "Мои внутренние демоны пытаются отговорить меня каждый раз, когда я тянусь к текиле.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "My therapist tried to discourage me from marrying my pet raccoon, but true love wins.",
               "sentence_ru": "Мой психотерапевт пытался отговорить меня от женитьбы на моем домашнем еноте, но настоящая любовь побеждает.",
               "word_form": "discourage"
@@ -273,20 +278,15 @@
               "sentence": "Please do not discorage our weird neighbors from howling at the moon during the night.",
               "sentence_ru": "Пожалуйста, не отговаривайте наших странных соседей завывать на луну по ночам.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "I try not to discorage Kevin from eating raw onions during our Zoom meetings.",
-              "sentence_ru": "Я стараюсь не отговаривать Кевина жрать сырой лук во время наших зум-совещаний.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 996787,
+          "due_tick": 996928,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-08T09:30:12.449695+00:00",
-          "pending_msg": 1824,
+          "last_sent_at": "2026-11-11T08:00:15.355365+00:00",
+          "pending_msg": 1876,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996879,
+      "last_deliver_tick": 996880,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My brain tends to seize up whenever the HOA president starts talking about new fees.",
+              "sentence_ru": "Мой мозг обычно заклинивает, когда председатель ТСЖ начинает говорить о новых поборах.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My brain tends to seize up whenever HR mentions mandatory team-building exercises.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда HR упоминает обязательный тимбилдинг.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My brain tends to seize up completely whenever I see your midnight texts.",
               "sentence_ru": "Мой мозг обычно полностью заклинивает всякий раз, когда я вижу твои полуночные сообщения.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My grandfather tried to breakdance and his artificial hip suddenly seized up mid-move.",
-              "sentence_ru": "Мой дедушка попытался сделать брейк-данс, и его искусственное бедро внезапно заклинило прямо посреди движения.",
-              "word_form": "seized up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996788,
+          "due_tick": 996928,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-08T10:00:10.333464+00:00",
-          "pending_msg": 1827,
+          "last_sent_at": "2026-11-11T08:00:16.883661+00:00",
+          "pending_msg": 1877,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996879,
+      "last_deliver_tick": 996880,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-11",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
