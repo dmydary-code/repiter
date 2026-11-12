@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words, Greg, your quarterly report looks like trash written by a drunk raccoon.",
+              "sentence_ru": "Я не буду церемониться, Грег, твой квартальный отчет выглядит как мусор, написанный пьяным енотом.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I didn't mince words when I wrote that this dildo was too small for my ego.",
               "sentence_ru": "Я не стала подбирать выражения, когда написала, что этот фаллоимитатор оказался слишком мал для моего эго.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "Management will not mince words: stop peeing in the elevator or we release the hounds.",
               "sentence_ru": "Руководство не будет церемониться в выражениях: прекратите ссать в лифте, или мы спустим собак.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "The psychic didn't mince words after swallowing a cursed goblin and choking live on air.",
-              "sentence_ru": "Экстрасенс не стал подбирать выражения после того, как проглотил проклятого гоблина и подавился в прямом эфире.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 996839,
+          "due_tick": 996976,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T11:30:15.941823+00:00",
-          "pending_msg": 1850,
+          "last_sent_at": "2026-11-12T08:00:15.258295+00:00",
+          "pending_msg": 1894,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996927,
+      "last_deliver_tick": 996928,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "While we drown in debt, accounting somehow manages to flourish on pure corporate malice.",
+              "sentence_ru": "Пока мы тонем в долгах, бухгалтерия умудряется процветать на чистой корпоративной злобе.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "Local cats continue to flourish after eating the radioactive garbage from Area 51.",
               "sentence_ru": "Местные коты продолжают процветать после поедания радиоактивного мусора из Зоны 51.",
               "word_form": "flourish"
@@ -1029,20 +1034,15 @@
               "sentence": "While our ceiling is leaking, drug dealers in apartment 48 continue to flourish.",
               "sentence_ru": "Пока у нас течет потолок, наркодилеры из 48-й квартиры продолжают процветать.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Your ex will finally burst into tears while you flourish on a pile of stolen cash.",
-              "sentence_ru": "Твой бывший наконец разрыдается, пока ты процветаешь на куче украденной налички.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 996840,
+          "due_tick": 996976,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-09T12:00:25.945320+00:00",
-          "pending_msg": 1853,
+          "last_sent_at": "2026-11-12T08:00:16.411970+00:00",
+          "pending_msg": 1895,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996927,
+      "last_deliver_tick": 996928,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
