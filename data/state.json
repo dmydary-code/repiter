@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local dictator looks slightly annoyed after citizens ate his solid gold throne.",
+              "sentence_ru": "Местный диктатор выглядит слегка раздраженным после того, как граждане сожрали его трон из чистого золота.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My ex looks slightly better after being run over by a steamroller.",
               "sentence_ru": "Мой бывший выглядит слегка лучше после того, как по нему проехал катком паровой каток.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "The boss is looking slightly dead, but we still need to finish the quarterly report.",
               "sentence_ru": "Босс выглядит слегка мертвым, но нам все равно нужно закончить квартальный отчет.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "Karen is looking slightly less dead inside after firing Greg.",
-              "sentence_ru": "Карен выглядит слегка менее мертвой внутри после увольнения Грега.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 996840,
+          "due_tick": 996977,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-09T12:00:24.762383+00:00",
-          "pending_msg": 1852,
+          "last_sent_at": "2026-11-12T08:30:17.414597+00:00",
+          "pending_msg": 1896,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996928,
+      "last_deliver_tick": 996929,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My fat cat tried to demolish an entire pizza while I was blinking.",
+              "sentence_ru": "Мой жирный кот попытался сожрать целую пиццу, пока я моргал.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Mars in Taurus will make you demolish your ex's new kitchen with a sledgehammer.",
               "sentence_ru": "Марс в Тельце заставит тебя снести кувалдой новую кухню твоего бывшего.",
               "word_form": "demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "Mars in Taurus will make you demolish your ex's new kitchen with a sledgehammer.",
               "sentence_ru": "Марс в Тельце заставит тебя снести кувалдой новую кухню твоего бывшего.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Me and the boys on our way to demolish my ex's new patio.",
-              "sentence_ru": "Я и пацаны направляемся сносить новый внутренний дворик моей бывшей.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 996841,
+          "due_tick": 996977,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-11-09T12:30:06.394260+00:00",
-          "pending_msg": 1855,
+          "last_sent_at": "2026-11-12T08:30:18.802953+00:00",
+          "pending_msg": 1897,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996928,
+      "last_deliver_tick": 996929,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
