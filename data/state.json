@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad was profoundly unqualified, yet somehow he became our regional director.",
+              "sentence_ru": "Чад был глубоко некомпетентен, но почему-то стал нашим региональным директором.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "He was profoundly naked while explaining tax fraud to a confused pigeon.",
               "sentence_ru": "Он был глубоко голым, объясняя налоговое мошенничество растерянному голубю.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "Chad was profoundly stupid, which somehow made him employee of the month.",
               "sentence_ru": "Чэд был глубоко туп, что почему-то сделало его сотрудником месяца.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "I am profoundly sorry that I bought a goat instead of fixing our relationship.",
-              "sentence_ru": "Я глубоко сожалею, что купил козу вместо того, чтобы починить наши отношения.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996838,
+          "due_tick": 996975,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T11:00:06.875501+00:00",
-          "pending_msg": 1848,
+          "last_sent_at": "2026-11-12T07:30:11.196673+00:00",
+          "pending_msg": 1892,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996926,
+      "last_deliver_tick": 996927,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Aliens refuse to invade Earth, calling our pathetic reality too drab and boring.",
+              "sentence_ru": "Инопланетяне отказываются захватывать Землю, называя нашу жалкую реальность слишком унылой и скучной.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My soul is just as drab as these miserable polyester curtains.",
               "sentence_ru": "Моя душа такая же унылая, как эти жалкии полиэстровые занавески.",
@@ -906,20 +911,15 @@
               "sentence": "My ex's soul is less drab than these hideous beige curtains from IKEA.",
               "sentence_ru": "Душа моего бывшего менее унылая, чем эти отвратительные бежевые шторы из ИКЕИ.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Why are our hallway walls painted in such a drab prison gray color?",
-              "sentence_ru": "Почему стены нашего коридора покрашены в такой унылый тюремно-серый цвет?",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 996839,
+          "due_tick": 996975,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-09T11:30:18.197832+00:00",
-          "pending_msg": 1851,
+          "last_sent_at": "2026-11-12T07:30:15.741004+00:00",
+          "pending_msg": 1893,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996926,
+      "last_deliver_tick": 996927,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
