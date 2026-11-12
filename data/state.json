@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop buying cheap canned fish, human, we are rolling in money now!",
+              "sentence_ru": "Хватит покупать дешёвую консервированную рыбу, кожаный, мы теперь купаемся в деньгах!",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "My ex-wife is rolling in money while I eat dry noodles under the bridge.",
               "sentence_ru": "Моя бывшая жена купается в деньгах, пока я ем сухую лапшу под мостом.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "I'm rolling in money now, but you still sleep with your mom's cat.",
               "sentence_ru": "Я теперь купаюсь в деньгах, но ты всё ещё спишь с кошкой своей мамы.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "Tomorrow you will be rolling in money, while your ex cries into instant noodles.",
-              "sentence_ru": "Завтра ты будешь купаться в деньгах, пока твой бывший рыдает в доширак.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 996881,
+          "due_tick": 996981,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-10T08:30:24.896080+00:00",
-          "pending_msg": 1860,
+          "last_sent_at": "2026-11-12T10:30:04.324303+00:00",
+          "pending_msg": 1904,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996932,
+      "last_deliver_tick": 996933,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
+              "sentence_ru": "Моя бывшая обязана была вылезти из кустов ровно тогда, когда я выглядел максимально ущербно.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "Did Todd just emerge from the ceiling tiles like a greasy corporate goblin?",
               "sentence_ru": "Тодд только что вылез из потолочных плиток, как сальный корпоративный гоблин?",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "I had to emerge from under the sofa just to bite your bare ankle.",
               "sentence_ru": "Мне пришлось вылезть из-под дивана только для того, чтобы укусить твою голую лодыжку.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
-              "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера, только чтобы украсть этот б/у блендер.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996882,
+          "due_tick": 996981,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-10T09:00:10.673874+00:00",
-          "pending_msg": 1863,
+          "last_sent_at": "2026-11-12T10:30:05.823166+00:00",
+          "pending_msg": 1905,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996932,
+      "last_deliver_tick": 996933,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
