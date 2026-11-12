@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You perpetuate this stupid myth that I am on a diet by licking empty plates.",
+              "sentence_ru": "Ты вечно подпитываешь этот тупой миф о моей диете, вылизывая пустые тарелки.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "Stop trying to perpetuate the myth that Jim actually does any real work around here.",
               "sentence_ru": "Хватит пытаться увековечить миф о том, что Джим вообще делает хоть какую-то реальную работу здесь.",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "My ex keeps trying to perpetuate the rumor that I still cry into a body pillow.",
               "sentence_ru": "Мой бывший продолжает распускать слухи, что я до сих пор плачу в подушку для тела.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "You perpetuate this miserable litter box drama just to ruin my morning nap.",
-              "sentence_ru": "Ты затягиваешь эту жалокю драму с лотком только чтобы испортить мой утренний сон.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 996837,
+          "due_tick": 996974,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-09T10:30:25.554651+00:00",
-          "pending_msg": 1846,
+          "last_sent_at": "2026-11-12T07:00:22.342089+00:00",
+          "pending_msg": 1890,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996901,
+      "last_deliver_tick": 996926,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Neighbors, if you try to wire up the elevator to your flat again, I will cut your hands off.",
+              "sentence_ru": "Соседи, если вы снова попытаетесь подключить лифт к своей квартире, я вам руки отрублю.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Human, wire up my fish tank laser or I will puke in your boots.",
               "sentence_ru": "Человек, подключи лазер для моего аквариума, иначе я наблеваю тебе в ботинки.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "I tried to wire up my smart fridge, and now it orders tequila at 3 AM.",
               "sentence_ru": "Я попытался подключить свой умный холодильник, и теперь он в 3 часа ночи заказывает текилу.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I had to wire up the toaster to the cat to finally make breakfast.",
-              "sentence_ru": "Мне пришлось подключить тостер к коту, чтобы наконец позавтракать.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996838,
+          "due_tick": 996974,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-09T11:00:08.200017+00:00",
-          "pending_msg": 1849,
+          "last_sent_at": "2026-11-12T07:00:36.767741+00:00",
+          "pending_msg": 1891,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996901,
+      "last_deliver_tick": 996926,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-12",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
