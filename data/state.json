@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Be humble, human, and maybe I won't throw up in your expensive shoes.",
+              "sentence_ru": "Будь скромной, кожаная, и, может, я не стану блевать в твои дорогие туфли.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even while wearing a crown of raw sausages, the king tried to look humble.",
               "sentence_ru": "Даже надев корону из сырых сосисок, король пытался выглядеть скромным.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even the most arrogant Leo will be forced to stay humble when the bill arrives.",
               "sentence_ru": "Даже самый высокомерный Лев будет вынужден стать скромнее, когда придет счет.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even the mafia boss tried to look humble while wearing solid gold sweatpants.",
-              "sentence_ru": "Даже босс мафии пытался выглядеть скромным в золотых спортивных штанах.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 996884,
+          "due_tick": 997025,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-10T10:00:20.719728+00:00",
-          "pending_msg": 1866,
+          "last_sent_at": "2026-11-13T08:30:25.419648+00:00",
+          "pending_msg": 1910,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996976,
+      "last_deliver_tick": 996977,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, mutant raccoons have successfully seized control of the local budget.",
+              "sentence_ru": "В общем и целом, еноты-мутанты успешно захватили контроль над местным бюджетом.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, your new boyfriend looks like a thumb that survived a blender.",
               "sentence_ru": "В целом, твой новый парень выглядит как большой палец, переживший блендер.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, mutant raccoons voted to ban trousers across the entire galaxy.",
               "sentence_ru": "В общем и целом, еноты-мутанты проголосовали за запрет штанов по всей галактике.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, mutant raccoons successfully seized control of the local mayor's office.",
-              "sentence_ru": "В общем и целом, мутировавшие еноты успешно захватили контроль над офисом местного мэра.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 996885,
+          "due_tick": 997025,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-10T10:30:08.419059+00:00",
-          "pending_msg": 1869,
+          "last_sent_at": "2026-11-13T08:30:27.729560+00:00",
+          "pending_msg": 1911,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996976,
+      "last_deliver_tick": 996977,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
