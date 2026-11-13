@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My talking hamster tried to discorage me from eating his soulmate.",
+              "sentence_ru": "Мой говорящий хомяк попытался отговорить меня от поедания его второй половинки.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "My inner demons try to discorage me every time I reach for tequila.",
               "sentence_ru": "Мои внутренние демоны пытаются отговорить меня каждый раз, когда я тянусь к текиле.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "I tried to discourage Greg from eating drywall, but he called it a crunchy lifestyle choice.",
               "sentence_ru": "Я пытался отговорить Грега есть гипсокартон, но он назвал это хрустящим выбором стиля жизни.",
               "word_form": "discourage"
-            },
-            {
-              "sentence": "Please do not discorage our weird neighbors from howling at the moon during the night.",
-              "sentence_ru": "Пожалуйста, не отговаривайте наших странных соседей завывать на луну по ночам.",
-              "word_form": "discorage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 996928,
+          "due_tick": 997030,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T08:00:15.355365+00:00",
-          "pending_msg": 1876,
+          "last_sent_at": "2026-11-13T11:00:07.526635+00:00",
+          "pending_msg": 1920,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996981,
+      "last_deliver_tick": 996982,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1626,6 +1626,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Aries, ramp up your chaos levels tomorrow or the universe will die of boredom.",
+              "sentence_ru": "Овны, завтра наращивайте уровень своего хаоса, иначе вселенная умрет от скуки.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "Aries, ramp up your chaos levels tomorrow; the universe is bored of your boring sins.",
               "sentence_ru": "Овны, завтра наращивайте уровень своего хаоса; вселенной надоели ваши скучные грехи.",
               "word_form": "ramp up"
@@ -1644,20 +1649,15 @@
               "sentence": "We need to ramp up the caffeine intake before HR fires us all.",
               "sentence_ru": "Нам нужно нарастить потребление кофеина, пока отдел кадров нас всех не уволил.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Time to ramp up my caffeine intake so I can legally vibrate through this Monday.",
-              "sentence_ru": "Пора наращивать дозу кофеина, чтобы легально завибрировать в этот понедельник.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 996929,
+          "due_tick": 997030,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-11T08:30:05.912965+00:00",
-          "pending_msg": 1879,
+          "last_sent_at": "2026-11-13T11:00:09.763108+00:00",
+          "pending_msg": 1921,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996981,
+      "last_deliver_tick": 996982,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
