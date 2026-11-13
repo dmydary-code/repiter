@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A cheeky astrologer will steal your wallet while whispering sweet lies about your career.",
+              "sentence_ru": "Наглый астролог украдет твой кошелек, пока шепчет сладостную ложь о твоей карьере.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky smile of yours still ruins my sleep at 3 AM.",
               "sentence_ru": "Твоя наглая улыбка до сих пор ломает мне сон в три часа ночи.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "The cheeky raccoon stole my toupee and wore it like a tiny furry crown.",
               "sentence_ru": "Наглый енот украл мой парик и надел его как крошечную меховую корону.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky raccoon stole my last donut and winked at me.",
-              "sentence_ru": "Этот наглый енот украл мой последний пончик и подмигнул мне.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 996885,
+          "due_tick": 997026,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-10T10:30:06.627771+00:00",
-          "pending_msg": 1868,
+          "last_sent_at": "2026-11-13T09:00:26.008223+00:00",
+          "pending_msg": 1912,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996977,
+      "last_deliver_tick": 996978,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that my talking cat is plotting a bloody coup.",
+              "sentence_ru": "Я склоняюсь к мысли, что мой говорящий кот замышляет кровавый переворот.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that your new boyfriend's face looks like a squished potato.",
               "sentence_ru": "Я склонен думать, что лицо твоего нового бойфренда похоже на примятую картошку.",
               "word_form": "I'm inclined to think that"
@@ -1439,20 +1444,15 @@
               "sentence": "I'm inclined to think that this weird cream made my cat's fur fall out.",
               "sentence_ru": "Я склонен думать, что этот странный крем заставил шерсть моего кота выпасть.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that my cat is plotting to murder me for being late with food.",
-              "sentence_ru": "Я склоняюсь к мысли, что мой кот планирует убить меня за опоздание с едой.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 996886,
+          "due_tick": 997026,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-10T11:00:19.011285+00:00",
-          "pending_msg": 1871,
+          "last_sent_at": "2026-11-13T09:00:29.023074+00:00",
+          "pending_msg": 1913,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996977,
+      "last_deliver_tick": 996978,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
