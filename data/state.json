@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex built a compound for cats to plot world domination.",
+              "sentence_ru": "Мой бывший построил компаунд для котов, чтобы те захватили мир.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Drinking cheap tequila inside this concrete compound was not HR's smartest team-building idea.",
               "sentence_ru": "Пить дешевую текилу внутри этого бетонного компаунда было не самой умной тимбилдинг-идеей HR.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Who threw a toxic chemical compound into our elevator instead of recycling?",
               "sentence_ru": "Кто выбросил токсичное химическое соединение в наш лифт вместо переработки?",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My terrible life choices somehow merged into one stinking compound of absolute regret.",
-              "sentence_ru": "Мои ужасные жизненные выборы почему-то слились в одно вонючее соединение абсолютного сожаления.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 996886,
+          "due_tick": 997027,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-10T11:00:12.678459+00:00",
-          "pending_msg": 1870,
+          "last_sent_at": "2026-11-13T09:30:33.179025+00:00",
+          "pending_msg": 1914,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996978,
+      "last_deliver_tick": 996979,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We lost our dignity, our pants, and our minds altogether at the corporate party.",
+              "sentence_ru": "Мы потеряли достоинство, штаны и рассудок разом на корпоративе.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Tomorrow your ex and their new partner will altogether vanish into a parallel dimension.",
               "sentence_ru": "Завтра твой бывший и их новый партнер совсем испарятся в параллельное измерение.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "My naked ex-mother-in-law moved into my fridge, and altogether it ruined my diet.",
               "sentence_ru": "Моя голая бывшая теща переехала в мой холодильник, и в целом это испортило мою диету.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "My ex and my current therapist are hanging out, which is altogether terrifying.",
-              "sentence_ru": "Мой бывший и мой текущий психотерапевт тусуются вместе, что пугает абсолютно до усрачки.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 996926,
+          "due_tick": 997027,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-11T07:00:13.906043+00:00",
-          "pending_msg": 1873,
+          "last_sent_at": "2026-11-13T09:30:35.539535+00:00",
+          "pending_msg": 1915,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996978,
+      "last_deliver_tick": 996979,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
