@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That strange taste for cheap gin is just an acquired trauma from dating Jim.",
+              "sentence_ru": "Этот странный вкус к дешевому джину — просто приобретенная травма от свиданий с Джимом.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Your newly acquired psychic powers will finally help you find who stole your last yogurt.",
               "sentence_ru": "Твои новообретенные экстрасенсорные способности наконец помогут найти того, кто украл твой последний йогурт.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "Your acquired taste for expensive whiskey will finally impress a wealthy, half-dead sugar daddy tomorrow.",
               "sentence_ru": "Твой приобретенный вкус к дорогому виски завтра наконец впечатлит богатого, полуживого папика.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Your newly acquired taste for chaos will finally bring you a rich sugar daddy tomorrow.",
-              "sentence_ru": "Твой новоприобретенный вкус к хаосу завтра наконец-то принесет тебе богатого папика.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 996882,
+          "due_tick": 997022,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-10T09:00:09.127991+00:00",
-          "pending_msg": 1862,
+          "last_sent_at": "2026-11-13T07:00:25.066831+00:00",
+          "pending_msg": 1906,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996947,
+      "last_deliver_tick": 996974,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Because of this insane influx of weirdos, the elevator smells like wet dog again.",
+              "sentence_ru": "Из-за этого безумного наплыва каких-то фриков в лифте снова воняет мокрой собакой.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "This influx of stray cats in our kitchen is getting out of hand, human.",
               "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, двуногая.",
               "word_form": "influx"
@@ -1193,20 +1198,15 @@
               "sentence": "An influx of angry Karen zombies destroyed my small shop after I ran out of cheap wine.",
               "sentence_ru": "Наплыв злых зомби-яжматерей уничтожил мой магазинчик, после того как у меня закончилось дешевое вино.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "Because of this insane influx of weirdos, the elevator smells like wet dog again.",
-              "sentence_ru": "Из-за этого безумного наплыва каких-то фриков в лифте снова воняет мокрой собакой.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 996883,
+          "due_tick": 997022,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-10T09:30:17.054482+00:00",
-          "pending_msg": 1865,
+          "last_sent_at": "2026-11-13T07:00:29.582802+00:00",
+          "pending_msg": 1907,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996947,
+      "last_deliver_tick": 996974,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
