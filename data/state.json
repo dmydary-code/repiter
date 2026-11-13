@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your ex will devastate your fridge tomorrow, so hide the good vodka now.",
+              "sentence_ru": "Твой бывший завтра опустошит твой холодильник, так что прячь хорошую водку прямо сейчас.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Tomorrow your ex will devastate your new fridge by eating all your secret bacon.",
               "sentence_ru": "Завтра твой бывший опустошит твой новый холодильник, сожрав весь твой секретный бекон.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "My ex tried to devastate my life, but I just adopted three more chaotic cats.",
               "sentence_ru": "Моя бывшая попыталась разрушить мою жизнь, но я просто завел еще трех котов-психопатов.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "Your wild party in flat 48 will totally devastate our lobby, you absolute animals!",
-              "sentence_ru": "Ваша дикая вечеринка в квартире 48 полностью разнесет наше лобби, вы, абсолютные животные!",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 996926,
+          "due_tick": 997028,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T07:00:12.492330+00:00",
-          "pending_msg": 1872,
+          "last_sent_at": "2026-11-13T10:00:07.999421+00:00",
+          "pending_msg": 1916,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996979,
+      "last_deliver_tick": 996980,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to adjust my crown so the peasants could see me better.",
+              "sentence_ru": "Мне пришлось поправить корону, чтобы холопы видели меня лучше.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I had to adjust my rear mirror so I don't see your new boyfriend crying in it.",
               "sentence_ru": "Мне пришлось настроить зеркало заднего вида, чтобы не видеть, как в него плачет твой новый парень.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "I need you to adjust your attitude before I block you forever.",
               "sentence_ru": "Тебе нужно настроить своё отношение, пока я тебя не заблокировал навсегда.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Human, adjust my laser collar before I disintegrate your favorite sofa.",
-              "sentence_ru": "Человек, настрой мой лазерный ошейник, пока я не испепелил твой любимый диван.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 996927,
+          "due_tick": 997028,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-11T07:30:27.632460+00:00",
-          "pending_msg": 1875,
+          "last_sent_at": "2026-11-13T10:00:11.366484+00:00",
+          "pending_msg": 1917,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996979,
+      "last_deliver_tick": 996980,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
