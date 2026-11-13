@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still encorage your terrible life choices, especially texting me at 3 AM.",
+              "sentence_ru": "Я всё ещё поощряю твои ужасные жизненные выборы, особенно когда ты пишешь мне в 3 часа ночи.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My therapist tried to encorage my weird habit of hissing at delivery guys.",
               "sentence_ru": "Мой психотерапевт попытался поощрить мою странную привычку шипеть на курьеров.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My therapist had to encorage me just to text my ex back.",
               "sentence_ru": "Моему психотерапевту пришлось поощрять меня, чтобы я просто написал бывшему.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My inner demon always tries to encourage my worst life decisions at 3 AM.",
-              "sentence_ru": "Мой внутренний демон всегда пытается поощрять мои худшие жизненные решения в 3 часа ночи.",
-              "word_form": "encourage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 996883,
+          "due_tick": 997024,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-10T09:30:15.671079+00:00",
-          "pending_msg": 1864,
+          "last_sent_at": "2026-11-13T08:06:24.012987+00:00",
+          "pending_msg": 1908,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996974,
+      "last_deliver_tick": 996976,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated stray cats steal the mayor's toupee now and then during midnight riots.",
+              "sentence_ru": "Мутировавшие бродячие коты время от времени крадут парик мэра во время полуночных беспорядков.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Mutated pigeons overthrow the mayor now and then just to feel something.",
               "sentence_ru": "Мутировавшие голуби время от времени свергают мэра просто ради острых ощущений.",
               "word_form": "now and then"
@@ -1234,20 +1239,15 @@
               "sentence": "I still wake up at 3 AM now and then just to regret everything.",
               "sentence_ru": "Я до сих пор просыпаюсь в 3 часа ночи время от времени только чтобы пожалеть обо всём.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "My sanity whispers to me now and then, just before I drown in this corporate madness.",
-              "sentence_ru": "Мой рассудок шепчет мне время от времени, прямо перед тем, как я тону в этом корпоративном безумии.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 996884,
+          "due_tick": 997024,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-10T10:00:25.028818+00:00",
-          "pending_msg": 1867,
+          "last_sent_at": "2026-11-13T08:06:26.378790+00:00",
+          "pending_msg": 1909,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996974,
+      "last_deliver_tick": 996976,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
