@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who the hell let the aforementioned goat eat my doormat again?",
+              "sentence_ru": "Кто, черт возьми, позволил вышеупомянутому козлу снова сжрать мой коврик у двери?",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "The aforementioned raccoon stole my toupee and is now running the criminal underworld.",
               "sentence_ru": "Вышеупомянутый енот украл мой парик и теперь управляет криминальным миром.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "The aforementioned degenerate who keeps peeing in the elevator will be sacrificed to Satan tonight.",
               "sentence_ru": "Вышеупомянутый дегенерат, который продолжает мочиться в лифте, сегодня ночью будет принесен в жертву Сатане.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "I'm still thinking about the aforementioned mistake you made in bed three years ago.",
-              "sentence_ru": "Я все еще думаю о вышеупомянутой ошибке, которую ты совершила в постели три года назад.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 996927,
+          "due_tick": 997029,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T07:30:26.089320+00:00",
-          "pending_msg": 1874,
+          "last_sent_at": "2026-11-13T10:30:07.369214+00:00",
+          "pending_msg": 1918,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996980,
+      "last_deliver_tick": 996981,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cold dead heart began to seize up the moment she smiled at me.",
+              "sentence_ru": "Мое холодное мертвое сердце начало заклинивать в тот момент, когда она мне улыбнулась.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My brain tends to seize up whenever the HOA president starts talking about new fees.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда председатель ТСЖ начинает говорить о новых поборах.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "If your elderly neighbor tries to steal more mail, his knees will seize up instantly.",
               "sentence_ru": "Если твой пожилой сосед попытается украсть еще почту, его колени мгновенно заклинит.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My brain tends to seize up completely whenever I see your midnight texts.",
-              "sentence_ru": "Мой мозг обычно полностью заклинивает всякий раз, когда я вижу твои полуночные сообщения.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 996928,
+          "due_tick": 997029,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-11T08:00:16.883661+00:00",
-          "pending_msg": 1877,
+          "last_sent_at": "2026-11-13T10:30:09.127579+00:00",
+          "pending_msg": 1919,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996980,
+      "last_deliver_tick": 996981,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-13",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
