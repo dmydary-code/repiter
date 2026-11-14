@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your constant crying doesn't undermine my authority, human, it just proves I'm the boss.",
+              "sentence_ru": "Твой постоянный плач не подрывает мой авторитет, кожаная, он просто доказывает, что я здесь босс.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "My neurotic cat tried to undermine the sofa by digging straight to China.",
               "sentence_ru": "Мой невротичный кот попытался подкопать диван, докапываясь прямо до Китая.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Karen tried to undermine my authority by stapling my Jell-O to the copier again.",
               "sentence_ru": "Карен попыталась подорвать мой авторитет, снова пристегнув мой желе к ксероксу степлером.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Mars will undermine your boss's career while you just eat chips.",
-              "sentence_ru": "Марс подорвет карьеру твоего начальника, пока ты просто ешь чипсы.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 996929,
+          "due_tick": 997070,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T08:30:04.158722+00:00",
-          "pending_msg": 1878,
+          "last_sent_at": "2026-11-14T07:00:12.855584+00:00",
+          "pending_msg": 1922,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 996993,
+      "last_deliver_tick": 997022,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars will force you to impose your weird cat-worship on your horrified boss tomorrow.",
+              "sentence_ru": "Марс заставит тебя завтра навязать твое странное котопоклонничество твоему ужаснувшемуся боссу.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Don't try to impose your weird vegan diet on my mouse addiction, Karen.",
               "sentence_ru": "Не пытайся навязывать свою странную веганскую диету на мою мышиную зависимость, Карен.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "Why must I always impose my toxic delusions on everyone at 3 AM?",
               "sentence_ru": "Почему я вечно должен навязывать свои токсичные бредни всем подряд в три часа ночи?",
               "word_form": "impose"
-            },
-            {
-              "sentence": "My weird cat tried to impose a strict curfew on my late-night gaming sessions.",
-              "sentence_ru": "Мой странный кот попытался навязать жесткий комендантский час моим ночным игровым сессиям.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 996930,
+          "due_tick": 997070,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-11T09:22:55.121774+00:00",
-          "pending_msg": 1883,
+          "last_sent_at": "2026-11-14T07:00:14.094969+00:00",
+          "pending_msg": 1923,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 996993,
+      "last_deliver_tick": 997022,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
