@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local cat was profoundly offended when the pope refused to worship it.",
+              "sentence_ru": "Местный кот был глубоко оскорблен, когда папа римский отказался ему поклоняться.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "Chad was profoundly unqualified, yet somehow he became our regional director.",
               "sentence_ru": "Чад был глубоко некомпетентен, но почему-то стал нашим региональным директором.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "I stared at my empty wine glass, profoundly regretting all my life choices.",
               "sentence_ru": "Я таращился на свой пустой бокал вина, глубоко жалея о всех своих жизненных выборах.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "Chad was profoundly stupid, which somehow made him employee of the month.",
-              "sentence_ru": "Чэд был глубоко туп, что почему-то сделало его сотрудником месяца.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 996975,
+          "due_tick": 997076,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-12T07:30:11.196673+00:00",
-          "pending_msg": 1892,
+          "last_sent_at": "2026-11-14T10:00:23.834042+00:00",
+          "pending_msg": 1936,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997027,
+      "last_deliver_tick": 997028,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1037,12 +1037,12 @@
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 996976,
+          "due_tick": 997076,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-12T08:00:16.411970+00:00",
-          "pending_msg": 1895,
+          "last_sent_at": "2026-11-14T10:00:39.590583+00:00",
+          "pending_msg": 1937,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997027,
+      "last_deliver_tick": 997028,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
