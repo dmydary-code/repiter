@@ -706,8 +706,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "This terrible cream seems to perpetuate my wrinkles rather than fix them.",
-              "sentence_ru": "Этот ужасный крем, кажется, увековечивает мои морщины, а не исправляет их.",
+              "sentence": "Posting blurry mirror selfies to perpetuate the mystery of why my ex blocked me.",
+              "sentence_ru": "Выкладываю размытые селфи в зеркало, чтобы увековечить загадку, почему мой бывший меня заблокировал.",
               "word_form": "perpetuate"
             },
             {
@@ -736,8 +736,8 @@
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-14T09:30:12.561356+00:00",
-          "pending_msg": 1932,
+          "last_sent_at": "2026-11-14T09:31:38.957661+00:00",
+          "pending_msg": 1934,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -888,8 +888,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Tomorrow your drab ex will try to text you, so block him before you puke.",
-              "sentence_ru": "Завтра твой унылый бывший попытается тебе написать, так что заблокируй его, пока не вырвало.",
+              "sentence": "Your new curtains are so drab that even I want to throw up a hairball.",
+              "sentence_ru": "Твои новые шторы такие унылые, что даже мне хочется блевануть шерстью.",
               "word_form": "drab"
             },
             {
@@ -918,8 +918,8 @@
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-14T09:30:13.655246+00:00",
-          "pending_msg": 1933,
+          "last_sent_at": "2026-11-14T09:31:40.199766+00:00",
+          "pending_msg": 1935,
           "reps": 1,
           "step": 0,
           "word": "drab",
