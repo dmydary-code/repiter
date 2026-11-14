@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He set his heart on stealing my last nugget, so I had to yeet him into the sun.",
+              "sentence_ru": "Он так страстно желал украсть мой последний наггетс, что мне пришлось швырнуть его в солнце.",
+              "word_form": "set his heart on"
+            },
+            {
               "sentence": "If you set your heart on stealing my Wi-Fi again, I will curse your cat.",
               "sentence_ru": "Если ты снова загоришься идеей украсть мой вайфай, я прокляну твоего кота.",
               "word_form": "set your heart on"
@@ -478,20 +483,15 @@
               "sentence": "Neighbor Igor set heart on stealing my Wi-Fi router and now camps in the hallway.",
               "sentence_ru": "Сосед Игорь страстно возжелал украсть мой Wi-Fi роутер и теперь ночует в коридоре.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "I set my heart on stealing the Mona Lisa, even if guards bite.",
-              "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если охранники будут кусаться.",
-              "word_form": "set my heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 996933,
+          "due_tick": 997074,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T10:30:18.955000+00:00",
-          "pending_msg": 1888,
+          "last_sent_at": "2026-11-14T09:00:12.309029+00:00",
+          "pending_msg": 1930,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997025,
+      "last_deliver_tick": 997026,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I need to wire up my brain before I deal with this psycho.",
+              "sentence_ru": "Мне нужно подключить мозги к сети, прежде чем разбираться с этим психом.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Neighbors, if you try to wire up the elevator to your flat again, I will cut your hands off.",
               "sentence_ru": "Соседи, если вы снова попытаетесь подключить лифт к своей квартире, я вам руки отрублю.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "Human, wire up my fish tank laser or I will puke in your shoes tonight.",
               "sentence_ru": "Человек, подключи лазер к моему аквариуму, иначе я сегодня наблею тебе в туфли.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I tried to wire up my smart fridge, and now it orders tequila at 3 AM.",
-              "sentence_ru": "Я попытался подключить свой умный холодильник, и теперь он в 3 часа ночи заказывает текилу.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 996974,
+          "due_tick": 997074,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-12T07:00:36.767741+00:00",
-          "pending_msg": 1891,
+          "last_sent_at": "2026-11-14T09:00:13.397931+00:00",
+          "pending_msg": 1931,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997025,
+      "last_deliver_tick": 997026,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
