@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A captured goblin plaintively begged for mercy before the dungeon DJ dropped the bass.",
+              "sentence_ru": "Пойманный гоблин жалобно умолял о пощаде, прежде чем подземельный диджей врубил бас.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "A ghost will cry plaintively from your microwave because your midnight snacks offend the cosmos.",
               "sentence_ru": "Призрак будет жалобно плакать из вашей микроволновки, потому что ваши ночные перекусы оскорбляют космос.",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "The raccoon looked at my half-eaten burrito and wailed plaintively from the dumpster.",
               "sentence_ru": "Енот посмотрел на моё недоеденное буррито и жалобно завыл из мусорного бака.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "The giant mutant raccoon cried plaintively after the police seized his illegal moonshine stash.",
-              "sentence_ru": "Гигантский енот-мутант жалобно плакал после того, как полиция изъяла его нелегальный запас самогона.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 996931,
+          "due_tick": 997072,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T09:30:12.930555+00:00",
-          "pending_msg": 1884,
+          "last_sent_at": "2026-11-14T08:00:14.112870+00:00",
+          "pending_msg": 1926,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997023,
+      "last_deliver_tick": 997024,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He runs crypto scams from the backstreets because paying taxes is for nerds.",
+              "sentence_ru": "Он проворачивает криптоаферы с задворок, потому что платить налоги — для ботанов.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "I only sell my illegal crypto courses in shady backstreets at 3 AM.",
               "sentence_ru": "Я продаю свои нелегальные курсы по крипте только в темных переулках в 3 часа ночи.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "Got lost in the dark backstreets while fleeing from a rabid stray cat.",
               "sentence_ru": "Заблудился в темных переулках, убегая от бешеного бродячего кота.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "If you don't pay for heating, your corpse will be found in the backstreets.",
-              "sentence_ru": "Если вы не заплатите за отопление, ваш труп найдут на задворках.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 996932,
+          "due_tick": 997072,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-11T10:00:06.712068+00:00",
-          "pending_msg": 1887,
+          "last_sent_at": "2026-11-14T08:00:16.165570+00:00",
+          "pending_msg": 1927,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997023,
+      "last_deliver_tick": 997024,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
