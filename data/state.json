@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whenever my ex cries, I charge her admission to my pity party.",
+              "sentence_ru": "Всякий раз, когда моя бывшая плачет, я беру с нее плату за вход на мою вечеринку жалости.",
+              "word_form": "Whenever"
+            },
+            {
               "sentence": "This cat vomits on my expensive rug whenever I leave the house.",
               "sentence_ru": "Этот кот блевотит на мой дорогой ковер всякий раз, когда я ухожу из дома.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "My cat stares at the wall whenever I buy expensive therapy.",
               "sentence_ru": "Мой кот пялится в стену всякий раз, когда я покупаю дорогую терапию.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "Whenever you drill your concrete wall at 3 AM, my cat starts levitating from pure rage.",
-              "sentence_ru": "Всякий раз, когда ты сверлишь свою бетонную стену в 3 часа ночи, мой кот начинает левитировать от чистой ярости.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 996932,
+          "due_tick": 997073,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T10:00:05.136990+00:00",
-          "pending_msg": 1886,
+          "last_sent_at": "2026-11-14T08:30:13.727716+00:00",
+          "pending_msg": 1928,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997024,
+      "last_deliver_tick": 997025,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that I ate the last donut with absolute malice.",
+              "sentence_ru": "Трудно отрицать, что я сожрал последний пончик с абсолютным злым умыслом.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that I looked hotter than your new boyfriend.",
               "sentence_ru": "Трудно отрицать, что я выглядел горячее твоего нового парня.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that I ate my therapist's cat out of pure spite.",
               "sentence_ru": "Трудно отрицать, что я сожрал кота своего психотерапевта из чистой вредности.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that my new sugar daddy is way hotter than you.",
-              "sentence_ru": "Трудно отрицать, что мой новый папик намного горячее тебя.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 996933,
+          "due_tick": 997073,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T10:30:23.142533+00:00",
-          "pending_msg": 1889,
+          "last_sent_at": "2026-11-14T08:30:14.761926+00:00",
+          "pending_msg": 1929,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997024,
+      "last_deliver_tick": 997025,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
