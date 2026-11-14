@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words, Greg: your quarterly report looks like trash written by a drunk raccoon.",
+              "sentence_ru": "Я не буду церемониться, Грег: твой квартальный отчет выглядит как мусор, написанный пьяным енотом.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I won't mince words, Greg, your quarterly report looks like trash written by a drunk raccoon.",
               "sentence_ru": "Я не буду церемониться, Грег, твой квартальный отчет выглядит как мусор, написанный пьяным енотом.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I didn't mince words when telling my ex his new haircut looks like a dead ferret.",
               "sentence_ru": "Я не церемонился в выражениях, когда говорил своему бывшему, что его новая стрижка похожа на мертвого хорька.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "Management will not mince words: stop peeing in the elevator or we release the hounds.",
-              "sentence_ru": "Руководство не будет церемониться в выражениях: прекратите ссать в лифте, или мы спустим собак.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 996976,
+          "due_tick": 997077,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-12T08:00:15.258295+00:00",
-          "pending_msg": 1894,
+          "last_sent_at": "2026-11-14T10:30:18.350075+00:00",
+          "pending_msg": 1938,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997028,
+      "last_deliver_tick": 997029,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a heavy metal shovel.",
+              "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки с помощью тяжелой металлической лопаты.",
+              "word_form": "to demolish"
+            },
+            {
               "sentence": "My fat cat tried to demolish an entire pizza while I was blinking.",
               "sentence_ru": "Мой жирный кот попытался сожрать целую пиццу, пока я моргал.",
               "word_form": "demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "I will demolish this expensive sofa if you do not give me salmon right now.",
               "sentence_ru": "Я снесу этот дорогой диван, если ты не дашь мне лосося прямо сейчас.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Mars in Taurus will make you demolish your ex's new kitchen with a sledgehammer.",
-              "sentence_ru": "Марс в Тельце заставит тебя снести кувалдой новую кухню твоего бывшего.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 996977,
+          "due_tick": 997077,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-11-12T08:30:18.802953+00:00",
-          "pending_msg": 1897,
+          "last_sent_at": "2026-11-14T10:30:19.488859+00:00",
+          "pending_msg": 1939,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997028,
+      "last_deliver_tick": 997029,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
