@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you will try to steal a badger's wig, but fail miserably.",
+              "sentence_ru": "Завтра ты попытаешься украсть у барсука парик, но с треском провалишься.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Local cats try to overthrow the mayor using heavily armed pigeons.",
               "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью вооруженных до зубов голубей.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Just try to ignore the fact that my new girlfriend looks exactly like you.",
               "sentence_ru": "Просто постарайся не обращать внимания на то, что моя новая девушка выглядит точь-в-точь как ты.",
               "word_form": "try"
-            },
-            {
-              "sentence": "I still try to wash away the blood, knowing damn well it stains my soul.",
-              "sentence_ru": "Я всё еще пытаюсь смыть кровь, прекрасно понимая, что она пачкает мою душу.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 996930,
+          "due_tick": 997071,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-11T09:22:51.345396+00:00",
-          "pending_msg": 1882,
+          "last_sent_at": "2026-11-14T07:30:12.169883+00:00",
+          "pending_msg": 1924,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997022,
+      "last_deliver_tick": 997023,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that raccoons deserve full voting rights after midnight.",
+              "sentence_ru": "Я придерживаюсь мнения, что еноты заслуживают полного избирательного права после полуночи.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that tomorrow your ex will cry in a puddle of cheap gin.",
               "sentence_ru": "Я придерживаюсь мнения, что завтра твой бывший будет рыдать в луже дешёвого джина.",
               "word_form": "I hold the view that"
@@ -1357,20 +1362,15 @@
               "sentence": "I hold the view that raccoons are just fat thieves in fur coats.",
               "sentence_ru": "Я придерживаюсь мнения, что еноты — это просто жирные воры в шубах.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that this cursed blender is possessed, because it pureed my cat's soul.",
-              "sentence_ru": "Я придерживаюсь мнения, что этот проклятый блендер одержим, потому что он измельчил душу моего кота.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 996931,
+          "due_tick": 997071,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-11T09:30:16.957201+00:00",
-          "pending_msg": 1885,
+          "last_sent_at": "2026-11-14T07:30:16.428875+00:00",
+          "pending_msg": 1925,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997022,
+      "last_deliver_tick": 997023,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-14",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
