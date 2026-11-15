@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My lazy husband never lifts a finger in the house, even when the cat vomits on his favorite rug.",
+              "sentence_ru": "Мой ленивый муж палец о палец не ударяет по дому, даже когда кот блюет на его любимый ковер.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "That lazy roommate never lifts a finger in the house, leaving all the trash for me!",
               "sentence_ru": "Этот ленивый сожитель никогда не ударяет палец о палец дома, оставляя весь мусор мне!",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "He never lifts a finger in the house, leaving all the chaos to me.",
               "sentence_ru": "Он никогда не ударяет палец о палец дома, оставляя весь этот хаос на меня.",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "Chad never lifts a finger in the house, leaving all the mess to our miserable shared coffee machine.",
-              "sentence_ru": "Чад никогда не ударяет палец о палец дома, оставляя весь беспорядок нашей несчастной общей кофемашине.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 996980,
+          "due_tick": 997121,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-12T10:00:01.315758+00:00",
-          "pending_msg": 1902,
+          "last_sent_at": "2026-11-15T08:30:13.534367+00:00",
+          "pending_msg": 1946,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997072,
+      "last_deliver_tick": 997073,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Did Kevin just emerge from the conference room covered in chili?",
+              "sentence_ru": "Кевин только что вылез из переговорки, весь в чили?",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
               "sentence_ru": "Моя бывшая обязана была вылезти из кустов ровно тогда, когда я выглядел максимально ущербно.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
               "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера только ради того, чтобы украсть этот б/у блендер.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "I had to emerge from under the sofa just to bite your bare ankle.",
-              "sentence_ru": "Мне пришлось вылезть из-под дивана только для того, чтобы укусить твою голую лодыжку.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 996981,
+          "due_tick": 997121,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-12T10:30:05.823166+00:00",
-          "pending_msg": 1905,
+          "last_sent_at": "2026-11-15T08:30:15.038374+00:00",
+          "pending_msg": 1947,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997072,
+      "last_deliver_tick": 997073,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
