@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My therapist had to encorage me just to text my ex back.",
+              "sentence_ru": "Моему психотерапевту пришлось поощрять меня, чтобы я просто написал бывшему.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "I still encorage your terrible life choices, especially texting me at 3 AM.",
               "sentence_ru": "Я всё ещё поощряю твои ужасные жизненные выборы, особенно когда ты пишешь мне в 3 часа ночи.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My inner demons encorage me to steal candy from crying babies.",
               "sentence_ru": "Мои внутренние демоны поощряют меня красть конфеты у плачущих детей.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My therapist had to encorage me just to text my ex back.",
-              "sentence_ru": "Моему психотерапевту пришлось поощрять меня, чтобы я просто написал бывшему.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 997024,
+          "due_tick": 997126,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-13T08:06:24.012987+00:00",
-          "pending_msg": 1908,
+          "last_sent_at": "2026-11-15T11:00:02.551672+00:00",
+          "pending_msg": 1958,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997077,
+      "last_deliver_tick": 997078,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, my exes still think I am a total psycho.",
+              "sentence_ru": "В общем и целом, мои бывшие до сих пор считают меня полным психом.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, mutant raccoons have successfully seized control of the local budget.",
               "sentence_ru": "В общем и целом, еноты-мутанты успешно захватили контроль над местным бюджетом.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, our marketing strategy sucks, but at least the free coffee is good.",
               "sentence_ru": "В общем и целом наша маркетинговая стратегия — отстой, но бесплатный кофе хотя бы норм.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, mutant raccoons voted to ban trousers across the entire galaxy.",
-              "sentence_ru": "В общем и целом, еноты-мутанты проголосовали за запрет штанов по всей галактике.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 997025,
+          "due_tick": 997126,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-13T08:30:27.729560+00:00",
-          "pending_msg": 1911,
+          "last_sent_at": "2026-11-15T11:00:03.785447+00:00",
+          "pending_msg": 1959,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997077,
+      "last_deliver_tick": 997078,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
