@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Due to your acquired mutant claws, throwing trash from the balcony is now strictly prohibited.",
+              "sentence_ru": "Из-за ваших приобретенных мутантских клешней бросать мусор с балкона теперь строго запрещено.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "That strange taste for cheap gin is just an acquired trauma from dating Jim.",
               "sentence_ru": "Этот странный вкус к дешевому джину — просто приобретенная травма от свиданий с Джимом.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "My cat acquired a taste for expensive human flesh after biting the butler.",
               "sentence_ru": "Мой кот приобрел вкус к дорогой человеческой плоти после того, как укусил дворецкого.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Your acquired taste for expensive whiskey will finally impress a wealthy, half-dead sugar daddy tomorrow.",
-              "sentence_ru": "Твой приобретенный вкус к дорогому виски завтра наконец впечатлит богатого, полуживого папика.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 997022,
+          "due_tick": 997125,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-13T07:00:25.066831+00:00",
-          "pending_msg": 1906,
+          "last_sent_at": "2026-11-15T10:30:03.434777+00:00",
+          "pending_msg": 1956,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997076,
+      "last_deliver_tick": 997077,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet raccoon steals my underwear now and then, just to assert his dominance.",
+              "sentence_ru": "Мой домашний енот время от времени крадет мои трусы, просто чтобы заявить о своем превосходстве.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "Mutated stray cats steal the mayor's toupee now and then during midnight riots.",
               "sentence_ru": "Мутировавшие бродячие коты время от времени крадут парик мэра во время полуночных беспорядков.",
               "word_form": "now and then"
@@ -1234,20 +1239,15 @@
               "sentence": "Mutated stray cats riot now and then, demanding free Wi-Fi and human flesh.",
               "sentence_ru": "Мутировавшие бродячие коты время от времени бунтуют, требуя бесплатный вайфай и человечину.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "I still wake up at 3 AM now and then just to regret everything.",
-              "sentence_ru": "Я до сих пор просыпаюсь в 3 часа ночи время от времени только чтобы пожалеть обо всём.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 997024,
+          "due_tick": 997125,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-13T08:06:26.378790+00:00",
-          "pending_msg": 1909,
+          "last_sent_at": "2026-11-15T10:30:04.548687+00:00",
+          "pending_msg": 1957,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997076,
+      "last_deliver_tick": 997077,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
