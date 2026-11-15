@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Stop throwing garbage at the door just because our local alcoholic bought a celebrity endorsement for cheap vodka.",
+              "sentence_ru": "Хватит кидать мусор в дверь только потому, что наш местный алкаш купил рекламу дешевой водки у звезды.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "My career died the moment that tragic celebrity endorsement for fungal cream aired on TV.",
               "sentence_ru": "Моя карьера умерла в тот момент, когда по телевизору показали эту позорную рекламу маска от грибка с моим участием.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "My entire self-worth now hangs by the fragile thread of a single celebrity endorsement.",
               "sentence_ru": "Вся моя самооценка теперь держится на хрупкой ниточке единственной рекламы со звездой.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "That toxic celebrity endorsement of cryptoscam by apt 42 ruined our courtyard vibes!",
-              "sentence_ru": "Эта токсичная реклама криптолохотрона от звезды из 42 квартиры испортила всю атмосферу нашего двора!",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 996979,
+          "due_tick": 997120,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-12T09:30:25.326810+00:00",
-          "pending_msg": 1900,
+          "last_sent_at": "2026-11-15T08:00:09.011198+00:00",
+          "pending_msg": 1944,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997071,
+      "last_deliver_tick": 997072,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My therapist says I should stop chewing on toxic gossip like it is cheap steak.",
+              "sentence_ru": "Мой психотерапевт говорит, что мне пора перестать жевать токсичные сплетни, как дешевый стейк.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "My therapist says I should let go of toxic people, but their gossip is my only dopamine.",
               "sentence_ru": "Мой психотерапевт говорит, что мне стоит отпустить токсичных людей, но их сплетни — мой единственный дофамин.",
               "word_form": "gossip"
@@ -988,20 +993,15 @@
               "sentence": "Stop spreading gossip about my new lizard at 3 AM and text me back.",
               "sentence_ru": "Хватит распускать сплетни о моей новой ящерице в 3 часа ночи и ответь мне.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop spreading gossip about Dave's toupee before I leak your browser history, Brenda.",
-              "sentence_ru": "Хватит распускать сплетни о парике Дэйва, пока я не слил твою историю браузера, Бренда.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 996980,
+          "due_tick": 997120,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-12T10:00:03.745643+00:00",
-          "pending_msg": 1903,
+          "last_sent_at": "2026-11-15T08:00:13.893578+00:00",
+          "pending_msg": 1945,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997071,
+      "last_deliver_tick": 997072,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
