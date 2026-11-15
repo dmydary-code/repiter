@@ -583,11 +583,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My lazy husband never lifts a finger in the house, even when the cat vomits on his favorite rug.",
-              "sentence_ru": "Мой ленивый муж палец о палец не ударяет по дому, даже когда кот блюет на его любимый ковер.",
-              "word_form": "lifts a finger in the house"
-            },
-            {
               "sentence": "That lazy roommate never lifts a finger in the house, leaving all the trash for me!",
               "sentence_ru": "Этот ленивый сожитель никогда не ударяет палец о палец дома, оставляя весь мусор мне!",
               "word_form": "lifts a finger in the house"
@@ -606,15 +601,20 @@
               "sentence": "He never lifts a finger in the house, leaving all the chaos to me.",
               "sentence_ru": "Он никогда не ударяет палец о палец дома, оставляя весь этот хаос на меня.",
               "word_form": "lifts a finger in the house"
+            },
+            {
+              "sentence": "Chad never lifts a finger in the house, leaving all the mess to our miserable shared coffee machine.",
+              "sentence_ru": "Чад никогда не ударяет палец о палец дома, оставляя весь беспорядок нашей несчастной общей кофемашине.",
+              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 997121,
+          "due_tick": 996980,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-15T08:30:13.534367+00:00",
-          "pending_msg": 1946,
+          "last_sent_at": "2026-11-12T10:00:01.315758+00:00",
+          "pending_msg": 1902,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -623,11 +623,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "My pet raccoon is rolling in money after robbing three luxury casinos.",
-              "sentence_ru": "Мой домашний енот купается в деньгах после ограбления трех элитных казино.",
-              "word_form": "rolling in money"
-            },
             {
               "sentence": "Stop buying cheap canned fish, human, we are rolling in money now!",
               "sentence_ru": "Хватит покупать дешёвую консервированную рыбу, кожаный, мы теперь купаемся в деньгах!",
@@ -647,15 +642,20 @@
               "sentence": "A local stray cat is now rolling in money after biting a billionaire's crypto wallet.",
               "sentence_ru": "Местный бродячий кот теперь купается в деньгах после того, как цапнул криптокошелек миллиардера.",
               "word_form": "rolling in money"
+            },
+            {
+              "sentence": "I'm rolling in money now, but you still sleep with your mom's cat.",
+              "sentence_ru": "Я теперь купаюсь в деньгах, но ты всё ещё спишь с кошкой своей мамы.",
+              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 997122,
+          "due_tick": 996981,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-15T09:00:10.635606+00:00",
-          "pending_msg": 1948,
+          "last_sent_at": "2026-11-12T10:30:04.324303+00:00",
+          "pending_msg": 1904,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -788,8 +788,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Stop throwing garbage at the door just because our local alcoholic bought a celebrity endorsement for cheap vodka.",
-              "sentence_ru": "Хватит кидать мусор в дверь только потому, что наш местный алкаш купил рекламу дешевой водки у звезды.",
+              "sentence": "Satan's new crypto scam thrives thanks to a sudden celebrity endorsement from the Pope.",
+              "sentence_ru": "Новый криптолохотрон Сатаны процветает благодаря внезапной поддержке знаменитости в лице Папы Римского.",
               "word_form": "celebrity endorsement"
             },
             {
@@ -814,12 +814,12 @@
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 997120,
+          "due_tick": 997122,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-15T08:00:09.011198+00:00",
-          "pending_msg": 1944,
+          "last_sent_at": "2026-11-15T09:06:23.488054+00:00",
+          "pending_msg": 1950,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -874,7 +874,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 5,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,8 +970,8 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "My therapist says I should stop chewing on toxic gossip like it is cheap steak.",
-              "sentence_ru": "Мой психотерапевт говорит, что мне пора перестать жевать токсичные сплетни, как дешевый стейк.",
+              "sentence": "My cat started sharing neighborhood gossip right into my ear while I was hungover.",
+              "sentence_ru": "Мой кот начал делиться районными сплетнями прямо мне в ухо, пока я страдал с похмелья.",
               "word_form": "gossip"
             },
             {
@@ -996,12 +996,12 @@
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 997120,
+          "due_tick": 997122,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-15T08:00:13.893578+00:00",
-          "pending_msg": 1945,
+          "last_sent_at": "2026-11-15T09:06:25.108042+00:00",
+          "pending_msg": 1951,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1134,11 +1134,6 @@
           "archived": false,
           "cache": [
             {
-              "sentence": "Did Kevin just emerge from the conference room covered in chili?",
-              "sentence_ru": "Кевин только что вылез из переговорки, весь в чили?",
-              "word_form": "emerge"
-            },
-            {
               "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
               "sentence_ru": "Моя бывшая обязана была вылезти из кустов ровно тогда, когда я выглядел максимально ущербно.",
               "word_form": "emerge"
@@ -1157,15 +1152,20 @@
               "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
               "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера только ради того, чтобы украсть этот б/у блендер.",
               "word_form": "emerge"
+            },
+            {
+              "sentence": "I had to emerge from under the sofa just to bite your bare ankle.",
+              "sentence_ru": "Мне пришлось вылезть из-под дивана только для того, чтобы укусить твою голую лодыжку.",
+              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 997121,
+          "due_tick": 996981,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-15T08:30:15.038374+00:00",
-          "pending_msg": 1947,
+          "last_sent_at": "2026-11-12T10:30:05.823166+00:00",
+          "pending_msg": 1905,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1174,11 +1174,6 @@
         {
           "archived": false,
           "cache": [
-            {
-              "sentence": "This sudden influx of annoying interns means I have to hide my good booze in the ceiling tiles.",
-              "sentence_ru": "Этот внезапный наплыв бесячих стажеров означает, что мне придется прятать мой хороший алкоголь в потолочной плитке.",
-              "word_form": "influx"
-            },
             {
               "sentence": "Because of this insane influx of weirdos, the elevator smells like wet dog again.",
               "sentence_ru": "Из-за этого безумного наплыва каких-то фриков в лифте снова воняет мокрой собакой.",
@@ -1198,15 +1193,20 @@
               "sentence": "This influx of stray cats in our kitchen is getting out of hand, Susan.",
               "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, Сьюзан.",
               "word_form": "influx"
+            },
+            {
+              "sentence": "An influx of angry Karen zombies destroyed my small shop after I ran out of cheap wine.",
+              "sentence_ru": "Наплыв злых зомби-яжматерей уничтожил мой магазинчик, после того как у меня закончилось дешевое вино.",
+              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 997122,
+          "due_tick": 997022,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-15T09:00:11.996179+00:00",
-          "pending_msg": 1949,
+          "last_sent_at": "2026-11-13T07:00:29.582802+00:00",
+          "pending_msg": 1907,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1712,7 +1712,7 @@
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 5,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
