@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Neighbors who hit it off over shared hatred for loud bass will throw a joint trash-burning party tonight.",
+              "sentence_ru": "Соседи, которые нашли общий язык на почве ненависти к громким басам, устроят сегодня совместное сжигание мусора.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Me and my stolen flamingo hit it off immediately at the police station.",
               "sentence_ru": "Я и мой украденный фламинго сразу же подружились в полицейском участке.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Me and my stolen flamingo hit it off immediately at the police station.",
               "sentence_ru": "Я и мой украденный фламинго сразу же подружились в полицейском участке.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Neighbor Oleg and the stolen excavator hit it off instantly, destroying the entire flowerbed.",
-              "sentence_ru": "Сосед Олег и украденный экскаватор сразу нашли общий язык, уничтожив всю клумбу.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 996978,
+          "due_tick": 997119,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-12T09:00:18.781025+00:00",
-          "pending_msg": 1898,
+          "last_sent_at": "2026-11-15T07:30:12.324290+00:00",
+          "pending_msg": 1942,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997070,
+      "last_deliver_tick": 997071,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Residents of apt. 48 must undergo immediate exorcism before playing techno at 3 AM.",
+              "sentence_ru": "Жители кв. 48 должны пройти срочное изгнание дьявола перед тем, как включать техно в 3 часа ночи.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "Our lazy boss had to undergo a drug test, and his plants are sweating.",
               "sentence_ru": "Нашему ленивому боссу пришлось пройти тест на наркотики, и его цветы в горшках потели от страха.",
               "word_form": "undergo"
@@ -1111,20 +1116,15 @@
               "sentence": "I had to undergo a full exorcism after reading your old texts at 3 AM.",
               "sentence_ru": "Мне пришлось пройти через полный экзорцизм после прочтения твоих старых смсок в 3 часа ночи.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "My ex-boyfriend had to undergo plastic surgery after trying to fight a blender.",
-              "sentence_ru": "Моему бывшему пришлось перенести пластическую операцию после попытки подраться с блендером.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 996979,
+          "due_tick": 997119,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-12T09:30:26.788317+00:00",
-          "pending_msg": 1901,
+          "last_sent_at": "2026-11-15T07:30:13.640945+00:00",
+          "pending_msg": 1943,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997070,
+      "last_deliver_tick": 997071,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-15",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
