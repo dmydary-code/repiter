@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Staring at my empty pizza box, I meowed plaintively until my roommate ordered another one.",
+              "sentence_ru": "Глядя на пустую коробку из-под пиццы, я жалобно мяукал, пока сосед не заказал еще одну.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "A captured goblin plaintively begged for mercy before the dungeon DJ dropped the bass.",
               "sentence_ru": "Пойманный гоблин жалобно умолял о пощаде, прежде чем подземельный диджей врубил бас.",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "My fat orange cat meowed plaintively until I opened a third can of expensive tuna.",
               "sentence_ru": "Мой толстый рыжий кот жалобно мяукал, пока я не открыла третью банку дорогого тунца.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "The raccoon looked at my half-eaten burrito and wailed plaintively from the dumpster.",
-              "sentence_ru": "Енот посмотрел на моё недоеденное буррито и жалобно завыл из мусорного бака.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 997072,
+          "due_tick": 997174,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-14T08:00:14.112870+00:00",
-          "pending_msg": 1926,
+          "last_sent_at": "2026-11-16T11:00:07.208849+00:00",
+          "pending_msg": 1980,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997125,
+      "last_deliver_tick": 997126,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that someone is stealing the elevator mirrors again.",
+              "sentence_ru": "Трудно отрицать, что кто-то снова ворует зеркала в лифте.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that I ate the last donut with absolute malice.",
               "sentence_ru": "Трудно отрицать, что я сожрал последний пончик с абсолютным злым умыслом.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that my dog shits exclusively on your doormat.",
               "sentence_ru": "Трудно отрицать, что моя собака гадит исключительно на ваш коврик.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that I ate my therapist's cat out of pure spite.",
-              "sentence_ru": "Трудно отрицать, что я сожрал кота своего психотерапевта из чистой вредности.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 997073,
+          "due_tick": 997174,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-14T08:30:14.761926+00:00",
-          "pending_msg": 1929,
+          "last_sent_at": "2026-11-16T11:00:08.652724+00:00",
+          "pending_msg": 1981,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997125,
+      "last_deliver_tick": 997126,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
