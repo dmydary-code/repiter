@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "These cheap Chinese leggings tried to undermine my confidence right in the middle of a crowded grocery store.",
+              "sentence_ru": "Эти дешевые китайские леггинсы попытались подорвать мою уверенность прямо посреди забитого продуктового магазина.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Your constant crying doesn't undermine my authority, human, it just proves I'm the boss.",
               "sentence_ru": "Твой постоянный плач не подрывает мой авторитет, кожаная, он просто доказывает, что я здесь босс.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "He tried to undermine my confidence by pointing out my ugly nose hair.",
               "sentence_ru": "Он пытался подорвать мою уверенность, указав на мои торчащие из носа волосы.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Karen tried to undermine my authority by stapling my Jell-O to the copier again.",
-              "sentence_ru": "Карен попыталась подорвать мой авторитет, снова пристегнув мой желе к ксероксу степлером.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 997070,
+          "due_tick": 997172,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-14T07:00:12.855584+00:00",
-          "pending_msg": 1922,
+          "last_sent_at": "2026-11-16T10:00:21.027754+00:00",
+          "pending_msg": 1976,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997123,
+      "last_deliver_tick": 997124,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that whoever keeps throwing garbage from the balcony will eat it.",
+              "sentence_ru": "Я придерживаюсь мнения, что тот, кто продолжает кидать мусор с балкона, сожрет его.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that raccoons deserve full voting rights after midnight.",
               "sentence_ru": "Я придерживаюсь мнения, что еноты заслуживают полного избирательного права после полуночи.",
               "word_form": "I hold the view that"
@@ -1357,20 +1362,15 @@
               "sentence": "I hold the view that my talking cat should pay rent or sleep in the dumpster.",
               "sentence_ru": "Я придерживаюсь мнения, что мой говорящий кот должен платить за аренду или спать в мусорном баке.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that raccoons are just fat thieves in fur coats.",
-              "sentence_ru": "Я придерживаюсь мнения, что еноты — это просто жирные воры в шубах.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 997071,
+          "due_tick": 997172,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-14T07:30:16.428875+00:00",
-          "pending_msg": 1925,
+          "last_sent_at": "2026-11-16T10:00:22.250448+00:00",
+          "pending_msg": 1977,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997123,
+      "last_deliver_tick": 997124,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
