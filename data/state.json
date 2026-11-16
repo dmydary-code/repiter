@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A cheeky raccoon stole my toupee and whispered insult in Latin.",
+              "sentence_ru": "Наглый енот украл мой парик и прошептал оскорбление на латыни.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "A cheeky astrologer will steal your wallet while whispering sweet lies about your career.",
               "sentence_ru": "Наглый астролог украдет твой кошелек, пока шепчет сладостную ложь о твоей карьере.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky raccoon stole my taco and winked at me.",
               "sentence_ru": "Этот наглый енот украл мой тако и подмигнул мне.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "The cheeky raccoon stole my toupee and wore it like a tiny furry crown.",
-              "sentence_ru": "Наглый енот украл мой парик и надел его как крошечную меховую корону.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 997026,
+          "due_tick": 997166,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-13T09:00:26.008223+00:00",
-          "pending_msg": 1912,
+          "last_sent_at": "2026-11-16T07:00:08.919283+00:00",
+          "pending_msg": 1962,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997093,
+      "last_deliver_tick": 997118,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This weird vibrating cushion has altogether ruined my sleep, but my cat loves it.",
+              "sentence_ru": "Эта странная вибрирующая подушка полностью испортила мне сон, но мой кот ее обожает.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "We lost our dignity, our pants, and our minds altogether at the corporate party.",
               "sentence_ru": "Мы потеряли достоинство, штаны и рассудок разом на корпоративе.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "Your noisy parties have altogether destroyed my nerves, pay for my therapy!",
               "sentence_ru": "Ваши шумные вечеринки совсем разрушили мои нервы, платите за мою терапию!",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "My naked ex-mother-in-law moved into my fridge, and altogether it ruined my diet.",
-              "sentence_ru": "Моя голая бывшая теща переехала в мой холодильник, и в целом это испортило мою диету.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 997027,
+          "due_tick": 997166,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-13T09:30:35.539535+00:00",
-          "pending_msg": 1915,
+          "last_sent_at": "2026-11-16T07:00:10.592788+00:00",
+          "pending_msg": 1963,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997093,
+      "last_deliver_tick": 997118,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
