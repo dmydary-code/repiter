@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Don't compound your mistakes by texting me from a secure prison compound.",
+              "sentence_ru": "Не усугубляй свои ошибки, написывая мне из охраняемого тюремного комплекса.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "My ex built a compound for cats to plot world domination.",
               "sentence_ru": "Мой бывший построил компаунд для котов, чтобы те захватили мир.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My ex lives in a heavily guarded compound, but my Voodoo doll still reached him.",
               "sentence_ru": "Мой бывший живет в охраняемом компаунде, но моя кукла вуду все равно до него добралась.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Who threw a toxic chemical compound into our elevator instead of recycling?",
-              "sentence_ru": "Кто выбросил токсичное химическое соединение в наш лифт вместо переработки?",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 997027,
+          "due_tick": 997167,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-13T09:30:33.179025+00:00",
-          "pending_msg": 1914,
+          "last_sent_at": "2026-11-16T07:30:08.223746+00:00",
+          "pending_msg": 1964,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997118,
+      "last_deliver_tick": 997119,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you must adjust your astral GPS so you do not accidentally teleport into a trash can.",
+              "sentence_ru": "Завтра ты должен настроить свой астральный GPS, чтобы случайно не телепортироваться в мусорный бак.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I had to adjust my crown so the peasants could see me better.",
               "sentence_ru": "Мне пришлось поправить корону, чтобы холопы видели меня лучше.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "Trying to adjust my crown so the peasants know who's boss today.",
               "sentence_ru": "Пытаюсь поправить корону, чтобы крестьяне знали, кто тут сегодня главный.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "I need you to adjust your attitude before I block you forever.",
-              "sentence_ru": "Тебе нужно настроить своё отношение, пока я тебя не заблокировал навсегда.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 997028,
+          "due_tick": 997167,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-13T10:00:11.366484+00:00",
-          "pending_msg": 1917,
+          "last_sent_at": "2026-11-16T07:30:09.469509+00:00",
+          "pending_msg": 1965,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997118,
+      "last_deliver_tick": 997119,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
