@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please try to flush your weird biological experiments down your own toilet, not the shared hallway.",
+              "sentence_ru": "Пожалуйста, попытайтесь смывать свои странные биологические эксперименты в собственный туалет, а не в общий коридор.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Tomorrow you will try to steal a badger's wig, but fail miserably.",
               "sentence_ru": "Завтра ты попытаешься украсть у барсука парик, но с треском провалишься.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Try to look surprised when my ex enters the club with a clown.",
               "sentence_ru": "Попытайся сделать удивленное лицо, когда мой бывший завалится в клуб с клоуном.",
               "word_form": "Try"
-            },
-            {
-              "sentence": "Just try to ignore the fact that my new girlfriend looks exactly like you.",
-              "sentence_ru": "Просто постарайся не обращать внимания на то, что моя новая девушка выглядит точь-в-точь как ты.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 997071,
+          "due_tick": 997173,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-14T07:30:12.169883+00:00",
-          "pending_msg": 1924,
+          "last_sent_at": "2026-11-16T10:30:02.032986+00:00",
+          "pending_msg": 1978,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997124,
+      "last_deliver_tick": 997125,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I ran through the dark backstreets while my demons finally caught up.",
+              "sentence_ru": "Я бежал по темным задворкам, пока мои демоны наконец не настигли меня.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "He runs crypto scams from the backstreets because paying taxes is for nerds.",
               "sentence_ru": "Он проворачивает криптоаферы с задворок, потому что платить налоги — для ботанов.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "He chased a naked goblin through the damp backstreets while eating cold spaghetti.",
               "sentence_ru": "Он гонялся за голым гоблином по влажным задворкам, поедая холодные спагетти.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Got lost in the dark backstreets while fleeing from a rabid stray cat.",
-              "sentence_ru": "Заблудился в темных переулках, убегая от бешеного бродячего кота.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 997072,
+          "due_tick": 997173,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-14T08:00:16.165570+00:00",
-          "pending_msg": 1927,
+          "last_sent_at": "2026-11-16T10:30:03.251041+00:00",
+          "pending_msg": 1979,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997124,
+      "last_deliver_tick": 997125,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
