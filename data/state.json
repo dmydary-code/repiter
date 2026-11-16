@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your wild raccoon army will devastate our courtyard if you do not stop feeding them.",
+              "sentence_ru": "Ваша армия диких енотов разнесет наш двор нахуй, если вы не перестанете их кормить.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "Your ex will devastate your fridge tomorrow, so hide the good vodka now.",
               "sentence_ru": "Твой бывший завтра опустошит твой холодильник, так что прячь хорошую водку прямо сейчас.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Her sudden refusal to share snacks will totally devastate my fragile soul.",
               "sentence_ru": "Ее внезапный отказ делиться снеками полностью опустошит мою хрупкую душу.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "My ex tried to devastate my life, but I just adopted three more chaotic cats.",
-              "sentence_ru": "Моя бывшая попыталась разрушить мою жизнь, но я просто завел еще трех котов-психопатов.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 997028,
+          "due_tick": 997169,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-13T10:00:07.999421+00:00",
-          "pending_msg": 1916,
+          "last_sent_at": "2026-11-16T08:30:21.916656+00:00",
+          "pending_msg": 1970,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997120,
+      "last_deliver_tick": 997121,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If your cheap brain tends to seize up from reading this notice, call an ambulance.",
+              "sentence_ru": "Если твой дешевый мозг имеет свойство заклинивать от чтения этого объявления, вызывай скорую.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My cold dead heart began to seize up the moment she smiled at me.",
               "sentence_ru": "Мое холодное мертвое сердце начало заклинивать в тот момент, когда она мне улыбнулась.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My cheap vibrator started to seize up right in the middle of my lonely Friday night.",
               "sentence_ru": "Мой дешевый вибратор начал клинить прямо посреди моего одинокого пятнистого вечера.",
               "word_form": "to seize up"
-            },
-            {
-              "sentence": "If your elderly neighbor tries to steal more mail, his knees will seize up instantly.",
-              "sentence_ru": "Если твой пожилой сосед попытается украсть еще почту, его колени мгновенно заклинит.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 997029,
+          "due_tick": 997169,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-13T10:30:09.127579+00:00",
-          "pending_msg": 1919,
+          "last_sent_at": "2026-11-16T08:30:23.034414+00:00",
+          "pending_msg": 1971,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997120,
+      "last_deliver_tick": 997121,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-16",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
