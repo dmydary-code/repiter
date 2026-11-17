@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I set my heart on stealing the Mona Lisa, even if it means licking all the lasers.",
+              "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если придётся облизать все лазеры.",
+              "word_form": "set my heart on"
+            },
+            {
               "sentence": "He set his heart on stealing my last nugget, so I had to yeet him into the sun.",
               "sentence_ru": "Он так страстно желал украсть мой последний наггетс, что мне пришлось швырнуть его в солнце.",
               "word_form": "set his heart on"
@@ -478,20 +483,15 @@
               "sentence": "If you set heart on stealing my stapler, prepare to bleed.",
               "sentence_ru": "Если ты твердо нацелился украсть мой степлер, готовься истечь кровью.",
               "word_form": "set heart on"
-            },
-            {
-              "sentence": "Neighbor Igor set heart on stealing my Wi-Fi router and now camps in the hallway.",
-              "sentence_ru": "Сосед Игорь страстно возжелал украсть мой Wi-Fi роутер и теперь ночует в коридоре.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 997074,
+          "due_tick": 997217,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-14T09:00:12.309029+00:00",
-          "pending_msg": 1930,
+          "last_sent_at": "2026-11-17T08:30:03.100805+00:00",
+          "pending_msg": 1984,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997168,
+      "last_deliver_tick": 997169,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Your new velvet couch is so drab, human, it makes my shiny black fur look depressed.",
+              "sentence_ru": "Твой новый бархатный диван такой унылый, человек, от него моя блестящая черная шерсть выглядит подавленной.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Your new curtains are so drab that even I want to throw up a hairball.",
               "sentence_ru": "Твои новые шторы такие унылые, что даже мне хочется блевануть шерстью.",
@@ -906,20 +911,15 @@
               "sentence": "Even my goblin ex-wife looked at my drab living room and started crying.",
               "sentence_ru": "Даже моя бывшая жена-гоблин посмотрела на мою унылую гостиную и расплакалась.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My soul is just as drab and lifeless as this cheap motel wallpaper.",
-              "sentence_ru": "Моя душа такая же унылая и безжизненная, как эти дешевые обои в мотеле.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 997075,
+          "due_tick": 997217,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-14T09:31:40.199766+00:00",
-          "pending_msg": 1935,
+          "last_sent_at": "2026-11-17T08:30:07.126605+00:00",
+          "pending_msg": 1985,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997168,
+      "last_deliver_tick": 997169,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
