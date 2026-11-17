@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This cream smells like hot garbage, but the celebrity endorsement made me buy three jars.",
+              "sentence_ru": "Этот крем воняет как помойка, но реклама со звездой заставила меня купить три банки.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "Satan's new crypto scam thrives thanks to a sudden celebrity endorsement from the Pope.",
               "sentence_ru": "Новый криптолохотрон Сатаны процветает благодаря внезапной поддержке знаменитости в лице Папы Римского.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "Your stupid celebrity endorsement for crypto trash flooded our lobby with angry investors!",
               "sentence_ru": "Ваша тупая поддержка крипто-мусора знаменитостями заполнила наш вестибюль злыми инвесторами!",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "My entire self-worth now hangs by the fragile thread of a single celebrity endorsement.",
-              "sentence_ru": "Вся моя самооценка теперь держится на хрупкой ниточке единственной рекламы со звездой.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 997122,
+          "due_tick": 997223,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-15T09:06:23.488054+00:00",
-          "pending_msg": 1950,
+          "last_sent_at": "2026-11-17T11:30:27.132975+00:00",
+          "pending_msg": 1996,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997174,
+      "last_deliver_tick": 997175,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to emerge from the shadows just to tell you that your new haircut is a crime.",
+              "sentence_ru": "Мне пришлось выползти из тени только чтобы сказать, что твоя новая стрижка — это преступление.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "I wait for my inner demons to emerge from the closet, but they are too scared of my messy room.",
               "sentence_ru": "Я жду, пока мои внутренние демоны вылезут из шкафа, но они слишком боятся моего бардака в комнате.",
               "word_form": "to emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "Tomorrow you will suddenly emerge from a dumpster in designer Gucci clothes.",
               "sentence_ru": "Завтра ты внезапно вылезешь из мусорного контейнера в дизайнерской одежде от Gucci.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "My ex had to emerge from the dumpster just to steal this used blender.",
-              "sentence_ru": "Моему бывшему пришлось вылезти из мусорного контейнера только ради того, чтобы украсть этот б/у блендер.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 997123,
+          "due_tick": 997223,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-15T09:30:07.545189+00:00",
-          "pending_msg": 1953,
+          "last_sent_at": "2026-11-17T11:30:30.576131+00:00",
+          "pending_msg": 1997,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997174,
+      "last_deliver_tick": 997175,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
