@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Grandma chose to perpetuate her glorious legacy by tattooing her shopping list on the cat.",
+              "sentence_ru": "Бабушка решила увековечить свое славное наследие, нататуировав список покупок на коте.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "Posting blurry mirror selfies to perpetuate the mystery of why my ex blocked me.",
               "sentence_ru": "Выкладываю размытые селфи в зеркало, чтобы увековечить загадку, почему мой бывший меня заблокировал.",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "Local politicians perpetuate the myth that pigeons secretly control the municipal Wi-Fi router.",
               "sentence_ru": "Местные политики увековечивают миф о том, что голуби тайно контролируют городской Wi-Fi роутер.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "Stop parking your flaming wreckage on the lawn and perpetuate your own misery elsewhere!",
-              "sentence_ru": "Хватит парковать свой пылающий хлам на газоне и увековечивать свои страдания в другом месте!",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 997075,
+          "due_tick": 997218,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-14T09:31:38.957661+00:00",
-          "pending_msg": 1934,
+          "last_sent_at": "2026-11-17T09:00:21.498138+00:00",
+          "pending_msg": 1986,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997169,
+      "last_deliver_tick": 997170,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex's new relationship started to flourish right after I stole their router.",
+              "sentence_ru": "Новые отношения моей бывшей начали процветать сразу после того, как я украл их роутер.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "While we drown in debt, accounting somehow manages to flourish on pure corporate malice.",
               "sentence_ru": "Пока мы тонем в долгах, бухгалтерия умудряется процветать на чистой корпоративной злобе.",
               "word_form": "flourish"
@@ -1029,20 +1034,15 @@
               "sentence": "My ex's new business seems to flourish, which pisses me off so much.",
               "sentence_ru": "Новый бизнес моего бывшего, кажется, процветает, что меня просто бесит.",
               "word_form": "to flourish"
-            },
-            {
-              "sentence": "While our ceiling is leaking, drug dealers in apartment 48 continue to flourish.",
-              "sentence_ru": "Пока у нас течет потолок, наркодилеры из 48-й квартиры продолжают процветать.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 997076,
+          "due_tick": 997218,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-14T10:00:39.590583+00:00",
-          "pending_msg": 1937,
+          "last_sent_at": "2026-11-17T09:00:23.343549+00:00",
+          "pending_msg": 1987,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997169,
+      "last_deliver_tick": 997170,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
