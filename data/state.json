@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The psychic and the alien hit it off and started a satanic cult.",
+              "sentence_ru": "Экстрасенс и пришелец сразу подружились и основали сатанинский культ.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Neighbors who hit it off over shared hatred for loud bass will throw a joint trash-burning party tonight.",
               "sentence_ru": "Соседи, которые нашли общий язык на почве ненависти к громким басам, устроят сегодня совместное сжигание мусора.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "The new auditor and the corrupt CEO hit it off immediately and stole our pensions.",
               "sentence_ru": "Новый аудитор и коррумпированный гендиректор сразу подружились и украли наши пенсии.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Me and my stolen flamingo hit it off immediately at the police station.",
-              "sentence_ru": "Я и мой украденный фламинго сразу же подружились в полицейском участке.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 997119,
+          "due_tick": 997222,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-15T07:30:12.324290+00:00",
-          "pending_msg": 1942,
+          "last_sent_at": "2026-11-17T11:00:02.851592+00:00",
+          "pending_msg": 1994,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997173,
+      "last_deliver_tick": 997174,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Granny drinks tea and spreads wild gossip about neighborhood dogs.",
+              "sentence_ru": "Бабушка пьет чай и распускает дикие сплетни о соседских собаках.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "My cat started sharing neighborhood gossip right into my ear while I was hungover.",
               "sentence_ru": "Мой кот начал делиться районными сплетнями прямо мне в ухо, пока я страдал с похмелья.",
               "word_form": "gossip"
@@ -988,20 +993,15 @@
               "sentence": "Stop spreading gossip about my new lizard wife at 3 AM.",
               "sentence_ru": "Хватит распускать сплетни о моей новой жене-ящерице в 3 часа ночи.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop spreading gossip about my new lizard at 3 AM and text me back.",
-              "sentence_ru": "Хватит распускать сплетни о моей новой ящерице в 3 часа ночи и ответь мне.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 997122,
+          "due_tick": 997222,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-15T09:06:25.108042+00:00",
-          "pending_msg": 1951,
+          "last_sent_at": "2026-11-17T11:00:11.386860+00:00",
+          "pending_msg": 1995,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997173,
+      "last_deliver_tick": 997174,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
