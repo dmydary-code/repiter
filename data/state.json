@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I won't mince words while telling this psycho he ruined my life.",
+              "sentence_ru": "Я не буду подбирать выражения, рассказывая этому психопату, как он испортил мне жизнь.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I won't mince words, Greg: your quarterly report looks like trash written by a drunk raccoon.",
               "sentence_ru": "Я не буду церемониться, Грег: твой квартальный отчет выглядит как мусор, написанный пьяным енотом.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "The angry wizard didn't mince words before turning his noisy neighbor into a damp frog.",
               "sentence_ru": "Злой волшебник не стал подбирать слова, прежде чем превратить шумного соседа в сырую лягушку.",
               "word_form": "didn't mince words"
-            },
-            {
-              "sentence": "I didn't mince words when telling my ex his new haircut looks like a dead ferret.",
-              "sentence_ru": "Я не церемонился в выражениях, когда говорил своему бывшему, что его новая стрижка похожа на мертвого хорька.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 997077,
+          "due_tick": 997220,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-14T10:30:18.350075+00:00",
-          "pending_msg": 1938,
+          "last_sent_at": "2026-11-17T10:00:26.920715+00:00",
+          "pending_msg": 1990,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997171,
+      "last_deliver_tick": 997172,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that your cat is plotting a bloody coup again.",
+              "sentence_ru": "Мне кажется, что твой кот снова замышляет кровавый переворот.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me this dildo was used by a ghost, it is freezing cold.",
               "sentence_ru": "Мне кажется, этим фаллоимитатором пользовалось привидение, он ледяной.",
               "word_form": "It seems to me"
@@ -1398,20 +1403,15 @@
               "sentence": "It seems to me that Greg is stealing printer toner again.",
               "sentence_ru": "Мне кажется, что Грег снова ворует тонер для принтера.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that your cat is plotting a bloody coup.",
-              "sentence_ru": "Мне кажется, что твой кот замышляет кровавый переворот.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 997118,
+          "due_tick": 997220,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-11-15T07:00:16.616438+00:00",
-          "pending_msg": 1941,
+          "last_sent_at": "2026-11-17T10:00:37.181375+00:00",
+          "pending_msg": 1991,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997171,
+      "last_deliver_tick": 997172,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
