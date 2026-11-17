@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My sanity is slightly frying in this neon hell of regret.",
+              "sentence_ru": "Мой рассудок слегка поджаривается в этом неоновом аду сожалений.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "Local dictator looks slightly annoyed after citizens replaced his golden statue with a giant middle finger.",
               "sentence_ru": "Местный диктатор выглядит слегка раздраженным после того, как горожане заменили его золотую статую гигантским средним пальцем.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "I am slightly outside your window and I need my hoodie back.",
               "sentence_ru": "Я слегка за твоим окном и мне нужна моя худи обратно.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My sanity is slightly flickering, just like this pathetic dying candle.",
-              "sentence_ru": "Мой рассудок слегка мерцает, прямо как эта жалкая угасающая свеча.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 997118,
+          "due_tick": 997221,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-15T07:00:15.460493+00:00",
-          "pending_msg": 1940,
+          "last_sent_at": "2026-11-17T10:30:27.083746+00:00",
+          "pending_msg": 1992,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997172,
+      "last_deliver_tick": 997173,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My crazy cat had to undergo an exorcism after staring at the blank wall for six hours.",
+              "sentence_ru": "Моему безумному коту пришлось подвергнуться изгнанию дьявола после того, как он шесть часов пялился на пустую стену.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "Residents of apt. 48 must undergo immediate exorcism before playing techno at 3 AM.",
               "sentence_ru": "Жители кв. 48 должны пройти срочное изгнание дьявола перед тем, как включать техно в 3 часа ночи.",
               "word_form": "undergo"
@@ -1111,20 +1116,15 @@
               "sentence": "Chad had to undergo urgent plastic surgery after crying too hard at his own promotion.",
               "sentence_ru": "Чаду пришлось перенести срочную пластическую операцию после того, как он слишком сильно плакал на собственном повышении.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "I had to undergo a full exorcism after reading your old texts at 3 AM.",
-              "sentence_ru": "Мне пришлось пройти через полный экзорцизм после прочтения твоих старых смсок в 3 часа ночи.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 997119,
+          "due_tick": 997221,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-15T07:30:13.640945+00:00",
-          "pending_msg": 1943,
+          "last_sent_at": "2026-11-17T10:30:42.185351+00:00",
+          "pending_msg": 1993,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997172,
+      "last_deliver_tick": 997173,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
