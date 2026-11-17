@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I stared into the empty fridge, profoundly regretting my life choices.",
+              "sentence_ru": "Я пялился на пустой холодильник, глубоко сожалея о своих жизненных выборах.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "Local cat was profoundly offended when the pope refused to worship it.",
               "sentence_ru": "Местный кот был глубоко оскорблен, когда папа римский отказался ему поклоняться.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "I stared at my empty wine glass, profoundly regretting every life choice that led me here.",
               "sentence_ru": "Я смотрел на свой пустой бокал вина, глубоко сожалея о каждом жизненном выборе, приведшем меня сюда.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "I stared at my empty wine glass, profoundly regretting all my life choices.",
-              "sentence_ru": "Я таращился на свой пустой бокал вина, глубоко жалея о всех своих жизненных выборах.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 997076,
+          "due_tick": 997219,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-14T10:00:23.834042+00:00",
-          "pending_msg": 1936,
+          "last_sent_at": "2026-11-17T09:30:12.158941+00:00",
+          "pending_msg": 1988,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997170,
+      "last_deliver_tick": 997171,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I will demolish your new boyfriend just like I demolished that extra large pizza.",
+              "sentence_ru": "Я снесу твоего нового бойфренда точно так же, как уничтожил ту пиццу размера супер-люкс.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a heavy metal shovel.",
               "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки с помощью тяжелой металлической лопаты.",
               "word_form": "to demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "My fat cat decided to demolish the entire Christmas tree like a furry Godzilla.",
               "sentence_ru": "Мой толстый кот решил снести всю рождественскую елку, как пушистый Годзилла.",
               "word_form": "to demolish"
-            },
-            {
-              "sentence": "I will demolish this expensive sofa if you do not give me salmon right now.",
-              "sentence_ru": "Я снесу этот дорогой диван, если ты не дашь мне лосося прямо сейчас.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 997077,
+          "due_tick": 997219,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-11-14T10:30:19.488859+00:00",
-          "pending_msg": 1939,
+          "last_sent_at": "2026-11-17T09:30:13.607965+00:00",
+          "pending_msg": 1989,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997170,
+      "last_deliver_tick": 997171,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-17",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
