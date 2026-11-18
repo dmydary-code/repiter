@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our neighbor is rolling in money, yet he still steals toilet paper from the lobby.",
+              "sentence_ru": "Наш сосед купается в деньгах, но до сих пор ворует туалетную бумагу из холла.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "My cat is rolling in money after selling nude photos of his paws to rich strays.",
               "sentence_ru": "Мой кот купается в деньгах после продажи нюдсов своих лапок богатым бродягам.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "I'm rolling in money now, but you still sleep with your mom's cat.",
               "sentence_ru": "Я теперь купаюсь в деньгах, но ты всё ещё спишь с кошкой своей мамы.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "A local stray cat is now rolling in money after biting a billionaire's crypto wallet.",
-              "sentence_ru": "Местный бродячий кот теперь купается в деньгах после того, как цапнул криптокошелек миллиардера.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 997124,
+          "due_tick": 997263,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-15T10:00:03.911924+00:00",
-          "pending_msg": 1954,
+          "last_sent_at": "2026-11-18T07:30:20.373670+00:00",
+          "pending_msg": 2000,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997214,
+      "last_deliver_tick": 997215,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons text me now and then, just to check if I am still miserable.",
+              "sentence_ru": "Мои внутренние демоны пишут мне время от времени, просто чтобы проверить, всё ли я еще в депрессии.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "My pet raccoon steals my underwear now and then, just to assert his dominance.",
               "sentence_ru": "Мой домашний енот время от времени крадет мои трусы, просто чтобы заявить о своем превосходстве.",
               "word_form": "now and then"
@@ -1234,20 +1239,15 @@
               "sentence": "Mutated stray cats steal nuclear launch codes now and then.",
               "sentence_ru": "Мутировавшие бродячие коты время от времени воруют коды ядерного запуска.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Mutated stray cats riot now and then, demanding free Wi-Fi and human flesh.",
-              "sentence_ru": "Мутировавшие бродячие коты время от времени бунтуют, требуя бесплатный вайфай и человечину.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 997125,
+          "due_tick": 997263,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-15T10:30:04.548687+00:00",
-          "pending_msg": 1957,
+          "last_sent_at": "2026-11-18T07:30:26.146461+00:00",
+          "pending_msg": 2001,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997214,
+      "last_deliver_tick": 997215,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
