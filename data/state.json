@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I tried to look humble while stepping on my boss's expensive shoes.",
+              "sentence_ru": "Я пытался выглядеть скромно, наступая на дорогие туфли моего босса.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Too humble to flex my gold toilet, I just use it quietly.",
               "sentence_ru": "Слишком скромный, чтобы хвастаться золотым унитазом, я просто пользуюсь им молча.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even the local drug dealer had to stay humble when babushka Zina threatened him with a mop.",
               "sentence_ru": "Даже местный барыга был вынужден вести себя скромно, когда бабушка Зина пригрозила ему шваброй.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Be humble, human, and maybe I won't throw up in your expensive shoes today.",
-              "sentence_ru": "Будь скромнее, кожаный, и, может быть, я сегодня не блевану в твои дорогие туфли.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 997127,
+          "due_tick": 997266,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-15T11:30:24.327691+00:00",
-          "pending_msg": 1960,
+          "last_sent_at": "2026-11-18T09:00:18.927853+00:00",
+          "pending_msg": 2006,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997217,
+      "last_deliver_tick": 997218,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The wig caught fire, my cat bit the courier, and altogether it was a five-star delivery.",
+              "sentence_ru": "Парик вспыхнул, кот укусил курьера, и в целом это была доставка на пять звезд.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Your new outfit is altogether ridiculous, human, but at least my fur matches it.",
               "sentence_ru": "Твой новый наряд совершенно нелепий, двуногий, но зато моя шерсть к нему подходит.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "We are altogether losing our minds in this cubicle hell, Greg.",
               "sentence_ru": "Мы тут окончательно сходим с ума в этом офисном аду, Грег.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "Your noisy parties have altogether destroyed my nerves, pay for my therapy!",
-              "sentence_ru": "Ваши шумные вечеринки совсем разрушили мои нервы, платите за мою терапию!",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 997167,
+          "due_tick": 997266,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-16T07:58:32.161815+00:00",
-          "pending_msg": 1967,
+          "last_sent_at": "2026-11-18T09:00:20.678464+00:00",
+          "pending_msg": 2007,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997217,
+      "last_deliver_tick": 997218,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
