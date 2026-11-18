@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Locked myself in a secret compound just to avoid paying taxes.",
+              "sentence_ru": "Заперся в секретном лагере только чтобы не платить налоги.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Mutant raccoon built a toxic compound in the mayor's backyard.",
               "sentence_ru": "Мутант-енот построил токсичное соединение на заднем дворе мэра.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My ex built a high fence around his compound, but my drama still sneaks in.",
               "sentence_ru": "Мой бывший построил высокий забор вокруг своего компаунда, но моя драма все равно проникает внутрь.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My ex lives in a heavily guarded compound, but my Voodoo doll still reached him.",
-              "sentence_ru": "Мой бывший живет в охраняемом компаунде, но моя кукла вуду все равно до него добралась.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 997168,
+          "due_tick": 997268,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-16T08:00:16.188636+00:00",
-          "pending_msg": 1968,
+          "last_sent_at": "2026-11-18T10:00:26.779902+00:00",
+          "pending_msg": 2010,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997219,
+      "last_deliver_tick": 997220,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My brain tends to seize up whenever my toxic ex tries to flirt.",
+              "sentence_ru": "Мой мозг обычно заклинивает, когда мой токсичный бывший пытается флиртовать.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "If your cheap brain tends to seize up from reading this notice, call an ambulance.",
               "sentence_ru": "Если твой дешевый мозг имеет свойство заклинивать от чтения этого объявления, вызывай скорую.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My brain tends to seize up whenever HR mentions mandatory team-building exercises.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда HR упоминает обязательный тимбилдинг.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My cheap vibrator started to seize up right in the middle of my lonely Friday night.",
-              "sentence_ru": "Мой дешевый вибратор начал клинить прямо посреди моего одинокого пятнистого вечера.",
-              "word_form": "to seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 997169,
+          "due_tick": 997268,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-16T08:30:23.034414+00:00",
-          "pending_msg": 1971,
+          "last_sent_at": "2026-11-18T10:00:29.156493+00:00",
+          "pending_msg": 2011,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997219,
+      "last_deliver_tick": 997220,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
