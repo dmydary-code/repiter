@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I acquired this cursed ancient skull just to flex on my ex.",
+              "sentence_ru": "Я приобрел этот проклятый древний череп просто чтобы понтануться перед бывшей.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Due to your acquired mutant claws, throwing trash from the balcony is now strictly prohibited.",
               "sentence_ru": "Из-за ваших приобретенных мутантских клешней бросать мусор с балкона теперь строго запрещено.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That acquired taste for chaos makes me look so mysterious on Instagram.",
               "sentence_ru": "Этот приобретенный вкус к хаосу делает меня таким загадочным в инстаграме.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "My cat acquired a taste for expensive human flesh after biting the butler.",
-              "sentence_ru": "Мой кот приобрел вкус к дорогой человеческой плоти после того, как укусил дворецкого.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 997125,
+          "due_tick": 997264,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-15T10:30:03.434777+00:00",
-          "pending_msg": 1956,
+          "last_sent_at": "2026-11-18T08:00:14.750365+00:00",
+          "pending_msg": 2002,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997215,
+      "last_deliver_tick": 997216,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, your loud midnight karaoke sessions suck, but at least you didn't burn the hallway again.",
+              "sentence_ru": "В общем и целом, твои громкие полуночные сессии караоке отстой, но хотя бы ты снова не спалил коридор.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, my exes still think I am a total psycho.",
               "sentence_ru": "В общем и целом, мои бывшие до сих пор считают меня полным психом.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, my life is just a circus burning down with me inside it.",
               "sentence_ru": "В общем и целом, моя жизнь — это просто цирк, который сгорает вместе со мной.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, our marketing strategy sucks, but at least the free coffee is good.",
-              "sentence_ru": "В общем и целом наша маркетинговая стратегия — отстой, но бесплатный кофе хотя бы норм.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 997126,
+          "due_tick": 997264,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-15T11:00:03.785447+00:00",
-          "pending_msg": 1959,
+          "last_sent_at": "2026-11-18T08:00:16.458262+00:00",
+          "pending_msg": 2003,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997215,
+      "last_deliver_tick": 997216,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
