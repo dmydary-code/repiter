@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky cat stole my salmon fillet right from the kitchen counter.",
+              "sentence_ru": "Этот наглый кот украл мое филе лосося прямо с кухонного стола.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky cat who keeps stealing sausages from flat 14 has no respect for the law.",
               "sentence_ru": "Тот наглый кот, который постоянно ворует сосиски из 14-й квартиры, вообще не уважает закон.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky raccoon stole my last donut and winked at me.",
               "sentence_ru": "Этот наглый енот украл мой последний пончик и подмигнул мне.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky raccoon stole my taco and winked at me.",
-              "sentence_ru": "Этот наглый енот украл мой тако и подмигнул мне.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 997167,
+          "due_tick": 997267,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-16T07:58:31.164792+00:00",
-          "pending_msg": 1966,
+          "last_sent_at": "2026-11-18T09:30:09.437787+00:00",
+          "pending_msg": 2008,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997218,
+      "last_deliver_tick": 997219,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Tomorrow you must adjust your astral GPS so you don't accidentally drive straight into Hell.",
+              "sentence_ru": "Завтра ты должен настроить свой астральный GPS, чтобы случайно не заехать прямо в ад.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "He had to adjust his cat's VR headset so the fluffy idiot stopped headbutting walls.",
               "sentence_ru": "Ему пришлось настроить VR-очки своего кота, чтобы этот пушистый идиот перестал биться головой о стены.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "Tomorrow you must adjust your attitude before the cosmic police arrest your vibe.",
               "sentence_ru": "Завтра ты должен настроить свое отношение, пока космическая полиция не арестовала твой вайб.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Trying to adjust my crown so the peasants know who's boss today.",
-              "sentence_ru": "Пытаюсь поправить корону, чтобы крестьяне знали, кто тут сегодня главный.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 997168,
+          "due_tick": 997267,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-16T08:00:17.963075+00:00",
-          "pending_msg": 1969,
+          "last_sent_at": "2026-11-18T09:30:11.183999+00:00",
+          "pending_msg": 2009,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997218,
+      "last_deliver_tick": 997219,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-18",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
