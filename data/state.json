@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I will try to shove this cursed blender up the seller's nose.",
+              "sentence_ru": "Я постараюсь засунуть этот проклятый блендер в нос продавцу.",
+              "word_form": "try"
+            },
+            {
               "sentence": "Please try to flush your weird biological experiments down your own toilet, not the shared hallway.",
               "sentence_ru": "Пожалуйста, попытайтесь смывать свои странные биологические эксперименты в собственный туалет, а не в общий коридор.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "When she said she could cook, I didn't expect her to try and burn the water.",
               "sentence_ru": "Когда она сказала, что умеет готовить, я не ожидал, что она попытается сжечь воду.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Try to look surprised when my ex enters the club with a clown.",
-              "sentence_ru": "Попытайся сделать удивленное лицо, когда мой бывший завалится в клуб с клоуном.",
-              "word_form": "Try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 997173,
+          "due_tick": 997313,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-16T10:30:02.032986+00:00",
-          "pending_msg": 1978,
+          "last_sent_at": "2026-11-19T08:30:14.697752+00:00",
+          "pending_msg": 2020,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997264,
+      "last_deliver_tick": 997265,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that Satan makes the best damn pancakes in Hell.",
+              "sentence_ru": "Трудно отрицать, что Сатана готовит самые охеренные блинчики в Аду.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that someone is stealing the elevator mirrors again.",
               "sentence_ru": "Трудно отрицать, что кто-то снова ворует зеркала в лифте.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that my dog shits exclusively on your doormat.",
               "sentence_ru": "Трудно отрицать, что моя собака гадит исключительно на ваш коврик.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that my dog shits exclusively on your doormat.",
-              "sentence_ru": "Трудно отрицать, что моя собака гадит исключительно на ваш коврик.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 997174,
+          "due_tick": 997313,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-16T11:00:08.652724+00:00",
-          "pending_msg": 1981,
+          "last_sent_at": "2026-11-19T08:30:20.258640+00:00",
+          "pending_msg": 2021,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997264,
+      "last_deliver_tick": 997265,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
