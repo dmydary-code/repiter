@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant moles try to undermine the president's toilet with tactical nukes.",
+              "sentence_ru": "Кроты-мутанты пытаются подорвать унитаз президента тактическими ядерными боеголовками.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "These cheap Chinese leggings tried to undermine my confidence right in the middle of a crowded grocery store.",
               "sentence_ru": "Эти дешевые китайские леггинсы попытались подорвать мою уверенность прямо посреди забитого продуктового магазина.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "A rogue beaver tried to undermine the president's podium with a stolen chainsaw.",
               "sentence_ru": "Обезумевший бобр попытался подорвать трибуну президента с помощью украденной бензопилы.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "He tried to undermine my confidence by pointing out my ugly nose hair.",
-              "sentence_ru": "Он пытался подорвать мою уверенность, указав на мои торчащие из носа волосы.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 997172,
+          "due_tick": 997312,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-16T10:00:21.027754+00:00",
-          "pending_msg": 1976,
+          "last_sent_at": "2026-11-19T08:00:24.132499+00:00",
+          "pending_msg": 2018,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997263,
+      "last_deliver_tick": 997264,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He runs through the backstreets whenever his ex spots him with a new dating app profile.",
+              "sentence_ru": "Он бежит через задворки всякий раз, когда бывшая замечает его с новым профилем в тиндере.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "I ran through the dark backstreets while my demons finally caught up.",
               "sentence_ru": "Я бежал по темным задворкам, пока мои демоны наконец не настигли меня.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "Lost my dignity and a shoe in the dark backstreets behind this dodgy marketplace.",
               "sentence_ru": "Потерял достоинство и ботинок в темных переулках за этим сомнительным рынком.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "He chased a naked goblin through the damp backstreets while eating cold spaghetti.",
-              "sentence_ru": "Он гонялся за голым гоблином по влажным задворкам, поедая холодные спагетти.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 997173,
+          "due_tick": 997312,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-16T10:30:03.251041+00:00",
-          "pending_msg": 1979,
+          "last_sent_at": "2026-11-19T08:00:34.253718+00:00",
+          "pending_msg": 2019,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997263,
+      "last_deliver_tick": 997264,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
