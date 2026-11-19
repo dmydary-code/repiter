@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You set your heart on that dead pigeon, but I flushed it down the toilet.",
+              "sentence_ru": "Ты так страстно желала этого дохлого голубя, но я смыл его в унитаз.",
+              "word_form": "set your heart on"
+            },
+            {
               "sentence": "I set my heart on stealing the Mona Lisa, even if it means licking all the lasers.",
               "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если придётся облизать все лазеры.",
               "word_form": "set my heart on"
@@ -478,20 +483,15 @@
               "sentence": "I set my heart on stealing the Mona Lisa, even if laser grids fry my eyebrows.",
               "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если лазерные решетки поджарят мои брови.",
               "word_form": "set my heart on"
-            },
-            {
-              "sentence": "If you set heart on stealing my stapler, prepare to bleed.",
-              "sentence_ru": "Если ты твердо нацелился украсть мой степлер, готовься истечь кровью.",
-              "word_form": "set heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 997217,
+          "due_tick": 997316,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-17T08:30:03.100805+00:00",
-          "pending_msg": 1984,
+          "last_sent_at": "2026-11-19T10:00:19.852076+00:00",
+          "pending_msg": 2026,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997267,
+      "last_deliver_tick": 997268,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex said I would fail, yet here I flourish on pure spite and iced coffee.",
+              "sentence_ru": "Мой бывший говорил, что я потерплю неудачу, но вот я процветаю на чистой злости и холодном кофе.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My ex's new relationship started to flourish right after I stole their router.",
               "sentence_ru": "Новые отношения моей бывшей начали процветать сразу после того, как я украл их роутер.",
               "word_form": "flourish"
@@ -1029,20 +1034,15 @@
               "sentence": "Our sales continue to flourish while management slowly loses its collective mind.",
               "sentence_ru": "Наши продажи продолжают процветать, пока руководство медленно теряет коллективный разум.",
               "word_form": "to flourish"
-            },
-            {
-              "sentence": "My ex's new business seems to flourish, which pisses me off so much.",
-              "sentence_ru": "Новый бизнес моего бывшего, кажется, процветает, что меня просто бесит.",
-              "word_form": "to flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 997218,
+          "due_tick": 997316,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-17T09:00:23.343549+00:00",
-          "pending_msg": 1987,
+          "last_sent_at": "2026-11-19T10:00:23.724745+00:00",
+          "pending_msg": 2027,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997267,
+      "last_deliver_tick": 997268,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
