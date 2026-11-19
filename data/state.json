@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat aggressively judges me whenever I eat mayonnaise straight from the jar with a spoon.",
+              "sentence_ru": "Мой кот агрессивно осуждает меня всякий раз, когда я ем майонез прямо из банки ложкой.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "Whenever my ex cries, I charge her admission to my pity party.",
               "sentence_ru": "Всякий раз, когда моя бывшая плачет, я беру с нее плату за вход на мою вечеринку жалости.",
               "word_form": "Whenever"
@@ -437,20 +442,15 @@
               "sentence": "Karen glares at me whenever I breathe too loudly near the shared printer.",
               "sentence_ru": "Карен сверлит меня взглядом всякий раз, когда я слишком громко дышу у общего принтера.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "My cat stares at the wall whenever I buy expensive therapy.",
-              "sentence_ru": "Мой кот пялится в стену всякий раз, когда я покупаю дорогую терапию.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 997216,
+          "due_tick": 997315,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-17T08:04:27.744559+00:00",
-          "pending_msg": 1982,
+          "last_sent_at": "2026-11-19T09:30:09.333358+00:00",
+          "pending_msg": 2024,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997266,
+      "last_deliver_tick": 997267,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "My soul is just as drab and lifeless as these cheap office walls.",
+              "sentence_ru": "Моя душа такая же унылая и безжизненная, как эти дешевые офисные стены.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Your new velvet couch is so drab, human, it makes my shiny black fur look depressed.",
               "sentence_ru": "Твой новый бархатный диван такой унылый, человек, от него моя блестящая черная шерсть выглядит подавленной.",
@@ -906,20 +911,15 @@
               "sentence": "My soul is just as drab as these miserable polyester curtains.",
               "sentence_ru": "Моя душа такая же унылая, как эти жалкии полиэстровые занавески.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Even my goblin ex-wife looked at my drab living room and started crying.",
-              "sentence_ru": "Даже моя бывшая жена-гоблин посмотрела на мою унылую гостиную и расплакалась.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 997217,
+          "due_tick": 997315,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-17T08:30:07.126605+00:00",
-          "pending_msg": 1985,
+          "last_sent_at": "2026-11-19T09:30:13.931147+00:00",
+          "pending_msg": 2025,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997266,
+      "last_deliver_tick": 997267,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
