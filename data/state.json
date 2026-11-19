@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat meows plaintively at 3 AM because your betrayal made him vegan.",
+              "sentence_ru": "Мой кот жалобно мяукает в 3 часа ночи, потому что твое предательство сделало его веганом.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "Staring at my empty pizza box, I meowed plaintively until my roommate ordered another one.",
               "sentence_ru": "Глядя на пустую коробку из-под пиццы, я жалобно мяукал, пока сосед не заказал еще одну.",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "The cat meowed plaintively until I gave him my last organic avocado roll.",
               "sentence_ru": "Кот жалобно мяукал, пока я не отдал ему свой последний органический ролл с авокадо.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "My fat orange cat meowed plaintively until I opened a third can of expensive tuna.",
-              "sentence_ru": "Мой толстый рыжий кот жалобно мяукал, пока я не открыла третью банку дорогого тунца.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 997174,
+          "due_tick": 997314,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-16T11:00:07.208849+00:00",
-          "pending_msg": 1980,
+          "last_sent_at": "2026-11-19T09:00:19.124896+00:00",
+          "pending_msg": 2022,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997265,
+      "last_deliver_tick": 997266,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I tried to wire up the bomb under my ex's car, but forgot my reading glasses.",
+              "sentence_ru": "Я пытался подключить бомбу под машину бывшей, но забыл очки для чтения.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "I need you to wire up the CEO's desk before he fires us all.",
               "sentence_ru": "Тебе нужно подключить провода на столе гендиректора, пока он нас всех не уволил.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "Human, wire up my fish tank laser or I will puke in your boots.",
               "sentence_ru": "Человек, подключи лазер для моего аквариума, иначе я наблеваю тебе в ботинки.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "I managed to wire up my new ex-detector, so now I feel every time you text me.",
-              "sentence_ru": "Я умудрился подключить свой новый детектор бывших, так что теперь чувствую каждый твой смс.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 997216,
+          "due_tick": 997314,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-17T08:04:29.193680+00:00",
-          "pending_msg": 1983,
+          "last_sent_at": "2026-11-19T09:00:22.566888+00:00",
+          "pending_msg": 2023,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997265,
+      "last_deliver_tick": 997266,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
