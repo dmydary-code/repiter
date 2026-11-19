@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Whoever steals the aforementioned cactus from the lobby will choke on its needles tonight.",
+              "sentence_ru": "Тот, кто украдет вышеупомянутый кактус из вестибюля, сегодня подавится его иголками.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "That aforementioned raccoon stole my crypto wallet and is currently fleeing in my Tesla.",
               "sentence_ru": "Тот самый вышеупомянутый енот украл мой криптокошелек и сейчас сбегает на моей Тесле.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "The aforementioned raccoon was finally elected president of the local Satanist chapter.",
               "sentence_ru": "Вышеупомянутый енот был наконец избран президентом местного отделения сатанистов.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "The cat stared at the aforementioned severed finger in my soup and began to lick it.",
-              "sentence_ru": "Кот уставился на вышеупомянутый отрезанный палец в моем супе и начал его лизать.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 997170,
+          "due_tick": 997310,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-16T09:00:03.383809+00:00",
-          "pending_msg": 1972,
+          "last_sent_at": "2026-11-19T07:00:12.545403+00:00",
+          "pending_msg": 2014,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997237,
+      "last_deliver_tick": 997262,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please don't impose your weird vegan rules on my lunch break.",
+              "sentence_ru": "Пожалуйста, не навязывай свои странные веганские правила моему обеденному перерыву.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "This weird psychic tried to impose his cursed crystals on my delivery guy.",
               "sentence_ru": "Этот странный экстрасенс попытался навязать свои проклятые кристаллы моему курьеру.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "Cats impose their weird sleeping positions on you and call it love.",
               "sentence_ru": "Коты навязывают тебе свои странные позы для сна и называют это любовью.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Mars will force you to impose your weird cat-worship rituals on your horrified boss tomorrow.",
-              "sentence_ru": "Марс заставит тебя завтра навязать твои странные ритуалы поклонения котикам твоему ужаснувшемуся боссу.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 997171,
+          "due_tick": 997310,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-16T09:30:16.869038+00:00",
-          "pending_msg": 1975,
+          "last_sent_at": "2026-11-19T07:00:16.148008+00:00",
+          "pending_msg": 2015,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997237,
+      "last_deliver_tick": 997262,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-19",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
