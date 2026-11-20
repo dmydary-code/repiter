@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat is rolling in money after selling his bathwater to simps.",
+              "sentence_ru": "Мой кот купается в деньгах после продажи воды из своей ванны симпатягам.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "Our neighbor is rolling in money, yet he still steals toilet paper from the lobby.",
               "sentence_ru": "Наш сосед купается в деньгах, но до сих пор ворует туалетную бумагу из холла.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "My ex-wife is rolling in money while I eat dry noodles under the bridge.",
               "sentence_ru": "Моя бывшая жена купается в деньгах, пока я ем сухую лапшу под мостом.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "I'm rolling in money now, but you still sleep with your mom's cat.",
-              "sentence_ru": "Я теперь купаюсь в деньгах, но ты всё ещё спишь с кошкой своей мамы.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 997263,
+          "due_tick": 997366,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-18T07:30:20.373670+00:00",
-          "pending_msg": 2000,
+          "last_sent_at": "2026-11-20T11:00:27.752443+00:00",
+          "pending_msg": 2042,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997317,
+      "last_deliver_tick": 997318,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, our marketing department is just a group of people drinking cold brew and crying.",
+              "sentence_ru": "В целом, наш отдел маркетинга — это просто куча людей, пьющих холодный кофе и рыдающих.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, your loud midnight karaoke sessions suck, but at least you didn't burn the hallway again.",
               "sentence_ru": "В общем и целом, твои громкие полуночные сессии караоке отстой, но хотя бы ты снова не спалил коридор.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, your new boyfriend looks like a thumb that survived a blender.",
               "sentence_ru": "В целом, твой новый парень выглядит как большой палец, переживший блендер.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, my life is just a circus burning down with me inside it.",
-              "sentence_ru": "В общем и целом, моя жизнь — это просто цирк, который сгорает вместе со мной.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 997264,
+          "due_tick": 997366,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-18T08:00:16.458262+00:00",
-          "pending_msg": 2003,
+          "last_sent_at": "2026-11-20T11:00:34.605290+00:00",
+          "pending_msg": 2043,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997317,
+      "last_deliver_tick": 997318,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
