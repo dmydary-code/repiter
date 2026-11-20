@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This cream smells like hot garbage, but the celebrity endorsement made me buy it anyway.",
+              "sentence_ru": "Этот крем воняет тухлыми помоями, но реклама со звездой всё равно заставила меня его купить.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "This cream smells like hot garbage, but the celebrity endorsement made me buy three jars.",
               "sentence_ru": "Этот крем воняет как помойка, но реклама со звездой заставила меня купить три банки.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "A weird celebrity endorsement will make your cat buy crypto tomorrow.",
               "sentence_ru": "Странная реклама со звездой заставит вашего кота купить криптовалюту завтра.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "Your stupid celebrity endorsement for crypto trash flooded our lobby with angry investors!",
-              "sentence_ru": "Ваша тупая поддержка крипто-мусора знаменитостями заполнила наш вестибюль злыми инвесторами!",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 997223,
+          "due_tick": 997362,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-17T11:30:27.132975+00:00",
-          "pending_msg": 1996,
+          "last_sent_at": "2026-11-20T09:00:02.884803+00:00",
+          "pending_msg": 2038,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997313,
+      "last_deliver_tick": 997314,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "An unexpected influx of aggressive badgers ruined our polite tea party.",
+              "sentence_ru": "Неожиданный наплыв агрессивных барсуков испорил наше вежливое чаепитие.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "An influx of angry Karen zombies destroyed my small boutique over expired coupons.",
               "sentence_ru": "Наплыв злых зомби-яжматерей уничтожил мой маленький бутик из-за просроченных купонов.",
               "word_form": "influx"
@@ -1193,20 +1198,15 @@
               "sentence": "This influx of stray cats in our kitchen is getting out of hand, human.",
               "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, двуногая.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "The sudden influx of aggressive badgers caused total panic in the parliament.",
-              "sentence_ru": "Внезапный наплыв агрессивных барсуков вызвал полную панику в парламенте.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 997262,
+          "due_tick": 997362,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-18T07:00:06.681998+00:00",
-          "pending_msg": 1999,
+          "last_sent_at": "2026-11-20T09:00:04.276564+00:00",
+          "pending_msg": 2039,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997313,
+      "last_deliver_tick": 997314,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
