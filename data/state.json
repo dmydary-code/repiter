@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I didn't mince words when telling my boss his haircut looks like a dead ferret.",
+              "sentence_ru": "Я не стал подбирать выражения, говоря боссу, что его стрижка похожа на мертвого хорька.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I won't mince words while telling this psycho he ruined my life.",
               "sentence_ru": "Я не буду подбирать выражения, рассказывая этому психопату, как он испортил мне жизнь.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I didn't mince words when I wrote that this dildo was too small for my ego.",
               "sentence_ru": "Я не стала подбирать выражения, когда написала, что этот фаллоимитатор оказался слишком мал для моего эго.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "The angry wizard didn't mince words before turning his noisy neighbor into a damp frog.",
-              "sentence_ru": "Злой волшебник не стал подбирать слова, прежде чем превратить шумного соседа в сырую лягушку.",
-              "word_form": "didn't mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 997220,
+          "due_tick": 997359,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-17T10:00:26.920715+00:00",
-          "pending_msg": 1990,
+          "last_sent_at": "2026-11-20T07:30:12.166890+00:00",
+          "pending_msg": 2032,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997310,
+      "last_deliver_tick": 997311,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to undergo emergency plastic surgery after biting my sarcastic tongue off.",
+              "sentence_ru": "Моему бывшему пришлось перенести срочную пластическую операцию после того, как он откусил мой язвительный язык.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "My crazy cat had to undergo an exorcism after staring at the blank wall for six hours.",
               "sentence_ru": "Моему безумному коту пришлось подвергнуться изгнанию дьявола после того, как он шесть часов пялился на пустую стену.",
               "word_form": "undergo"
@@ -1111,20 +1116,15 @@
               "sentence": "Our lazy elevator had to undergo surgery again because you all keep transporting elephants in it.",
               "sentence_ru": "Нашему ленивому лифту снова пришлось перенести операцию, потому что вы все продолжаете возить в нем слонов.",
               "word_form": "to undergo"
-            },
-            {
-              "sentence": "Chad had to undergo urgent plastic surgery after crying too hard at his own promotion.",
-              "sentence_ru": "Чаду пришлось перенести срочную пластическую операцию после того, как он слишком сильно плакал на собственном повышении.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 997221,
+          "due_tick": 997359,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-17T10:30:42.185351+00:00",
-          "pending_msg": 1993,
+          "last_sent_at": "2026-11-20T07:30:13.573642+00:00",
+          "pending_msg": 2033,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997310,
+      "last_deliver_tick": 997311,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
