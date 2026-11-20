@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat and the stray raccoon hit it off immediately and started looting the fridge.",
+              "sentence_ru": "Мой кот и бродячий енот сразу нашли общий язык и начали грабить холодильник.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "The psychic and the alien hit it off and started a satanic cult.",
               "sentence_ru": "Экстрасенс и пришелец сразу подружились и основали сатанинский культ.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Mutated swamp frogs hit it off instantly and eloped to the nuclear reactor.",
               "sentence_ru": "Мутировавшие болотные лягушки сразу подружились и сбежали в ядерный реактор.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "The new auditor and the corrupt CEO hit it off immediately and stole our pensions.",
-              "sentence_ru": "Новый аудитор и коррумпированный гендиректор сразу подружились и украли наши пенсии.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 997222,
+          "due_tick": 997361,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-17T11:00:02.851592+00:00",
-          "pending_msg": 1994,
+          "last_sent_at": "2026-11-20T08:30:17.556977+00:00",
+          "pending_msg": 2036,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997312,
+      "last_deliver_tick": 997313,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to emerge from the bushes right when I was eating a raw onion.",
+              "sentence_ru": "Моя бывшая должна была вылезти из кустов именно тогда, когда я ел сырой лук.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "I had to emerge from the shadows just to tell you that your new haircut is a crime.",
               "sentence_ru": "Мне пришлось выползти из тени только чтобы сказать, что твоя новая стрижка — это преступление.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "Did Todd just emerge from the ceiling tiles like a greasy corporate goblin?",
               "sentence_ru": "Тодд только что вылез из потолочных плиток, как сальный корпоративный гоблин?",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "Tomorrow you will suddenly emerge from a dumpster in designer Gucci clothes.",
-              "sentence_ru": "Завтра ты внезапно вылезешь из мусорного контейнера в дизайнерской одежде от Gucci.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 997223,
+          "due_tick": 997361,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-17T11:30:30.576131+00:00",
-          "pending_msg": 1997,
+          "last_sent_at": "2026-11-20T08:30:22.072811+00:00",
+          "pending_msg": 2037,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997312,
+      "last_deliver_tick": 997313,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
