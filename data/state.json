@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The inflatable doll was slightly deflated, but my lonely neighbor didn't even care.",
+              "sentence_ru": "Надувная кукла была слегка сдута, но моему одинокому соседу было всё равно.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "My sanity is slightly frying in this neon hell of regret.",
               "sentence_ru": "Мой рассудок слегка поджаривается в этом неоновом аду сожалений.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "My ex looks slightly better after being run over by a steamroller.",
               "sentence_ru": "Мой бывший выглядит слегка лучше после того, как по нему проехал катком паровой каток.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "I am slightly outside your window and I need my hoodie back.",
-              "sentence_ru": "Я слегка за твоим окном и мне нужна моя худи обратно.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 997221,
+          "due_tick": 997360,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-17T10:30:27.083746+00:00",
-          "pending_msg": 1992,
+          "last_sent_at": "2026-11-20T08:00:25.908777+00:00",
+          "pending_msg": 2034,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997311,
+      "last_deliver_tick": 997312,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This vacuum cleaner sucks up dirt worse than my neighbors gossip about my new leather pants.",
+              "sentence_ru": "Этот пылесос всасывает грязь хуже, чем мои соседи сплетничают о моих новых кожаных штанах.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "Granny drinks tea and spreads wild gossip about neighborhood dogs.",
               "sentence_ru": "Бабушка пьет чай и распускает дикие сплетни о соседских собаках.",
               "word_form": "gossip"
@@ -988,20 +993,15 @@
               "sentence": "Stop spreading gossip about my new lizard wife at 3 AM.",
               "sentence_ru": "Хватит распускать сплетни о моей новой жене-ящерице в три часа ночи.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop spreading gossip about my new lizard wife at 3 AM.",
-              "sentence_ru": "Хватит распускать сплетни о моей новой жене-ящерице в 3 часа ночи.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 997222,
+          "due_tick": 997360,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-17T11:00:11.386860+00:00",
-          "pending_msg": 1995,
+          "last_sent_at": "2026-11-20T08:00:31.529691+00:00",
+          "pending_msg": 2035,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997311,
+      "last_deliver_tick": 997312,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
