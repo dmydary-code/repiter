@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I was profoundly disappointed when my sex doll started snoring louder than my ex.",
+              "sentence_ru": "Я был глубоко разочарован, когда моя секс-кукла начала храпеть громче моей бывшей.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "I stared into the empty fridge, profoundly regretting my life choices.",
               "sentence_ru": "Я пялился на пустой холодильник, глубоко сожалея о своих жизненных выборах.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "He was profoundly naked while explaining tax fraud to a confused pigeon.",
               "sentence_ru": "Он был глубоко голым, объясняя налоговое мошенничество растерянному голубю.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "I stared at my empty wine glass, profoundly regretting every life choice that led me here.",
-              "sentence_ru": "Я смотрел на свой пустой бокал вина, глубоко сожалея о каждом жизненном выборе, приведшем меня сюда.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 997219,
+          "due_tick": 997358,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-17T09:30:12.158941+00:00",
-          "pending_msg": 1988,
+          "last_sent_at": "2026-11-20T07:00:26.633691+00:00",
+          "pending_msg": 2030,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997285,
+      "last_deliver_tick": 997310,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me that my sanity is finally checking out of this hotel.",
+              "sentence_ru": "Мне кажется, что мой рассудок окончательно съезжает из этого отеля.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that your cat is plotting a bloody coup again.",
               "sentence_ru": "Мне кажется, что твой кот снова замышляет кровавый переворот.",
               "word_form": "It seems to me"
@@ -1398,20 +1403,15 @@
               "sentence": "It seems to me someone is again washing their dirty elephant in our common sink!",
               "sentence_ru": "Мне кажется, кто-то опять моет своего грязного слона в нашей общей раковине!",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me that Greg is stealing printer toner again.",
-              "sentence_ru": "Мне кажется, что Грег снова ворует тонер для принтера.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 997220,
+          "due_tick": 997358,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-11-17T10:00:37.181375+00:00",
-          "pending_msg": 1991,
+          "last_sent_at": "2026-11-20T07:00:27.954494+00:00",
+          "pending_msg": 2031,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997285,
+      "last_deliver_tick": 997310,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-20",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
