@@ -255,6 +255,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I know I said we're over, but please don't discorage my midnight texts with silence.",
+              "sentence_ru": "Я знаю, что мы расстались, но, пожалуйста, не отбивай охогу отвечать на мои ночные СМС молчанием.",
+              "word_form": "discorage"
+            },
+            {
               "sentence": "Local wizards discorage teenagers from summoning demons before finishing their homework.",
               "sentence_ru": "Местные волшебники отговаривают подростков вызывать демонов до окончания уроков.",
               "word_form": "discorage"
@@ -273,20 +278,15 @@
               "sentence": "My inner demons try to discorage me every time I reach for tequila.",
               "sentence_ru": "Мои внутренние демоны пытаются отговорить меня каждый раз, когда я тянусь к текиле.",
               "word_form": "discorage"
-            },
-            {
-              "sentence": "My therapist tried to discourage me from marrying my pet raccoon, but true love wins.",
-              "sentence_ru": "Мой психотерапевт пытался отговорить меня от женитьбы на моем домашнем еноте, но настоящая любовь побеждает.",
-              "word_form": "discourage"
             }
           ],
           "created_at": "2026-08-23T22:10:30.499749+00:00",
-          "due_tick": 997311,
+          "due_tick": 997413,
           "id": "f99b1c1135",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-19T07:30:21.369535+00:00",
-          "pending_msg": 2016,
+          "last_sent_at": "2026-11-21T10:30:19.805394+00:00",
+          "pending_msg": 2058,
           "reps": 0,
           "step": 0,
           "word": "discorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997364,
+      "last_deliver_tick": 997365,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex-wife's new boyfriend lives in shady backstreets and eats damp drywall.",
+              "sentence_ru": "Новый парень моей бывшей жены живет в темных переулках и ест сырой гипсокартон.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "He runs through the backstreets whenever his ex spots him with a new dating app profile.",
               "sentence_ru": "Он бежит через задворки всякий раз, когда бывшая замечает его с новым профилем в тиндере.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "I only sell my illegal crypto courses in shady backstreets at 3 AM.",
               "sentence_ru": "Я продаю свои нелегальные курсы по крипте только в темных переулках в 3 часа ночи.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "Lost my dignity and a shoe in the dark backstreets behind this dodgy marketplace.",
-              "sentence_ru": "Потерял достоинство и ботинок в темных переулках за этим сомнительным рынком.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 997312,
+          "due_tick": 997413,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-19T08:00:34.253718+00:00",
-          "pending_msg": 2019,
+          "last_sent_at": "2026-11-21T10:30:20.997600+00:00",
+          "pending_msg": 2059,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997364,
+      "last_deliver_tick": 997365,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
