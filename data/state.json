@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even my cat looks at me like I'm too humble to date her.",
+              "sentence_ru": "Даже моя кошка смотрит на меня так, будто я слишком скромный, чтобы с ней встречаться.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "I tried to look humble while stepping on my boss's expensive shoes.",
               "sentence_ru": "Я пытался выглядеть скромно, наступая на дорогие туфли моего босса.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Even while wearing a crown of raw sausages, the king tried to look humble.",
               "sentence_ru": "Даже надев корону из сырых сосисок, король пытался выглядеть скромным.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even the local drug dealer had to stay humble when babushka Zina threatened him with a mop.",
-              "sentence_ru": "Даже местный барыга был вынужден вести себя скромно, когда бабушка Зина пригрозила ему шваброй.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 997266,
+          "due_tick": 997408,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-18T09:00:18.927853+00:00",
-          "pending_msg": 2006,
+          "last_sent_at": "2026-11-21T08:00:21.485238+00:00",
+          "pending_msg": 2048,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997359,
+      "last_deliver_tick": 997360,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please adjust your attitude before HR adjusts your employment status permanently.",
+              "sentence_ru": "Пожалуйста, настрой свой настрой, пока отдел кадров окончательно не настроил твой статус безработного.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Tomorrow you must adjust your astral GPS so you don't accidentally drive straight into Hell.",
               "sentence_ru": "Завтра ты должен настроить свой астральный GPS, чтобы случайно не заехать прямо в ад.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "I had to adjust my rear mirror so I don't see your new boyfriend crying in it.",
               "sentence_ru": "Мне пришлось настроить зеркало заднего вида, чтобы не видеть, как в него плачет твой новый парень.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "Tomorrow you must adjust your attitude before the cosmic police arrest your vibe.",
-              "sentence_ru": "Завтра ты должен настроить свое отношение, пока космическая полиция не арестовала твой вайб.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 997267,
+          "due_tick": 997408,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-18T09:30:11.183999+00:00",
-          "pending_msg": 2009,
+          "last_sent_at": "2026-11-21T08:00:22.739878+00:00",
+          "pending_msg": 2049,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997359,
+      "last_deliver_tick": 997360,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
