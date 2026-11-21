@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That cheeky cat stole my last chicken nugget and winked at me.",
+              "sentence_ru": "Этот наглый кот украл мой последний куриный наггетс и подмигнул мне.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky cat stole my salmon fillet right from the kitchen counter.",
               "sentence_ru": "Этот наглый кот украл мое филе лосося прямо с кухонного стола.",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky smile of yours still ruins my sleep at 3 AM.",
               "sentence_ru": "Твоя наглая улыбка до сих пор ломает мне сон в три часа ночи.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "That cheeky raccoon stole my last donut and winked at me.",
-              "sentence_ru": "Этот наглый енот украл мой последний пончик и подмигнул мне.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 997267,
+          "due_tick": 997409,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-18T09:30:09.437787+00:00",
-          "pending_msg": 2008,
+          "last_sent_at": "2026-11-21T08:30:19.321691+00:00",
+          "pending_msg": 2050,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997360,
+      "last_deliver_tick": 997361,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My brain tends to seize up whenever HR asks me about my five-year plan.",
+              "sentence_ru": "Мой мозг обычно заклинивает, когда кадровичка спрашивает меня про пятилетний план.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My brain tends to seize up whenever my toxic ex tries to flirt.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда мой токсичный бывший пытается флиртовать.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My brain tends to seize up whenever the HOA president starts talking about new fees.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда председатель ТСЖ начинает говорить о новых поборах.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My brain tends to seize up whenever HR mentions mandatory team-building exercises.",
-              "sentence_ru": "Мой мозг обычно заклинивает, когда HR упоминает обязательный тимбилдинг.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 997268,
+          "due_tick": 997409,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-18T10:00:29.156493+00:00",
-          "pending_msg": 2011,
+          "last_sent_at": "2026-11-21T08:30:21.009081+00:00",
+          "pending_msg": 2051,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997360,
+      "last_deliver_tick": 997361,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
