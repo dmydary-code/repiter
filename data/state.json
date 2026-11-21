@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We encorage you to throw trash out the window so the yard cleaner stays employed.",
+              "sentence_ru": "Мы поощряем вас бросать мусор в окно, чтобы дворник не остался без работы.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "Stop encorage these feral cats to shit on my pristine balcony right now!",
               "sentence_ru": "Хватит поощрять этих диких кошек гадить на мой безупречный балкон!",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My therapist tried to encorage my weird habit of hissing at delivery guys.",
               "sentence_ru": "Мой психотерапевт попытался поощрить мою странную привычку шипеть на курьеров.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "I had to encorage my pet raccoon to steal the neighbor's fancy wig.",
-              "sentence_ru": "Мне пришлось поощрять моего домашнего енота украсть шикарный парик соседа.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 997265,
+          "due_tick": 997407,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-18T08:30:04.354554+00:00",
-          "pending_msg": 2004,
+          "last_sent_at": "2026-11-21T07:43:01.311195+00:00",
+          "pending_msg": 2046,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997333,
+      "last_deliver_tick": 997359,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant raccoons stole 400 nuclear warheads and vanished altogether into the sewers.",
+              "sentence_ru": "Еноты-мутанты украли 400 ядерных боеголовок и полностью испарились в канализации.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "The wig caught fire, my cat bit the courier, and altogether it was a five-star delivery.",
               "sentence_ru": "Парик вспыхнул, кот укусил курьера, и в целом это была доставка на пять звезд.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "Tomorrow your ex and their new partner will altogether vanish into a parallel dimension.",
               "sentence_ru": "Завтра твой бывший и их новый партнер совсем испарятся в параллельное измерение.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "We are altogether losing our minds in this cubicle hell, Greg.",
-              "sentence_ru": "Мы тут окончательно сходим с ума в этом офисном аду, Грег.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 997266,
+          "due_tick": 997407,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-18T09:00:20.678464+00:00",
-          "pending_msg": 2007,
+          "last_sent_at": "2026-11-21T07:43:02.356053+00:00",
+          "pending_msg": 2047,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997333,
+      "last_deliver_tick": 997359,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
