@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I dropped this toxic compound in my ex's mailbox, 5 stars for effectiveness.",
+              "sentence_ru": "Я уронил это токсичное вещество в почтовый ящик бывшего, 5 звезд за эффективность.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Locked myself in a secret compound just to avoid paying taxes.",
               "sentence_ru": "Заперся в секретном лагере только чтобы не платить налоги.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Drinking cheap tequila inside this concrete compound was not HR's smartest team-building idea.",
               "sentence_ru": "Пить дешевую текилу внутри этого бетонного компаунда было не самой умной тимбилдинг-идеей HR.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My ex built a high fence around his compound, but my drama still sneaks in.",
-              "sentence_ru": "Мой бывший построил высокий забор вокруг своего компаунда, но моя драма все равно проникает внутрь.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 997268,
+          "due_tick": 997410,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-18T10:00:26.779902+00:00",
-          "pending_msg": 2010,
+          "last_sent_at": "2026-11-21T09:00:18.129021+00:00",
+          "pending_msg": 2052,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997361,
+      "last_deliver_tick": 997362,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1627,6 +1627,11 @@
           "cache": [
             {
               "sentence": "We need to ramp up coffee theft before Monday's boring budget meeting.",
+              "sentence_ru": "Нам нужно усилить кражи кофе перед скучным бюджетным совещанием в понедельник.",
+              "word_form": "ramp up"
+            },
+            {
+              "sentence": "We need to ramp up coffee theft before Monday's boring budget meeting.",
               "sentence_ru": "Нам нужно усилить воровство кофе перед скучным бюджетным совещанием в понедельник.",
               "word_form": "ramp up"
             },
@@ -1644,20 +1649,15 @@
               "sentence": "Aries, ramp up your chaos levels tomorrow; the universe is bored of your boring sins.",
               "sentence_ru": "Овны, завтра наращивайте уровень своего хаоса; вселенной надоели ваши скучные грехи.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Grandma had to ramp up the bass on her boombox to drown out the neighbor's cat.",
-              "sentence_ru": "Бабуле пришлось навалить басов на своей бумбоксе, чтобы заглушить соседского кота.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 997269,
+          "due_tick": 997410,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-18T10:30:19.476253+00:00",
-          "pending_msg": 2013,
+          "last_sent_at": "2026-11-21T09:00:19.212517+00:00",
+          "pending_msg": 2053,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997361,
+      "last_deliver_tick": 997362,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
