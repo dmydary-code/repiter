@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen tried to undermine my authority by stapling my coffee mug to the ceiling.",
+              "sentence_ru": "Карен попыталась подорвать мой авторитет, пристеплерв мою кружку с кофе к потолку.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Mutant moles try to undermine the president's toilet with tactical nukes.",
               "sentence_ru": "Кроты-мутанты пытаются подорвать унитаз президента тактическими ядерными боеголовками.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "My neurotic cat tried to undermine the sofa by digging straight to China.",
               "sentence_ru": "Мой невротичный кот попытался подкопать диван, докапываясь прямо до Китая.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "A rogue beaver tried to undermine the president's podium with a stolen chainsaw.",
-              "sentence_ru": "Обезумевший бобр попытался подорвать трибуну президента с помощью украденной бензопилы.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 997312,
+          "due_tick": 997414,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-19T08:00:24.132499+00:00",
-          "pending_msg": 2018,
+          "last_sent_at": "2026-11-21T11:00:19.412987+00:00",
+          "pending_msg": 2060,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997365,
+      "last_deliver_tick": 997366,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that I puked in your expensive shoes.",
+              "sentence_ru": "Было бы трудно отрицать, что я блеванул в твои дорогие туфли.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that Satan makes the best damn pancakes in Hell.",
               "sentence_ru": "Трудно отрицать, что Сатана готовит самые охеренные блинчики в Аду.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that I looked hotter than your new boyfriend.",
               "sentence_ru": "Трудно отрицать, что я выглядел горячее твоего нового парня.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that my dog shits exclusively on your doormat.",
-              "sentence_ru": "Трудно отрицать, что моя собака гадит исключительно на ваш коврик.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 997313,
+          "due_tick": 997414,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-19T08:30:20.258640+00:00",
-          "pending_msg": 2021,
+          "last_sent_at": "2026-11-21T11:00:20.489280+00:00",
+          "pending_msg": 2061,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997365,
+      "last_deliver_tick": 997366,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
