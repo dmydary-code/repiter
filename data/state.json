@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat didn't just ruin the couch, she decided to devastate my entire life.",
+              "sentence_ru": "Мой кот не просто испортил диван, он решил опустошить всю мою жизнь.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "I will totally devastate this expensive sofa if you do not give me salmon right now.",
               "sentence_ru": "Я тотально разнесу этот дорогой диван, если ты не дашь мне лосося прямо сейчас.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Tomorrow your ex will devastate your new fridge by eating all your secret bacon.",
               "sentence_ru": "Завтра твой бывший опустошит твой новый холодильник, сожрав весь твой секретный бекон.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "My aggressive hamster tried to devastate the entire living room using only tiny plastic spoons.",
-              "sentence_ru": "Мой агрессивный хомяк попытался опустошить всю гостиную, используя только крошечные пластиковые ложки.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 997269,
+          "due_tick": 997411,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-18T10:30:17.909128+00:00",
-          "pending_msg": 2012,
+          "last_sent_at": "2026-11-21T09:30:17.622304+00:00",
+          "pending_msg": 2054,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997362,
+      "last_deliver_tick": 997363,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I didn't mean to impose my new crypto cult on you at 3 AM, babe.",
+              "sentence_ru": "Я не хотел навязывать тебе свой новый крипто-культ в три часа ночи, детка.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "Please don't impose your weird vegan rules on my lunch break.",
               "sentence_ru": "Пожалуйста, не навязывай свои странные веганские правила моему обеденному перерыву.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "Don't try to impose your weird vegan diet on my mouse addiction, Karen.",
               "sentence_ru": "Не пытайся навязывать свою странную веганскую диету на мою мышиную зависимость, Карен.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Cats impose their weird sleeping positions on you and call it love.",
-              "sentence_ru": "Коты навязывают тебе свои странные позы для сна и называют это любовью.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 997310,
+          "due_tick": 997411,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-19T07:00:16.148008+00:00",
-          "pending_msg": 2015,
+          "last_sent_at": "2026-11-21T09:30:22.000099+00:00",
+          "pending_msg": 2055,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997362,
+      "last_deliver_tick": 997363,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
