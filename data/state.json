@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The cat stared coldly at the aforementioned squirrel stuffed inside his favorite boot.",
+              "sentence_ru": "Кот холодно уставился на вышеупомянутую белку, запихнутую в его любимый ботинок.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "Whoever steals the aforementioned cactus from the lobby will choke on its needles tonight.",
               "sentence_ru": "Тот, кто украдет вышеупомянутый кактус из вестибюля, сегодня подавится его иголками.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "The aforementioned raccoon stole my toupee and is now running the criminal underworld.",
               "sentence_ru": "Вышеупомянутый енот украл мой парик и теперь управляет криминальным миром.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "The aforementioned raccoon was finally elected president of the local Satanist chapter.",
-              "sentence_ru": "Вышеупомянутый енот был наконец избран президентом местного отделения сатанистов.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 997310,
+          "due_tick": 997412,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-19T07:00:12.545403+00:00",
-          "pending_msg": 2014,
+          "last_sent_at": "2026-11-21T10:00:21.703375+00:00",
+          "pending_msg": 2056,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997363,
+      "last_deliver_tick": 997364,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that stealing my lunch from the shared fridge makes you a complete psychopath.",
+              "sentence_ru": "Я придерживаюсь мнения, что кража моего обеда из общего холодильника делает тебя конченым психопатом.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that whoever keeps stealing doormats will burn in recycling hell.",
               "sentence_ru": "Я придерживаюсь мнения, что тот, кто продолжает воровать коврики, сгорит в адском переработочном котле.",
               "word_form": "I hold the view that"
@@ -1357,20 +1362,15 @@
               "sentence": "I hold the view that tomorrow your ex will cry in a puddle of cheap gin.",
               "sentence_ru": "Я придерживаюсь мнения, что завтра твой бывший будет рыдать в луже дешёвого джина.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that tomorrow your ex will regret dumping a psychic.",
-              "sentence_ru": "Я придерживаюсь мнения, что завтра твой бывший пожалеет, что бросил экстрасенса.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 997311,
+          "due_tick": 997412,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-19T07:30:23.027963+00:00",
-          "pending_msg": 2017,
+          "last_sent_at": "2026-11-21T10:00:47.793486+00:00",
+          "pending_msg": 2057,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997363,
+      "last_deliver_tick": 997364,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-21",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
