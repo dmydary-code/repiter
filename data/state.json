@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I post my cringe selfies whenever I need validation from strangers.",
+              "sentence_ru": "Я выкладываю свои кринжовые селфи всякий раз, когда мне нужно одобрение незнакомцев.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "My cat aggressively judges me whenever I eat mayonnaise straight from the jar with a spoon.",
               "sentence_ru": "Мой кот агрессивно осуждает меня всякий раз, когда я ем майонез прямо из банки ложкой.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever you throw garbage out of the window, a lonely pigeon gets a panic attack.",
               "sentence_ru": "Всякий раз, когда вы выбрасываете мусор из окна, у одинокого голубя начинается паническая атака.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "Karen glares at me whenever I breathe too loudly near the shared printer.",
-              "sentence_ru": "Карен сверлит меня взглядом всякий раз, когда я слишком громко дышу у общего принтера.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 997315,
+          "due_tick": 997456,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-19T09:30:09.333358+00:00",
-          "pending_msg": 2024,
+          "last_sent_at": "2026-11-22T08:00:18.154282+00:00",
+          "pending_msg": 2066,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997407,
+      "last_deliver_tick": 997408,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I flourish on the chaos of your ruined carpets.",
+              "sentence_ru": "Я процветаю на хаосе твоих испорченных ковров.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My ex said I would fail, yet here I flourish on pure spite and iced coffee.",
               "sentence_ru": "Мой бывший говорил, что я потерплю неудачу, но вот я процветаю на чистой злости и холодном кофе.",
               "word_form": "flourish"
@@ -1029,20 +1034,15 @@
               "sentence": "Local cats continue to flourish after eating the radioactive garbage from Area 51.",
               "sentence_ru": "Местные коты продолжают процветать после поедания радиоактивного мусора из Зоны 51.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Our sales continue to flourish while management slowly loses its collective mind.",
-              "sentence_ru": "Наши продажи продолжают процветать, пока руководство медленно теряет коллективный разум.",
-              "word_form": "to flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 997316,
+          "due_tick": 997456,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-19T10:00:23.724745+00:00",
-          "pending_msg": 2027,
+          "last_sent_at": "2026-11-22T08:00:21.248858+00:00",
+          "pending_msg": 2067,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997407,
+      "last_deliver_tick": 997408,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
