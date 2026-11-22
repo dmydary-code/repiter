@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A stray cat will meow plaintively outside your window, demanding your credit card PIN.",
+              "sentence_ru": "Бродячий кот будет жалобно мяукать под вашим окном, требуя пин-код от кредитки.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "My cat meows plaintively at 3 AM because your betrayal made him vegan.",
               "sentence_ru": "Мой кот жалобно мяукает в 3 часа ночи, потому что твое предательство сделало его веганом.",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "A ghost will cry plaintively from your microwave because your midnight snacks offend the cosmos.",
               "sentence_ru": "Призрак будет жалобно плакать из вашей микроволновки, потому что ваши ночные перекусы оскорбляют космос.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "The cat meowed plaintively until I gave him my last organic avocado roll.",
-              "sentence_ru": "Кот жалобно мяукал, пока я не отдал ему свой последний органический ролл с авокадо.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 997314,
+          "due_tick": 997455,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-19T09:00:19.124896+00:00",
-          "pending_msg": 2022,
+          "last_sent_at": "2026-11-22T07:30:18.900561+00:00",
+          "pending_msg": 2064,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997406,
+      "last_deliver_tick": 997407,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Tomorrow your ex will look as drab as your future financial prospects.",
+              "sentence_ru": "Завтра твой бывший будет выглядеть таким же унылым, как и твои будущие финансовые перспективы.",
+              "word_form": "drab"
+            },
             {
               "sentence": "My soul is just as drab and lifeless as these cheap office walls.",
               "sentence_ru": "Моя душа такая же унылая и безжизненная, как эти дешевые офисные стены.",
@@ -906,20 +911,15 @@
               "sentence": "Aliens refuse to invade Earth, calling our pathetic reality too drab and boring.",
               "sentence_ru": "Инопланетяне отказываются захватывать Землю, называя нашу жалкую реальность слишком унылой и скучной.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "My soul is just as drab as these miserable polyester curtains.",
-              "sentence_ru": "Моя душа такая же унылая, как эти жалкии полиэстровые занавески.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 997315,
+          "due_tick": 997455,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-19T09:30:13.931147+00:00",
-          "pending_msg": 2025,
+          "last_sent_at": "2026-11-22T07:30:20.868813+00:00",
+          "pending_msg": 2065,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997406,
+      "last_deliver_tick": 997407,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
