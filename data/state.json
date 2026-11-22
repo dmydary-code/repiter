@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He set his heart on stealing the queen's wig to impress a stray cat.",
+              "sentence_ru": "Он страстно захотел украсть парик королевы, чтобы впечатлить бродячего кота.",
+              "word_form": "set his heart on"
+            },
+            {
               "sentence": "You set your heart on that dead pigeon, but I flushed it down the toilet.",
               "sentence_ru": "Ты так страстно желала этого дохлого голубя, но я смыл его в унитаз.",
               "word_form": "set your heart on"
@@ -478,20 +483,15 @@
               "sentence": "If you set your heart on stealing my Wi-Fi again, I will curse your cat.",
               "sentence_ru": "Если ты снова загоришься идеей украсть мой вайфай, я прокляну твоего кота.",
               "word_form": "set your heart on"
-            },
-            {
-              "sentence": "I set my heart on stealing the Mona Lisa, even if laser grids fry my eyebrows.",
-              "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если лазерные решетки поджарят мои брови.",
-              "word_form": "set my heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 997316,
+          "due_tick": 997457,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-19T10:00:19.852076+00:00",
-          "pending_msg": 2026,
+          "last_sent_at": "2026-11-22T08:30:17.897025+00:00",
+          "pending_msg": 2068,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997408,
+      "last_deliver_tick": 997409,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Chad is going to demolish the entire conference room because his PowerPoint didn't load.",
+              "sentence_ru": "Чад собирается снести всю переговорку, потому что у него не загрузилась презентация.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Me and the boys on our way to demolish my ex's new patio.",
               "sentence_ru": "Я и пацаны по пути сносить новое патио моего бывшего.",
               "word_form": "demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "My fat cat tried to demolish an entire pizza while I was blinking.",
               "sentence_ru": "Мой жирный кот попытался сожрать целую пиццу, пока я моргал.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "Mars in Taurus will make you demolish your ex's new kitchen with a sledgehammer.",
-              "sentence_ru": "Марс в Тельце заставит тебя снести кувалдой новую кухню твоего бывшего.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 997322,
+          "due_tick": 997457,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-11-19T13:25:34.274696+00:00",
-          "pending_msg": 2029,
+          "last_sent_at": "2026-11-22T08:30:18.872024+00:00",
+          "pending_msg": 2069,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997408,
+      "last_deliver_tick": 997409,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
