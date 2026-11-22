@@ -91,6 +91,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My sanity is slightly bleeding out, but hey, at least my hair looks fabulous.",
+              "sentence_ru": "Мой рассудок слегка истекает кровью, но эй, по крайней мере, мои волосы выглядят потрясающе.",
+              "word_form": "slightly"
+            },
+            {
               "sentence": "The inflatable doll was slightly deflated, but my lonely neighbor didn't even care.",
               "sentence_ru": "Надувная кукла была слегка сдута, но моему одинокому соседу было всё равно.",
               "word_form": "slightly"
@@ -109,20 +114,15 @@
               "sentence": "Local dictator looks slightly annoyed after citizens ate his solid gold throne.",
               "sentence_ru": "Местный диктатор выглядит слегка раздраженным после того, как граждане сожрали его трон из чистого золота.",
               "word_form": "slightly"
-            },
-            {
-              "sentence": "My ex looks slightly better after being run over by a steamroller.",
-              "sentence_ru": "Мой бывший выглядит слегка лучше после того, как по нему проехал катком паровой каток.",
-              "word_form": "slightly"
             }
           ],
           "created_at": "2026-08-23T22:07:19.179263+00:00",
-          "due_tick": 997360,
+          "due_tick": 997461,
           "id": "c05e0bd2dd",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-20T08:00:25.908777+00:00",
-          "pending_msg": 2034,
+          "last_sent_at": "2026-11-22T10:30:07.438668+00:00",
+          "pending_msg": 2076,
           "reps": 0,
           "step": 0,
           "word": "slightly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997412,
+      "last_deliver_tick": 997413,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex-boyfriend tends to emerge from the toaster whenever I make sad grilled cheese.",
+              "sentence_ru": "Мой бывший парень имеет свойство появляться из тостера, когда я делаю грустный горячий бутерброд.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My ex had to emerge from the bushes right when I was eating a raw onion.",
               "sentence_ru": "Моя бывшая должна была вылезти из кустов именно тогда, когда я ел сырой лук.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
               "sentence_ru": "Моя бывшая обязана была вылезти из кустов ровно тогда, когда я выглядел максимально ущербно.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "Did Todd just emerge from the ceiling tiles like a greasy corporate goblin?",
-              "sentence_ru": "Тодд только что вылез из потолочных плиток, как сальный корпоративный гоблин?",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 997361,
+          "due_tick": 997461,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-20T08:30:22.072811+00:00",
-          "pending_msg": 2037,
+          "last_sent_at": "2026-11-22T10:30:11.271851+00:00",
+          "pending_msg": 2077,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997412,
+      "last_deliver_tick": 997413,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
