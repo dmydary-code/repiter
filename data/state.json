@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Don't mince words, human, tell me why my expensive salmon smells like garbage.",
+              "sentence_ru": "Не подбирай выражения, кожаный, и скажи мне, почему мой дорогой лосось воняет помойкой.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "I didn't mince words when telling my boss his haircut looks like a dead ferret.",
               "sentence_ru": "Я не стал подбирать выражения, говоря боссу, что его стрижка похожа на мертвого хорька.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I won't mince words, Greg, your quarterly report looks like trash written by a drunk raccoon.",
               "sentence_ru": "Я не буду церемониться, Грег, твой квартальный отчет выглядит как мусор, написанный пьяным енотом.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I didn't mince words when I wrote that this dildo was too small for my ego.",
-              "sentence_ru": "Я не стала подбирать выражения, когда написала, что этот фаллоимитатор оказался слишком мал для моего эго.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 997359,
+          "due_tick": 997460,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-20T07:30:12.166890+00:00",
-          "pending_msg": 2032,
+          "last_sent_at": "2026-11-22T10:00:26.298378+00:00",
+          "pending_msg": 2074,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997411,
+      "last_deliver_tick": 997412,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -970,6 +970,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mars in Gemini makes your toxic gossip hit harder than cheap tequila tomorrow.",
+              "sentence_ru": "Марс в Близнецах сделает твои токсичные сплетни мощнее дешевой текилы завтра.",
+              "word_form": "gossip"
+            },
+            {
               "sentence": "This vacuum cleaner sucks up dirt worse than my neighbors gossip about my new leather pants.",
               "sentence_ru": "Этот пылесос всасывает грязь хуже, чем мои соседи сплетничают о моих новых кожаных штанах.",
               "word_form": "gossip"
@@ -988,20 +993,15 @@
               "sentence": "My therapist says I should let go of toxic people, but their gossip is my only dopamine.",
               "sentence_ru": "Мой психотерапевт говорит, что мне стоит отпустить токсичных людей, но их сплетни — мой единственный дофамин.",
               "word_form": "gossip"
-            },
-            {
-              "sentence": "Stop spreading gossip about my new lizard wife at 3 AM.",
-              "sentence_ru": "Хватит распускать сплетни о моей новой жене-ящерице в три часа ночи.",
-              "word_form": "gossip"
             }
           ],
           "created_at": "2026-08-29T11:53:01.080333+00:00",
-          "due_tick": 997360,
+          "due_tick": 997460,
           "id": "b624df5b77",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-20T08:00:31.529691+00:00",
-          "pending_msg": 2035,
+          "last_sent_at": "2026-11-22T10:00:30.246867+00:00",
+          "pending_msg": 2075,
           "reps": 3,
           "step": 3,
           "word": "gossip",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997411,
+      "last_deliver_tick": 997412,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
