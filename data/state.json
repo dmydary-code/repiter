@@ -747,6 +747,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "You are profoundly stupid if you think I will eat this cheap grocery store brand.",
+              "sentence_ru": "Ты глубоко тупа, если думаешь, что я буду есть этот дешевый супермаркетный бренд.",
+              "word_form": "profoundly"
+            },
+            {
               "sentence": "I was profoundly disappointed when my sex doll started snoring louder than my ex.",
               "sentence_ru": "Я был глубоко разочарован, когда моя секс-кукла начала храпеть громче моей бывшей.",
               "word_form": "profoundly"
@@ -765,20 +770,15 @@
               "sentence": "Chad was profoundly unqualified, yet somehow he became our regional director.",
               "sentence_ru": "Чад был глубоко некомпетентен, но почему-то стал нашим региональным директором.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "He was profoundly naked while explaining tax fraud to a confused pigeon.",
-              "sentence_ru": "Он был глубоко голым, объясняя налоговое мошенничество растерянному голубю.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 997358,
+          "due_tick": 997459,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-20T07:00:26.633691+00:00",
-          "pending_msg": 2030,
+          "last_sent_at": "2026-11-22T09:30:15.566495+00:00",
+          "pending_msg": 2072,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997410,
+      "last_deliver_tick": 997411,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to undergo a full plastic surgery after reading your garbage review, Karen.",
+              "sentence_ru": "Мне пришлось перенести полную пластическую операцию после чтения твоего мусорного отзыва, Карен.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "My ex had to undergo emergency plastic surgery after biting my sarcastic tongue off.",
               "sentence_ru": "Моему бывшему пришлось перенести срочную пластическую операцию после того, как он откусил мой язвительный язык.",
               "word_form": "undergo"
@@ -1111,20 +1116,15 @@
               "sentence": "Our lazy boss had to undergo a drug test, and his plants are sweating.",
               "sentence_ru": "Нашему ленивому боссу пришлось пройти тест на наркотики, и его цветы в горшках потели от страха.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "Our lazy elevator had to undergo surgery again because you all keep transporting elephants in it.",
-              "sentence_ru": "Нашему ленивому лифту снова пришлось перенести операцию, потому что вы все продолжаете возить в нем слонов.",
-              "word_form": "to undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 997359,
+          "due_tick": 997459,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-20T07:30:13.573642+00:00",
-          "pending_msg": 2033,
+          "last_sent_at": "2026-11-22T09:30:16.819914+00:00",
+          "pending_msg": 2073,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997410,
+      "last_deliver_tick": 997411,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
