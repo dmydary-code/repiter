@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I still try to forget how your betrayal tastes, but the poison lingers.",
+              "sentence_ru": "Я всё ещё пытаюсь забыть, каково твоё предательство на вкус, но яд всё еще во мне.",
+              "word_form": "try"
+            },
+            {
               "sentence": "I will try to shove this cursed blender up the seller's nose.",
               "sentence_ru": "Я постараюсь засунуть этот проклятый блендер в нос продавцу.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Local cats try to overthrow the mayor using heavily armed pigeons.",
               "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью вооруженных до зубов голубей.",
               "word_form": "try"
-            },
-            {
-              "sentence": "When she said she could cook, I didn't expect her to try and burn the water.",
-              "sentence_ru": "Когда она сказала, что умеет готовить, я не ожидал, что она попытается сжечь воду.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 997313,
+          "due_tick": 997454,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-19T08:30:14.697752+00:00",
-          "pending_msg": 2020,
+          "last_sent_at": "2026-11-22T07:00:12.283343+00:00",
+          "pending_msg": 2062,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997375,
+      "last_deliver_tick": 997406,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Cyborg rats wire up the mayor to a giant disco ball.",
+              "sentence_ru": "Кибернетические крысы подключают мэра проводами к гигантскому диско-шару.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "I tried to wire up the bomb under my ex's car, but forgot my reading glasses.",
               "sentence_ru": "Я пытался подключить бомбу под машину бывшей, но забыл очки для чтения.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "Neighbors, if you try to wire up the elevator to your flat again, I will cut your hands off.",
               "sentence_ru": "Соседи, если вы снова попытаетесь подключить лифт к своей квартире, я вам руки отрублю.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Human, wire up my fish tank laser or I will puke in your boots.",
-              "sentence_ru": "Человек, подключи лазер для моего аквариума, иначе я наблеваю тебе в ботинки.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 997314,
+          "due_tick": 997454,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-19T09:00:22.566888+00:00",
-          "pending_msg": 2023,
+          "last_sent_at": "2026-11-22T07:00:16.114995+00:00",
+          "pending_msg": 2063,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997375,
+      "last_deliver_tick": 997406,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-22",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
