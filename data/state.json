@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This weird cream smells like trash, but the celebrity endorsement made me buy three jars.",
+              "sentence_ru": "Этот странный крем воняет помойкой, но рекламное лицо бренда заставило меня купить три банки.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "This cream smells like hot garbage, but the celebrity endorsement made me buy it anyway.",
               "sentence_ru": "Этот крем воняет тухлыми помоями, но реклама со звездой всё равно заставила меня его купить.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "My career died the moment that tragic celebrity endorsement for fungal cream aired on TV.",
               "sentence_ru": "Моя карьера умерла в тот момент, когда по телевизору показали эту позорную рекламу маска от грибка с моим участием.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "A weird celebrity endorsement will make your cat buy crypto tomorrow.",
-              "sentence_ru": "Странная реклама со звездой заставит вашего кота купить криптовалюту завтра.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 997362,
+          "due_tick": 997503,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-20T09:00:02.884803+00:00",
-          "pending_msg": 2038,
+          "last_sent_at": "2026-11-23T07:30:11.426878+00:00",
+          "pending_msg": 2080,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997454,
+      "last_deliver_tick": 997455,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1216,6 +1216,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex drops by now and then just to check if my plant is still dead.",
+              "sentence_ru": "Мой бывший заглядывает время от времени, просто проверить, не ожил ли мой цветок.",
+              "word_form": "now and then"
+            },
+            {
               "sentence": "I post thirst traps now and then just to check if my ex is still crying.",
               "sentence_ru": "Я выкладываю провокационные фото время от времени, просто чтобы проверить, плачет ли еще мой бывший.",
               "word_form": "now and then"
@@ -1234,20 +1239,15 @@
               "sentence": "Mutated stray cats steal the mayor's toupee now and then during midnight riots.",
               "sentence_ru": "Мутировавшие бродячие коты время от времени крадут парик мэра во время полуночных беспорядков.",
               "word_form": "now and then"
-            },
-            {
-              "sentence": "Mutated pigeons overthrow the mayor now and then just to feel something.",
-              "sentence_ru": "Мутировавшие голуби время от времени свергают мэра просто ради острых ощущений.",
-              "word_form": "now and then"
             }
           ],
           "created_at": "2026-08-29T12:00:56.716514+00:00",
-          "due_tick": 997365,
+          "due_tick": 997503,
           "id": "bfa6d7c76d",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-20T10:54:52.977999+00:00",
-          "pending_msg": 2041,
+          "last_sent_at": "2026-11-23T07:30:12.407228+00:00",
+          "pending_msg": 2081,
           "reps": 0,
           "step": 0,
           "word": "now and then",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997454,
+      "last_deliver_tick": 997455,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
