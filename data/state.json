@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demon will always encorage me to eat pizza at 3 AM.",
+              "sentence_ru": "Мой внутренний демон всегда будет подбадривать меня жрать пиццу в 3 часа ночи.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "We encorage you to throw trash out the window so the yard cleaner stays employed.",
               "sentence_ru": "Мы поощряем вас бросать мусор в окно, чтобы дворник не остался без работы.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "I still encorage your terrible life choices, especially texting me at 3 AM.",
               "sentence_ru": "Я всё ещё поощряю твои ужасные жизненные выборы, особенно когда ты пишешь мне в 3 часа ночи.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "My therapist tried to encorage my weird habit of hissing at delivery guys.",
-              "sentence_ru": "Мой психотерапевт попытался поощрить мою странную привычку шипеть на курьеров.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 997407,
+          "due_tick": 997507,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-21T07:43:01.311195+00:00",
-          "pending_msg": 2046,
+          "last_sent_at": "2026-11-23T09:30:04.101849+00:00",
+          "pending_msg": 2088,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997458,
+      "last_deliver_tick": 997459,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to adjust my tin foil hat so the aliens stop stealing my Wi-Fi.",
+              "sentence_ru": "Мне пришлось подправить шапочку из фольги, чтобы пришельцы перестали воровать мой вайфай.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Please adjust your attitude before HR adjusts your employment status permanently.",
               "sentence_ru": "Пожалуйста, настрой свой настрой, пока отдел кадров окончательно не настроил твой статус безработного.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "I had to adjust my crown so the peasants could see me better.",
               "sentence_ru": "Мне пришлось поправить корону, чтобы холопы видели меня лучше.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "I had to adjust my rear mirror so I don't see your new boyfriend crying in it.",
-              "sentence_ru": "Мне пришлось настроить зеркало заднего вида, чтобы не видеть, как в него плачет твой новый парень.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 997408,
+          "due_tick": 997507,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-21T08:00:22.739878+00:00",
-          "pending_msg": 2049,
+          "last_sent_at": "2026-11-23T09:30:05.270566+00:00",
+          "pending_msg": 2089,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997458,
+      "last_deliver_tick": 997459,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
