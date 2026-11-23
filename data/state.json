@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen gnome and the neighbor's cat hit it off instantly while robbing the fridge.",
+              "sentence_ru": "Мой украденный гном и соседский кот сразу подружились, пока грабили холодильник.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "My cat and the stray raccoon hit it off immediately and started looting the fridge.",
               "sentence_ru": "Мой кот и бродячий енот сразу нашли общий язык и начали грабить холодильник.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "Me and my stolen flamingo hit it off immediately at the police station.",
               "sentence_ru": "Я и мой украденный фламинго сразу же подружились в полицейском участке.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Mutated swamp frogs hit it off instantly and eloped to the nuclear reactor.",
-              "sentence_ru": "Мутировавшие болотные лягушки сразу подружились и сбежали в ядерный реактор.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 997361,
+          "due_tick": 997502,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-20T08:30:17.556977+00:00",
-          "pending_msg": 2036,
+          "last_sent_at": "2026-11-23T07:00:13.818204+00:00",
+          "pending_msg": 2078,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997425,
+      "last_deliver_tick": 997454,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1175,6 +1175,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The sudden influx of aggressive geese forced the local mafia to surrender.",
+              "sentence_ru": "Внезапный наплыв агрессивных гусей заставил местную мафию сдаться.",
+              "word_form": "influx"
+            },
+            {
               "sentence": "An unexpected influx of aggressive badgers ruined our polite tea party.",
               "sentence_ru": "Неожиданный наплыв агрессивных барсуков испорил наше вежливое чаепитие.",
               "word_form": "influx"
@@ -1193,20 +1198,15 @@
               "sentence": "Because of this insane influx of weirdos, the elevator smells like wet dog again.",
               "sentence_ru": "Из-за этого безумного наплыва каких-то фриков в лифте снова воняет мокрой собакой.",
               "word_form": "influx"
-            },
-            {
-              "sentence": "This influx of stray cats in our kitchen is getting out of hand, human.",
-              "sentence_ru": "Этот наплыв бродячих котов на нашей кухне выходит из-под контроля, двуногая.",
-              "word_form": "influx"
             }
           ],
           "created_at": "2026-08-29T12:00:40.836638+00:00",
-          "due_tick": 997362,
+          "due_tick": 997502,
           "id": "fc7abba39f",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-20T09:00:04.276564+00:00",
-          "pending_msg": 2039,
+          "last_sent_at": "2026-11-23T07:00:14.912889+00:00",
+          "pending_msg": 2079,
           "reps": 0,
           "step": 0,
           "word": "influx",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997425,
+      "last_deliver_tick": 997454,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
