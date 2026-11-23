@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I acquired this cursed antique mirror just to watch ghosts ruin my ex's life.",
+              "sentence_ru": "Я приобрел это проклятое антикварное зеркало только чтобы смотреть, как призраки портят жизнь моему бывшему.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Your newly acquired taste for chaos will finally bring you a rich sugar daddy.",
               "sentence_ru": "Твой новоприобретенный вкус к хаосу наконец-то принесет тебе богатого папика.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "That strange taste for cheap gin is just an acquired trauma from dating Jim.",
               "sentence_ru": "Этот странный вкус к дешевому джину — просто приобретенная травма от свиданий с Джимом.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Your newly acquired psychic powers will finally help you find who stole your last yogurt.",
-              "sentence_ru": "Твои новообретенные экстрасенсорные способности наконец помогут найти того, кто украл твой последний йогурт.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 997367,
+          "due_tick": 997506,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-20T11:30:15.993216+00:00",
-          "pending_msg": 2044,
+          "last_sent_at": "2026-11-23T09:00:33.115693+00:00",
+          "pending_msg": 2086,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997457,
+      "last_deliver_tick": 997458,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutant raccoons stole 400 nuclear reactors and vanished altogether into the sewer system.",
+              "sentence_ru": "Еноты-мутанты украли 400 ядерных реакторов и полностью исчезли в канализационной системе.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Mutant raccoons stole 400 nuclear warheads and vanished altogether into the sewers.",
               "sentence_ru": "Еноты-мутанты украли 400 ядерных боеголовок и полностью испарились в канализации.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "We lost our dignity, our pants, and our minds altogether at the corporate party.",
               "sentence_ru": "Мы потеряли достоинство, штаны и рассудок разом на корпоративе.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "Tomorrow your ex and their new partner will altogether vanish into a parallel dimension.",
-              "sentence_ru": "Завтра твой бывший и их новый партнер совсем испарятся в параллельное измерение.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 997407,
+          "due_tick": 997506,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-21T07:43:02.356053+00:00",
-          "pending_msg": 2047,
+          "last_sent_at": "2026-11-23T09:00:34.100199+00:00",
+          "pending_msg": 2087,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997457,
+      "last_deliver_tick": 997458,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
