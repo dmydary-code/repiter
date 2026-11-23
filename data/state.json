@@ -583,6 +583,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Cancer never lifts a finger in the house, so expect your lazy cat to finally pay rent tomorrow.",
+              "sentence_ru": "Рак никогда не ударяет палец о палец по дому, так что жди, пока твой ленивый кот завтра наконец заплатит за аренду.",
+              "word_form": "lifts a finger in the house"
+            },
+            {
               "sentence": "If Greg never lifts a finger in the house, why are we still paying him?",
               "sentence_ru": "Если Грег вообще не ударяет палец о палец дома, какого чёрта мы ему платим?",
               "word_form": "lifts a finger in the house"
@@ -601,20 +606,15 @@
               "sentence": "That lazy roommate never lifts a finger in the house, leaving all the trash for me!",
               "sentence_ru": "Этот ленивый сожитель никогда не ударяет палец о палец дома, оставляя весь мусор мне!",
               "word_form": "lifts a finger in the house"
-            },
-            {
-              "sentence": "My lazy roommate never lifts a finger in the house, even when the trash talks back.",
-              "sentence_ru": "Мой ленивый соседяра никогда не ударит палец о палец по дому, даже когда мусор начинает хамить.",
-              "word_form": "lifts a finger in the house"
             }
           ],
           "created_at": "2026-08-30T18:34:08.277035+00:00",
-          "due_tick": 997365,
+          "due_tick": 997504,
           "id": "4063be8339",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-20T10:54:45.395724+00:00",
-          "pending_msg": 2040,
+          "last_sent_at": "2026-11-23T08:00:07.852180+00:00",
+          "pending_msg": 2082,
           "reps": 0,
           "step": 0,
           "word": "lifts a finger in the house",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997455,
+      "last_deliver_tick": 997456,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, Scorpio, tomorrow you will accidentally ruin an ex's wedding and feel zero guilt.",
+              "sentence_ru": "В общем и целом, Скорпион, завтра ты случайно сорвешь свадьбу бывшего и не почувствуешь ни капли вины.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, our marketing department is just a group of people drinking cold brew and crying.",
               "sentence_ru": "В целом, наш отдел маркетинга — это просто куча людей, пьющих холодный кофе и рыдающих.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, mutant raccoons have successfully seized control of the local budget.",
               "sentence_ru": "В общем и целом, еноты-мутанты успешно захватили контроль над местным бюджетом.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, your new boyfriend looks like a thumb that survived a blender.",
-              "sentence_ru": "В целом, твой новый парень выглядит как большой палец, переживший блендер.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 997366,
+          "due_tick": 997504,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-20T11:00:34.605290+00:00",
-          "pending_msg": 2043,
+          "last_sent_at": "2026-11-23T08:00:08.895484+00:00",
+          "pending_msg": 2083,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997455,
+      "last_deliver_tick": 997456,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
