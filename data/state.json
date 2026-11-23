@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even my cat looks at me like I am too humble to pet her.",
+              "sentence_ru": "Даже моя кошка смотрит на меня так, будто я слишком скромный, чтобы её погладить.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even my cat looks at me like I'm too humble to date her.",
               "sentence_ru": "Даже моя кошка смотрит на меня так, будто я слишком скромный, чтобы с ней встречаться.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Be humble, human, and maybe I won't throw up in your expensive shoes.",
               "sentence_ru": "Будь скромной, кожаная, и, может, я не стану блевать в твои дорогие туфли.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Even while wearing a crown of raw sausages, the king tried to look humble.",
-              "sentence_ru": "Даже надев корону из сырых сосисок, король пытался выглядеть скромным.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 997408,
+          "due_tick": 997511,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-21T08:00:21.485238+00:00",
-          "pending_msg": 2048,
+          "last_sent_at": "2026-11-23T11:47:50.276380+00:00",
+          "pending_msg": 2090,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997459,
+      "last_deliver_tick": 997463,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My blender suddenly decided to seize up while mixing cement for my grandmother's birthday cake.",
+              "sentence_ru": "Мой блендер внезапно решил заклинить во время замешивания цемента для торта бабушки.",
+              "word_form": "to seize up"
+            },
+            {
               "sentence": "My brain tends to seize up whenever HR asks me about my five-year plan.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда кадровичка спрашивает меня про пятилетний план.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My cold dead heart began to seize up the moment she smiled at me.",
               "sentence_ru": "Мое холодное мертвое сердце начало заклинивать в тот момент, когда она мне улыбнулась.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My brain tends to seize up whenever the HOA president starts talking about new fees.",
-              "sentence_ru": "Мой мозг обычно заклинивает, когда председатель ТСЖ начинает говорить о новых поборах.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 997409,
+          "due_tick": 997511,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-21T08:30:21.009081+00:00",
-          "pending_msg": 2051,
+          "last_sent_at": "2026-11-23T11:47:51.424544+00:00",
+          "pending_msg": 2091,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997459,
+      "last_deliver_tick": 997463,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-23",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
