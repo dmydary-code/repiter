@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Who the hell let the aforementioned goat eat my doormat again?",
+              "sentence_ru": "Какого черта этот вышеупомянутый козел снова сожрал мой коврик у двери?",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "The cat stared coldly at the aforementioned squirrel stuffed inside his favorite boot.",
               "sentence_ru": "Кот холодно уставился на вышеупомянутую белку, запихнутую в его любимый ботинок.",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "Who the hell let the aforementioned goat eat my doormat again?",
               "sentence_ru": "Кто, черт возьми, позволил вышеупомянутому козлу снова сжрать мой коврик у двери?",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "The aforementioned raccoon stole my toupee and is now running the criminal underworld.",
-              "sentence_ru": "Вышеупомянутый енот украл мой парик и теперь управляет криминальным миром.",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 997412,
+          "due_tick": 997552,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-21T10:00:21.703375+00:00",
-          "pending_msg": 2056,
+          "last_sent_at": "2026-11-24T08:00:10.250019+00:00",
+          "pending_msg": 2098,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997503,
+      "last_deliver_tick": 997504,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "HR leaves through the backstreets so nobody asks about the missing office snacks.",
+              "sentence_ru": "Эйчар уходит через задворки, чтобы никто не спрашивал про пропавшие офисные снеки.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "My ex-wife's new boyfriend lives in shady backstreets and eats damp drywall.",
               "sentence_ru": "Новый парень моей бывшей жены живет в темных переулках и ест сырой гипсокартон.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "He runs crypto scams from the backstreets because paying taxes is for nerds.",
               "sentence_ru": "Он проворачивает криптоаферы с задворок, потому что платить налоги — для ботанов.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "I only sell my illegal crypto courses in shady backstreets at 3 AM.",
-              "sentence_ru": "Я продаю свои нелегальные курсы по крипте только в темных переулках в 3 часа ночи.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 997413,
+          "due_tick": 997552,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-21T10:30:20.997600+00:00",
-          "pending_msg": 2059,
+          "last_sent_at": "2026-11-24T08:00:11.610348+00:00",
+          "pending_msg": 2099,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997503,
+      "last_deliver_tick": 997504,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
