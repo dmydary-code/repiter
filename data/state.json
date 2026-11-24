@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex tried to undermine my confidence, so I married a billionaire instead.",
+              "sentence_ru": "Бывший пытался подорвать мою уверенность, поэтому я вышла замуж за миллиардера.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "Karen tried to undermine my authority by stapling my coffee mug to the ceiling.",
               "sentence_ru": "Карен попыталась подорвать мой авторитет, пристеплерв мою кружку с кофе к потолку.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "Your constant crying doesn't undermine my authority, human, it just proves I'm the boss.",
               "sentence_ru": "Твой постоянный плач не подрывает мой авторитет, кожаная, он просто доказывает, что я здесь босс.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "My neurotic cat tried to undermine the sofa by digging straight to China.",
-              "sentence_ru": "Мой невротичный кот попытался подкопать диван, докапываясь прямо до Китая.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 997414,
+          "due_tick": 997554,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-21T11:00:19.412987+00:00",
-          "pending_msg": 2060,
+          "last_sent_at": "2026-11-24T09:00:01.924025+00:00",
+          "pending_msg": 2102,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997505,
+      "last_deliver_tick": 997506,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1544,6 +1544,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to wire up my cat so he finally stops zooming at 3 AM.",
+              "sentence_ru": "Мне пришлось подключить провода к моему коту, чтобы он наконец перестал носиться в 3 часа ночи.",
+              "word_form": "wire up"
+            },
+            {
               "sentence": "Cyborg rats wire up the mayor to a giant disco ball.",
               "sentence_ru": "Кибернетические крысы подключают мэра проводами к гигантскому диско-шару.",
               "word_form": "wire up"
@@ -1562,20 +1567,15 @@
               "sentence": "I need to wire up my brain before I deal with this psycho.",
               "sentence_ru": "Мне нужно подключить мозги к сети, прежде чем разбираться с этим психом.",
               "word_form": "wire up"
-            },
-            {
-              "sentence": "Neighbors, if you try to wire up the elevator to your flat again, I will cut your hands off.",
-              "sentence_ru": "Соседи, если вы снова попытаетесь подключить лифт к своей квартире, я вам руки отрублю.",
-              "word_form": "wire up"
             }
           ],
           "created_at": "2026-08-29T12:05:24.590113+00:00",
-          "due_tick": 997454,
+          "due_tick": 997554,
           "id": "a4fcb2ea78",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-22T07:00:16.114995+00:00",
-          "pending_msg": 2063,
+          "last_sent_at": "2026-11-24T09:00:03.371301+00:00",
+          "pending_msg": 2103,
           "reps": 5,
           "step": 5,
           "word": "wire up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997505,
+      "last_deliver_tick": 997506,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
