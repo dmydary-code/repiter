@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My cat aggressively judges my life choices whenever I eat cheese naked on the kitchen floor.",
+              "sentence_ru": "Мой кот агрессивно оценивает мои жизненные выборы всякий раз, когда я голым ем сыр на кухонном полу.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "I post my cringe selfies whenever I need validation from strangers.",
               "sentence_ru": "Я выкладываю свои кринжовые селфи всякий раз, когда мне нужно одобрение незнакомцев.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "This cat vomits on my expensive rug whenever I leave the house.",
               "sentence_ru": "Этот кот блевотит на мой дорогой ковер всякий раз, когда я ухожу из дома.",
               "word_form": "whenever"
-            },
-            {
-              "sentence": "Whenever you throw garbage out of the window, a lonely pigeon gets a panic attack.",
-              "sentence_ru": "Всякий раз, когда вы выбрасываете мусор из окна, у одинокого голубя начинается паническая атака.",
-              "word_form": "Whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 997456,
+          "due_tick": 997557,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-22T08:00:18.154282+00:00",
-          "pending_msg": 2066,
+          "last_sent_at": "2026-11-24T10:30:02.016612+00:00",
+          "pending_msg": 2108,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997508,
+      "last_deliver_tick": 997509,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My angry ex-mother-in-law arrived with a bulldozer to demolish my treehouse.",
+              "sentence_ru": "Моя разъяренная бывшая теща приехала на бульдозере, чтобы снести мой домик на дереве.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "Chad is going to demolish the entire conference room because his PowerPoint didn't load.",
               "sentence_ru": "Чад собирается снести всю переговорку, потому что у него не загрузилась презентация.",
               "word_form": "demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a heavy metal shovel.",
               "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки с помощью тяжелой металлической лопаты.",
               "word_form": "to demolish"
-            },
-            {
-              "sentence": "My fat cat tried to demolish an entire pizza while I was blinking.",
-              "sentence_ru": "Мой жирный кот попытался сожрать целую пиццу, пока я моргал.",
-              "word_form": "demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 997457,
+          "due_tick": 997557,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-11-22T08:30:18.872024+00:00",
-          "pending_msg": 2069,
+          "last_sent_at": "2026-11-24T10:30:03.981519+00:00",
+          "pending_msg": 2109,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997508,
+      "last_deliver_tick": 997509,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
