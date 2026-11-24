@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Why are you looking at my new rich boyfriend so plaintively while eating trash?",
+              "sentence_ru": "Почему ты так жалобно смотришь на моего нового богатого парня, пока ешь мусор?",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "A stray cat will meow plaintively outside your window, demanding your credit card PIN.",
               "sentence_ru": "Бродячий кот будет жалобно мяукать под вашим окном, требуя пин-код от кредитки.",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "A captured goblin plaintively begged for mercy before the dungeon DJ dropped the bass.",
               "sentence_ru": "Пойманный гоблин жалобно умолял о пощаде, прежде чем подземельный диджей врубил бас.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "A ghost will cry plaintively from your microwave because your midnight snacks offend the cosmos.",
-              "sentence_ru": "Призрак будет жалобно плакать из вашей микроволновки, потому что ваши ночные перекусы оскорбляют космос.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 997455,
+          "due_tick": 997556,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-22T07:30:18.900561+00:00",
-          "pending_msg": 2064,
+          "last_sent_at": "2026-11-24T10:00:18.706183+00:00",
+          "pending_msg": 2106,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997507,
+      "last_deliver_tick": 997508,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen gnomes began to flourish after I started watering them with red bull.",
+              "sentence_ru": "Мои краденые гномы начали процветать после того, как я стал поливать их энергетиком.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "I flourish on the chaos of your ruined carpets.",
               "sentence_ru": "Я процветаю на хаосе твоих испорченных ковров.",
               "word_form": "flourish"
@@ -1029,20 +1034,15 @@
               "sentence": "While we drown in debt, accounting somehow manages to flourish on pure corporate malice.",
               "sentence_ru": "Пока мы тонем в долгах, бухгалтерия умудряется процветать на чистой корпоративной злобе.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "Local cats continue to flourish after eating the radioactive garbage from Area 51.",
-              "sentence_ru": "Местные коты продолжают процветать после поедания радиоактивного мусора из Зоны 51.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 997456,
+          "due_tick": 997556,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-22T08:00:21.248858+00:00",
-          "pending_msg": 2067,
+          "last_sent_at": "2026-11-24T10:00:20.257615+00:00",
+          "pending_msg": 2107,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997507,
+      "last_deliver_tick": 997508,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
