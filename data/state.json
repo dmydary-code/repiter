@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Local cats try to overthrow the mayor using confiscated laser pointers.",
+              "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью конфискованных лазерных указок.",
+              "word_form": "try"
+            },
+            {
               "sentence": "I still try to forget how your betrayal tastes, but the poison lingers.",
               "sentence_ru": "Я всё ещё пытаюсь забыть, каково твоё предательство на вкус, но яд всё еще во мне.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Tomorrow you will try to steal a badger's wig, but fail miserably.",
               "sentence_ru": "Завтра ты попытаешься украсть у барсука парик, но с треском провалишься.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Local cats try to overthrow the mayor using heavily armed pigeons.",
-              "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью вооруженных до зубов голубей.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 997454,
+          "due_tick": 997555,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-22T07:00:12.283343+00:00",
-          "pending_msg": 2062,
+          "last_sent_at": "2026-11-24T09:30:10.275957+00:00",
+          "pending_msg": 2104,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997506,
+      "last_deliver_tick": 997507,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "Aliens refuse to invade Earth because our local fashion is too drab.",
+              "sentence_ru": "Инопланетяне отказываются захватывать Землю, потому что наша местная мода слишком унылая.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Tomorrow your ex will look as drab as your future financial prospects.",
               "sentence_ru": "Завтра твой бывший будет выглядеть таким же унылым, как и твои будущие финансовые перспективы.",
@@ -906,20 +911,15 @@
               "sentence": "Your new curtains are so drab that even I want to throw up a hairball.",
               "sentence_ru": "Твои новые шторы такие унылые, что даже мне хочется блевануть шерстью.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Aliens refuse to invade Earth, calling our pathetic reality too drab and boring.",
-              "sentence_ru": "Инопланетяне отказываются захватывать Землю, называя нашу жалкую реальность слишком унылой и скучной.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 997455,
+          "due_tick": 997555,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-22T07:30:20.868813+00:00",
-          "pending_msg": 2065,
+          "last_sent_at": "2026-11-24T09:30:11.537384+00:00",
+          "pending_msg": 2105,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997506,
+      "last_deliver_tick": 997507,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
