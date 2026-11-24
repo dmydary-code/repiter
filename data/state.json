@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Mutated raccoons compound stolen radioactive waste to brew toxic moonshine in the basement.",
+              "sentence_ru": "Мутировавшие еноты смешивают украденные радиоактивные отходы для варки токсичного самогона в подвале.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "I dropped this toxic compound in my ex's mailbox, 5 stars for effectiveness.",
               "sentence_ru": "Я уронил это токсичное вещество в почтовый ящик бывшего, 5 звезд за эффективность.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "My ex built a compound for cats to plot world domination.",
               "sentence_ru": "Мой бывший построил компаунд для котов, чтобы те захватили мир.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "Drinking cheap tequila inside this concrete compound was not HR's smartest team-building idea.",
-              "sentence_ru": "Пить дешевую текилу внутри этого бетонного компаунда было не самой умной тимбилдинг-идеей HR.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 997410,
+          "due_tick": 997550,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-21T09:00:18.129021+00:00",
-          "pending_msg": 2052,
+          "last_sent_at": "2026-11-24T07:05:18.777036+00:00",
+          "pending_msg": 2094,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997474,
+      "last_deliver_tick": 997502,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He tried to impose his vegan diet on the family cat.",
+              "sentence_ru": "Он попытался навязать свою веганскую диету семейному коту.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "I didn't mean to impose my new crypto cult on you at 3 AM, babe.",
               "sentence_ru": "Я не хотел навязывать тебе свой новый крипто-культ в три часа ночи, детка.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "Mars will force you to impose your weird cat-worship on your horrified boss tomorrow.",
               "sentence_ru": "Марс заставит тебя завтра навязать твое странное котопоклонничество твоему ужаснувшемуся боссу.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Don't try to impose your weird vegan diet on my mouse addiction, Karen.",
-              "sentence_ru": "Не пытайся навязывать свою странную веганскую диету на мою мышиную зависимость, Карен.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 997411,
+          "due_tick": 997550,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-21T09:30:22.000099+00:00",
-          "pending_msg": 2055,
+          "last_sent_at": "2026-11-24T07:05:19.971225+00:00",
+          "pending_msg": 2095,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997474,
+      "last_deliver_tick": 997502,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-24",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
