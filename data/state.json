@@ -706,6 +706,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "This terrible cream seems to perpetuate my eternal suffering and wrinkles.",
+              "sentence_ru": "Этот ужасный крем, кажется, увековечивает мои вечные страдания и морщины.",
+              "word_form": "perpetuate"
+            },
+            {
               "sentence": "Stop playing techno at 4 AM, you just perpetuate this cursed apartment building's misery!",
               "sentence_ru": "Хватит включать техно в 4 утра, вы просто увековечиваете страдания этого проклятого дома!",
               "word_form": "perpetuate"
@@ -724,20 +729,15 @@
               "sentence": "Posting blurry mirror selfies to perpetuate the mystery of why my ex blocked me.",
               "sentence_ru": "Выкладываю размытые селфи в зеркало, чтобы увековечить загадку, почему мой бывший меня заблокировал.",
               "word_form": "perpetuate"
-            },
-            {
-              "sentence": "You perpetuate this stupid myth that I am on a diet by licking empty plates.",
-              "sentence_ru": "Ты вечно подпитываешь этот тупой миф о моей диете, вылизывая пустые тарелки.",
-              "word_form": "perpetuate"
             }
           ],
           "created_at": "2026-09-28T13:23:34.579525+00:00",
-          "due_tick": 997458,
+          "due_tick": 997599,
           "id": "d0dd591c9b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-22T09:00:11.281371+00:00",
-          "pending_msg": 2070,
+          "last_sent_at": "2026-11-25T07:30:07.055308+00:00",
+          "pending_msg": 2112,
           "reps": 0,
           "step": 0,
           "word": "perpetuate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997550,
+      "last_deliver_tick": 997551,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-25",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex had to undergo plastic surgery just to look me in the eyes again.",
+              "sentence_ru": "Моей бывшей пришлось сделать пластическую операцию, только чтобы снова посмотреть мне в глаза.",
+              "word_form": "undergo"
+            },
+            {
               "sentence": "I had to undergo a full plastic surgery after reading your garbage review, Karen.",
               "sentence_ru": "Мне пришлось перенести полную пластическую операцию после чтения твоего мусорного отзыва, Карен.",
               "word_form": "undergo"
@@ -1111,20 +1116,15 @@
               "sentence": "Residents of apt. 48 must undergo immediate exorcism before playing techno at 3 AM.",
               "sentence_ru": "Жители кв. 48 должны пройти срочное изгнание дьявола перед тем, как включать техно в 3 часа ночи.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "Our lazy boss had to undergo a drug test, and his plants are sweating.",
-              "sentence_ru": "Нашему ленивому боссу пришлось пройти тест на наркотики, и его цветы в горшках потели от страха.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 997459,
+          "due_tick": 997599,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-22T09:30:16.819914+00:00",
-          "pending_msg": 2073,
+          "last_sent_at": "2026-11-25T07:30:08.568759+00:00",
+          "pending_msg": 2113,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997550,
+      "last_deliver_tick": 997551,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-25",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
