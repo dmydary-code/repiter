@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Your new boyfriend looks like he survives on celebrity endorsement and pure desperation.",
+              "sentence_ru": "Твой новый бойфренд выглядит так, будто выживает за счет рекламы у звезд и чи отчаяния.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "This weird cream smells like trash, but the celebrity endorsement made me buy three jars.",
               "sentence_ru": "Этот странный крем воняет помойкой, но рекламное лицо бренда заставило меня купить три банки.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "Satan's new crypto scam thrives thanks to a sudden celebrity endorsement from the Pope.",
               "sentence_ru": "Новый криптолохотрон Сатаны процветает благодаря внезапной поддержке знаменитости в лице Папы Римского.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "My career died the moment that tragic celebrity endorsement for fungal cream aired on TV.",
-              "sentence_ru": "Моя карьера умерла в тот момент, когда по телевизору показали эту позорную рекламу маска от грибка с моим участием.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 997503,
+          "due_tick": 997610,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-23T07:30:11.426878+00:00",
-          "pending_msg": 2080,
+          "last_sent_at": "2026-11-25T13:00:07.830694+00:00",
+          "pending_msg": 2122,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997561,
+      "last_deliver_tick": 997562,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-25",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1283,12 +1283,12 @@
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 997504,
+          "due_tick": 997610,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-23T08:00:08.895484+00:00",
-          "pending_msg": 2083,
+          "last_sent_at": "2026-11-25T13:02:31.702865+00:00",
+          "pending_msg": 2123,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997561,
+      "last_deliver_tick": 997562,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-25",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
