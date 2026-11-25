@@ -501,6 +501,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Scorpio won't mince words when telling your boss he looks like a drunk raccoon.",
+              "sentence_ru": "Скорпион не станет подбирать выражения, заявляя вашему боссу, что он похож на пьяного енота.",
+              "word_form": "mince words"
+            },
+            {
               "sentence": "Don't mince words, human, tell me why my expensive salmon smells like garbage.",
               "sentence_ru": "Не подбирай выражения, кожаный, и скажи мне, почему мой дорогой лосось воняет помойкой.",
               "word_form": "mince words"
@@ -519,20 +524,15 @@
               "sentence": "I won't mince words, Greg: your quarterly report looks like trash written by a drunk raccoon.",
               "sentence_ru": "Я не буду церемониться, Грег: твой квартальный отчет выглядит как мусор, написанный пьяным енотом.",
               "word_form": "mince words"
-            },
-            {
-              "sentence": "I won't mince words, Greg, your quarterly report looks like trash written by a drunk raccoon.",
-              "sentence_ru": "Я не буду церемониться, Грег, твой квартальный отчет выглядит как мусор, написанный пьяным енотом.",
-              "word_form": "mince words"
             }
           ],
           "created_at": "2026-08-30T18:15:16.479334+00:00",
-          "due_tick": 997460,
+          "due_tick": 997601,
           "id": "28a1fe0ff2",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-22T10:00:26.298378+00:00",
-          "pending_msg": 2074,
+          "last_sent_at": "2026-11-25T08:30:21.424493+00:00",
+          "pending_msg": 2116,
           "reps": 0,
           "step": 0,
           "word": "mince words",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997552,
+      "last_deliver_tick": 997553,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-25",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A mutant cockroach started to emerge from the microwave after I rated this seller one star.",
+              "sentence_ru": "Мутант-таракан начал вылезать из микроволновки после того, как я поставил этому продавцу одну звезду.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "My ex-boyfriend tends to emerge from the toaster whenever I make sad grilled cheese.",
               "sentence_ru": "Мой бывший парень имеет свойство появляться из тостера, когда я делаю грустный горячий бутерброд.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "I wait for my inner demons to emerge from the closet, but they are too scared of my messy room.",
               "sentence_ru": "Я жду, пока мои внутренние демоны вылезут из шкафа, но они слишком боятся моего бардака в комнате.",
               "word_form": "to emerge"
-            },
-            {
-              "sentence": "My ex had to emerge from the bushes right when I looked my absolute worst.",
-              "sentence_ru": "Моя бывшая обязана была вылезти из кустов ровно тогда, когда я выглядел максимально ущербно.",
-              "word_form": "emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 997461,
+          "due_tick": 997601,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-22T10:30:11.271851+00:00",
-          "pending_msg": 2077,
+          "last_sent_at": "2026-11-25T08:30:36.097736+00:00",
+          "pending_msg": 2117,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997552,
+      "last_deliver_tick": 997553,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-25",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
