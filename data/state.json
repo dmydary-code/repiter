@@ -50,6 +50,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "A cheeky pigeon stole the Pope’s hat during the apocalypse.",
+              "sentence_ru": "Наглый голубь украл шляпу Папы Римского во время апокалипсиса.",
+              "word_form": "cheeky"
+            },
+            {
               "sentence": "That cheeky neighbor parked his trash can right in front of my garage again!",
               "sentence_ru": "Этот наглый сосед опять поставил свой мусорный бак прямо перед моим гаражом!",
               "word_form": "cheeky"
@@ -68,20 +73,15 @@
               "sentence": "That cheeky cat who keeps stealing sausages from flat 14 has no respect for the law.",
               "sentence_ru": "Тот наглый кот, который постоянно ворует сосиски из 14-й квартиры, вообще не уважает закон.",
               "word_form": "cheeky"
-            },
-            {
-              "sentence": "A cheeky astrologer will steal your wallet while whispering sweet lies about your career.",
-              "sentence_ru": "Наглый астролог украдет твой кошелек, пока шепчет сладостную ложь о твоей карьере.",
-              "word_form": "cheeky"
             }
           ],
           "created_at": "2026-08-23T22:06:34.955180+00:00",
-          "due_tick": 997512,
+          "due_tick": 997650,
           "id": "2a07714536",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-23T12:00:06.882861+00:00",
-          "pending_msg": 2092,
+          "last_sent_at": "2026-11-26T09:00:13.244338+00:00",
+          "pending_msg": 2134,
           "reps": 0,
           "step": 0,
           "word": "cheeky",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997601,
+      "last_deliver_tick": 997602,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1667,6 +1667,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I didn't mean to impose my new crypto cult on you at 3 AM.",
+              "sentence_ru": "Я не хотел навязывать тебе свой новый крипто-культ в 3 часа ночи.",
+              "word_form": "impose"
+            },
+            {
               "sentence": "He tried to impose his vegan diet on the family cat.",
               "sentence_ru": "Он попытался навязать свою веганскую диету семейному коту.",
               "word_form": "impose"
@@ -1685,20 +1690,15 @@
               "sentence": "This weird psychic tried to impose his cursed crystals on my delivery guy.",
               "sentence_ru": "Этот странный экстрасенс попытался навязать свои проклятые кристаллы моему курьеру.",
               "word_form": "impose"
-            },
-            {
-              "sentence": "Mars will force you to impose your weird cat-worship on your horrified boss tomorrow.",
-              "sentence_ru": "Марс заставит тебя завтра навязать твое странное котопоклонничество твоему ужаснувшемуся боссу.",
-              "word_form": "impose"
             }
           ],
           "created_at": "2026-08-29T12:05:29.102440+00:00",
-          "due_tick": 997550,
+          "due_tick": 997650,
           "id": "72bf877189",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-24T07:05:19.971225+00:00",
-          "pending_msg": 2095,
+          "last_sent_at": "2026-11-26T09:00:14.540742+00:00",
+          "pending_msg": 2135,
           "reps": 0,
           "step": 0,
           "word": "impose",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997601,
+      "last_deliver_tick": 997602,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
