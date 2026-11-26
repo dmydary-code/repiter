@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm rolling in money now, but you still sleep alone in your mom's basement.",
+              "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё ещё спишь одна в мамином подвале.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "Our neighbor in apt 40 is rolling in money, yet still steals my Amazon packages.",
               "sentence_ru": "Наш сосед из 40-й квартиры купается в деньгах, но всё равно ворёт мои посылки с Амазона.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "My cat is rolling in money after selling nude photos of his paws to rich strays.",
               "sentence_ru": "Мой кот купается в деньгах после продажи нюдсов своих лапок богатым бродягам.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "Stop buying cheap canned fish, human, we are rolling in money now!",
-              "sentence_ru": "Хватит покупать дешёвую консервированную рыбу, кожаный, мы теперь купаемся в деньгах!",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 997505,
+          "due_tick": 997646,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-23T08:30:04.757674+00:00",
-          "pending_msg": 2084,
+          "last_sent_at": "2026-11-26T07:00:09.729231+00:00",
+          "pending_msg": 2126,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997571,
+      "last_deliver_tick": 997598,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1503,6 +1503,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "We lost our dignity, our pants, and our minds altogether at the corporate party.",
+              "sentence_ru": "Мы потеряли достоинство, штаны и рассудок разом на корпоративе.",
+              "word_form": "altogether"
+            },
+            {
               "sentence": "Mutant raccoons stole 400 nuclear reactors and vanished altogether into the sewer system.",
               "sentence_ru": "Еноты-мутанты украли 400 ядерных реакторов и полностью исчезли в канализационной системе.",
               "word_form": "altogether"
@@ -1521,20 +1526,15 @@
               "sentence": "Your new outfit is altogether ridiculous, human, but at least my fur matches it.",
               "sentence_ru": "Твой новый наряд совершенно нелепий, двуногий, но зато моя шерсть к нему подходит.",
               "word_form": "altogether"
-            },
-            {
-              "sentence": "We lost our dignity, our pants, and our minds altogether at the corporate party.",
-              "sentence_ru": "Мы потеряли достоинство, штаны и рассудок разом на корпоративе.",
-              "word_form": "altogether"
             }
           ],
           "created_at": "2026-08-29T12:05:00.451769+00:00",
-          "due_tick": 997506,
+          "due_tick": 997646,
           "id": "56692d5953",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-23T09:00:34.100199+00:00",
-          "pending_msg": 2087,
+          "last_sent_at": "2026-11-26T07:00:11.325871+00:00",
+          "pending_msg": 2127,
           "reps": 0,
           "step": 0,
           "word": "altogether",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997571,
+      "last_deliver_tick": 997598,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 0,
+      "sent_today": 1,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
