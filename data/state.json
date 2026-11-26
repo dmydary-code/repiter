@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Attention! All acquired alcohol from apartment 42 will be confiscated for scientific research by drunk cats.",
+              "sentence_ru": "Внимание! Весь приобретенный алкоголь из квартиры 42 будет конфискован для научных исследований пьяными котами.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "I acquired this cursed antique mirror just to watch ghosts ruin my ex's life.",
               "sentence_ru": "Я приобрел это проклятое антикварное зеркало только чтобы смотреть, как призраки портят жизнь моему бывшему.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "Due to your acquired mutant claws, throwing trash from the balcony is now strictly prohibited.",
               "sentence_ru": "Из-за ваших приобретенных мутантских клешней бросать мусор с балкона теперь строго запрещено.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "That strange taste for cheap gin is just an acquired trauma from dating Jim.",
-              "sentence_ru": "Этот странный вкус к дешевому джину — просто приобретенная травма от свиданий с Джимом.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 997506,
+          "due_tick": 997647,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-23T09:00:33.115693+00:00",
-          "pending_msg": 2086,
+          "last_sent_at": "2026-11-26T07:30:26.143064+00:00",
+          "pending_msg": 2128,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997598,
+      "last_deliver_tick": 997599,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Please adjust your damned subwoofer, my ceiling chandelier is already dancing a polka.",
+              "sentence_ru": "Пожалуйста, настройте свой гребаный сабвуфер, моя люстра на потолке уже танцует полику.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "I had to adjust my tin foil hat so the aliens stop stealing my Wi-Fi.",
               "sentence_ru": "Мне пришлось подправить шапочку из фольги, чтобы пришельцы перестали воровать мой вайфай.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "He had to adjust his cat's VR headset so the fluffy idiot stopped headbutting walls.",
               "sentence_ru": "Ему пришлось настроить VR-очки своего кота, чтобы этот пушистый идиот перестал биться головой о стены.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "I had to adjust my crown so the peasants could see me better.",
-              "sentence_ru": "Мне пришлось поправить корону, чтобы холопы видели меня лучше.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 997507,
+          "due_tick": 997647,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-23T09:30:05.270566+00:00",
-          "pending_msg": 2089,
+          "last_sent_at": "2026-11-26T07:30:28.751221+00:00",
+          "pending_msg": 2129,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997598,
+      "last_deliver_tick": 997599,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
