@@ -9,6 +9,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Even the most arrogant Leo must stay humble when bankruptcy knocks tomorrow.",
+              "sentence_ru": "Даже самый заносчивый Лев должен оставаться скромным, когда завтра постучится банкротство.",
+              "word_form": "humble"
+            },
+            {
               "sentence": "Even my cat looks at me like I am too humble to pet her.",
               "sentence_ru": "Даже моя кошка смотрит на меня так, будто я слишком скромный, чтобы её погладить.",
               "word_form": "humble"
@@ -27,20 +32,15 @@
               "sentence": "Too humble to flex my gold toilet, I just use it quietly.",
               "sentence_ru": "Слишком скромный, чтобы хвастаться золотым унитазом, я просто пользуюсь им молча.",
               "word_form": "humble"
-            },
-            {
-              "sentence": "Be humble, human, and maybe I won't throw up in your expensive shoes.",
-              "sentence_ru": "Будь скромной, кожаная, и, может, я не стану блевать в твои дорогие туфли.",
-              "word_form": "humble"
             }
           ],
           "created_at": "2026-08-23T22:06:09.433465+00:00",
-          "due_tick": 997511,
+          "due_tick": 997649,
           "id": "651741443b",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-23T11:47:50.276380+00:00",
-          "pending_msg": 2090,
+          "last_sent_at": "2026-11-26T08:30:15.166232+00:00",
+          "pending_msg": 2132,
           "reps": 0,
           "step": 0,
           "word": "humble",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997600,
+      "last_deliver_tick": 997601,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1626,6 +1626,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Human, ramp up the food delivery or I will consume your soul tonight.",
+              "sentence_ru": "Человек, наращивай поставки еды, иначе я сожру твою душу сегодня ночью.",
+              "word_form": "ramp up"
+            },
+            {
               "sentence": "I had to ramp up my witch curses after this awful broom arrived damaged.",
               "sentence_ru": "Мне пришлось усилить ведьминские проклятия после того, как эта ужасная метла пришла поврежденной.",
               "word_form": "ramp up"
@@ -1644,20 +1649,15 @@
               "sentence": "Human, ramp up production of my salmon right now or I will puke in your shoes.",
               "sentence_ru": "Человек, наращивай производство моего лосося прямо сейчас, или я наблеваю тебе в туфли.",
               "word_form": "ramp up"
-            },
-            {
-              "sentence": "Aries, ramp up your chaos levels tomorrow or the universe will die of boredom.",
-              "sentence_ru": "Овны, завтра наращивайте уровень своего хаоса, иначе вселенная умрет от скуки.",
-              "word_form": "ramp up"
             }
           ],
           "created_at": "2026-08-29T12:05:27.959704+00:00",
-          "due_tick": 997512,
+          "due_tick": 997649,
           "id": "d698cc24d3",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-23T12:00:07.939198+00:00",
-          "pending_msg": 2093,
+          "last_sent_at": "2026-11-26T08:30:20.497124+00:00",
+          "pending_msg": 2133,
           "reps": 0,
           "step": 0,
           "word": "ramp up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997600,
+      "last_deliver_tick": 997601,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
