@@ -296,6 +296,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My inner demons encorage me to eat the entire cake at 3 AM.",
+              "sentence_ru": "Мои внутренние демоны поощряют меня сожрать весь торт в 3 часа ночи.",
+              "word_form": "encorage"
+            },
+            {
               "sentence": "My inner demon will always encorage me to eat pizza at 3 AM.",
               "sentence_ru": "Мой внутренний демон всегда будет подбадривать меня жрать пиццу в 3 часа ночи.",
               "word_form": "encorage"
@@ -314,20 +319,15 @@
               "sentence": "My therapist had to encorage me just to text my ex back.",
               "sentence_ru": "Моему психотерапевту пришлось поощрять меня, чтобы я просто написал бывшему.",
               "word_form": "encorage"
-            },
-            {
-              "sentence": "I still encorage your terrible life choices, especially texting me at 3 AM.",
-              "sentence_ru": "Я всё ещё поощряю твои ужасные жизненные выборы, особенно когда ты пишешь мне в 3 часа ночи.",
-              "word_form": "encorage"
             }
           ],
           "created_at": "2026-08-23T22:10:36.912540+00:00",
-          "due_tick": 997507,
+          "due_tick": 997648,
           "id": "c01e781570",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-23T09:30:04.101849+00:00",
-          "pending_msg": 2088,
+          "last_sent_at": "2026-11-26T08:00:20.164071+00:00",
+          "pending_msg": 2130,
           "reps": 0,
           "step": 0,
           "word": "encorage",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997599,
+      "last_deliver_tick": 997600,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My brain tends to seize up whenever my toxic ex tries to talk to me.",
+              "sentence_ru": "Мой мозг обычно заклинивает каждый раз, когда мой токсичный бывший пытается со мной заговорить.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My blender suddenly decided to seize up while mixing cement for my grandmother's birthday cake.",
               "sentence_ru": "Мой блендер внезапно решил заклинить во время замешивания цемента для торта бабушки.",
               "word_form": "to seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "If your cheap brain tends to seize up from reading this notice, call an ambulance.",
               "sentence_ru": "Если твой дешевый мозг имеет свойство заклинивать от чтения этого объявления, вызывай скорую.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "My cold dead heart began to seize up the moment she smiled at me.",
-              "sentence_ru": "Мое холодное мертвое сердце начало заклинивать в тот момент, когда она мне улыбнулась.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 997511,
+          "due_tick": 997648,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-23T11:47:51.424544+00:00",
-          "pending_msg": 2091,
+          "last_sent_at": "2026-11-26T08:00:23.302257+00:00",
+          "pending_msg": 2131,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997599,
+      "last_deliver_tick": 997600,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
