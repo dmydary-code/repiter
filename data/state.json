@@ -214,6 +214,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My angry cat will devastate the entire living room if I buy cheap kibble.",
+              "sentence_ru": "Мой злой кот полностью разнесет всю гостиную, если я куплю дешевый сухой корм.",
+              "word_form": "devastate"
+            },
+            {
               "sentence": "I will devastate your new boyfriend's entire Spotify playlist just like you devastated me.",
               "sentence_ru": "Я опустошу плейлист твоего нового бойфренда в Spotify точно так же, как ты опустошила меня.",
               "word_form": "devastate"
@@ -232,20 +237,15 @@
               "sentence": "Your wild raccoon army will devastate our courtyard if you do not stop feeding them.",
               "sentence_ru": "Ваша армия диких енотов разнесет наш двор нахуй, если вы не перестанете их кормить.",
               "word_form": "devastate"
-            },
-            {
-              "sentence": "Your ex will devastate your fridge tomorrow, so hide the good vodka now.",
-              "sentence_ru": "Твой бывший завтра опустошит твой холодильник, так что прячь хорошую водку прямо сейчас.",
-              "word_form": "devastate"
             }
           ],
           "created_at": "2026-08-23T22:10:22.099135+00:00",
-          "due_tick": 997551,
+          "due_tick": 997659,
           "id": "d2fb8c3ce3",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-24T07:30:24.109225+00:00",
-          "pending_msg": 2096,
+          "last_sent_at": "2026-11-26T13:35:51.537294+00:00",
+          "pending_msg": 2138,
           "reps": 0,
           "step": 0,
           "word": "devastate",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997603,
+      "last_deliver_tick": 997611,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -929,6 +929,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "HR uses the backstreets to hunt for new talent because normal people avoid us.",
+              "sentence_ru": "Отдел кадров шарахается по трущобам в поисках новых талантов, потому что нормальные люди нас избегают.",
+              "word_form": "backstreets"
+            },
+            {
               "sentence": "HR leaves through the backstreets so nobody asks about the missing office snacks.",
               "sentence_ru": "Эйчар уходит через задворки, чтобы никто не спрашивал про пропавшие офисные снеки.",
               "word_form": "backstreets"
@@ -947,20 +952,15 @@
               "sentence": "I ran through the dark backstreets while my demons finally caught up.",
               "sentence_ru": "Я бежал по темным задворкам, пока мои демоны наконец не настигли меня.",
               "word_form": "backstreets"
-            },
-            {
-              "sentence": "He runs crypto scams from the backstreets because paying taxes is for nerds.",
-              "sentence_ru": "Он проворачивает криптоаферы с задворок, потому что платить налоги — для ботанов.",
-              "word_form": "backstreets"
             }
           ],
           "created_at": "2026-08-23T22:09:15.179231+00:00",
-          "due_tick": 997552,
+          "due_tick": 997659,
           "id": "db2a0b8fd3",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-24T08:00:11.610348+00:00",
-          "pending_msg": 2099,
+          "last_sent_at": "2026-11-26T13:35:55.198088+00:00",
+          "pending_msg": 2139,
           "reps": 4,
           "step": 4,
           "word": "backstreets",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997603,
+      "last_deliver_tick": 997611,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
