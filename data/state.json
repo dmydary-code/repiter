@@ -173,6 +173,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My ex built a secret compound for cats, and now he is the mayor of meow.",
+              "sentence_ru": "Бывший построил секретный компаунд для котов, и теперь он мэр мяу.",
+              "word_form": "compound"
+            },
+            {
               "sentence": "Mutated raccoons compound stolen radioactive waste to brew toxic moonshine in the basement.",
               "sentence_ru": "Мутировавшие еноты смешивают украденные радиоактивные отходы для варки токсичного самогона в подвале.",
               "word_form": "compound"
@@ -191,20 +196,15 @@
               "sentence": "Mutant raccoon built a toxic compound in the mayor's backyard.",
               "sentence_ru": "Мутант-енот построил токсичное соединение на заднем дворе мэра.",
               "word_form": "compound"
-            },
-            {
-              "sentence": "My ex built a compound for cats to plot world domination.",
-              "sentence_ru": "Мой бывший построил компаунд для котов, чтобы те захватили мир.",
-              "word_form": "compound"
             }
           ],
           "created_at": "2026-08-23T22:10:16.418766+00:00",
-          "due_tick": 997550,
+          "due_tick": 997651,
           "id": "686e85be11",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-24T07:05:18.777036+00:00",
-          "pending_msg": 2094,
+          "last_sent_at": "2026-11-26T09:30:01.847025+00:00",
+          "pending_msg": 2136,
           "reps": 0,
           "step": 0,
           "word": "compound",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997602,
+      "last_deliver_tick": 997603,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1339,6 +1339,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I hold the view that your expensive shoes are my personal toilet.",
+              "sentence_ru": "Я придерживаюсь мнения, что твои дорогие туфли — это мой личный туалет.",
+              "word_form": "I hold the view that"
+            },
+            {
               "sentence": "I hold the view that my ex is a psychopath, yet I still miss him.",
               "sentence_ru": "Я придерживаюсь мнения, что мой бывший — психопат, но я всё равно скучаю по нему.",
               "word_form": "I hold the view that"
@@ -1357,20 +1362,15 @@
               "sentence": "I hold the view that whoever keeps throwing garbage from the balcony will eat it.",
               "sentence_ru": "Я придерживаюсь мнения, что тот, кто продолжает кидать мусор с балкона, сожрет его.",
               "word_form": "I hold the view that"
-            },
-            {
-              "sentence": "I hold the view that raccoons deserve full voting rights after midnight.",
-              "sentence_ru": "Я придерживаюсь мнения, что еноты заслуживают полного избирательного права после полуночи.",
-              "word_form": "I hold the view that"
             }
           ],
           "created_at": "2026-08-29T12:01:53.038165+00:00",
-          "due_tick": 997551,
+          "due_tick": 997651,
           "id": "a416a94e6e",
           "lang": "en",
           "lapses": 1,
-          "last_sent_at": "2026-11-24T07:30:28.492486+00:00",
-          "pending_msg": 2097,
+          "last_sent_at": "2026-11-26T09:30:03.149507+00:00",
+          "pending_msg": 2137,
           "reps": 0,
           "step": 0,
           "word": "I hold the view that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997602,
+      "last_deliver_tick": 997603,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
