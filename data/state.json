@@ -665,6 +665,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The aforementioned degenerate who keeps pissing in the elevator will be fed to feral dogs.",
+              "sentence_ru": "Вышеупомянутый дегенерат, который продолжает ссать в лифте, будет скормлен диким собакам.",
+              "word_form": "aforementioned"
+            },
+            {
               "sentence": "Who the hell let the aforementioned goat eat my doormat again?",
               "sentence_ru": "Какого черта этот вышеупомянутый козел снова сожрал мой коврик у двери?",
               "word_form": "aforementioned"
@@ -683,20 +688,15 @@
               "sentence": "That aforementioned raccoon stole my crypto wallet and is currently fleeing in my Tesla.",
               "sentence_ru": "Тот самый вышеупомянутый енот украл мой криптокошелек и сейчас сбегает на моей Тесле.",
               "word_form": "aforementioned"
-            },
-            {
-              "sentence": "Who the hell let the aforementioned goat eat my doormat again?",
-              "sentence_ru": "Кто, черт возьми, позволил вышеупомянутому козлу снова сжрать мой коврик у двери?",
-              "word_form": "aforementioned"
             }
           ],
           "created_at": "2026-09-01T05:14:12.481829+00:00",
-          "due_tick": 997552,
+          "due_tick": 997660,
           "id": "f939077a5c",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-24T08:00:10.250019+00:00",
-          "pending_msg": 2098,
+          "last_sent_at": "2026-11-26T14:00:09.683927+00:00",
+          "pending_msg": 2140,
           "reps": 0,
           "step": 0,
           "word": "aforementioned",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997611,
+      "last_deliver_tick": 997612,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1298,6 +1298,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It would be hard to deny that my ex looks like a total goblin now.",
+              "sentence_ru": "Трудно отрицать, что моя бывшая теперь выглядит как абсолютный гоблин.",
+              "word_form": "It would be hard to deny that"
+            },
+            {
               "sentence": "It would be hard to deny that your ex will text you right after midnight.",
               "sentence_ru": "Трудно отрицать, что твой бывший напишет тебе сразу после полуночи.",
               "word_form": "It would be hard to deny that"
@@ -1316,20 +1321,15 @@
               "sentence": "It would be hard to deny that someone is stealing the elevator mirrors again.",
               "sentence_ru": "Трудно отрицать, что кто-то снова ворует зеркала в лифте.",
               "word_form": "It would be hard to deny that"
-            },
-            {
-              "sentence": "It would be hard to deny that I ate the last donut with absolute malice.",
-              "sentence_ru": "Трудно отрицать, что я сожрал последний пончик с абсолютным злым умыслом.",
-              "word_form": "It would be hard to deny that"
             }
           ],
           "created_at": "2026-08-29T12:01:35.182307+00:00",
-          "due_tick": 997553,
+          "due_tick": 997660,
           "id": "0a85ee39ef",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-24T08:30:20.171934+00:00",
-          "pending_msg": 2101,
+          "last_sent_at": "2026-11-26T14:00:16.849423+00:00",
+          "pending_msg": 2141,
           "reps": 5,
           "step": 5,
           "word": "it would be hard to deny that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997611,
+      "last_deliver_tick": 997612,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-26",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
