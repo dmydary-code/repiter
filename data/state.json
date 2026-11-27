@@ -829,6 +829,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "The raccoon barked plaintively at the microwave because the hot pocket was still frozen.",
+              "sentence_ru": "Енот жалобно лаял на микроволновку, потому что хот-покет всё ещё был заморожен.",
+              "word_form": "plaintively"
+            },
+            {
               "sentence": "Why are you looking at my new rich boyfriend so plaintively while eating trash?",
               "sentence_ru": "Почему ты так жалобно смотришь на моего нового богатого парня, пока ешь мусор?",
               "word_form": "plaintively"
@@ -847,20 +852,15 @@
               "sentence": "Staring at my empty pizza box, I meowed plaintively until my roommate ordered another one.",
               "sentence_ru": "Глядя на пустую коробку из-под пиццы, я жалобно мяукал, пока сосед не заказал еще одну.",
               "word_form": "plaintively"
-            },
-            {
-              "sentence": "A captured goblin plaintively begged for mercy before the dungeon DJ dropped the bass.",
-              "sentence_ru": "Пойманный гоблин жалобно умолял о пощаде, прежде чем подземельный диджей врубил бас.",
-              "word_form": "plaintively"
             }
           ],
           "created_at": "2026-10-19T21:27:47.437465+00:00",
-          "due_tick": 997556,
+          "due_tick": 997697,
           "id": "2cd4f9bb78",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-24T10:00:18.706183+00:00",
-          "pending_msg": 2106,
+          "last_sent_at": "2026-11-27T08:30:21.179123+00:00",
+          "pending_msg": 2148,
           "reps": 0,
           "step": 0,
           "word": "plaintively",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997648,
+      "last_deliver_tick": 997649,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1052,6 +1052,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Attention! We will demolish this cursed entrance if nobody stops playing techno at 4 AM.",
+              "sentence_ru": "Внимание! Мы снесем этот проклятый подъезд, если никто не перестанет слушать техно в 4 утра.",
+              "word_form": "demolish"
+            },
+            {
               "sentence": "My angry ex-mother-in-law arrived with a bulldozer to demolish my treehouse.",
               "sentence_ru": "Моя разъяренная бывшая теща приехала на бульдозере, чтобы снести мой домик на дереве.",
               "word_form": "demolish"
@@ -1070,20 +1075,15 @@
               "sentence": "I will demolish your new boyfriend just like I demolished that extra large pizza.",
               "sentence_ru": "Я снесу твоего нового бойфренда точно так же, как уничтожил ту пиццу размера супер-люкс.",
               "word_form": "demolish"
-            },
-            {
-              "sentence": "He decided to demolish his ex-girlfriend's wedding cake with a heavy metal shovel.",
-              "sentence_ru": "Он решил снести свадебный торт своей бывшей девушки с помощью тяжелой металлической лопаты.",
-              "word_form": "to demolish"
             }
           ],
           "created_at": "2026-08-29T11:56:16.633988+00:00",
-          "due_tick": 997557,
+          "due_tick": 997697,
           "id": "24c6f44226",
           "lang": "en",
           "lapses": 7,
-          "last_sent_at": "2026-11-24T10:30:03.981519+00:00",
-          "pending_msg": 2109,
+          "last_sent_at": "2026-11-27T08:30:22.440091+00:00",
+          "pending_msg": 2149,
           "reps": 0,
           "step": 0,
           "word": "to demolish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997648,
+      "last_deliver_tick": 997649,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
