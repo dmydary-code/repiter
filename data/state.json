@@ -419,6 +419,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Karen brings up her crypto portfolio whenever the printer jams again.",
+              "sentence_ru": "Карен заводит разговор про свой криптопортфель всякий раз, когда принтер снова зажевывает бумагу.",
+              "word_form": "whenever"
+            },
+            {
               "sentence": "My cat aggressively judges my life choices whenever I eat cheese naked on the kitchen floor.",
               "sentence_ru": "Мой кот агрессивно оценивает мои жизненные выборы всякий раз, когда я голым ем сыр на кухонном полу.",
               "word_form": "whenever"
@@ -437,20 +442,15 @@
               "sentence": "Whenever my ex cries, I charge her admission to my pity party.",
               "sentence_ru": "Всякий раз, когда моя бывшая плачет, я беру с нее плату за вход на мою вечеринку жалости.",
               "word_form": "Whenever"
-            },
-            {
-              "sentence": "This cat vomits on my expensive rug whenever I leave the house.",
-              "sentence_ru": "Этот кот блевотит на мой дорогой ковер всякий раз, когда я ухожу из дома.",
-              "word_form": "whenever"
             }
           ],
           "created_at": "2026-08-30T18:09:08.382193+00:00",
-          "due_tick": 997557,
+          "due_tick": 997698,
           "id": "e107b86335",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-24T10:30:02.016612+00:00",
-          "pending_msg": 2108,
+          "last_sent_at": "2026-11-27T09:00:12.629201+00:00",
+          "pending_msg": 2150,
           "reps": 0,
           "step": 0,
           "word": "whenever",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997649,
+      "last_deliver_tick": 997650,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1380,6 +1380,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "It seems to me my sanity left this room hours ago.",
+              "sentence_ru": "Мне кажется, мой рассудок покинул эту комнату еще несколько часов назад.",
+              "word_form": "It seems to me"
+            },
+            {
               "sentence": "It seems to me that Greg is stealing printer toner again to fuel his illegal toaster business.",
               "sentence_ru": "Мне кажется, что Грег снова ворует тонер для принтера, чтобы развивать свой нелегальный тостерный бизнес.",
               "word_form": "It seems to me"
@@ -1398,20 +1403,15 @@
               "sentence": "It seems to me that your cat is plotting a bloody coup again.",
               "sentence_ru": "Мне кажется, что твой кот снова замышляет кровавый переворот.",
               "word_form": "It seems to me"
-            },
-            {
-              "sentence": "It seems to me this dildo was used by a ghost, it is freezing cold.",
-              "sentence_ru": "Мне кажется, этим фаллоимитатором пользовалось привидение, он ледяной.",
-              "word_form": "It seems to me"
             }
           ],
           "created_at": "2026-08-29T12:02:32.650513+00:00",
-          "due_tick": 997598,
+          "due_tick": 997698,
           "id": "e9cb907104",
           "lang": "en",
           "lapses": 3,
-          "last_sent_at": "2026-11-25T07:00:21.127527+00:00",
-          "pending_msg": 2111,
+          "last_sent_at": "2026-11-27T09:00:14.378261+00:00",
+          "pending_msg": 2151,
           "reps": 1,
           "step": 0,
           "word": "it seems to me",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997649,
+      "last_deliver_tick": 997650,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 4,
+      "sent_today": 5,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
