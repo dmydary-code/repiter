@@ -748,6 +748,11 @@
           "cache": [
             {
               "sentence": "We are profoundly disgusted by whoever keeps flushing concrete down the toilet in apt 44.",
+              "sentence_ru": "Мы глубоко отвращены тем, кто продолжает смывать бетон в унитаз в 44-й квартире.",
+              "word_form": "profoundly"
+            },
+            {
+              "sentence": "We are profoundly disgusted by whoever keeps flushing concrete down the toilet in apt 44.",
               "sentence_ru": "Мы глубоко омерзели тем, кто продолжает смывать бетон в унитаз в 44-й квартире.",
               "word_form": "profoundly"
             },
@@ -765,20 +770,15 @@
               "sentence": "I stared into the empty fridge, profoundly regretting my life choices.",
               "sentence_ru": "Я пялился на пустой холодильник, глубоко сожалея о своих жизненных выборах.",
               "word_form": "profoundly"
-            },
-            {
-              "sentence": "Local cat was profoundly offended when the pope refused to worship it.",
-              "sentence_ru": "Местный кот был глубоко оскорблен, когда папа римский отказался ему поклоняться.",
-              "word_form": "profoundly"
             }
           ],
           "created_at": "2026-09-28T13:28:56.647193+00:00",
-          "due_tick": 997600,
+          "due_tick": 997708,
           "id": "3679df0451",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-25T08:00:29.213422+00:00",
-          "pending_msg": 2114,
+          "last_sent_at": "2026-11-27T14:17:24.573769+00:00",
+          "pending_msg": 2156,
           "reps": 0,
           "step": 0,
           "word": "profoundly",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997652,
+      "last_deliver_tick": 997660,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1134,6 +1134,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If debt collectors emerge from the basement again, throw holy water at them.",
+              "sentence_ru": "Если коллекторы снова появятся из подвала, киньте в них святой водой.",
+              "word_form": "emerge"
+            },
+            {
               "sentence": "A mutant cockroach started to emerge from the microwave after I rated this seller one star.",
               "sentence_ru": "Мутант-таракан начал вылезать из микроволновки после того, как я поставил этому продавцу одну звезду.",
               "word_form": "emerge"
@@ -1152,20 +1157,15 @@
               "sentence": "I had to emerge from the shadows just to tell you that your new haircut is a crime.",
               "sentence_ru": "Мне пришлось выползти из тени только чтобы сказать, что твоя новая стрижка — это преступление.",
               "word_form": "emerge"
-            },
-            {
-              "sentence": "I wait for my inner demons to emerge from the closet, but they are too scared of my messy room.",
-              "sentence_ru": "Я жду, пока мои внутренние демоны вылезут из шкафа, но они слишком боятся моего бардака в комнате.",
-              "word_form": "to emerge"
             }
           ],
           "created_at": "2026-08-29T11:58:28.644560+00:00",
-          "due_tick": 997601,
+          "due_tick": 997708,
           "id": "f8c593a6d8",
           "lang": "en",
           "lapses": 6,
-          "last_sent_at": "2026-11-25T08:30:36.097736+00:00",
-          "pending_msg": 2117,
+          "last_sent_at": "2026-11-27T14:17:25.792803+00:00",
+          "pending_msg": 2157,
           "reps": 0,
           "step": 0,
           "word": "to emerge",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997652,
+      "last_deliver_tick": 997660,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 7,
+      "sent_today": 8,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
