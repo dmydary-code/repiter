@@ -132,6 +132,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Her constant whispering seems to undermine my last shreds of sanity.",
+              "sentence_ru": "Её постоянное шёпотное капание на мозги подрывает мои последние крохи рассудка.",
+              "word_form": "undermine"
+            },
+            {
               "sentence": "My ex tried to undermine my confidence, so I married a billionaire instead.",
               "sentence_ru": "Бывший пытался подорвать мою уверенность, поэтому я вышла замуж за миллиардера.",
               "word_form": "undermine"
@@ -150,20 +155,15 @@
               "sentence": "These cheap Chinese leggings tried to undermine my confidence right in the middle of a crowded grocery store.",
               "sentence_ru": "Эти дешевые китайские леггинсы попытались подорвать мою уверенность прямо посреди забитого продуктового магазина.",
               "word_form": "undermine"
-            },
-            {
-              "sentence": "Your constant crying doesn't undermine my authority, human, it just proves I'm the boss.",
-              "sentence_ru": "Твой постоянный плач не подрывает мой авторитет, кожаная, он просто доказывает, что я здесь босс.",
-              "word_form": "undermine"
             }
           ],
           "created_at": "2026-08-23T22:10:09.041472+00:00",
-          "due_tick": 997554,
+          "due_tick": 997695,
           "id": "50211aa97d",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-24T09:00:01.924025+00:00",
-          "pending_msg": 2102,
+          "last_sent_at": "2026-11-27T07:30:13.173518+00:00",
+          "pending_msg": 2144,
           "reps": 0,
           "step": 0,
           "word": "undermine",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997646,
+      "last_deliver_tick": 997647,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -887,6 +887,11 @@
         {
           "archived": false,
           "cache": [
+            {
+              "sentence": "This drab dress made my ex look like a sad wet pigeon.",
+              "sentence_ru": "Это унылое платье заставляло мою бывшую выглядеть как грустный мокрый голубь.",
+              "word_form": "drab"
+            },
             {
               "sentence": "Aliens refuse to invade Earth because our local fashion is too drab.",
               "sentence_ru": "Инопланетяне отказываются захватывать Землю, потому что наша местная мода слишком унылая.",
@@ -906,20 +911,15 @@
               "sentence": "Your new velvet couch is so drab, human, it makes my shiny black fur look depressed.",
               "sentence_ru": "Твой новый бархатный диван такой унылый, человек, от него моя блестящая черная шерсть выглядит подавленной.",
               "word_form": "drab"
-            },
-            {
-              "sentence": "Your new curtains are so drab that even I want to throw up a hairball.",
-              "sentence_ru": "Твои новые шторы такие унылые, что даже мне хочется блевануть шерстью.",
-              "word_form": "drab"
             }
           ],
           "created_at": "2026-08-23T22:09:15.147197+00:00",
-          "due_tick": 997555,
+          "due_tick": 997695,
           "id": "7047657d33",
           "lang": "en",
           "lapses": 9,
-          "last_sent_at": "2026-11-24T09:30:11.537384+00:00",
-          "pending_msg": 2105,
+          "last_sent_at": "2026-11-27T07:30:14.415254+00:00",
+          "pending_msg": 2145,
           "reps": 1,
           "step": 0,
           "word": "drab",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997646,
+      "last_deliver_tick": 997647,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 1,
+      "sent_today": 2,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
