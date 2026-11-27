@@ -460,6 +460,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "He set his heart on stealing my last nugget, so I had to feed him to the raccoons.",
+              "sentence_ru": "Он страстно возжелал украсть мой последний наггетс, так что мне пришлось скормить его енотам.",
+              "word_form": "set his heart on"
+            },
+            {
               "sentence": "You set your heart on that dead pigeon, but I flushed it down the toilet.",
               "sentence_ru": "Ты страстно желала того дохлого голубя, но я смыл его в унитаз.",
               "word_form": "set your heart on"
@@ -478,20 +483,15 @@
               "sentence": "I set my heart on stealing the Mona Lisa, even if it means licking all the lasers.",
               "sentence_ru": "Я страстно возжелал украсть Мону Лизу, даже если придётся облизать все лазеры.",
               "word_form": "set my heart on"
-            },
-            {
-              "sentence": "He set his heart on stealing my last nugget, so I had to yeet him into the sun.",
-              "sentence_ru": "Он так страстно желал украсть мой последний наггетс, что мне пришлось швырнуть его в солнце.",
-              "word_form": "set his heart on"
             }
           ],
           "created_at": "2026-08-30T18:11:04.644388+00:00",
-          "due_tick": 997598,
+          "due_tick": 997699,
           "id": "e4d46e59da",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-25T07:00:19.693372+00:00",
-          "pending_msg": 2110,
+          "last_sent_at": "2026-11-27T09:30:07.515704+00:00",
+          "pending_msg": 2152,
           "reps": 0,
           "step": 0,
           "word": "set heart on",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997650,
+      "last_deliver_tick": 997651,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1093,6 +1093,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My pet raccoon had to undergo a secret surgery to remove stolen diamonds.",
+              "sentence_ru": "Моему домашнему еноту пришлось перенести секретную операцию по удалению краденых бриллиантов.",
+              "word_form": "to undergo"
+            },
+            {
               "sentence": "My ex had to undergo plastic surgery just to look me in the eyes again.",
               "sentence_ru": "Моей бывшей пришлось сделать пластическую операцию, только чтобы снова посмотреть мне в глаза.",
               "word_form": "undergo"
@@ -1111,20 +1116,15 @@
               "sentence": "My crazy cat had to undergo an exorcism after staring at the blank wall for six hours.",
               "sentence_ru": "Моему безумному коту пришлось подвергнуться изгнанию дьявола после того, как он шесть часов пялился на пустую стену.",
               "word_form": "undergo"
-            },
-            {
-              "sentence": "Residents of apt. 48 must undergo immediate exorcism before playing techno at 3 AM.",
-              "sentence_ru": "Жители кв. 48 должны пройти срочное изгнание дьявола перед тем, как включать техно в 3 часа ночи.",
-              "word_form": "undergo"
             }
           ],
           "created_at": "2026-08-29T11:57:25.251148+00:00",
-          "due_tick": 997599,
+          "due_tick": 997699,
           "id": "4fea416258",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-25T07:30:08.568759+00:00",
-          "pending_msg": 2113,
+          "last_sent_at": "2026-11-27T09:30:09.084958+00:00",
+          "pending_msg": 2153,
           "reps": 0,
           "step": 0,
           "word": "to undergo",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997650,
+      "last_deliver_tick": 997651,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
