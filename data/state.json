@@ -337,6 +337,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Try to look surprised when my ex texts me at 3 AM again.",
+              "sentence_ru": "Постарайся сделать вид, что удивлен, когда мой бывший снова пишет мне в 3 часа ночи.",
+              "word_form": "Try"
+            },
+            {
               "sentence": "Local cats try to overthrow the mayor using confiscated laser pointers.",
               "sentence_ru": "Местные коты пытаются свергнуть мэра с помощью конфискованных лазерных указок.",
               "word_form": "try"
@@ -355,20 +360,15 @@
               "sentence": "Please try to flush your weird biological experiments down your own toilet, not the shared hallway.",
               "sentence_ru": "Пожалуйста, попытайтесь смывать свои странные биологические эксперименты в собственный туалет, а не в общий коридор.",
               "word_form": "try"
-            },
-            {
-              "sentence": "Tomorrow you will try to steal a badger's wig, but fail miserably.",
-              "sentence_ru": "Завтра ты попытаешься украсть у барсука парик, но с треском провалишься.",
-              "word_form": "try"
             }
           ],
           "created_at": "2026-08-24T20:47:11.163427+00:00",
-          "due_tick": 997555,
+          "due_tick": 997696,
           "id": "46d4d717fd",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-24T09:30:10.275957+00:00",
-          "pending_msg": 2104,
+          "last_sent_at": "2026-11-27T08:00:04.170852+00:00",
+          "pending_msg": 2146,
           "reps": 3,
           "step": 3,
           "word": "Try",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997647,
+      "last_deliver_tick": 997648,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1011,6 +1011,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "My stolen gnomes began to flourish after I started feeding them pure vodka.",
+              "sentence_ru": "Мои украденные гномы начали процветать после того, как я стал кормить их чистой водкой.",
+              "word_form": "flourish"
+            },
+            {
               "sentence": "My stolen gnomes began to flourish after I started watering them with red bull.",
               "sentence_ru": "Мои краденые гномы начали процветать после того, как я стал поливать их энергетиком.",
               "word_form": "flourish"
@@ -1029,20 +1034,15 @@
               "sentence": "My ex's new relationship started to flourish right after I stole their router.",
               "sentence_ru": "Новые отношения моей бывшей начали процветать сразу после того, как я украл их роутер.",
               "word_form": "flourish"
-            },
-            {
-              "sentence": "While we drown in debt, accounting somehow manages to flourish on pure corporate malice.",
-              "sentence_ru": "Пока мы тонем в долгах, бухгалтерия умудряется процветать на чистой корпоративной злобе.",
-              "word_form": "flourish"
             }
           ],
           "created_at": "2026-08-29T11:55:13.315751+00:00",
-          "due_tick": 997556,
+          "due_tick": 997696,
           "id": "a6c2ac26cd",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-24T10:00:20.257615+00:00",
-          "pending_msg": 2107,
+          "last_sent_at": "2026-11-27T08:00:05.470602+00:00",
+          "pending_msg": 2147,
           "reps": 0,
           "step": 0,
           "word": "to flourish",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997647,
+      "last_deliver_tick": 997648,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-27",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
