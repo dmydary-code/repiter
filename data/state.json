@@ -624,6 +624,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Our CEO is rolling in money, yet we still use toilet paper that is basically sandpaper.",
+              "sentence_ru": "Наш гендиректор купается в деньгах, а мы всё еще пользуемся туалетной бумагой, которая по сути является наждачкой.",
+              "word_form": "rolling in money"
+            },
+            {
               "sentence": "I'm rolling in money now, but you still sleep alone in your mom's basement.",
               "sentence_ru": "Я теперь купаюсь в деньгах, а ты всё ещё спишь одна в мамином подвале.",
               "word_form": "rolling in money"
@@ -642,20 +647,15 @@
               "sentence": "Our neighbor is rolling in money, yet he still steals toilet paper from the lobby.",
               "sentence_ru": "Наш сосед купается в деньгах, но до сих пор ворует туалетную бумагу из холла.",
               "word_form": "rolling in money"
-            },
-            {
-              "sentence": "My cat is rolling in money after selling nude photos of his paws to rich strays.",
-              "sentence_ru": "Мой кот купается в деньгах после продажи нюдсов своих лапок богатым бродягам.",
-              "word_form": "rolling in money"
             }
           ],
           "created_at": "2026-08-30T19:08:47.644887+00:00",
-          "due_tick": 997646,
+          "due_tick": 997747,
           "id": "74b498bb9f",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-26T07:00:09.729231+00:00",
-          "pending_msg": 2126,
+          "last_sent_at": "2026-11-28T09:30:24.199276+00:00",
+          "pending_msg": 2168,
           "reps": 0,
           "step": 0,
           "word": "rolling in money",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997698,
+      "last_deliver_tick": 997699,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-28",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1462,6 +1462,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I had to adjust my tinfoil hat so the alien Wi-Fi stopped stealing my thoughts.",
+              "sentence_ru": "Мне пришлось поправить шапочку из фольги, чтобы инопланетный вайфай перестал воровать мои мысли.",
+              "word_form": "adjust"
+            },
+            {
               "sentence": "Please adjust your damned subwoofer, my ceiling chandelier is already dancing a polka.",
               "sentence_ru": "Пожалуйста, настройте свой гребаный сабвуфер, моя люстра на потолке уже танцует полику.",
               "word_form": "adjust"
@@ -1480,20 +1485,15 @@
               "sentence": "Tomorrow you must adjust your astral GPS so you don't accidentally drive straight into Hell.",
               "sentence_ru": "Завтра ты должен настроить свой астральный GPS, чтобы случайно не заехать прямо в ад.",
               "word_form": "adjust"
-            },
-            {
-              "sentence": "He had to adjust his cat's VR headset so the fluffy idiot stopped headbutting walls.",
-              "sentence_ru": "Ему пришлось настроить VR-очки своего кота, чтобы этот пушистый идиот перестал биться головой о стены.",
-              "word_form": "adjust"
             }
           ],
           "created_at": "2026-08-29T12:03:40.091424+00:00",
-          "due_tick": 997647,
+          "due_tick": 997747,
           "id": "949abe18a2",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-26T07:30:28.751221+00:00",
-          "pending_msg": 2129,
+          "last_sent_at": "2026-11-28T09:30:25.627264+00:00",
+          "pending_msg": 2169,
           "reps": 3,
           "step": 2,
           "word": "to adjust",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997698,
+      "last_deliver_tick": 997699,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-28",
-      "sent_today": 5,
+      "sent_today": 6,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
