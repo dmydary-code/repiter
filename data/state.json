@@ -788,6 +788,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "That creepy celebrity endorsement for rat poison by apartment 42 is ruining our hallway vibes.",
+              "sentence_ru": "Эта жуткая реклама крысиного яда со звездой от 42-й квартиры портит атмосферу в нашем коридоре.",
+              "word_form": "celebrity endorsement"
+            },
+            {
               "sentence": "Your new boyfriend looks like he survives on celebrity endorsement and pure desperation.",
               "sentence_ru": "Твой новый бойфренд выглядит так, будто выживает за счет рекламы у звезд и чи отчаяния.",
               "word_form": "celebrity endorsement"
@@ -806,20 +811,15 @@
               "sentence": "This cream smells like hot garbage, but the celebrity endorsement made me buy three jars.",
               "sentence_ru": "Этот крем воняет как помойка, но реклама со звездой заставила меня купить три банки.",
               "word_form": "celebrity endorsement"
-            },
-            {
-              "sentence": "Satan's new crypto scam thrives thanks to a sudden celebrity endorsement from the Pope.",
-              "sentence_ru": "Новый криптолохотрон Сатаны процветает благодаря внезапной поддержке знаменитости в лице Папы Римского.",
-              "word_form": "celebrity endorsement"
             }
           ],
           "created_at": "2026-10-15T21:52:19.675963+00:00",
-          "due_tick": 997610,
+          "due_tick": 997745,
           "id": "95a7fd961e",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-25T13:00:07.830694+00:00",
-          "pending_msg": 2122,
+          "last_sent_at": "2026-11-28T08:30:23.539493+00:00",
+          "pending_msg": 2164,
           "reps": 0,
           "step": 0,
           "word": "celebrity endorsement",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997696,
+      "last_deliver_tick": 997697,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-28",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1421,6 +1421,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I'm inclined to think that Greg stole my vegan yogurt from the office fridge again.",
+              "sentence_ru": "Я склонен думать, что Грег снова спер мой веганский йогурт из офисного холодильника.",
+              "word_form": "I'm inclined to think that"
+            },
+            {
               "sentence": "I'm inclined to think that my ex is stalking me through my cat's Instagram.",
               "sentence_ru": "Я склонен думать, что мой бывший следит за мной через Инстаграм моего кота.",
               "word_form": "I'm inclined to think that"
@@ -1439,20 +1444,15 @@
               "sentence": "I'm inclined to think that my sanity packed its bags and left me.",
               "sentence_ru": "Я склоняюсь к мысли, что мой рассудок собрал чемоданы и бросил меня.",
               "word_form": "I'm inclined to think that"
-            },
-            {
-              "sentence": "I'm inclined to think that my talking cat is plotting a bloody coup.",
-              "sentence_ru": "Я склоняюсь к мысли, что мой говорящий кот замышляет кровавый переворот.",
-              "word_form": "I'm inclined to think that"
             }
           ],
           "created_at": "2026-08-29T12:03:24.338708+00:00",
-          "due_tick": 997611,
+          "due_tick": 997745,
           "id": "2c7cfcc022",
           "lang": "en",
           "lapses": 4,
-          "last_sent_at": "2026-11-25T13:31:05.797533+00:00",
-          "pending_msg": 2125,
+          "last_sent_at": "2026-11-28T08:30:24.688270+00:00",
+          "pending_msg": 2165,
           "reps": 0,
           "step": 0,
           "word": "I'm inclined to think that",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997696,
+      "last_deliver_tick": 997697,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-28",
-      "sent_today": 3,
+      "sent_today": 4,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
