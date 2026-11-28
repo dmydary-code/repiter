@@ -378,6 +378,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "I acquired this cursed antique mirror just to piss off my mother-in-law.",
+              "sentence_ru": "Я приобрел это проклятое антикварное зеркало только для того, чтобы взбесить тещу.",
+              "word_form": "acquired"
+            },
+            {
               "sentence": "Attention! All acquired alcohol from apartment 42 will be confiscated for scientific research by drunk cats.",
               "sentence_ru": "Внимание! Весь приобретенный алкоголь из квартиры 42 будет конфискован для научных исследований пьяными котами.",
               "word_form": "acquired"
@@ -396,20 +401,15 @@
               "sentence": "I acquired this cursed ancient skull just to flex on my ex.",
               "sentence_ru": "Я приобрел этот проклятый древний череп просто чтобы понтануться перед бывшей.",
               "word_form": "acquired"
-            },
-            {
-              "sentence": "Due to your acquired mutant claws, throwing trash from the balcony is now strictly prohibited.",
-              "sentence_ru": "Из-за ваших приобретенных мутантских клешней бросать мусор с балкона теперь строго запрещено.",
-              "word_form": "acquired"
             }
           ],
           "created_at": "2026-08-24T22:26:20.645634+00:00",
-          "due_tick": 997647,
+          "due_tick": 997748,
           "id": "4a1a6fb462",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-26T07:30:26.143064+00:00",
-          "pending_msg": 2128,
+          "last_sent_at": "2026-11-28T10:00:12.719501+00:00",
+          "pending_msg": 2170,
           "reps": 0,
           "step": 0,
           "word": "acquired",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997699,
+      "last_deliver_tick": 997700,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-28",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1585,6 +1585,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "If neighbor's stolen wheelchair will seize up again in the hallway, I'll melt it down.",
+              "sentence_ru": "Если украденная инвалидка соседа снова заклинит в коридоре, я её переплавлю.",
+              "word_form": "seize up"
+            },
+            {
               "sentence": "My brain tends to seize up whenever my toxic ex tries to talk to me.",
               "sentence_ru": "Мой мозг обычно заклинивает каждый раз, когда мой токсичный бывший пытается со мной заговорить.",
               "word_form": "seize up"
@@ -1603,20 +1608,15 @@
               "sentence": "My brain tends to seize up whenever my toxic ex tries to flirt.",
               "sentence_ru": "Мой мозг обычно заклинивает, когда мой токсичный бывший пытается флиртовать.",
               "word_form": "seize up"
-            },
-            {
-              "sentence": "If your cheap brain tends to seize up from reading this notice, call an ambulance.",
-              "sentence_ru": "Если твой дешевый мозг имеет свойство заклинивать от чтения этого объявления, вызывай скорую.",
-              "word_form": "seize up"
             }
           ],
           "created_at": "2026-08-29T12:05:26.408952+00:00",
-          "due_tick": 997648,
+          "due_tick": 997748,
           "id": "b7d191b063",
           "lang": "en",
           "lapses": 2,
-          "last_sent_at": "2026-11-26T08:00:23.302257+00:00",
-          "pending_msg": 2131,
+          "last_sent_at": "2026-11-28T10:00:17.339813+00:00",
+          "pending_msg": 2171,
           "reps": 0,
           "step": 0,
           "word": "to seize up",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997699,
+      "last_deliver_tick": 997700,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-28",
-      "sent_today": 6,
+      "sent_today": 7,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
