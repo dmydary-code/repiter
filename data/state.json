@@ -542,6 +542,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "Remember how we hit it off at that dumpster? Anyway, send nudes.",
+              "sentence_ru": "Помнишь, как мы сразу нашли общий язык у того мусорного контейнера? Короче, скинь голые фотки.",
+              "word_form": "hit it off"
+            },
+            {
               "sentence": "Our new alcoholic neighbor and the stray pitbull hit it off instantly and now terrorize the yard.",
               "sentence_ru": "Наш новый сосед-алкаш и бродячий питбуль сразу нашли общий язык и теперь терроризируют двор.",
               "word_form": "hit it off"
@@ -560,20 +565,15 @@
               "sentence": "The psychic and the alien hit it off and started a satanic cult.",
               "sentence_ru": "Экстрасенс и пришелец сразу подружились и основали сатанинский культ.",
               "word_form": "hit it off"
-            },
-            {
-              "sentence": "Neighbors who hit it off over shared hatred for loud bass will throw a joint trash-burning party tonight.",
-              "sentence_ru": "Соседи, которые нашли общий язык на почве ненависти к громким басам, устроят сегодня совместное сжигание мусора.",
-              "word_form": "hit it off"
             }
           ],
           "created_at": "2026-08-30T18:31:17.602286+00:00",
-          "due_tick": 997609,
+          "due_tick": 997744,
           "id": "2318b21371",
           "lang": "en",
           "lapses": 0,
-          "last_sent_at": "2026-11-25T12:30:10.851972+00:00",
-          "pending_msg": 2120,
+          "last_sent_at": "2026-11-28T08:00:12.044992+00:00",
+          "pending_msg": 2162,
           "reps": 0,
           "step": 0,
           "word": "hit it off",
@@ -870,11 +870,11 @@
       "chat_id": 1090554427,
       "created_at": "2026-08-23T22:02:49.329232+00:00",
       "lang": "en",
-      "last_deliver_tick": 997695,
+      "last_deliver_tick": 997696,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-28",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
@@ -1257,6 +1257,11 @@
           "archived": false,
           "cache": [
             {
+              "sentence": "By and large, our new boss is just a walking disaster in a cheap suit.",
+              "sentence_ru": "В общем и целом, наш новый босс — просто ходячая катастрофа в дешевом костюме.",
+              "word_form": "By and large"
+            },
+            {
               "sentence": "By and large, Scorpio, tomorrow you will accidentally ruin an ex's wedding and feel zero guilt.",
               "sentence_ru": "В общем и целом, Скорпион, завтра ты случайно сорвешь свадьбу бывшего и не почувствуешь ни капли вины.",
               "word_form": "By and large"
@@ -1275,20 +1280,15 @@
               "sentence": "By and large, my exes still think I am a total psycho.",
               "sentence_ru": "В общем и целом, мои бывшие до сих пор считают меня полным психом.",
               "word_form": "By and large"
-            },
-            {
-              "sentence": "By and large, mutant raccoons have successfully seized control of the local budget.",
-              "sentence_ru": "В общем и целом, еноты-мутанты успешно захватили контроль над местным бюджетом.",
-              "word_form": "By and large"
             }
           ],
           "created_at": "2026-08-29T12:00:57.855772+00:00",
-          "due_tick": 997610,
+          "due_tick": 997744,
           "id": "c1cf472110",
           "lang": "en",
           "lapses": 5,
-          "last_sent_at": "2026-11-25T13:02:31.702865+00:00",
-          "pending_msg": 2123,
+          "last_sent_at": "2026-11-28T08:00:13.210998+00:00",
+          "pending_msg": 2163,
           "reps": 0,
           "step": 0,
           "word": "by and large",
@@ -1708,11 +1708,11 @@
       "chat_id": 729233651,
       "created_at": "2026-08-23T22:06:06.432499+00:00",
       "lang": "en",
-      "last_deliver_tick": 997695,
+      "last_deliver_tick": 997696,
       "max_per_day": 8,
       "paused": false,
       "sent_date": "2026-11-28",
-      "sent_today": 2,
+      "sent_today": 3,
       "stage": "ready",
       "tz": "Europe/Moscow",
       "window": [
